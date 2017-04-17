@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4cwm-035-boteler-peak
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Standing Indian to Boteler Peak
+#### Drive Guide - Standing Indian to Boteler Peak
 
 * **Duration**: 
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -36,7 +36,7 @@ Drive to Trailhead & Trail Guide
 * **Food**
     * None
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 3 miles (1.7 as the crow flies), 1500' climb
 * **Navigation**
@@ -55,7 +55,7 @@ Drive to Trailhead & Trail Guide
     * Summit: 35.0686, -83.6587
     * Summit: 35.0686,-83.6587
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:
@@ -63,6 +63,6 @@ Drive to Trailhead & Trail Guide
 * Unique features:
     * x
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Standing Indian

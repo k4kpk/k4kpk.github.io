@@ -7,7 +7,7 @@ redirect_from: /content/2016-atlanta-sota-seminar
 ---
 The second annual Atlanta SOTA Seminar will take place on June 9 and 11.
 
-The seminar is designed to help aspiring SOTA activators and chasers get started.  On June 9, we will hold an online training session from 7:30 to 9:30 to prepare and plan for our activation.  On June 11, we will activate Black Mountain [W4G/NG-022](http://k4kpk.com/content/sota-guide-w4gng-022-black-mountain).  The training is open to hams interested in activating (operating from the summit) and chasing (contacting activators from the comfort of the shack).
+The seminar is designed to help aspiring SOTA activators and chasers get started.  On June 9, we will hold an online training session from 7:30 to 9:30 to prepare and plan for our activation.  On June 11, we will activate Black Mountain [W4G/NG-022](/content/sota-guide-w4gng-022-black-mountain).  The training is open to hams interested in activating (operating from the summit) and chasing (contacting activators from the comfort of the shack).
 
 ### Topics
 
@@ -40,7 +40,7 @@ See you on the summits!
 
 __Where can I find out more?__
 
-* K4KPK's site: [http://k4kpk.com/content/sota-menu](http://k4kpk.com/content/sota-menu)
+* K4KPK's site: [http://k4kpk.com/content/sota-menu](/content/sota-menu)
 * Email me (K4KPK).  My email address is available via [http://www.qrz.com/db/K4KPK](http://www.qrz.com/db/K4KPK).
 
 Bio: K4KPK, Kevin Kleinfelter is Georgia's first SOTA Mountain Goat.  He has completed more than 175 activations.

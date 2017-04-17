@@ -98,5 +98,4 @@ The hike took 1:20 going in and 47 minutes coming back.  I was moving as fast as
     * Steepness ends.
 * Fire Tower clearing: 34.86185, -84.67004  -- Elevation: 3692
 
-### GPX trace for the hike ###
-<http://k4kpk.com/sites/k4kpk.com/files/Grassy%20Mountain%20Fire%20Tower%20-%20Lake%20Conasauga.GPX>
+[GPX trace for the hike](/files/Grassy%20Mountain%20Fire%20Tower%20-%20Lake%20Conasauga.GPX)

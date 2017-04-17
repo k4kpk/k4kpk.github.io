@@ -8,12 +8,12 @@ redirect_from: /content/sota-activation-report-w4gng-006-coosa-bald
 SOTA Activation Report: W4G/NG-006 - Coosa Bald
 ----------------------------------------------
 
-####Trip of 2012.12.28
+#### Trip of 2012.12.28
 
 * Succeeded: Yes
 * First-activation: Yes
 
-See my trip planning guide at: [SOTA Guide - W4G/NG-006 - Coosa Bald](http://k4kpk.com/content/sota-guide-w4gng-006-coosa-bald)
+See my trip planning guide at: [SOTA Guide - W4G/NG-006 - Coosa Bald](/content/sota-guide-w4gng-006-coosa-bald)
 
 
 Commentary:
@@ -55,7 +55,7 @@ On the way home, we stopped for really good barbecue at Smoke N Gold Barbecue, a
 
 ------
 
-####Trip of 2013.12.15
+#### Trip of 2013.12.15
 
 * Succeeded: Yes
 * Propagation forecast on departure: 40m=poor, 20m=poor, 17m=good, S/N=0-1, A=16, K=1, Geomag=very quiet

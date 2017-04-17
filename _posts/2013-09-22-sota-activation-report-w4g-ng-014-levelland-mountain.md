@@ -5,13 +5,13 @@ title: 'SOTA Activation Report: W4G/NG-014, Levelland Mountain'
 created: 1379896039
 redirect_from: /content/sota-activation-report-w4gng-014-levelland-mountain
 ---
-####Trip of 2013.09.22
+#### Trip of 2013.09.22
 * Succeeded: Yes
 * First-activation: No
 * Propagation forecast on departure: 40 Fair, 20 Good, 17 Fair, SN=0-1, K=1, A=7, MUF=13.19
 * Propagation forecast on return: 40 Fair, 20 Good, 17 Fair, SN=0-1, K=1, A=5, MUF=26.33
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-014, Levelland Mountain](http://k4kpk.com/content/sota-guide-w4gng-014-levelland-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/NG-014, Levelland Mountain](/content/sota-guide-w4gng-014-levelland-mountain)
 
 
 Commentary:

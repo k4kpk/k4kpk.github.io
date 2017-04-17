@@ -5,7 +5,7 @@ title: SOTA Guide - W4G/NG-020, Wildcat Mountain
 created: 1365601882
 redirect_from: /content/sota-guide-w4gng-020-wildcat-mountain
 ---
-####Drive Guide
+#### Drive Guide
 
 * **Duration**: 1:45
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -28,7 +28,7 @@ redirect_from: /content/sota-guide-w4gng-020-wildcat-mountain
 * **On the way home** (scouting/errands):
     * A topo shows "Dodd Creek Vista Campground", a about a mile east on GA-348 from the Hogpen Gap parking lot.  I couldn't find it.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:35
 * **Navigation**
@@ -41,7 +41,7 @@ redirect_from: /content/sota-guide-w4gng-020-wildcat-mountain
     * Left turn to Whitley Gap Shelter Trail: 34.72479, -83.84104
     * Summit: 34.71740, -83.83820
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes, but they aren't very tall.  You'll need to string it through multiple trees.
 * Space to guy mast: Yes.
@@ -49,6 +49,6 @@ redirect_from: /content/sota-guide-w4gng-020-wildcat-mountain
 * Unique features:
     * Nice views near summit.  (May be hard to see when trees are in full leaf.)
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Not supplied yet.  (I planned this trip in a hurry.)

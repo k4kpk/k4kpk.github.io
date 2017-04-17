@@ -10,7 +10,7 @@ Bell Knob (W4G/NG-035): Drive to Trailhead & Trail Guide
 
 New in 2016 - Road is now paved all the way to the top.  This is now a drive-up summit, with an observation deck at the apex.
 
-####Drive Guide - Bell Knob from Atlanta
+#### Drive Guide - Bell Knob from Atlanta
 
 * **Duration**: 2:05, 98 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -47,7 +47,7 @@ New in 2016 - Road is now paved all the way to the top.  This is now a drive-up 
     * Last McDonalds:  GA-400 at GA-53 (38 miles north of I-285)
         * There is a McDonalds in Hiawasee that opens at 6 AM 7 days a week, but it is a little out of your way.
         
-####Drive Guide - Bell Knob from Blackrock Mtn
+#### Drive Guide - Bell Knob from Blackrock Mtn
 * **Google Maps** URL: https://goo.gl/maps/SF2uNBkL2B62
 * **Duration**: 0:50
 * **Directions**: 
@@ -57,7 +57,7 @@ New in 2016 - Road is now paved all the way to the top.  This is now a drive-up 
     * R on US-76 and go 25.2
     * R on Shake Rag Rd.  Continue directions at "Drive Guide - Bell Knob from Shake Rag Rd"
 
-####Drive Guide - Bell Knob from Brasstown Bald
+#### Drive Guide - Bell Knob from Brasstown Bald
 * **Google Maps** URL: http://goo.gl/maps/QQcyb
 * **Duration**: 0:40 in 2014
 * **Directions**: 
@@ -68,7 +68,7 @@ New in 2016 - Road is now paved all the way to the top.  This is now a drive-up 
     * R on Shake Rag Rd.
     * Continue directions at "Drive Guide - Bell Knob from Shake Rag Rd"
     
-####Drive Guide - Bell Knob from Eagle Mountain
+#### Drive Guide - Bell Knob from Eagle Mountain
 * **Google Maps** URL: http://goo.gl/maps/uW7m9
 * **Directions**:
     * Take the iPad and pre-load the maps.  You'll want it for your final approach, where Google Maps and reality diverge.
@@ -78,7 +78,7 @@ New in 2016 - Road is now paved all the way to the top.  This is now a drive-up 
     * L on US-76 E and go 1.8
     * L on Shake Rag Rd.  Continue with "Drive Guide - Bell Knob from Shake Rag Rd" directions.
 
-####Drive Guide - Bell Knob TO Atlanta
+#### Drive Guide - Bell Knob TO Atlanta
 * Head downhill until you reach paved rd.
 * Bear L on paved rd (R is gated) and go ????
 * R on Shake Rag Rd after passing Bright Apartments and go 0.7
@@ -91,7 +91,7 @@ New in 2016 - Road is now paved all the way to the top.  This is now a drive-up 
 * L on GA-115 S and go 4.8
 * S on US-19 S / GA-400
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:35 up, 0:20 down, 0.5 miles, if you park at the first gate.  Just 5 minutes to climb the stairs if you drive all the way to the top.
 * **Navigation**
@@ -101,7 +101,7 @@ New in 2016 - Road is now paved all the way to the top.  This is now a drive-up 
 * **GPS tracks/waypoints**:
     * Benchmark: 34.95986, 83.72896
 
-####Summit Guide
+#### Summit Guide
 
 * Expect big crowds on a pleasant afternoon.  Parking for about 50 cars.  At 8 AM on a chilly morning, I had the place to myself.
 * Cell coverage: Yes, with cell data too.

@@ -7,11 +7,11 @@ redirect_from: /content/sota-activation-report-w4gng-020-wildcat-mountain
 ---
 SOTA Activation Report: W4G_NG-020, Wildcat Mountain
 ----------------------------------------------
-####Trip of 2013.04.08
+#### Trip of 2013.04.08
 * Succeeded: Yes
 * First-activation: No
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-020, Wildcat Mountain](http://k4kpk.com/content/sota-guide-w4gng-020-wildcat-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/NG-020, Wildcat Mountain](/content/sota-guide-w4gng-020-wildcat-mountain)
 
 
 Commentary:

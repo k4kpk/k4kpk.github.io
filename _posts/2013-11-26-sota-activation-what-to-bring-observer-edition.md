@@ -5,7 +5,7 @@ title: SOTA Activation What to Bring (Observer Edition)
 created: 1385495978
 redirect_from: /content/sota-activation-what-bring-observer-edition
 ---
-*See also: [SOTA Activation What to Bring (Activator Edition)](http://k4kpk.com/content/sota-activation-what-bring-activator-edition)*
+*See also: [SOTA Activation What to Bring (Activator Edition)](/content/sota-activation-what-bring-activator-edition)*
 
 *I'm going to tag along on a SOTA activation as an observer.  What do I need to bring?*
 

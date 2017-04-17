@@ -7,13 +7,13 @@ redirect_from: /content/sota-activation-report-w4gng-022-black-mountain
 ---
 SOTA Activation Report: W4G/NG-022, Black Mountain
 ----------------------------------------------
-####Trip of 2013.07.26
+#### Trip of 2013.07.26
 * Succeeded: No
 * First-activation: N.A.
 * Propagation forecast on departure: 40m: Fair, 30m: Good, 20m: Good, 17m: Fair, S/N: 1-2
 * Propagation forecast on return:
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-022, Black Mountain](http://k4kpk.com/content/sota-guide-w4gng-022-black-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/NG-022, Black Mountain](/content/sota-guide-w4gng-022-black-mountain)
 
 
 Commentary:
@@ -30,13 +30,13 @@ I had been hoping for my 30th activation on this expedition, but he who summits 
 
 -----
 
-####Trip of 2013.08.24
+#### Trip of 2013.08.24
 * Succeeded: Yes
 * First-activation: No
 * Propagation forecast on departure: 40m: Fair, 20m: Good, 17m: Fair, S/N: 1-2, MUF=9.92, SFI=123, A=15, K=2
 * Propagation forecast on return:  40m: Fair, 20m: Good, 17m: Fair, S/N: 1-2, MUF=null, SFI=116, A=15, K=2, 6 Meter E-skip
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-022, Black Mountain](http://k4kpk.com/content/sota-guide-w4gng-022-black-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/NG-022, Black Mountain](/content/sota-guide-w4gng-022-black-mountain)
 
 Commentary:
 

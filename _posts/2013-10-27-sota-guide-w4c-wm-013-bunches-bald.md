@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4cwm-013-bunches-bald
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Bunches Bald from Atlanta
+#### Drive Guide - Bunches Bald from Atlanta
 
 Note: This is not on public land.  This is on the Cherokee reservation.
 
@@ -32,7 +32,7 @@ Note: This is not on public land.  This is on the Cherokee reservation.
     * Next to next to last McD: Clayton, GA
     * Dinner
 
-####Drive Guide - Bunches Bald from Waterrock Knob
+#### Drive Guide - Bunches Bald from Waterrock Knob
 
 * **Duration**: 8 miles, 0:30
 * **Google Maps** URL from Waterrock: http://goo.gl/maps/LRQ4W 
@@ -52,7 +52,7 @@ Note: This is not on public land.  This is on the Cherokee reservation.
         * At green shed with "Welcome to Mile High Campground" turn slight right (not 90% R, which is the road into campground and past the shower building).
         * Park where road makes hairpin turn L.  There's a gate on the path to the summit (not across BIA 407).
         
-####Drive Guide - Bunches Bald TO Atlanta
+#### Drive Guide - Bunches Bald TO Atlanta
 
 * Head back the way you came and go 0.1
 * At the green shed there's a 3-way fork plus a 90 degree left.
@@ -72,7 +72,7 @@ Note: This is not on public land.  This is on the Cherokee reservation.
 * I85S
 * I285E
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.2 miles, 0:15
 * **Navigation**
@@ -83,7 +83,7 @@ Note: This is not on public land.  This is on the Cherokee reservation.
     * Trailhead: 35.51506, -83.18784
     * Summit: 35.5161, -83.1900
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:

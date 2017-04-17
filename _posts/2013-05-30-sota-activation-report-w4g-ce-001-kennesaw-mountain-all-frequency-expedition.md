@@ -5,11 +5,11 @@ title: 'SOTA Activation Report: W4G/CE-001 Kennesaw Mountain All Frequency Exped
 created: 1369946960
 redirect_from: /content/sota-activation-report-w4gce-001-kennesaw-mountain-all-frequency-expedition
 ---
-####Trip of 2013.05.12
+#### Trip of 2013.05.12
 * Succeeded: Yes
 * First-activation: No
 
-See my trip planning guide at: [SOTA Guide: W4G/CE-001, Kennesaw Mountain](http://k4kpk.com/content/sota-guide-w4gce-001-kennesaw-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/CE-001, Kennesaw Mountain](/content/sota-guide-w4gce-001-kennesaw-mountain)
 
 
 Commentary:

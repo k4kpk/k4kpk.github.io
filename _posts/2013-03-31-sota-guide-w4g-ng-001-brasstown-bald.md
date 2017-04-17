@@ -5,7 +5,7 @@ title: SOTA Guide W4G/NG-001 Brasstown Bald
 created: 1364749793
 redirect_from: /content/sota-guide-w4gng-001-brasstown-bald
 ---
-####Drive Guide - Brasstown Bald
+#### Drive Guide - Brasstown Bald
 
 * **Duration**: 1:50 (estimated)
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898:
@@ -24,7 +24,7 @@ redirect_from: /content/sota-guide-w4gng-001-brasstown-bald
     * L on GA-180 Spur and go 2.5
     * Pay $5 per adult.  It used to be $3 to park, and the shuttle to the top was extra charge.  Now it is $5 and the shuttle is included, even if you don't use it.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 30 minutes
 * **Navigation**
@@ -32,7 +32,7 @@ redirect_from: /content/sota-guide-w4gng-001-brasstown-bald
 * **GPS tracks/waypoints**:
     * Visitor center parking lot 34.87014, -83.81000
 
-####Summit Guide
+#### Summit Guide
 
 * Don't set up your antenna near the museum.  I had 10 minutes of good signal.  Then, something in the building started generating S9 QRM.  
 * There is a little meadow with benches to your right, just as the trail reaches the summit.  I operated here.  I think it steers your signal heavily to the south and west. You could also set up near the handicapped parking.
@@ -46,6 +46,6 @@ redirect_from: /content/sota-guide-w4gng-001-brasstown-bald
     * W4NGT - 147.210 (input 147.810 PL=100.0) Blairsville, GA
     * W9QXW 146.955 (input 146.355 PL=100.0) Blairsville, GA W9QXW
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * (none yet)

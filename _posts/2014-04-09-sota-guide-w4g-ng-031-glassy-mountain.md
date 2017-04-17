@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4gng-031-glassy-mountain
 ---
 Glassy Mtn - Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Glassy Mtn from Atlanta
+#### Drive Guide - Glassy Mtn from Atlanta
 
 * **Duration**: 1:45
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/4jV5Y
@@ -23,7 +23,7 @@ Glassy Mtn - Drive to Trailhead & Trail Guide
     * Last McDonalds: Cornelia, on Level Grove Rd.
 		* It comes just BEFORE Cornelia and your exit to US-441.
 
-####Drive Guide - Glassy Mtn from Bell Knob (US 76)
+#### Drive Guide - Glassy Mtn from Bell Knob (US 76)
 
 * **Duration**: 0:45
 * **Google Maps** : 
@@ -34,7 +34,7 @@ Glassy Mtn - Drive to Trailhead & Trail Guide
     * R on Bridge Creek Rd and go 2.6
     * R on Glassy Mtn Rd and go 2.1
 
-####Drive Guide - Glassy Mtn from Clayton @ US-441 and US-76
+#### Drive Guide - Glassy Mtn from Clayton @ US-441 and US-76
 
 * **Duration**: 0:30
 * **Google Maps** : http://goo.gl/maps/mCseL
@@ -52,7 +52,7 @@ Glassy Mtn - Drive to Trailhead & Trail Guide
 * **Food**
     * Last McDonalds: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:35 up, 0:20 down; 0.9 miles (550' climb) when gate is locked.
 * **Navigation**
@@ -64,7 +64,7 @@ Glassy Mtn - Drive to Trailhead & Trail Guide
     * Trailhead: 34.8461, -83.5138 (Gate to R)
     * Summit: 34.8453, -83.5002
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: No.  All trees have been cleared.
 * Space to guy mast: Yes.

@@ -22,6 +22,6 @@ Note: My definition of a beginner summit is that it should:
 
 This is a list of lists page.  Click on any of the links below to find lists of beginner summits by association.
 
-* [W4C](http://k4kpk.com/content/w4c-beginner-summits)
-* [W4G](http://k4kpk.com/content/w4g-beginner-summits)
-* [W4T](http://k4kpk.com/content/w4t-beginner-summits)
+* [W4C](/content/w4c-beginner-summits)
+* [W4G](/content/w4g-beginner-summits)
+* [W4T](/content/w4t-beginner-summits)

@@ -7,7 +7,7 @@ redirect_from: /content/assemble-coax-cable-bnc-clamp-connector-ebay-connekt
 ---
 <p>&nbsp;</p>
 <p>I recently purchased some BNC connectors for PL-174 coax from eBay seller&nbsp;connekt. &nbsp;It took me a little while to figure out how to use them, so here&#39;s my notes.</p>
-<p><img alt="" src="http://k4kpk.com/sites/k4kpk.com/files/clamp_bnc_connekt.JPG" style="width: 430px; height: 410px;" /></p>
+<p><img alt="" src="/files/clamp_bnc_connekt.JPG" style="width: 430px; height: 410px;" /></p>
 <ul>
 	<li>
 		Cut cable to desired length.</li>

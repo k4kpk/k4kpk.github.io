@@ -7,7 +7,7 @@ redirect_from: /ebook/sota-ascent/sisyphus-activator/sisyphus-activator
 ---
 **[Sisyphus](https://en.wikipedia.org/wiki/Sisyphus) the Activator**
 
-![Sisyphus Image](http://k4kpk.com/sites/k4kpk.com/files/ebook/Sisyphus.jpg)
+![Sisyphus Image](/files/Sisyphus.jpg)
 
 **Activation Points Once Per Year**
 

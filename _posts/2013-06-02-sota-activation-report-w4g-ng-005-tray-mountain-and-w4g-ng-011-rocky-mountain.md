@@ -5,11 +5,11 @@ title: 'SOTA Activation Report: W4G/NG-005 Tray Mountain and W4G/NG-011 Rocky Mo
 created: 1370205425
 redirect_from: /content/sota-activation-report-w4gng-005-tray-mountain-and-w4gng-011-rocky-mountain
 ---
-####Trip of 2013.05.31
+#### Trip of 2013.05.31
 * Succeeded: Yes
 * First-activation: No
 
-See my trip planning guide at: [SOTA Guide - W4G/NG-005 Tray Mountain and W4G/NG-011 Rocky Mountain](http://k4kpk.com/content/sota-guide-w4gng-005-tray-mountain-and-w4gng-011-rocky-mountain)
+See my trip planning guide at: [SOTA Guide - W4G/NG-005 Tray Mountain and W4G/NG-011 Rocky Mountain](/content/sota-guide-w4gng-005-tray-mountain-and-w4gng-011-rocky-mountain)
 
 
 Commentary:

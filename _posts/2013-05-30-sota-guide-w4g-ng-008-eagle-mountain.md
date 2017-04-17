@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4gng-008-eagle-mountain
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Eagle Mountain
+#### Drive Guide - Eagle Mountain
 
 * **Duration**: 2:15
 * URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -49,7 +49,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **On the way home** (scouting/errands):
     * Nothing.  Very long hike.
     
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 3:15 hours (4.7 miles, 2000' - from where I parked.  4.4 if you have 4WD.)
 * **Navigation**
@@ -64,7 +64,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
         * Trail is vague here.  You turn L onto vague trail.  Trail soon turns to dirt road.
     * Summit: N34.96438 W83.69103
     
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes. I did.
 * Space to guy mast:  Yes.  Some staking issues due to frequent granite. May have to tie to tree.
@@ -72,6 +72,6 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * Unique features:
     * Nothing special.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Bell Knob

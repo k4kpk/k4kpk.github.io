@@ -1,9 +1,9 @@
 ---
 categories: []
 layout: ebook
-title: Kevin Kleinfelter
+title: Finding Your Way to Nowhere
 created: 1440619207
-redirect_from: /ebook/sota-ascent/chapter-name-undefined/kevin-kleinfelter
+redirect_from: /ebook/sota-ascent/chapter-name-undefined/finding-your-way-nowhere
 ---
 [This month's topic is about a subject that could get you hurt.  Make sure you understand the risks.  Do not rely on this content to keep you safe.]
 
@@ -19,7 +19,7 @@ When planning a hike to a summit, the first thing I do is to Google the name of 
 
 The next resource to check is a USGS topo.  Visit http://store.usgs.gov and select "Map Locator & Downloader."  You can use this to download topographic maps (often called "quads" or "quadrangles").  These maps show mountains, streams, dirt roads, trails, and other geographic features.  You may have learned to read these as a Scout.  You can download PDF files with the exact map you would see on a paper map.  These are big files; they will take time to download and your PC display them sloooowly.  If you prefer, you can purchase paper maps from the same site.
 
-<img src="http://k4kpk.com/sites/k4kpk.com/files/ebook/Stone%20Mountain%20Topo.png" width="400">
+<img src="/files/Stone%20Mountain%20Topo.png" width="400">
 
 There will be many editions of a map on the USGS site.  I usually download the 2 or 3 most recent, look to see which is intelligible, and discard the rest.  The newest edition often adds aerial imagery, which makes them tough to read.
 
@@ -47,7 +47,7 @@ I avoid bushwhacking unless the sun is shining; I prefer to bushwhack in the win
 
 I won't get into general wilderness safety.  For that, https://en.wikipedia.org/wiki/Ten_Essentials is a good place to start.
 
-Some really nice summits are off the beaten track.  They just require a little more planning.  To get you started, guides for several southeastern summits can be found at [http://k4kpk.com/content/sota-trip-library](http://k4kpk.com/content/sota-trip-library).
+Some really nice summits are off the beaten track.  They just require a little more planning.  To get you started, guides for several southeastern summits can be found at [SOTA Trip Library](/content/sota-trip-library).
 
 See you on the summits!
 

@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4cwm-006-mt-hardy
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Atlanta to Mt Hardy
+#### Drive Guide - Atlanta to Mt Hardy
 
 * **Duration**: 171 miles, 3:05
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/9zN9u
@@ -35,14 +35,14 @@ Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: 
     * Dinner
 
-####Side Trip to Tallulah Gorge State Park Group Camping
+#### Side Trip to Tallulah Gorge State Park Group Camping
 * After crossing the Tallulah Gorge bridge, do NOT turn L at big park sign and gate.
 * Next R, at light, turn lane, and small "Tallulah Gorge State Park Campground..." sign
 * Group camp is on L, across from entrance to main campground.
     * [Park map](http://gastateparks.org/net/go/parks.aspx?locid=46&show=map) shows a shelter symbol on a creek, north of "Terrora Campground"
     * "Pioneer Campground" is marked on [this map](http://www.chaswebs.com/hiking/tallulah_gorge_hiking.htm)
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1:40 up; 1:15 down; 2.2 miles
 * **Navigation**
@@ -57,13 +57,13 @@ Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * 35.3087,-82.92525 = Intersection with route from NC-215
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:
 * Cell coverage: No cell; Yes APRS
 * Unique features:
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * ?

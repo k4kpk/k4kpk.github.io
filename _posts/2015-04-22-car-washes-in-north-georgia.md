@@ -10,8 +10,7 @@ When I head out for SOTA and the trip includes dirt roads, I take my wife's car,
 There are three primary arteries to north Georgia:
 
 * **I-575**
-    * At Shell station at 2000 Riverstone Blvd, Canton, GA 30114.  R on Riverstone Blvd after exit, about 0.3 miles on R.
-    * Maybe next to Valero at 217 Riverstone Pkwy, Canton, GA 30114.  R on Riverstone and go 1.4 miles, Valero is on R.
+    * Canton GA - 301 Adams Jenkins Memorial Dr, Canton, GA 30115
 * **GA-400**
     * GA-141:  Head west on GA-141 and it is on the right after a few hundred yards.  It is called "Wave", and it is next to the daycare.
 * **GA-985**

@@ -6,20 +6,20 @@ created: 1365344703
 redirect_from: /content/sota-activation-report-w4gng-009-horsetrough-mountain
 ---
 --------
-####Trip of 2013.04.06
+#### Trip of 2013.04.06
 * Succeeded: Yes
 * First-activation: Yes
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-009, Horsetrough Mountain](http://k4kpk.com/content/sota-guide-w4gng-009-horsetrough-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/NG-009, Horsetrough Mountain](/content/sota-guide-w4gng-009-horsetrough-mountain)
 
 
 Commentary:
 
-####Trip of 2013.04.06
+#### Trip of 2013.04.06
 * Succeeded: Yes
 * First-activation: Yes
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-009, Horsetrough Mountain](http://k4kpk.com/content/sota-guide-w4gng-009-horsetrough-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/NG-009, Horsetrough Mountain](/content/sota-guide-w4gng-009-horsetrough-mountain)
 
 
 Commentary:

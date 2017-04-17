@@ -15,7 +15,7 @@ I make it a point to identify summits with restrooms; this is important if you
 take your family along for the activation.  (One ham’s XYL sheltered in a privy
 while he activated in sub-zero weather!)
 
-* [W4G/HC-003, Stone Mountain](http://k4kpk.com/content/sota-guide-w4ghc-003-stone-mountain)
+* [W4G/HC-003, Stone Mountain](/content/sota-guide-w4ghc-003-stone-mountain)
 
     Stone Mountain is near Atlanta.  If you don’t want to walk up, you can ride
     the tram to the top. Due to terrain, it is a great location for a magnetic
@@ -40,7 +40,7 @@ while he activated in sub-zero weather!)
     credit.
 
  
-* [W4G/HC-005, Springer Mountain](http://k4kpk.com/content/sota-guide-w4ghc-005-springer-mountain)
+* [W4G/HC-005, Springer Mountain](/content/sota-guide-w4ghc-005-springer-mountain)
 
     Springer Mountain is famous for being the start of the Appalachian Trail.
     While it would be a long walk from Amicalola Falls State Park, there is a
@@ -53,7 +53,7 @@ while he activated in sub-zero weather!)
     is drivable in most weather in a passenger sedan.
 
     
-* [W4G/HC-036 Pine Mountain](http://k4kpk.com/content/sota-guide-w4ghc-036-pine-mountain)
+* [W4G/HC-036 Pine Mountain](/content/sota-guide-w4ghc-036-pine-mountain)
 
     *This* Pine Mountain is near Atlanta, with a modest hike.  It is very close
     to I-75, so it isn’t hard to find.  The trailhead is reachable via paved
@@ -69,7 +69,7 @@ while he activated in sub-zero weather!)
     credit.
 
 
-* [W4G/HC-043 Vineyard Mountain](http://k4kpk.com/content/sota-guide-w4ghc-043-vineyard-mountain)
+* [W4G/HC-043 Vineyard Mountain](/content/sota-guide-w4ghc-043-vineyard-mountain)
 
     Its chief selling point is that it is convenient to Atlanta and that the
     summit isn’t overrun with tourists, like Stone Mountain.  There are trees in
@@ -84,7 +84,7 @@ while he activated in sub-zero weather!)
     credit.
 
 
-* [W4G/NG-001 Brasstown Bald](http://k4kpk.com/content/sota-guide-w4gng-001-brasstown-bald)
+* [W4G/NG-001 Brasstown Bald](/content/sota-guide-w4gng-001-brasstown-bald)
 
     Brasstown Bald is the highest point in Georgia.  There is a visitor center
     on top and an observation deck.  The parking lot is reachable via paved road
@@ -110,7 +110,7 @@ while he activated in sub-zero weather!)
     be nice to them so they’ll be nice to future hams.
 
 
-* [W4G/NG-020, Wildcat Mountain](http://k4kpk.com/content/sota-guide-w4gng-020-wildcat-mountain)
+* [W4G/NG-020, Wildcat Mountain](/content/sota-guide-w4gng-020-wildcat-mountain)
 
     Wildcat Mountain is one of the non-urban summits nearest to Atlanta.  It is
     good for 8 points, and there’s a nice view near the summit.  The trailhead
@@ -121,7 +121,7 @@ while he activated in sub-zero weather!)
     parts are steep.
 
 
-* [W4G/NG-022, Black Mountain](http://k4kpk.com/content/sota-guide-w4gng-022-black-mountain)
+* [W4G/NG-022, Black Mountain](/content/sota-guide-w4gng-022-black-mountain)
 
     Black Mountain is a modest drive from Dahlonega.  The ’trail’ is a gravel
     road that’s easy to follow.  There’s a fire tower on top, with a small
@@ -140,7 +140,7 @@ while he activated in sub-zero weather!)
     There’s a good barbecue place in Dahlonega, for your post-activation meal.
 
 
-* [W4G/NG-027, Black Rock Mountain](http://k4kpk.com/content/sota-guide-w4gng-027-black-rock-mountain)
+* [W4G/NG-027, Black Rock Mountain](/content/sota-guide-w4gng-027-black-rock-mountain)
 
     Black Rock Mountain (sometimes spelled Blackrock Mountain) is north of
     Clayton, Georgia.  It is Georgia’s highest state park.  The trailhead is

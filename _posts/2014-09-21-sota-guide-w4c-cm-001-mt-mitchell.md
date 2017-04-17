@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4ccm-001-mt-mitchell
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Mt Mitchell from Craggy Dome
+#### Drive Guide - Mt Mitchell from Craggy Dome
 
 * **Duration**: 12.7 miles, 0:30
 * **Google Maps** URL: http://goo.gl/maps/pX9I2 
@@ -17,7 +17,7 @@ Drive to Trailhead & Trail Guide
     * Mile marker 355.3
     * L at stone "Mount Mitchell State Park" sign and go 4.6
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.3 miles, 0:10
 * **Navigation**
@@ -30,7 +30,7 @@ Drive to Trailhead & Trail Guide
     * W4C activation zone is 80 feet, so anything above 6604 is good.
     * There is a sign post with the elevation at the far end of the parking lot, so you can calibrate your altimeter.
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes, if you are away from the apex of the summit.
 * Space to guy mast: Yes, if you are away from the apex of the summit.

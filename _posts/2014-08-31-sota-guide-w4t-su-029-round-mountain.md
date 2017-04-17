@@ -8,7 +8,7 @@ redirect_from: /content/sota-guide-w4tsu-029-round-mountain
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 
-####Drive Guide - Round Mountain from Walnut Mountain
+#### Drive Guide - Round Mountain from Walnut Mountain
 
 * **Duration**: 0:30
 * **Seasonal/Limited Access**: 
@@ -31,7 +31,7 @@ Drive to Trailhead & Trail Guide
 * **Food**
     * Last McDonalds: n.a.
 
-####Drive Guide - Round Mountain to ATLANTA
+#### Drive Guide - Round Mountain to ATLANTA
 
 * **Directions**:
     * Head East on USFS-3242 and go 1.8
@@ -47,7 +47,7 @@ Drive to Trailhead & Trail Guide
     * US-23 South and go 20.5
     * Ramp to US-23 South and go to I-985 South
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1.4 miles, 1:15 up, 0:45 down
 * **Navigation**
@@ -59,7 +59,7 @@ Drive to Trailhead & Trail Guide
     * Trailhead: 35.8401,-82.96633
     * Summit: 35.8495, -82.9586
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Y
 * Space to guy mast: Y

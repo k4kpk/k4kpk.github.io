@@ -7,11 +7,11 @@ redirect_from: /content/sota-activation-report-w4gng-010-blue-mountain
 ---
 SOTA Activation Report: W4G/NG-010, Blue Mountain
 ----------------------------------------------
-####Trip of 2013.01.05
+#### Trip of 2013.01.05
 * Succeeded: Yes
 * First-activation: Yes
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-010, Blue Mountain](http://k4kpk.com/content/sota-guide-w4gng-010-blue-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/NG-010, Blue Mountain](/content/sota-guide-w4gng-010-blue-mountain)
 
 Commentary:
 
@@ -19,11 +19,11 @@ A beautiful winter day in Georgia, an easy drive, and a well-maintained, easy to
 
 My eldest son came along on this trip.  (He's not a ham.)  He is always a delight to have as a hiking companion and a SOTA buddy.  He copies call signs and signal reports better than me!  I was also joined by a new trail companion.  I call him K4KPK/P.  He's a little confused about how he came to be on top of Mt. KX3.
 
-![](http://k4kpk.com/sites/k4kpk.com/files/IMG_0140.JPG)
+![](/files/IMG_0140.JPG)
 
 Here's K4KPK/P in "antenna support configuration."
 
-![](http://k4kpk.com/sites/k4kpk.com/files/IMG_0141.JPG) 
+![](/files/IMG_0141.JPG) 
 
 A surprising number of hikers were out for a Georgia winter day.  Four on our side of the highway, and a gaggle of Boy Scouts headed the other direction.
 

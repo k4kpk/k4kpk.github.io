@@ -5,7 +5,7 @@ title: 'SOTA Activation Report: W4G/NG-004, Blood Mountain'
 created: 1371396558
 redirect_from: /content/sota-activation-report-w4gng-004-blood-mountain
 ---
-####Trip of 2013.06.15
+#### Trip of 2013.06.15
 * Succeeded: Yes
 * First-activation: No
 * Propagation forecast on departure:
@@ -13,7 +13,7 @@ redirect_from: /content/sota-activation-report-w4gng-004-blood-mountain
 * Propagation forecast on return:
     * 20m-40m good; 6m skip closed
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-004, SummitName](http://k4kpk.com/content/sota-guide-w4gng-004-blood-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/NG-004, SummitName](/content/sota-guide-w4gng-004-blood-mountain)
 
 
 Commentary:

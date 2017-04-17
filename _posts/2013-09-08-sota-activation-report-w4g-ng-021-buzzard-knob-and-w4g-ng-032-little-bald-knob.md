@@ -9,13 +9,13 @@ redirect_from: /content/sota-activation-report-w4gng-021-buzzard-knob-and-w4gng-
 
 SOTA Activation Report: W4G/NG-021, Buzzard Knob and W4G/NG-032 Little Bald Knob
 ----------------------------------------------
-####Trip of 2013.09.07
+#### Trip of 2013.09.07
 * Succeeded: Yes
 * First-activation: No
 * Propagation forecast on departure: 40=fair, 20=good, 17=fair, S/N=1-2, K=2, A=5
 * Propagation forecast on return: 40=fair, 20=good, 17=fair, S/N=0-1, K=1, A=4
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-021, Buzzard Knob](http://k4kpk.com/content/sota-guide-w4gng-021-buzzard-knob) or [SOTA Guide: W4G/NG-032, Little Bald Knob](http://k4kpk.com/content/sota-guide-w4gng-032-little-bald-knob)
+See my trip planning guide at: [SOTA Guide: W4G/NG-021, Buzzard Knob](/content/sota-guide-w4gng-021-buzzard-knob) or [SOTA Guide: W4G/NG-032, Little Bald Knob](/content/sota-guide-w4gng-032-little-bald-knob)
 
 
 Commentary:
@@ -38,11 +38,11 @@ My VX-8GR APRS radio battery died just before I returned to the car.  Looks like
 
 =====
 
-####Trip of 2014.01.12
+#### Trip of 2014.01.12
 * Succeeded: Yes
 * First-activation: No
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-021, Buzzard Knob](http://k4kpk.com/content/sota-guide-w4gng-021-buzzard-knob) or [SOTA Guide: W4G/NG-032, Little Bald Knob](http://k4kpk.com/content/sota-guide-w4gng-032-little-bald-knob)
+See my trip planning guide at: [SOTA Guide: W4G/NG-021, Buzzard Knob](/content/sota-guide-w4gng-021-buzzard-knob) or [SOTA Guide: W4G/NG-032, Little Bald Knob](/content/sota-guide-w4gng-032-little-bald-knob)
 
 This was my second trip to Buzzard Knob and Little Bald Knob.  Although the trail passes near both summits, there are significant bushwhacks from the trail to each summit.  The bushwhack was easier in January (this trip) than in September (last trip).  Georgia bushwhacks are easier when the vegetation has died off (assuming it hasn't snowed recently).  
 

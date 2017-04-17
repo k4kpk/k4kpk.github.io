@@ -67,7 +67,7 @@ See you on the summits!
 
 __Where can I find out more?__
 
-* K4KPK's site: [http://k4kpk.com/content/sota-menu](http://k4kpk.com/content/sota-menu)
+* K4KPK's site: [http://k4kpk.com/content/sota-menu](/content/sota-menu)
 * Email me (K4KPK).  My email address is available via [http://www.qrz.com/db/K4KPK](http://www.qrz.com/db/K4KPK).
 
 __Bio__

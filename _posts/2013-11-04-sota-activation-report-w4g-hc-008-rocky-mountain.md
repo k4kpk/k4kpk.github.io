@@ -5,11 +5,11 @@ title: 'SOTA Activation Report: W4G/HC-008, Rocky Mountain'
 created: 1383615024
 redirect_from: /content/sota-activation-report-w4ghc-008-rocky-mountain
 ---
-####Trip of 2013.11.03
+#### Trip of 2013.11.03
 * Succeeded: Yes
 * First-activation: Yes
 
-See my trip planning guide at: [SOTA Guide: W4G/HC-008, Rocky Mountain](http://k4kpk.com/content/sota-guide-w4ghc-008-rocky-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/HC-008, Rocky Mountain](/content/sota-guide-w4ghc-008-rocky-mountain)
 
 
 Commentary:

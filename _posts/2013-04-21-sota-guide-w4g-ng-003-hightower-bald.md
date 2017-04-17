@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4gng-003-hightower-bald
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Hightower Bald (Southern Approach) from Atlanta
+#### Drive Guide - Hightower Bald (Southern Approach) from Atlanta
 
 * **Duration**: 2:15
 * **Google Maps** from Ashford Dunwoody Rd  I-285 at 33.91998, -84.33898: http://goo.gl/maps/yFSRF
@@ -41,7 +41,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Last McDonalds: GA-53 on GA-400.
         * There is a McDonalds in Hiawasee that opens at 6 AM 7 days a week, but it is out of your way.
 
-####Drive Guide - Hightower Bald (Northern Approach) from Atlanta
+#### Drive Guide - Hightower Bald (Northern Approach) from Atlanta
 
 I don't know if there *is* a feasible approach from the North.  These are notes on how it might be done.
 
@@ -53,7 +53,7 @@ I don't know if there *is* a feasible approach from the North.  These are notes 
     * Blye Gap Rd is gated at 35.011715, -83.626984 
 
 
-####Trail Guide - Approach from the South
+#### Trail Guide - Approach from the South
 
 * UPDATE: This thread says Charlies Creek Rd was repaired in 2015.
 * UPDATE: As of June 2016, I drove from Upper Hightower Rd to the first part of Charlies Creek Rd in a Corolla, but was unable to drive to Blue Ridge Gap.  The road was too steep and I could not get traction to climb the hill.  This is currently drivable in a light 4WD such as a Forrester.  They did not re-engineer the road, so runoff is cutting erosion ditches quickly.  It won't be long before a Jeep-type 4WD will again be required.
@@ -85,7 +85,7 @@ I don't know if there *is* a feasible approach from the North.  These are notes 
     * Leave AT: 34.98682, -83.59916
     * Hightower Bald: 34.9848, -83.6202
 
-####Trail Guide - Approach from the North
+#### Trail Guide - Approach from the North
 
 I don't know if there *is* a feasible approach from the North.  These are notes on how it might be done.
 
@@ -108,7 +108,7 @@ I don't know if there *is* a feasible approach from the North.  These are notes 
 * **Trailhead altitude**:
 * **GPS tracks/waypoints**:
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: not good. You could snake a wire from tree to tree.
 * Space to guy mast: Not really.  I bungeed a mast to a tree.
@@ -116,6 +116,6 @@ I don't know if there *is* a feasible approach from the North.  These are notes 
 * Unique features: Very, very strenuous bushwhack.
 
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Bell Knob

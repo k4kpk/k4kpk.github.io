@@ -5,7 +5,7 @@ title: 'SOTA Guide: W4G/NG-009 Horsetrough Mountain'
 created: 1365344579
 redirect_from: /content/sota-guide-w4gng-009-horsetrough-mountain
 ---
-####Drive Guide - Horsetrough Mountain
+#### Drive Guide - Horsetrough Mountain
 
 * **Duration**: 2:20
     * 1:40 from Perimeter Mall to Chattahoochee UMC.
@@ -45,7 +45,7 @@ redirect_from: /content/sota-guide-w4gng-009-horsetrough-mountain
 * **On the way home** (scouting/errands):  
     * None.  This is a tough hike.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 3:15 -- about 3 miles. 2.4 trail miles and 0.6 bushwhack.
     * Total distance = 3 miles @ 3:00
@@ -81,7 +81,7 @@ redirect_from: /content/sota-guide-w4gng-009-horsetrough-mountain
 * Alternate route from Unicoi Gap via AT past Blue Mountain is 5.4 AT miles and 0.8 bushwhack (one way).
 * Alternate route from Jacks Gap (GA-180) is 4.1 AT miles and 0.8 bushwhack.
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes.  (I did.)
 * Space to guy mast: Yes, but there will be challenges in tilting it up from horizontal to vertical.
@@ -90,7 +90,7 @@ redirect_from: /content/sota-guide-w4gng-009-horsetrough-mountain
     * W4NGT - 147.210 (input 147.810 PL=100.0) Blairsville, GA
     * W9QXW 146.955 (input 146.355 PL=100.0) Blairsville, GA W9QXW
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Brasstown Bald  - driving directions from highway nearest Horsetrough Mountain:
     * north on GA-17 N/GA-75 N/Unicoi Turnpike 2.6 miles from Wilks Rd.
@@ -98,7 +98,7 @@ redirect_from: /content/sota-guide-w4gng-009-horsetrough-mountain
     * right onto "GA-180 Spur N" and go 2.4.
     * There is a fee for parking.
 
-####Other Resources
+#### Other Resources
 
 * http://www.peakbagger.com/climber/ascent.aspx?aid=215897
 * http://peterontheat.com/2010/03/27/tour-de-georgia/

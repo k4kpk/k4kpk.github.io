@@ -1,4 +1,4 @@
 ---
 layout: refresh
-refresh_to_post_id: /2015/11/23/kevin-kleinfelter
+refresh_to_post_id: /2015/11/23/winter-activations
 ---

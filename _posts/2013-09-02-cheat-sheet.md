@@ -42,20 +42,20 @@ Formulae, constants, laws, etc.
 
 
 * Current arrows
-#####Forward (positive): 
-![Forward current](http://k4kpk.com/sites/k4kpk.com/files/ebook/Current-Forward.png "Forward (positive)")
+##### Forward (positive): 
+![Forward current](/files/Current-Forward.png "Forward (positive)")
 
 From plus, through to minus is forward (consuming power).
 
-#####Reverse (negative):
-![Reverse current](http://k4kpk.com/sites/k4kpk.com/files/ebook/Current-Reverse.png "Reverse (negative)")
+##### Reverse (negative):
+![Reverse current](/files/Current-Reverse.png "Reverse (negative)")
 
 From minus, through to plus is backward (generating power).
 
 For voltages, + connected to + is forward.
 
-#####Another way of diagramming the same thing
-![Forward/reverse currents](http://k4kpk.com/sites/k4kpk.com/files/ebook/Current-Both.png "Forward and reverse")
+##### Another way of diagramming the same thing
+![Forward/reverse currents](/files/Current-Both.png "Forward and reverse")
 
 * Ohm's Law: 
     * v = iR

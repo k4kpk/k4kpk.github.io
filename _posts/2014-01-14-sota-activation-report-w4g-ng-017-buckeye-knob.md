@@ -8,14 +8,14 @@ redirect_from: /content/sota-activation-report-w4gng-017-buckeye-knob
 
 SOTA Activation Report: W4G/NG-017, Buckeye Knob
 ----------------------------------------------
-####Trip of 2013.11.24
+#### Trip of 2013.11.24
 * Succeeded: Yes
 * First-activation: No
 * Propagation forecast on departure: 40m=fair, 20m=good, 17m=good, S/N=0-1, A=8, K=0, Geomag=inactive
 * Propagation forecast on return: 40m=fair, 20m=good, 17m=good, S/N=0-1, A=2, K=0, Geomag=inactive
 
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-017, Buckeye Knob](http://k4kpk.com/content/????)
+See my trip planning guide at: [SOTA Guide: W4G/NG-017, Buckeye Knob](/content/????)
 
 
 Commentary:

@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4tsu-024-high-rock
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - High Rock from Toxaway Mtn
+#### Drive Guide - High Rock from Toxaway Mtn
 
 * **Duration**: 1:50, 86 miles
 * **Google Maps** URL from 35.131222, -82.983638 to 35.9553,-82.5595: http://goo.gl/maps/6jNN2
@@ -33,7 +33,7 @@ Drive to Trailhead & Trail Guide
     * Last McDonalds: 
     * Penultimate McDonalds: 
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1.8 miles, climb 600', 1:00
 * **Navigation**: (You'll see AT blazes alond the road as it crosses under I-26.)
@@ -45,11 +45,11 @@ Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * 
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:
 * Cell coverage:
 * Unique features:
 
-####Plan-B Candidates
+#### Plan-B Candidates

@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4ccm-036-max-patch
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Max Patch from Knoxville
+#### Drive Guide - Max Patch from Knoxville
 
 * **Duration**: 1:45
 * **Google Maps** URL from Knoxville to Max Patch to Walnut to Knoxville: http://goo.gl/maps/20ybb
@@ -26,7 +26,7 @@ Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: Dandridge TN - State Hwy 92 exit
     * Dinner
 
-####Drive Guide - Max Patch from Atlanta
+#### Drive Guide - Max Patch from Atlanta
 
 * **Duration**: 3:40
 * **Google Maps** URL from Atlanta to Max Patch: http://goo.gl/maps/CmTNi
@@ -52,7 +52,7 @@ Drive to Trailhead & Trail Guide
     * Others: Franklin NC (bad service); Clayton GA (busy)
     * Preferred: Cornelia GA, on Level Grove Rd.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: Option 1 = 0.3, 0:20; Option 2 = 0.8, 0:45
 * **Navigation**
@@ -73,7 +73,7 @@ Drive to Trailhead & Trail Guide
     * Trailhead: 35.796401, -82.962596
     * Summit: 35.7973, -82.9569
     
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: No
 * Space to guy mast: Yes

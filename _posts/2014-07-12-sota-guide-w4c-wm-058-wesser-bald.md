@@ -5,7 +5,7 @@ title: SOTA Guide - W4C/WM-058 Wesser Bald
 created: 1405199274
 redirect_from: /content/sota-guide-w4cwm-058-wesser-bald
 ---
-####Drive Guide - Wesser Bald FROM Siler Bald
+#### Drive Guide - Wesser Bald FROM Siler Bald
 
 * **Duration**: 0:35
 * **Google Map**: http://goo.gl/maps/7iAQv
@@ -18,7 +18,7 @@ redirect_from: /content/sota-guide-w4cwm-058-wesser-bald
         * Turns to dirt at 2.7
     * Park at timber-walled pull-out under high power lines
 
-####Drive Guide - Wesser Bald TO Atlanta
+#### Drive Guide - Wesser Bald TO Atlanta
 
 * **Duration**: 2:45
 * **Google Map**: http://goo.gl/maps/gVjNq
@@ -39,7 +39,7 @@ redirect_from: /content/sota-guide-w4cwm-058-wesser-bald
     * S on I-85 S and go 16.4
     * I-285 W
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 
     * via abandoned road: 1.0 0:55 up; via AT 1.4 0:45 down
@@ -53,7 +53,7 @@ redirect_from: /content/sota-guide-w4cwm-058-wesser-bald
     * Trailhead: 35.26791,-83.57247
     * Summit: 35.2771,-83.5774
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:

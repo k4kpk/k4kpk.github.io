@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4ghc-001-cowpen-mountain
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Cowpen from Atlanta
+#### Drive Guide - Cowpen from Atlanta
 
 * **Duration** ('western' approach): 
     * 2.5 hours from Atlanta
@@ -50,10 +50,10 @@ Trip-specific: Drive to Trailhead & Trail Guide
         * Poole's Barbecue "Pig Hill" at 164 Craig Street, Ellijay. Closes at 7/8/8/6, Thurs/        Fri/Sat/Sun.
         * Note: There's a Barbecue place in Blue Ridge that has several billboards with directions telling you to turn at Wendy's. The pulled pork there is dry and taste-free.
 
-####Drive Guide - Cowpen from Dyer Cemetery
+#### Drive Guide - Cowpen from Dyer Cemetery
 * Drive south (toward 64A side road to Flat Top) on USFS-64 for 5.1 miles.  Parking is on right, just as road makes sharp left turn.  Parking is somewhat over the crest of a rise, so you can't see it until you're right next to it.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 
     * Flat route: 1:30  (1.7 miles; 635 ft climb). 0:40 descent
@@ -80,17 +80,17 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Short Bushwhack Start: 34.89306, -84.57474
     * Flat Bushwhack Start: 34.89441, -84.57639
     * Summit: 34.8898, -84.5741
-    * [GPS Track, Long Route](http://k4kpk.com/sites/k4kpk.com/files/Cowpen_Mtn_Ascent.GPX)
-    * [GPS Track, Shortcut](http://k4kpk.com/sites/k4kpk.com/files/Cowpen%20Shortcut%20Route.GPX)
+    * [GPS Track, Long Route](/files/Cowpen_Mtn_Ascent.GPX)
+    * [GPS Track, Shortcut](/files/Cowpen%20Shortcut%20Route.GPX)
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes.
 * Cell coverage: ATT=Marginal.  Verizon unable to send an SMS.
 * Unique features: Nothing special.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Bald Mountain W4G/HC-003
     * Where Cowpen is a right-turn at the Conasauga T, this is to the left, before you get to Grassy Mountain.

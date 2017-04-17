@@ -48,7 +48,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **On the way home** (scouting/errands):
     * Don't plan any.  This is a long hike.  You'll be tired.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: TOTAL = 4:20
     * 1:20 from parking to Double Spring Knob (if don't scout alternate bushwhacks)
@@ -84,7 +84,7 @@ Walk past the gate and up the road.
     * On the ground, the summit looked to be 34.84812, -83.66182. Official summit is at 34.848202, -83.661697, but that's not what it looks like on the ground.
 
 
-####Summit Guide: Double Spring Knob
+#### Summit Guide: Double Spring Knob
 
 * Hang antenna from tree: I struggled with this. (I was last there in the snow.)  Dense, scrubby trees made it tough.  I threw a wire in a tree and zigzagged it through bushes.
 * Space to guy mast: I recommend carrying a mast and using bungee cords or velcro to bind it to a tree stump.
@@ -95,7 +95,7 @@ Walk past the gate and up the road.
 * Unique features:
     * Briars.  No view.
 
-####Summit Guide: Round Top
+#### Summit Guide: Round Top
 
 * Hang antenna from tree: Yes.  No problem.
 * Space to guy mast: Yes.  No problem.
@@ -103,7 +103,7 @@ Walk past the gate and up the road.
 * Unique features:
     * No view.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * You should have a Plan-B for this one.  There are some spots in the road that will wash out if not maintained soon, and if you go in the winter, be sure to check on the status of those gates.
 * Little Bald Knob?

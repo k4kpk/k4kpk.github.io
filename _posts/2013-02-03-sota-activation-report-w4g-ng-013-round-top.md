@@ -7,15 +7,15 @@ redirect_from: /content/sota-activation-report-w4gng-013-round-top
 ---
 SOTA Activation Report: W4G/NG-007 - Double Spring Knob and W4G/NG-013 Round Top
 ----------------------------------------------
-####Trip of 2012.12.30
+#### Trip of 2012.12.30
 * Succeeded: Yes (both)
 * First-activation: Yes (both)
 
-* See my trip planning guide at: [SOTA Guide - W4G/NG-007 - Double Spring Knob](http://k4kpk.com/content/sota-guide-w4gng-007-double-spring-knob)
-* See my trip planning guide at: [SOTA Guide - W4G/NG-013 - Round Top](http://k4kpk.com/content/sota-guide-w4gng-013-round-top)
+* See my trip planning guide at: [SOTA Guide - W4G/NG-007 - Double Spring Knob](/content/sota-guide-w4gng-007-double-spring-knob)
+* See my trip planning guide at: [SOTA Guide - W4G/NG-013 - Round Top](/content/sota-guide-w4gng-013-round-top)
 
 
-####Commentary (Double Spring Knob):
+#### Commentary (Double Spring Knob):
 
 Chilly (for Georgia) activation with some weather surprises. This would be a 'piece of cake' activation in the fall, or in a dry patch of winter weather.
 
@@ -62,7 +62,7 @@ I grabbed a 15' carbon fiber fishing pole that I carried 'just in case', zip tie
 
 Despite my ad hoc antenna, I received multiple 59 signal reports, with one operator telling me I was the strongest activator signal he'd ever received. I would have expected some attenuation from the carbon fiber pole. I pulled the wire as far from the pole as possible. Call it a "semi-sloper" configuration. Maybe I got some gain in his direction from the zigzag...
 
-####Commentary (Round Top):
+#### Commentary (Round Top):
 
 Hiking the AT was easy. (I am grateful to the volunteers who maintain it.) I expected I'd find a side trail to the summit from the high point of the AT. No such luck. The final quarter mile was a bushwhack through ice encrusted underbrush and a thicket of young trees in the understory.
 

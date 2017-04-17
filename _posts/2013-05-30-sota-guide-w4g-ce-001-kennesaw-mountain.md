@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4gce-001-kennesaw-mountain
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Kennesaw Mountain
+#### Drive Guide - Kennesaw Mountain
 
 * **Duration**: 30 minutes
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/NgQXy
@@ -30,7 +30,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **On the way home** (scouting/errands):
     * nothing planned
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1.2 miles. 1:00 with kids.
 * **Navigation**
@@ -38,7 +38,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * Summit 33.9763, -84.5794
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes, in the activation zone; no at the apex.
 * Space to guy mast: Yes, in the activation zone; no at the apex.
@@ -46,7 +46,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * Unique features:
     * Canon on top.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Pine Mountain
 * Stone Mountain

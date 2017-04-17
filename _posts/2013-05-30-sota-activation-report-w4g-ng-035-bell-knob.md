@@ -5,11 +5,11 @@ title: 'SOTA Activation Report: W4G/NG-035, Bell Knob'
 created: 1369943819
 redirect_from: /content/sota-activation-report-w4gng-035-bell-knob
 ---
-####Trip of 2013.05.29
+#### Trip of 2013.05.29
 * Succeeded: Yes
 * First-activation: No
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-035, Bell Knob](http://k4kpk.com/content/sota-guide-w4gng-035-bell-knob)
+See my trip planning guide at: [SOTA Guide: W4G/NG-035, Bell Knob](/content/sota-guide-w4gng-035-bell-knob)
 
 Commentary:
 I activated Eagle Mountain (W4G/NG-008) and Bell Knob on May 29, 2013.  Eagle is a long walk for me, at 4.7 miles.  (4WD owners can do it in 4.4.)  Much of the route is used as a horse trail; it is a little chewed up and muddy, even on a dry day.  I was fortunate to be able to follow a GPX trace I got from the Atlanta Outdoor Club.  There were some turns I might have missed otherwise.

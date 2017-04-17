@@ -1,9 +1,9 @@
 ---
 categories: []
 layout: ebook
-title: Kevin Kleinfelter
+title: Winter Activations
 created: 1448328261
-redirect_from: /ebook/sota-ascent/chapter-name-undefined/kevin-kleinfelter-0
+redirect_from: /ebook/sota-ascent/chapter-name-undefined/winter-activations
 ---
 A colleague recently asked, "As winter sets in, I guess you'll be putting your activating on hold until spring, huh?  No chance!  We'll take a look at the virtues of cold-weather activations.
 

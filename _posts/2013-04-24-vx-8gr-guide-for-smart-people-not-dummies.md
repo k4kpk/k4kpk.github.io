@@ -7,7 +7,7 @@ redirect_from: /content/vx-8gr-guide-smart-people-not-dummies
 ---
 (I couldn't call this page, "VX-8GR for Dummies," because someone else owns the "for Dummies" trademark.)
 
-![VX-8GR Image](http://k4kpk.com/sites/k4kpk.com/files/vx-8gr.png)
+![VX-8GR Image](/files/vx-8gr.png)
 
 Here are some notes for getting started and quick reference when using my new VX-8GR.  Notation is defined at the end of this page.
 

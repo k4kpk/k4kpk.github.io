@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4gng-040-sassafras-mountain
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Sassafras Mountain
+#### Drive Guide - Sassafras Mountain
 
 * **Duration**: 1:30 from Atlanta; 25 minutes from Gooch Mtn trailhead
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -33,7 +33,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **On the way home** (scouting/errands):
     * none planned
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:40, walk 0.7 miles, gain 510'
 * **Navigation**
@@ -45,13 +45,13 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * Summit: 34.6531, -84.094
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Tough
 * Cell coverage: AT&T=yes, Verizon=yes, APRS=yes
 * Unique features: none
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Black Mtn & Big Cedar Mtn

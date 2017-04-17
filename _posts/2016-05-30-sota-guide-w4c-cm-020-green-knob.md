@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4ccm-020-green-knob
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Green Knob (W4C/CM-020) from Mt Mitchell
+#### Drive Guide - Green Knob (W4C/CM-020) from Mt Mitchell
 
 * Note: This is the Green Knob with a fire tower.  There's another Green Knob which is near Mt Pisgah which has no fire tower.
 
@@ -22,7 +22,7 @@ Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: 
     * Dinner
 
-####Drive Guide - Green Knob (W4C/CM-020) TO Atlanta
+#### Drive Guide - Green Knob (W4C/CM-020) TO Atlanta
 
 * **Duration**: 4:05, 230 miles
 * **Directions**:
@@ -34,7 +34,7 @@ Drive to Trailhead & Trail Guide
     * Exit 54 for US-25 S
     * Follow US-25 S to I-85 S
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:25, 0.5 miles
 * **Navigation**
@@ -49,7 +49,7 @@ Drive to Trailhead & Trail Guide
     * Leave road: 35.71938,-82.22230
     * Summit: 35.7206, -82.2236
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:
@@ -57,6 +57,6 @@ Drive to Trailhead & Trail Guide
 * Unique features:
     * x
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * summits listed here with some clue as to where/how

@@ -15,7 +15,7 @@ I create a detailed plan, but I'm not a slave to my plan.  From the moment I hea
 
 When I plan an activation, I *usually* plan a "Plan-B" summit, in case I can't get to my first choice.  In the examples above, despite my failed Plan-A, I did activate one (or more) other summits on that day.  Plan-B is a good thing, because who wants to spend hours driving to the mountains only to drive home without bagging an activation?
 
-I've [attached a sample trip plan as a PDF](http://k4kpk.com/sites/k4kpk.com/files/Sample%20Trip%20Plan.pdf).  In my "live document," the schedule is an embedded spreadsheet, so the next time I attempt the trip, I might change the start time, and the times in the rest of the spreadsheet will recalculate themselves.
+I've [attached a sample trip plan as a PDF](/files/Sample%20Trip%20Plan.pdf).  In my "live document," the schedule is an embedded spreadsheet, so the next time I attempt the trip, I might change the start time, and the times in the rest of the spreadsheet will recalculate themselves.
 
 I give my wife a subset of this guide, so she knows where to send the rescue squad if I don't return.  That's also the basis for the "Worry if..." line in the schedule.  i.e. Don't call the rescue squad until after that time. 
 

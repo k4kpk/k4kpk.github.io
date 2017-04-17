@@ -19,7 +19,7 @@ Superposition applies to Ohm's law.  It doesn't matter whether you add currents 
 
 Also, doubling current doubles voltage (2 is your constant), so homogeneity applies too.
 
-![Linearity Examples](http://k4kpk.com/sites/k4kpk.com/files/ebook/Linear-Nonlinear-Examples.png)
+![Linearity Examples](/files/Linear-Nonlinear-Examples.png)
 
 Using Superposition to Understand Linear Circuits
 ----------------------------------------------------------

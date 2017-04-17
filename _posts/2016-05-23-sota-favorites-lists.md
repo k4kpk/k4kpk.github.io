@@ -7,15 +7,15 @@ redirect_from: /content/sota-favorites-lists
 ---
 ## Home-runs (4 summits in one day)
 
-* **Cohutta Wilderness**: [Dyer Mountain](http://k4kpk.com/content/sota-guide-w4ghc-009-dyer-mountain), [Flat Top Mountain](http://k4kpk.com/content/sota-guide-w4ghc-006-flat-top-mountain) (4WD required), [Cowpen Mountain](http://k4kpk.com/content/sota-guide-w4ghc-001-cowpen-mountain), [Bald Mountain](http://k4kpk.com/content/sota-guide-w4ghc-003-bald-mountain) - 36 points
+* **Cohutta Wilderness**: [Dyer Mountain](/content/sota-guide-w4ghc-009-dyer-mountain), [Flat Top Mountain](/content/sota-guide-w4ghc-006-flat-top-mountain) (4WD required), [Cowpen Mountain](/content/sota-guide-w4ghc-001-cowpen-mountain), [Bald Mountain](/content/sota-guide-w4ghc-003-bald-mountain) - 36 points
 * Richland, Steestachee, Barnett-or-Bunches, Waterrock.  I'm convinced you could make this a 5-way with Bunches Bald, but you'd need to be a superman and move fast.  I have to admit that I don't much like Steestachee, so the "favorite" here is just that a 4 or 5 summit day is amazing.
 
 ## Favorite Triple-headers
 
-* [Black Balsam Knob](http://k4kpk.com/content/sota-guide-w4ccm-005-black-balsam-knob), [Green Knob](http://k4kpk.com/content/sota-guide-w4ccm-023-green-knob) (W4C/CM-023), [Mt Pisgah](http://k4kpk.com/content/sota-guide-w4ccm-011-mt-pisgah)
+* [Black Balsam Knob](/content/sota-guide-w4ccm-005-black-balsam-knob), [Green Knob](/content/sota-guide-w4ccm-023-green-knob) (W4C/CM-023), [Mt Pisgah](/content/sota-guide-w4ccm-011-mt-pisgah)
     * Blue Ridge Parkway SW of Asheville. The Blue Ridge Parkway is always beautiful.  Best to do Black Balsam early in the morning, before parking gets awful.  28 points.
 * Dyer, Cowpen, Bald
-* [Brasstown Bald](http://k4kpk.com/content/sota-guide-w4gng-001-brasstown-bald), [Bell Knob](http://k4kpk.com/content/sota-guide-w4gng-035-bell-knob), [Ravencliff Knob](http://k4kpk.com/content/sota-guide-w4gng-035-bell-knob)
+* [Brasstown Bald](/content/sota-guide-w4gng-001-brasstown-bald), [Bell Knob](/content/sota-guide-w4gng-035-bell-knob), [Ravencliff Knob](/content/sota-guide-w4gng-035-bell-knob)
     * Brief enough for all but mid-winter; back at the car by 5:45 PM. 26 points.
 * Glassy, Brasstown, Ravencliff
     * Brief enough for all but mid-winter; back at the car by 5:45 PM. 26 points.

@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4gng-041-gooch-mountain
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Gooch Mountain
+#### Drive Guide - Gooch Mountain
 
 * **Duration**: 
     * Atlanta to Gooch: 1:30
@@ -36,7 +36,7 @@ Drive to Trailhead & Trail Guide
     * Last McDonalds: Dahlonega
     * Penultimate McDonalds: Hwy 53, Dawsonville, just north of Cumming
 
-####Trail Guide Option 1
+#### Trail Guide Option 1
 
 * **Duration**: 0.5 miles bushwhack, 0:35
 * **Navigation**
@@ -52,13 +52,13 @@ Drive to Trailhead & Trail Guide
     * Trailhead: 34.64635, -84.03528
     * Summit: 34.6509, -84.0382
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: yes
 * Space to guy mast: Yes, but not to lay it out flat first
 * Cell coverage: AT&T=good, Vzn=good, APRS=good
 
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Black Mtn & Big Cedar Mtn & Sassafras Mtn

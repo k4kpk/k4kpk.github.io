@@ -21,6 +21,6 @@ Here are some of the ways to get spotted:
 
 * Visit [http://sotawatch.org/spots.php](http://sotawatch.org/spots.php).
 * Make a QSO with a chaser, and ask him to spot you.
-* [Spot yourself via SMS message](http://k4kpk.com/content/sota-self-spot-sms-usa)
-* [Spot yourself via APRS message](http://k4kpk.com/content/sota-self-spot-aprs)
-* [Get auto spotted via RBNGate](http://k4kpk.com/content/how-get-auto-spotted-rbngate)
+* [Spot yourself via SMS message](/content/sota-self-spot-sms-usa)
+* [Spot yourself via APRS message](/content/sota-self-spot-aprs)
+* [Get auto spotted via RBNGate](/content/how-get-auto-spotted-rbngate)

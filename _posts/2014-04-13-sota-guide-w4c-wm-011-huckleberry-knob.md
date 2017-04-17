@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4cwm-011-huckleberry-knob
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Huckleberry Knob
+#### Drive Guide - Huckleberry Knob
 
 * **Duration**: 3:15
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/lu3Sa
@@ -29,7 +29,7 @@ Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: Murphy, NC
     * Dinner
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 
 	* Up: 0:25 (1 mile, climb 400'); Down: 0:20
@@ -43,12 +43,12 @@ Drive to Trailhead & Trail Guide
     * Trailhead: 35.314, -83.991
     * Summit: 35.3221, -83.9938
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: no
 * Space to guy mast: yes
 * Cell coverage: AT&T=no; Vzn=OK; APRS=unknown
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Hemlock Knob

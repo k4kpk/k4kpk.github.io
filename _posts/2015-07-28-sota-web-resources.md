@@ -41,7 +41,7 @@ Like many Yahoo groups, a popular pastime is complaining about Yahoo.  If you vi
 
 **My SOTA Site - Somewhat Helpful**
 
-[k4kpk.com/content/sota-menu](http://k4kpk.com/content/sota-menu) may also be of interest.  It has how-to information, an archive of newsletter articles, and a library of trip plans for southeastern summits.
+[k4kpk.com/content/sota-menu](/content/sota-menu) may also be of interest.  It has how-to information, an archive of newsletter articles, and a library of trip plans for southeastern summits.
 
 **AR**
 

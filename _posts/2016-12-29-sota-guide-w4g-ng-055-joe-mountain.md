@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4gng-055-joe-mountain
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Joe Mountain (W4G/NG-055) from Glassy Mountain (W4G/NG-031)
+#### Drive Guide - Joe Mountain (W4G/NG-055) from Glassy Mountain (W4G/NG-031)
 * **Duration**: 0:45, 16 miles
 * **Google Maps**: URL https://goo.gl/maps/J9XHrJCJjQU2
 * **Directions**:
@@ -20,7 +20,7 @@ Drive to Trailhead & Trail Guide
         * At 100' bear left (uphill)
     * Trailhead is closed road on L blocked by dirt hump.
 
-####Drive Guide - Joe Mountain from Atlanta
+#### Drive Guide - Joe Mountain from Atlanta
 
 * **Duration**: 1:55, 99 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: https://goo.gl/maps/1aK4aYkBdXU2
@@ -40,7 +40,7 @@ Drive to Trailhead & Trail Guide
 * **Food**
     * Last McDonalds: Cornelia, on Level Grove Rd, just BEFORE Cornelia and your exit to US-441.
 
-####Drive Guide - Joe Mountain TO Atlanta
+#### Drive Guide - Joe Mountain TO Atlanta
 
 * **Duration**: 1:55
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -53,7 +53,7 @@ Drive to Trailhead & Trail Guide
     * R on US-23 S / US-441 S and go 45.8
     * I-985 South to I-285 West
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**:
 * **Navigation**
@@ -67,12 +67,12 @@ Drive to Trailhead & Trail Guide
     * Trailhead: 34.77798,-83.48015
     * Summit: 34.777, -83.4849
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
 * Cell coverage: ATT 2016 marginal but adequate SMS at summit; good cell data in car at trailhead
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Glassy Mountain W4G/NG-031

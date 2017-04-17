@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4cwm-027-nettle-creek-bald
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Nettle Creek Bald from Cowee Bald
+#### Drive Guide - Nettle Creek Bald from Cowee Bald
 * **Duration**: 1:50, 60 miles (actual 2014 drive time)
 * **Google Maps**: http://goo.gl/maps/VHp0e
 * **Directions**:
@@ -27,12 +27,12 @@ Drive to Trailhead & Trail Guide
 	* Park on Left.  Small sign on L, "Thomas Divide Trail"
 
 
-####Drive Guide - Nettle Creek Bald from Clingman's Dome
+#### Drive Guide - Nettle Creek Bald from Clingman's Dome
 
 * **Duration**: 0:25
 * **Google Maps**: http://goo.gl/maps/p6AqR
 
-####Drive Guide - Nettle Creek Bald from Atlanta
+#### Drive Guide - Nettle Creek Bald from Atlanta
 
 * **Duration**: 3:00
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/ZALRL
@@ -44,7 +44,7 @@ Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: 
     * Dinner
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 2.2 miles, 1:15 in, 1:00 out (comfortable) or 0:50 out (hurrying but not running)
 * **Navigation**
@@ -55,12 +55,12 @@ Drive to Trailhead & Trail Guide
     * Trailhead: 35.58578,-83.39884
     * Summit: 35.5666, -83.3819
     
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: yes
 * Space to guy mast: yes
 * Cell coverage: VZN=yes, AT&T not tested
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * 

@@ -5,7 +5,7 @@ title: Propagation Forecasts and SOTA
 created: 1385478716
 redirect_from: /content/propagation-forecasts-and-sota
 ---
-Because "space weather," caused by events on the sun, impacts radio propagation, some people like to check the propagation forecast before heading out on a SOTA activation.  There are a number of sites which put together a forecast.  I've embedded some of them at my [Radio Happiness Forecast page](http://k4kpk.com/content/radio-happiness-forecast).
+Because "space weather," caused by events on the sun, impacts radio propagation, some people like to check the propagation forecast before heading out on a SOTA activation.  There are a number of sites which put together a forecast.  I've embedded some of them at my [Radio Happiness Forecast page](/content/radio-happiness-forecast).
 
 This page is ironically named.  So far, I've found little value in the propagation forecast.  I've had bad days when the forecast was good and vice versa.  Despite the fact they are caled "forecasts," they really report on how propagation should be **right now**.  The values change between the time I leave the house at 6 A.M. and when I activate the summit at 1 P.M. (for example).
 

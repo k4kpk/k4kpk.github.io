@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4cwm-055-barnett-knob
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Barnett Knob from Atlanta
+#### Drive Guide - Barnett Knob from Atlanta
 
 Note: This looks to be just outside parkway land, on Cherokee territory.
 
@@ -28,7 +28,7 @@ Note: This looks to be just outside parkway land, on Cherokee territory.
 * **Food**
     * Last McDonalds: Cherokee
 
-####Drive Guide - Barnett Knob from Bunches Bald
+#### Drive Guide - Barnett Knob from Bunches Bald
 * Duration: 
 * Head back the way you came and go 0.1
 * At the green shed there's a 3-way fork plus a 90 degree left.
@@ -41,7 +41,7 @@ Note: This looks to be just outside parkway land, on Cherokee territory.
 * Park on dirt road to left at 35.52482,-83.22941
 * BRP MM 462.5
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.6 miles; 0:16 up, 0:08 down (hurrying)
 * **Navigation**
@@ -53,13 +53,13 @@ Note: This looks to be just outside parkway land, on Cherokee territory.
     * Trailhead: 35.52482,-83.22941
     * Summit: 35.52450,-83.23630
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes, just off the summit.
 * Space to guy mast: Yes
 * Cell coverage: AT&T:unknown; VZN=Yes; APRS:unknown
 * Unique features: Fire tower and antenna towers on top
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Waterrock Knob, Bunches Bald

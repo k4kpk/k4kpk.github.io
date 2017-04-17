@@ -16,7 +16,7 @@ Resistors in parallel:
 Voltage divider (using resistors in series):
 \\( v_1=\frac{R_1}{R_1+R_2}v \\)
 
-![Voltage divider](http://k4kpk.com/sites/k4kpk.com/files/ebook/Voltage-Divider.png)
+![Voltage divider](/files/Voltage-Divider.png)
 
 * \\( v_1 \\) = The voltage across the first resistor
 * v = The voltage across both resistors
@@ -24,7 +24,7 @@ Voltage divider (using resistors in series):
 Current divider (using resistors in parallel):
 \\( i_1=\frac{R_2}{R_1+R_2}i \\)
 
-![Current divider](http://k4kpk.com/sites/k4kpk.com/files/ebook/Current-Divider.png)
+![Current divider](/files/Current-Divider.png)
 
 * \\( i_1 \\) = The current through the first resistor.
 

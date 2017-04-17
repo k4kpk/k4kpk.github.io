@@ -5,7 +5,7 @@ title: I Always Activate Mount Stupid
 created: 1466965234
 redirect_from: /ebook/sota-ascent/i-always-activate-mount-stupid/i-always-activate-mount-stupid
 ---
-![Mt Everest](/sites/k4kpk.com/files/ebook/Mount%20Everest.png)
+![Mt Everest](/files/Mount%20Everest.png)
 
 Practice makes perfect... but operating from a summit makes me stupid.  I thought I'd made every possible error on an activation by now, but I nearly ruined yesterday's activation with a new one.  Let's take a look at why mistakes are so common on an activation, and how to avoid them or recover when they occur.
 

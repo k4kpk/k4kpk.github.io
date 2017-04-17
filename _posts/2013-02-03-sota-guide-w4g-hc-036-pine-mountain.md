@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4ghc-036-pine-mountain
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide
+#### Drive Guide
 
 * **Duration**: 0:45 from Atlanta
 * **Google Maps** URL from I-285 at 33.91819, -84.33747: http://goo.gl/maps/2hplA
@@ -25,7 +25,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **On the way home** (scouting/errands):
     * None planned/recommended
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:50
 * **Navigation**
@@ -37,9 +37,9 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Pine Mountain west parking lot = 34.17534, -84.75366
     * Beginning of Red Trail = 34.17841, -84.74715
     * Summit = 34.17680, -84.74500
-    * [GPX](http://k4kpk.com/sites/k4kpk.com/files/Pine%20Mountain.GPX)
+    * [GPX](/files/Pine%20Mountain.GPX)
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Low trees near summit.  May have to zigzag your wire.
 * Space to guy mast: Yes.  I bungeed mine to a crooked tree.
@@ -47,7 +47,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * Unique features:
     * View.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Kennesaw Mountain
 * Vineyard Mountain

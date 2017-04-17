@@ -5,10 +5,10 @@ title: 'SOTA Activation Report: W4G/HC-002 - Big Bald Mountain'
 created: 1361152517
 redirect_from: /content/sota-activation-report-w4ghc-002-big-bald-mountain
 ---
-#####Trip of 2013.02.17
+##### Trip of 2013.02.17
 * Succeeded: Yes
 * First-activation: Yes
-* See my trip planning guide at: [SOTA Guide - W4G/HC-002 - Big Bald Mountain](http://k4kpk.com/sites/k4kpk.com/files/IMG_0177_low_res_0.jpg)
+* See my trip planning guide at: [SOTA Guide - W4G/HC-002 - Big Bald Mountain](/files/IMG_0177_low_res_0.jpg)
 
 Commentary:
 
@@ -23,7 +23,7 @@ Later, I encountered another creek and managed to cross it dry.  As I was breath
 It was a long, but not particularly difficult hike to Horsepen Gap.  From there, it was 0.7 miles bushwhacking up the ridge to the summit.  The first half of this bushwhack is steep and was a bear.  The second half was not too bad.  It is obvious when you reach the general area of the summit, but it is a broad and not sharply defined.
 
 I literally tripped over the benchmark for the summit!
-![](http://k4kpk.com/sites/k4kpk.com/files/IMG_0177_low_res.jpg)
+![](/files/IMG_0177_low_res.jpg)
 
 I had a tough time reaching chasers.  I don't know why.  I used the same antenna and it was hung very similar to my successful summit last week.  Both times, I used a 30 foot, end-fed, with a 9-to-1 UNUN, and a 33 foot, ground-level counterpoise.  The antenna was almost vertical (with about a 15 degree slope, and the base of the antenna 2-3 feet off the ground.  I'm not certain, but I might see a pattern of more chasers on Saturdays than on Sundays, or it could have been that many chasers were participating in the big CW contest today, or it could just have been a fluke of propagation.
 

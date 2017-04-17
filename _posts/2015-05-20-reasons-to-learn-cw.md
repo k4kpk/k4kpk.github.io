@@ -5,8 +5,6 @@ title: Reasons to Learn CW
 created: 1432142563
 redirect_from: /ebook/sota-ascent/reasons-learn-cw/reasons-learn-cw
 ---
-*Suggested Title: SOTA: Reasons to Learn CW*
-
 **CW Brings Certain Advantages to SOTA**
 
 You can be a fine SOTA operator using voice modes and you can achieve [Mountain Goat](http://www.sota.org.uk/Awards) or [Shack Sloth](http://www.sota.org.uk/Awards) status using SSB or FM.  Shucks, you could succeed using RTTY or JT65 if you were determined, but SOTA has some powerful motivators for learning CW.
@@ -34,7 +32,7 @@ What this means is that all you have to do once you are set up on a summit is to
 There are other ways to get spotted.  
 
 * You can call CQ until a chaser happens across you and spots you on SOTAWatch.  
-* You can [spot yourself via a SMS text message](http://k4kpk.com/content/sota-self-spot-sms-usa) (if you have cell service from the top of the mountain).  You can [spot yourself via APRS](http://k4kpk.com/content/sota-self-spot-aprs) (if you have line of site to an APRS station).  
+* You can [spot yourself via a SMS text message](/content/sota-self-spot-sms-usa) (if you have cell service from the top of the mountain).  You can [spot yourself via APRS](/content/sota-self-spot-aprs) (if you have line of site to an APRS station).  
 
 But with RBNGate, you just sit down, start calling CQ using CW, and you get spotted.
 

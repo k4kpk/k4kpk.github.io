@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4ghc-007-grassy-mountain
 ---
 Trip-specific: Grassy Mtn - Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Grassy Mtn
+#### Drive Guide - Grassy Mtn
 
 * **Special**: Take cash ($2 in 2013) to pay parking fee.
 * **Duration**: 2:15
@@ -91,13 +91,13 @@ Trip-specific: Grassy Mtn - Drive to Trailhead & Trail Guide
     * trailhead at 34.53196, -84.35127 (summit is W) - Indian Trail Dr, Jasper
     * There are two ends to Monument Dr.  If one end is gated, maybe the other isn't?  Maybe park at Sequoyah Lake (Lake Sequoyah Trail, Jasper) and hike Monument Rd from there?
 
-####Trail Guide - Gravel Road From Overflow Camping ("Gravel Road")
+#### Trail Guide - Gravel Road From Overflow Camping ("Gravel Road")
 
 * **Duration**: 0:40
 * **Navigation**: Just follow the gravel road to the fire tower at the summit.
 
 
-####Trail Guide - Hiking Trails Past the Dam ("Trails")
+#### Trail Guide - Hiking Trails Past the Dam ("Trails")
 
 * **Duration**: 1:20
 * **Navigation**
@@ -132,7 +132,7 @@ Trip-specific: Grassy Mtn - Drive to Trailhead & Trail Guide
         * Trail joins road: 34.86708, -84.66740 -- Elevation: 3614
             * Steepness ends.
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes, around edges of clearing.
 * Space to guy mast: Yes.
@@ -144,6 +144,6 @@ Trip-specific: Grassy Mtn - Drive to Trailhead & Trail Guide
 * Note that there are flush toilets at the picnic area at Lake Conasauga.  You have to pay $2 to park there, and don't forget that the picnic area isn't open for the full March-December season that the road is open.
 
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Bald Mountain

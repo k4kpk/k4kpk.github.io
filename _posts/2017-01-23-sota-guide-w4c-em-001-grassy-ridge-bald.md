@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4cem-001-grassy-ridge-bald
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Grassy Ridge Bald from Atlanta
+#### Drive Guide - Grassy Ridge Bald from Atlanta
 
 * **Duration**: 4:45  (Google says it is 4:20.  My 2015 experience is that you need 4:45 (plus any time for pit stops).
 * **Google Maps** URL: https://goo.gl/maps/QKIHd
@@ -27,7 +27,7 @@ Drive to Trailhead & Trail Guide
     * Last McDonalds: 19E in Burnsville, NC; just before you turn L on NC-197.
     * Penultimate McDonalds: Weaverville, NC; I-26 exit 19B.
 
-####Drive Guide - Grassy Ridge Bald from Knoxville, TN
+#### Drive Guide - Grassy Ridge Bald from Knoxville, TN
 
 * **Duration**: 2:35
 * **Google Maps** URL: 
@@ -46,7 +46,7 @@ Drive to Trailhead & Trail Guide
     * Last McDonalds: Exits 13, 19, 23 along I-26 between I-81 and US-321.
     * Penultimate McDonalds: Exit 23 on I-81 between Knoxville and Kingsport.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 2.4 miles, 1:30 up and 1:10 down (actual times in 2015, first summit of the day)
 * **Navigation**
@@ -56,7 +56,7 @@ Drive to Trailhead & Trail Guide
 * **Trailhead altitude**: 5510 @ 36.1064, -82.1104
 * **Summit altitude**: 6180 @ 36.0998, -82.0804
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Few trees on top. Some off-summit in the activation zone.
 * Space to guy mast: yes

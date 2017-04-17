@@ -8,13 +8,13 @@ redirect_from: /content/sota-activation-report-w4cwm-001-clingmans-dome
 
 SOTA Activation Report: W4C/WM-001, Clingmans Dome
 ----------------------------------------------
-####Trip of 2013.07.28
+#### Trip of 2013.07.28
 * Succeeded: Yes/No
 * First-activation: Yes/No
 * Propagation forecast on departure:
 * Propagation forecast on return:
 
-See my trip planning guide at: [SOTA Guide: W4C/WM-001, Clingmans Dome](http://k4kpk.com/content/sota-guide-w4cwm-001-clingmans-dome)
+See my trip planning guide at: [SOTA Guide: W4C/WM-001, Clingmans Dome](/content/sota-guide-w4cwm-001-clingmans-dome)
 
 
 Commentary:

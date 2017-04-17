@@ -8,13 +8,13 @@ redirect_from: /content/sota-activation-report-w4ghc-001-cowpen-mountain
 
 SOTA Activation Report: W4G/HC-001 - Cowpen Mountain
 ----------------------------------------------
-####Trip of 2013.03.08
+#### Trip of 2013.03.08
 * Succeeded: Yes
 * First-activation: Yes
 
 See my trip planning guide at
 
-######Commentary:
+###### Commentary:
 Yesterday was a very good day.  I almost got my car stuck twice, the trail which some maps showed wasn't there, I got sick and my hiking companion remained sick -- but I talked with British Columbia to the northwest and with Spain and the Canary Islands to the east!
 
 Cowpen Mountain is in the Cohutta Wilderness Area of north Georgia, on a gated dirt road.  I learned this the hard way on my first attempt, so I subscribed to the Forest Service's "Alerts For Chattahoochee-Oconee National Forest" RSS feed.  The feed confirmed that the gates were opened, as scheduled, on March 1.  (I didn't want to compete with the big contest on the weekend of March 2-3 so I didn't go last weekend.)  My boys had a school holiday on March 8, the weather forecast called for 0% chance of rain with a high of 50, so this looked like a perfect opportunity.
@@ -48,12 +48,12 @@ Thank you chasers:
 * WH6LE
 
 - - -
-####Trip of 2013.01.20
+#### Trip of 2013.01.20
 * Succeeded: No
 * First-activation: N.A.
 
 
-See my trip planning guide at: [SOTA Guide - xxx/yy-000 - SummitName](http://k4kpk.com/content/????)
+See my trip planning guide at: [SOTA Guide - xxx/yy-000 - SummitName](/content/????)
 
 Commentary:
 

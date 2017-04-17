@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4ccm-007-craggy-dome
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Craggy Dome From Atlanta
+#### Drive Guide - Craggy Dome From Atlanta
 
 NOTE: I've decided this is such a miserable hike and an ovegrown summit that after activating it twice, I'm not going to activate it again -- even for 10 points and even to make a triple-header possible.  It isn't any fun.
 
@@ -31,7 +31,7 @@ NOTE: I've decided this is such a miserable hike and an ovegrown summit that aft
     * Last McDonalds: Just after L on US-25. (Gas/food/Ingles with car wash/Walmart.)
     * Penultimate McDonalds: 146 E (exit 37) - mini-McDonalds at gas station
 
-####Drive Guide - Craggy Dome From Rice Knob
+#### Drive Guide - Craggy Dome From Rice Knob
 * **Duration**: 0:30, 13.9 miles
 * **Directions**:
     * Downhill on Elk Trail and go 0.3
@@ -41,7 +41,7 @@ NOTE: I've decided this is such a miserable hike and an ovegrown summit that aft
         * Past Craggy Gardens visitor center on L. (Restrooms here)
         * Park in small, unlined lot on R at Bullhead Gap (1.1 past visitor center)
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.5 miles, 0:35 up, 0:35 down (2014.09.20); 0:50 UP, 0:40 down (2015.07.11)
 * **Navigation**
@@ -58,7 +58,7 @@ NOTE: I've decided this is such a miserable hike and an ovegrown summit that aft
     * MST post: 35.71009,-82.36489
     * Leave MST: 35.71008,-82.36472
 
-####Summit Guide
+#### Summit Guide
 
 * There is no real space to operate on the summit.  There is a too-small rock in the middle of the trail, which is the only 'clearing' you can sit in.
 * Hang antenna from tree: No. Dense mountain laurel on summit.

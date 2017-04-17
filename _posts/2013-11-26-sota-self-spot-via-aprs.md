@@ -27,4 +27,4 @@ Note:
 * You do have to pre-register.  Send an email to misc at g0lgs.co.uk  (that's at g0Lgs).  I sent a few extra words, so it would be clear I was not a robot.  Be sure to provide your call sign.
 * I've been asked whether the content must be upper/lower case.  I don't know.  In fact, I don't actually know how to switch upper/lower case on my HT, so it seems unlikely that case matters.
 
-See also: [SOTA Self-spot Via SMS](http://k4kpk.com/content/sota-self-spot-sms-usa)
+See also: [SOTA Self-spot Via SMS](/content/sota-self-spot-sms-usa)

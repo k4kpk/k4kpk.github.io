@@ -10,13 +10,13 @@ I wanted a 15V battery pack for my Elecraft KX3, made with NiMh AA batteries.  T
 <table style="border-style:hidden;">
 <tr>
 <td>
-<img src="http://k4kpk.com/sites/k4kpk.com/files/wand.png">
+<img src="/files/wand.png">
 </td>
 <td>
-<img src="http://k4kpk.com/sites/k4kpk.com/files/uncapped.PNG">
+<img src="/files/uncapped.PNG">
 </td>
 <td>
-<img src="http://k4kpk.com/sites/k4kpk.com/files/capped.PNG">
+<img src="/files/capped.PNG">
 </td>
 </table>
 This isn't exactly how I did it, but it is how I would do it, if I were to do it again.

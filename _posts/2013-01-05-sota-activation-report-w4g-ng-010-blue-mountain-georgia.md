@@ -10,11 +10,11 @@ A beautiful winter day in Georgia, an easy drive, and a well-maintained, easy to
 
 My eldest son came along on this trip.  (He's not a ham.)  He is always a delight to have as a hiking companion and a SOTA buddy.  He copies call signs and signal reports better than me.  I was also joined by a new trail companion.  I call him K4KPK/P.  He's a little confused abou how he came to be on top of Mt. KX3:
 
-![](http://k4kpk.com/sites/k4kpk.com/files/IMG_0140.JPG)
+![](/files/IMG_0140.JPG)
 
 Here's K4KPK/P in "antenna support configuration:"
 
-![](http://k4kpk.com/sites/k4kpk.com/files/IMG_0141.JPG) 
+![](/files/IMG_0141.JPG) 
 
 A surprising number of hikers were out for a Georgia winter day.  Four on our side of the highway, and a gaggle of Boy Scouts headed the other direction.
 
@@ -77,7 +77,7 @@ Thank you chasers!  I am grateful that you were there when I called CQ.
 * GPS waypoints are not provided for this trip.  The trail is 100% obvious and it is blazed.  Just pay attention at the double-blazes which will ensure you don't miss the switchbacks.
 *  
 ### GPX trace for the hike ###
-http://k4kpk.com/sites/k4kpk.com/files/SOTA%20Blue%20Mountain.GPX
+/files/SOTA%20Blue%20Mountain.GPX
 
 ### Time Log ###
 * 7:30 - Left Atlanta

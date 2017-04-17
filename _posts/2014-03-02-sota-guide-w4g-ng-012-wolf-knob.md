@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4gng-012-wolf-knob
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Wolf Knob from Atlanta
+#### Drive Guide - Wolf Knob from Atlanta
 
 * **Duration**: 2:15
     * Measured at 0:35 from Clayton to Patterson Gap
@@ -37,7 +37,7 @@ Drive to Trailhead & Trail Guide
 		* It comes just BEFORE Cornelia and your exit to US-441.
     * Dinner
 
-####Drive Guide - Wolf Knob from Rabun Bald
+#### Drive Guide - Wolf Knob from Rabun Bald
 
 * **Duration**: 0:45
 * **Google Maps**: http://goo.gl/maps/xBeKx
@@ -56,7 +56,7 @@ Drive to Trailhead & Trail Guide
     	* Park at Patterson Gap.  If you go 0.2 too far, the road makes a sharp 180 to the R.
 
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:55
 * **Navigation**
@@ -69,7 +69,7 @@ Drive to Trailhead & Trail Guide
     * Trailhead: 34.96983, -83.47713
     * Summit: 34.96425, -83.47421
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:
@@ -77,6 +77,6 @@ Drive to Trailhead & Trail Guide
 * Unique features:
     * x
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Glassy Mtn; Blackrock Mtn

@@ -7,4 +7,4 @@ redirect_from: /ebook/rf-makes-me-grumpy/chapter-name-undefined/selecting-system
 ---
 Need to write this up...
 
-![Selecting a Systematic Solution Method](http://k4kpk.com/sites/k4kpk.com/files/ebook/Systematic-Methods.png)
+![Selecting a Systematic Solution Method](/files/Systematic-Methods.png)

@@ -5,7 +5,7 @@ title: SOTA Guide - W4G/HC-017, Buckeye Knob
 created: 1389747945
 redirect_from: /content/sota-guide-w4ghc-017-buckeye-knob
 ---
-####Drive Guide - Buckeye Knob from Atlanta
+#### Drive Guide - Buckeye Knob from Atlanta
 
 * **Duration**: 1:45
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -30,7 +30,7 @@ redirect_from: /content/sota-guide-w4ghc-017-buckeye-knob
     * Penultimate McDonalds: GA-400 at GA-53 (38 miles north of I-285)
     * Dinner: Smoke-n-Gold in Dahlonega
 
-####Drive Guide - Buckeye Knob from Akin Mtn
+#### Drive Guide - Buckeye Knob from Akin Mtn
 
 * **Duration**: 
 * **Google Maps**: http://goo.gl/maps/h64zm
@@ -45,7 +45,7 @@ redirect_from: /content/sota-guide-w4ghc-017-buckeye-knob
         * Note: At about 3.5, keep L.
     * Park at campsite on R, just pass Buckeye Knob (on L) just before Duncan Ridge Trail (trailhead) on L.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.7 mile, 0:30
 * **Navigation** 
@@ -59,12 +59,12 @@ redirect_from: /content/sota-guide-w4ghc-017-buckeye-knob
     * Trailhead: 34.78459,-83.99194
     * Summit: 34.7873, -83.9982
     
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: yes
 * Space to guy mast: yes
 * Cell coverage: AT&T=OK, Vzn=OK, APRS=OK
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Coosa Bald, Sheriff Knob, Akin Mountain

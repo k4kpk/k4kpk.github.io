@@ -8,11 +8,11 @@ redirect_from: /content/sota-activation-report-w4cwm-020-stratton-bald
 
 SOTA Activation Report: W4C/WM-020 - Stratton Bald
 ----------------------------------------------
-####Trip of 2012.10.06-2012.10.07
+#### Trip of 2012.10.06-2012.10.07
 * Succeeded: Yes
 * First-activation: Yes
 
-See my trip planning guide at: [SOTA Guide - W4C/WM-020 - Stratton Bald](http://k4kpk.com/content/sota-guide-w4cwm-020-stratton-bald)
+See my trip planning guide at: [SOTA Guide - W4C/WM-020 - Stratton Bald](/content/sota-guide-w4cwm-020-stratton-bald)
 
 
 Commentary:

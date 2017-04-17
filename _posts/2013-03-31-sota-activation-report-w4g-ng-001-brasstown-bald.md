@@ -7,11 +7,11 @@ redirect_from: /content/sota-activation-report-w4gng-001-brasstown-bald
 ---
 SOTA Activation Report: W4G/NG-001, Brasstown Bald
 ----------------------------------------------
-####Trip of 2013.03.30
+#### Trip of 2013.03.30
 * Succeeded: Yes
 * First-activation: No
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-001, Brasstown Bald](http://k4kpk.com/content/sota-guide-w4gng-001-brasstown-bald)
+See my trip planning guide at: [SOTA Guide: W4G/NG-001, Brasstown Bald](/content/sota-guide-w4gng-001-brasstown-bald)
 
 
 Commentary:

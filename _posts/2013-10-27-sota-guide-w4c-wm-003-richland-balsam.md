@@ -9,7 +9,7 @@ redirect_from: /content/sota-guide-w4cwm-003-richland-balsam
 Richland Balsam - Drive to Trailhead & Trail Guide
 -------------------------------------------------
 
-####Drive Guide - Richland Balsam from Atlanta
+#### Drive Guide - Richland Balsam from Atlanta
 
 * **Duration**: 165 miles, 2:55
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/nmFuq
@@ -29,7 +29,7 @@ Richland Balsam - Drive to Trailhead & Trail Guide
     * Penultimate McD: Clayton, GA (busy on Saturday mornings)
     * Antepenultimate: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
-####Drive Guide - Richland Balsam from Waterrock Knob
+#### Drive Guide - Richland Balsam from Waterrock Knob
 * **Duration**: 33 minutes, 20.5 miles
 * **Google Maps** https://goo.gl/maps/AEYG8zctpb32
 * **Directions**:
@@ -37,14 +37,14 @@ Richland Balsam - Drive to Trailhead & Trail Guide
     * L onto Parkway and go 20.2
     * L into parking
 
-####Drive Guide - Richland Balsam from Barnett Knob
+#### Drive Guide - Richland Balsam from Barnett Knob
 * **Duration**: 51 minutes, 31.2 miles
 * **Google Maps** 
 * **Directions**:
     * Right turn on Parkway and go 31.2
     * L into parking
 
-####Drive Guide - Richland Balsam from Steestachee Bald
+#### Drive Guide - Richland Balsam from Steestachee Bald
 
 * **Duration**: 0:10, 5.7 miles
 * **Directions**:
@@ -53,7 +53,7 @@ Richland Balsam - Drive to Trailhead & Trail Guide
     * Park in lot on LEFT (same side as mountain). 
         * Sign: Haywood Jackson Overlook. Elevation 6020".  No restroom.
 
-####Drive Guide - Richland Balsam TO Atlanta
+#### Drive Guide - Richland Balsam TO Atlanta
 
 * **Duration**: 0:00, xx miles
 * **Directions**:
@@ -64,7 +64,7 @@ Richland Balsam - Drive to Trailhead & Trail Guide
     * Exit R to US-441 S (again) and go 73
     * Follow I-985 to I-85 to I-285
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.6 miles.  0:25 up, 0:20 down (Not hurrying.)
 * **Navigation**
@@ -78,7 +78,7 @@ Richland Balsam - Drive to Trailhead & Trail Guide
     * Trailhead: 35.36005, -82.98707
 	* Summit: 35.36750, -82.99030
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes, but vertical EFHW will not be fully vertical.
 * Space to guy mast: Yes.  I bungeed my mast to the you-are-at-summit sign.

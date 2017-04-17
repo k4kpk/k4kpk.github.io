@@ -41,7 +41,7 @@ For my first two years as an activator, I used rechargeable NiMh (Nickel-metal H
 * Down-side: Slightly lower voltage than alkalines.
 * Up-side: Simple charging protocol; inexpensive.
 
-I use a KX3.  It is designed to operate at 5 watts with 8 internal NiMh cells, but it will operate at 12 watts if I feed it 14-15 volts.  This requires 11 NiMh cells, so I made an [custom external battery holder](http://k4kpk.com/content/15v-power-wand-kx3).
+I use a KX3.  It is designed to operate at 5 watts with 8 internal NiMh cells, but it will operate at 12 watts if I feed it 14-15 volts.  This requires 11 NiMh cells, so I made an [custom external battery holder](/content/15v-power-wand-kx3).
 
 **High-tech, Lightweight**
 
@@ -94,7 +94,7 @@ Up-side:
 **Wrap-up**
 
 * Start with what you have.  If you can get it to the summit, it is good enough to get started.
-* If you've got nothing suitable, AA NiMh cells are a good start.  It is robust technology. You can combine cells with a [power wand](http://k4kpk.com/content/15v-power-wand-kx3) or mix real cells with dummy cells in a commercial battery holder to provide the desired power.
+* If you've got nothing suitable, AA NiMh cells are a good start.  It is robust technology. You can combine cells with a [power wand](/content/15v-power-wand-kx3) or mix real cells with dummy cells in a commercial battery holder to provide the desired power.
 * To get maximum power for minimum weight, use LiFePO4.
 * If you want absolute minimum weight, get one of KD1JV's radios and use a 9-volt disposable lithium battery.
 

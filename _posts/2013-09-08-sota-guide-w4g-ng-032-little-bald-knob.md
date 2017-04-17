@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4gng-032-little-bald-knob
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Buzzard Knob and Little Bald Knob Double-header
+#### Drive Guide - Buzzard Knob and Little Bald Knob Double-header
 
 * **Duration**: 2:00
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/9CYiQ
@@ -25,7 +25,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **Notes**
     * You cannot reach Cowart Gap via Mr. Bert Road in a passenger vehicle.  You may be able to reach it via ATV.  Road becomes  a wide trail by the time it reaches Cowart Gap.
 
-####Trail Guide
+#### Trail Guide
 
 * **Durations (Buzzard, then Little Bald 2013)**: 3:00 - 3.5 Miles total, but it includes significant bushwhack.
     * 2:30 - 3.3 miles, Dicks Creek Gap to Buzzard Knob. 1100' total climb + 400' dip to Cowart Gap. Medium-difficulty bushwhack in summer.
@@ -52,12 +52,12 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Little Bald Knob: 34.9133, -83.6041
     * Buzzard Knob: 34.9335, -83.6025
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Heavy vegetation makes it challenging.
 * Space to guy mast: Heavy vegetation makes it challenging.
 * Cell coverage: Good. AT&T had 3G internet. VZN SMS good. No APRS msgs or beacons worked.
 
-####Scouting After Hike
+#### Scouting After Hike
 
 * Scout the drive to Rock Mtn (NG-024) via Finney Creek Rd.  (You can't get there via Courthouse Gap Rd, because it becomes a private road near its start.)

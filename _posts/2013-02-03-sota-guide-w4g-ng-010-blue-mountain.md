@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4gng-010-blue-mountain
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide
+#### Drive Guide
 
 * **Duration**: 2:00 (actual, 1/5/2013)
 * **Google Maps** URL from I-285 at 33.91819, -84.33747: http://goo.gl/maps/f8Pdz
@@ -29,7 +29,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **On the way home** (scouting/errands):
     * Not this time.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1:10 (actual, 1/5/2013)
 * **Navigation**
@@ -38,9 +38,9 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Portions of the trail require hiker agility.  There are sections of the trail composed almost entirely of large rocks.  If you're frail, this is not a good hike.
 * **GPS tracks/waypoints**:
     * GPS waypoints are not provided for this trip.  The trail is 100% obvious and it is well blazed.  Just pay attention at the double blazes, which will ensure you don't miss a switchback.
-    * GPS trace: [GPX](http://k4kpk.com/sites/k4kpk.com/files/Blue%20Mountain.GPX)
+    * GPS trace: [GPX](/files/Blue%20Mountain.GPX)
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Easy
 * Space to guy mast: Good
@@ -48,6 +48,6 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * Unique features:
     * Busy section of Appalachian Trail.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * None provided.  You really won't need a Plan-B.  The road is paved all the way there, and the trail is easy to find/follow.

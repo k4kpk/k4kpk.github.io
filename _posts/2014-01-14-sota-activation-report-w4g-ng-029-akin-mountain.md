@@ -8,13 +8,13 @@ redirect_from: /content/sota-activation-report-w4gng-029-akin-mountain
 
 SOTA Activation Report: W4G/NG-29, Akin Mountain
 ----------------------------------------------
-####Trip of 2013.11.24
+#### Trip of 2013.11.24
 * Succeeded: Yes
 * First-activation: No
 * Propagation forecast on departure: 40m=fair, 20m=good, 17m=good, S/N=0-1, A=8, K=0, Geomag=inactive
 * Propagation forecast on return: 40m=fair, 20m=good, 17m=good, S/N=0-1, A=2, K=0, Geomag=inactive
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-029, Akin Mountain](http://k4kpk.com/content/????)
+See my trip planning guide at: [SOTA Guide: W4G/NG-029, Akin Mountain](/content/????)
 
 
 Commentary:

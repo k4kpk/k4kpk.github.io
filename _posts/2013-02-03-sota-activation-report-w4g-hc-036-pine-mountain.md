@@ -8,11 +8,11 @@ redirect_from: /content/sota-activation-report-w4ghc-036-pine-mountain
 
 SOTA Activation Report: W4G/HC-036 - Pine Mountain
 ----------------------------------------------
-####Trip of 2012.11.20
+#### Trip of 2012.11.20
 * Succeeded: Yes
 * First-activation: Yes
 
-See my trip planning guide at: [SOTA Guide - W4G/HC-036 - Pine Mountain](http://k4kpk.com/content/sota-guide-w4ghc-036-pine-mountain)
+See my trip planning guide at: [SOTA Guide - W4G/HC-036 - Pine Mountain](/content/sota-guide-w4ghc-036-pine-mountain)
 
 
 Commentary:

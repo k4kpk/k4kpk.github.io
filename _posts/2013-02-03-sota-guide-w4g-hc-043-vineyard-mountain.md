@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4ghc-043-vineyard-mountain
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide
+#### Drive Guide
 
 * **Duration**: 0:45
 * **Google Maps** URL from I-285 at 33.91819, -84.33747: 
@@ -36,7 +36,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **On the way home** (scouting/errands):
     * None planned/recommended.
 
-####Trail Guide (Easy Route - a.k.a. "Eagle Scout Trails")
+#### Trail Guide (Easy Route - a.k.a. "Eagle Scout Trails")
 
 * **Duration**: 0:40
 * **Navigation**
@@ -45,7 +45,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Follow the red-blazed trail up.
     * When you arrive at the cell tower, you're on top.
 
-####Trail Guide (Hard Route)
+#### Trail Guide (Hard Route)
 
 * **Duration**: 1:20
 * **Navigation**
@@ -59,7 +59,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * When you arrive at Alatoona Dam Road, turn right, and you're at the trailhead for the Eagle Scout Trails.
     * From here, follow the Eagle Scout Trails (the 'Easy Route' instructions).
 
-####Trail Guide (My Route Out - All Season.  Risk of getting hassled.)
+#### Trail Guide (My Route Out - All Season.  Risk of getting hassled.)
 
 I'll describe my route out. You could follow it in the opposite direction to get in.  It goes through a gated, not-yet-built subdivision.  I carefully avoided "No Trespassing" signs.
 
@@ -76,7 +76,7 @@ I'll describe my route out. You could follow it in the opposite direction to get
 * Continue heading south, staying in the clearest areas, out from under most of the trees.
 * You'll come to Red Top Mountain Road, and you'll be near the opposite end of the old pavement that you took when you started your hike.
 
-####GPS tracks/waypoints:
+#### GPS tracks/waypoints:
 
 * Red Top Mountain Rd trailhead = 34.14392, -84.73577
 * Eagle Scout Trailhead = 34.16193, 84.73458
@@ -91,7 +91,7 @@ I'll describe my route out. You could follow it in the opposite direction to get
 * Trail indistinct. Just head southish = 34.14497, -84.73545
 * 90 degree right turn, to re-join old pavement = 34.14424, -84.73507
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
@@ -99,7 +99,7 @@ I'll describe my route out. You could follow it in the opposite direction to get
 * Unique features:
     * Cell tower
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Pine Mountain
 * Kennesaw Mountain

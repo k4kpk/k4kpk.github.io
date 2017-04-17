@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4gng-026-ravencliff-knob
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Ravencliff Knob (W4G/NG-026) from Standing Indian (W4C/WM-014)
+#### Drive Guide - Ravencliff Knob (W4G/NG-026) from Standing Indian (W4C/WM-014)
 
 * **Duration**: 1:15 
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -44,7 +44,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: 
     * Dinner
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:30, 0.9 miles
 * **Navigation**
@@ -56,13 +56,13 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Trailhead: 34.93995, -83.92687
     * Summit: 34.943, -83.9158
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: No. Absolutely no vegetation on summit.
 * Space to guy mast: Yes
 * Cell coverage: AT&T good; Verizon Good; APRS good
 * Unique features: FAA VOR (directional beacon) on summit
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * summits listed here with some clue as to where/how

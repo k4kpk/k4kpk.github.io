@@ -9,7 +9,7 @@ Drive to Trailhead & Trail Guide - Black Balsam
 --------------------------------------------------------
 * Parking can be an issue.  At 9 AM on Memorial Day, it was almost unavailable; by 11 AM, even the extra pull-offs about 1/4 mile before the trailhead were full.
 
-####Drive Guide - Black Balsam Knob from Green Knob
+#### Drive Guide - Black Balsam Knob from Green Knob
 
 * **Duration**: 0:15, ? miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -19,7 +19,7 @@ Drive to Trailhead & Trail Guide - Black Balsam
     * R on Black Balsam Rd (Road #815) at BRP mile 420.2 and go 0.7.  Paved but many potholes.
         * Trailhead is on the right.
 
-####Drive Guide - Black Balsam Knob from Atlanta
+#### Drive Guide - Black Balsam Knob from Atlanta
 
 * **Duration**: 3:15, 173 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/A8P0g
@@ -41,7 +41,7 @@ Drive to Trailhead & Trail Guide - Black Balsam
     * Before that: Clayton, GA (busy on Saturday mornings)
     * Before that: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
-####Drive Guide - Black Balsam Knob **to** Atlanta
+#### Drive Guide - Black Balsam Knob **to** Atlanta
 
 * **Duration**: 3:15, 177 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/6RhMP
@@ -58,7 +58,7 @@ Drive to Trailhead & Trail Guide - Black Balsam
     * S on I-85 S
     * Ramp to I-285 W
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:30 up, 0:25 down, 0.7 miles
 * **Navigation**
@@ -69,11 +69,11 @@ Drive to Trailhead & Trail Guide - Black Balsam
     * Trailhead: 35.320654,-82.876193 (along the road - not at the parking for the restroom)
     * Summit: 35.328, -82.8746
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: no
 * Space to guy mast: yes
 * Cell coverage: 2014: No cell; APRS OK. 2016: AT&T Cell + internet 
 * Unique features: a bald bald.
 
-####Plan-B Candidates
+#### Plan-B Candidates

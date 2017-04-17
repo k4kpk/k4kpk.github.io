@@ -8,11 +8,11 @@ redirect_from: /content/sota-activation-report-w4ghc-006-flat-top-mountain
 
 SOTA Activation Report: W4G/HC-006 - Flat Top Mountain
 ----------------------------------------------
-####Trip of 2013.01.20
+#### Trip of 2013.01.20
 * Succeeded: Yes
 * First-activation: No
 
-See my trip planning guide at: [SOTA Guide - W4G/HC-006 - SummitName](http://k4kpk.com/content/sota-guide-w4ghc-006-flat-top-mountain)
+See my trip planning guide at: [SOTA Guide - W4G/HC-006 - SummitName](/content/sota-guide-w4ghc-006-flat-top-mountain)
 
 Commentary:
 

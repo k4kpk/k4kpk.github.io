@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4cwm-010-steestachee-bald
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Steestachee from Atlanta
+#### Drive Guide - Steestachee from Atlanta
 
 * **Duration**: 2:46, 159 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/yTXBE
@@ -26,7 +26,7 @@ Drive to Trailhead & Trail Guide
     * Before that: Clayton, GA (busy on Saturday mornings)
     * Before that: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
-####Drive Guide - Steestachee from Richland Balsam
+#### Drive Guide - Steestachee from Richland Balsam
 
 * **Duration**: 0:10, 5.7 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -35,7 +35,7 @@ Drive to Trailhead & Trail Guide
     * Head NW (toward Richland Balsam, from the parking) on the Parkway.  Go 5.7
     * Parking is on Left. Sign says "Grassy Ridge Mine Overlook".
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.5 miles and 450' climb, 0:35 up, 0:25 down
 * **Navigation**
@@ -52,7 +52,7 @@ Drive to Trailhead & Trail Guide
     * Begin bushwhack: 35.4126,-83.0431
     * Summit: 35.4154, -83.0449
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: yes
 * Space to guy mast: yes

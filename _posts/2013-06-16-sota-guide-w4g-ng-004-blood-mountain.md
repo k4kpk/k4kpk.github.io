@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4gng-004-blood-mountain
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Blood Mountain
+#### Drive Guide - Blood Mountain
 
 * **Duration**: 1:35
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/ESfYO
@@ -24,7 +24,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Dinner: Smokin' Gold Barbecue - 59 East Main St, Dahlonega, GA.
 * **On the way home** (scouting/errands): none
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1:50
 * **Navigation**
@@ -36,7 +36,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Trailhead: 34.74212, -83.92272
     * Summit: 34.7398, -83.937
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Not on *top* of the summit; possible within activation zone.
 * Space to guy mast: Not on *top* of the summit; possible within activation zone.
@@ -48,7 +48,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Walasi-Yi center near trailhead sells provisions
     * The area is very popular.  Don't expect privacy.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Levelland Mountain - Opposite direction on AT at Walasi-Yi
 * Sheriff Knob

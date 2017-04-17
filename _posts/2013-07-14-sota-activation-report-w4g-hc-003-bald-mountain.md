@@ -9,7 +9,7 @@ redirect_from: /content/sota-activation-report-w4ghc-003-bald-mountain
 SOTA Activation Report: W4G/HC-003, Bald Mountain
 ----------------------------------------------
 
-####Trip of 2013.07.14
+#### Trip of 2013.07.14
 * Succeeded: Yes
 * First-activation: No
 * Propagation forecast on departure: 40 fair, 30 good, 20 good, 17 fair.  Noise level: not captured.
@@ -17,7 +17,7 @@ SOTA Activation Report: W4G/HC-003, Bald Mountain
 * Multiple people commented that the bands were very noisy.
 
 
-See my trip planning guide at: [SOTA Guide: W4G/HC-003, Bald Mountain](http://k4kpk.com/content/sota-guide-w4ghc-003-bald-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/HC-003, Bald Mountain](/content/sota-guide-w4ghc-003-bald-mountain)
 
 
 Commentary:

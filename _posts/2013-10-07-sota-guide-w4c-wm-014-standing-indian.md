@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4cwm-014-standing-indian
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Standing Indian from Atlanta
+#### Drive Guide - Standing Indian from Atlanta
 
 * **Duration**: 2:35, 140 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/Xg9UJ
@@ -27,7 +27,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Before that: Clayton, GA (busy on Saturday mornings)
     * Before that: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
-####Drive Guide - Standing Indian **to** Atlanta
+#### Drive Guide - Standing Indian **to** Atlanta
 
 * **Duration**: 2:35, 140 miles
 * **Directions**:
@@ -38,7 +38,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * R onto ramp for 441 South.
     * L onto US-441 / US-23 South to I-985 to I-85.
     
-####Drive Guide - Standing Indian (back route 1 - via Beech Gap) from Atlanta
+#### Drive Guide - Standing Indian (back route 1 - via Beech Gap) from Atlanta
 
 * **Duration**: 2:45, 133 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: https://goo.gl/maps/izJJPAgceFE2
@@ -61,7 +61,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **Food**
 
    
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1:45 up, 1:00 down, 2.6 miles
 * **Navigation**
@@ -87,7 +87,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * At AT intersection (35.0101 -83.52573), turn R.
 * Go 3 miles more to Standing Indian.
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:  You could do a sloper, but there's nothing 35' tall.
 * Space to guy mast: Yes. Easy.

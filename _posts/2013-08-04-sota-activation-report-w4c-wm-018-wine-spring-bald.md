@@ -8,13 +8,13 @@ redirect_from: /content/sota-activation-report-w4cwm-018-wine-spring-bald
 
 SOTA Activation Report: W4C/WM-018, Wine Spring Bald
 ----------------------------------------------
-####Trip of 2013.07.28
+#### Trip of 2013.07.28
 * Succeeded: Yes
 * First-activation: No
 * Propagation forecast on departure:
 * Propagation forecast on return:
 
-See my trip planning guide at: [SOTA Guide: W4C/WM-018, Wine Spring Bald](http://k4kpk.com/content/sota-guide-w4cwm-018-wine-spring-bald)
+See my trip planning guide at: [SOTA Guide: W4C/WM-018, Wine Spring Bald](/content/sota-guide-w4cwm-018-wine-spring-bald)
 
 
 Commentary:

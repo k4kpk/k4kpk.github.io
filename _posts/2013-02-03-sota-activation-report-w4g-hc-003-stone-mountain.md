@@ -7,11 +7,11 @@ redirect_from: /content/sota-activation-report-w4ghc-003-stone-mountain
 ---
 SOTA Activation Report: W4G/HC-003 - Stone Mountain
 ----------------------------------------------
-####Trip of 2012.11.10
+#### Trip of 2012.11.10
 * Succeeded: Yes
 * First-activation: Yes
 
-See my trip planning guide at: [SOTA Guide - W4G/HC-003 - Stone Mountain](http://k4kpk.com/content/sota-guide-w4ghc-003-stone-mountain)
+See my trip planning guide at: [SOTA Guide - W4G/HC-003 - Stone Mountain](/content/sota-guide-w4ghc-003-stone-mountain)
 
 Commentary:
 

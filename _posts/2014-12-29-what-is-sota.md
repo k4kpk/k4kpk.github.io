@@ -48,7 +48,7 @@ __Where can I find out more?__
 * Official site: [http://sotadata.org.uk/](http://sotadata.org.uk/)
 * Georgia SOTA association rules: [http://www.sota.org.uk/docs/ARM-W4G-Georgia.pdf](http://www.sota.org.uk/docs/ARM-W4G-Georgia.pdf)
 * Mailing list: [https://groups.yahoo.com/groups/summits](https://groups.yahoo.com/groups/summits)
-* My site: [http://k4kpk.com/content/sota-menu](http://k4kpk.com/content/sota-menu)
+* My site: [http://k4kpk.com/content/sota-menu](/content/sota-menu)
 * Email me:  My email address is available via [http://www.qrz.com/db/K4KPK](http://www.qrz.com/db/K4KPK).
 * Stay tuned.  This will be a recurring series of articles.
 

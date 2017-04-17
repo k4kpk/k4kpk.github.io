@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4gng-023-big-cedar-mountain
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Big Cedar
+#### Drive Guide - Big Cedar
 
 * **Duration**: 1:30
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/iv36I
@@ -28,7 +28,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **On the way home** (scouting/errands):
     * x
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**:
     * Big Cedar: 1:00; 1.4 miles
@@ -40,7 +40,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Woody Gap: 34.67763, -84.00031
     * Big Cedar Mtn Summit: 34.689, -83.9922
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: yes
 * Space to guy mast: yes
@@ -48,6 +48,6 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * Unique features:
     * Nice view a few tenths before the true summit
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Gooch Mtn & Sassafras Mtn

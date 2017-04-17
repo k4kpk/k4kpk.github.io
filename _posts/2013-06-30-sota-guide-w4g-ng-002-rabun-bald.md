@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4gng-002-rabun-bald
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Rabun Bald
+#### Drive Guide - Rabun Bald
 
 * **Duration**: 2:30
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898:
@@ -48,7 +48,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Last McDonalds: Clayton, GA
 * **On the way home** (scouting/errands):
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1:20 (1.6 mi)
 * **Navigation**
@@ -69,7 +69,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Trailhead: 34.976, -83.3 (Beegum Gap)
     * Summit: 34.9656, -83.2998
 
-####Summit Guide
+#### Summit Guide
 
 * Antenna: The only sensible antenna setup is to climb to the top of the tower and bungee cord a mast to the railing.
     * If you are really stubborn, you can tie one end of your antenna to the railing and run an antenna to one of the trees below the tower.

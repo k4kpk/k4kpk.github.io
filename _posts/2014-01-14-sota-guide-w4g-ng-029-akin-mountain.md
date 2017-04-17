@@ -5,7 +5,7 @@ title: SOTA Guide - W4G/NG-029, Akin Mountain
 created: 1389748283
 redirect_from: /content/sota-guide-w4gng-029-akin-mountain
 ---
-####Drive Guide - Akin Mountain (from Buckeye Knob)
+#### Drive Guide - Akin Mountain (from Buckeye Knob)
 
 * **Duration**: 0:45
 * **Google Maps** 
@@ -20,7 +20,7 @@ redirect_from: /content/sota-guide-w4gng-029-akin-mountain
     * Last McDonalds: None
     * Dinner: Smoke-n-Gold in Dahlonega
 
-####Drive Guide - Akin Mountain (from Atlanta)
+#### Drive Guide - Akin Mountain (from Atlanta)
 
 * **Duration**: 2:05
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/yt2JQ
@@ -40,7 +40,7 @@ redirect_from: /content/sota-guide-w4gng-029-akin-mountain
     * Penultimate McDonalds: GA-400 at GA-53 (38 miles north of I-285)
     * Dinner: Smoke-n-Gold in Dahlonega
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.8 miles, 0:45
 * **Navigation**: Hike on the Duncan Ridge Trail from Mulky Gap. Steady, 700' climb.
@@ -55,12 +55,12 @@ redirect_from: /content/sota-guide-w4gng-029-akin-mountain
     * Trailhead: 34.79906,-84.03993
     * Summit: 34.80030,-84.04960
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
 * Cell coverage: AT&T=good, Vzn=good, APRS=outbound message failed
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Coosa Bald, Sheriff Knob, Buckeye Knob

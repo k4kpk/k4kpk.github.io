@@ -5,13 +5,13 @@ title: 'SOTA Activation Report: W4C/WM-013, Bunches Bald'
 created: 1382908515
 redirect_from: /content/sota-activation-report-w4cwm-013-bunches-bald
 ---
-####Trip of 2013.10.20
+#### Trip of 2013.10.20
 * Succeeded: No
 * First-activation: No
 * Propagation forecast on departure: n.a.
 * Propagation forecast on return: n.a.
 
-See my trip planning guide at: [SOTA Guide: W4C/WM-013, SummitName](http://k4kpk.com/content/sota-guide-w4cwm-013-bunches-bald)
+See my trip planning guide at: [SOTA Guide: W4C/WM-013, SummitName](/content/sota-guide-w4cwm-013-bunches-bald)
 
 
 Commentary:

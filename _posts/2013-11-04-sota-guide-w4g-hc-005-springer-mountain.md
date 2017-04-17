@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4ghc-005-springer-mountain
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Springer Mountain
+#### Drive Guide - Springer Mountain
 
 * Take iPad GPS, pre-loaded with cached maps.
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -39,7 +39,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **On the way home** (scouting/errands):
     * Scout trailhead and road-access to Burnt Mountain (W4G/HC-010)
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1.0 miles, 0:45
 * **Navigation**
@@ -51,7 +51,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Trailhead: 34.63745, -84.19540
     * Summit: 34.62680, -84.19370
     
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes

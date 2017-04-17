@@ -8,7 +8,7 @@ redirect_from: /content/sota-guide-w4ghc-002-big-bald-mountain
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 Assumes seasonal gates are closed, and route is via hiking USFS-338.
-####Drive Guide - Big Bald Mountain (BBM)
+#### Drive Guide - Big Bald Mountain (BBM)
 * **Duration**: 1:45
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/AGglU
 * **Seasonal/Limited Access**: 
@@ -33,7 +33,7 @@ Assumes seasonal gates are closed, and route is via hiking USFS-338.
 * **On the way home** (scouting/errands):
     * None.  This is a hard trip.  You'll be tired.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 3.5 hours, 4 miles via USFS-338 + bushwhack.  3:00 if you can drive the first mile.
     * 3.3 miles on USFS-338, plus 0.7 mile bushwhack from Horsepen Gap to summit.
@@ -63,16 +63,16 @@ Assumes seasonal gates are closed, and route is via hiking USFS-338.
     * Bushwhack half-way = 34.75383, -84.31485
     * Summit = 34.75152, -84.32045
 
-* [GPS Trace from successful February 2013 summit](http://k4kpk.com/sites/k4kpk.com/files/Big_Bald_Mountain_2013_Feb.gpx)
+* [GPS Trace from successful February 2013 summit](/files/Big_Bald_Mountain_2013_Feb.gpx)
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
 * Cell coverage: Yes, barely.  I had to stand up and wait 4 minutes to get a signal.
 * Unique features: None.  Other than being really hard to get to, there's nothing special about this summit.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Rocky Mountain (W4G/HC-008)
     * 10 minute drive from this trailhead http://goo.gl/maps/rXAbP
@@ -96,7 +96,7 @@ Assumes seasonal gates are closed, and route is via hiking USFS-338.
 * Wilson Mountain
     * pre-planning required.  Investigate access at 34.71532, -84.27640 (meeting of Hardslate Rd and Prospectors Pass)
 
-####Alternative Navigation####
+#### Alternative Navigation####
 * There are other possible routes to get there.  They have some advantages.
 * Info on USFS roads in the area.
     * USFS-338 is open for hunting season (March 15 - May 16; Aug 10 - Dec 31).

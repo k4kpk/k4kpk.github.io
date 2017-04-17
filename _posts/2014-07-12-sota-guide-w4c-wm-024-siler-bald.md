@@ -5,7 +5,7 @@ title: SOTA Guide - W4C/WM-024, Siler Bald
 created: 1405199487
 redirect_from: /content/sota-guide-w4cwm-024-siler-bald
 ---
-####Drive Guide - Siler Bald FROM Wine Spring Bald
+#### Drive Guide - Siler Bald FROM Wine Spring Bald
 
 * **Duration**: 0:15
 * **Google Map**: http://goo.gl/maps/QmNZr
@@ -18,7 +18,7 @@ redirect_from: /content/sota-guide-w4cwm-024-siler-bald
         * Keep L at fork.  Park in small parking area at end of dirt road.
     * Note: There are some pretty deep ruts on this short driveway/road in 2014.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1.9 miles, 1095' climb, 1:10 up, 0:55 down
 * **Navigation**
@@ -34,7 +34,7 @@ redirect_from: /content/sota-guide-w4cwm-024-siler-bald
     * Trailhead: 35.15386,-83.58138
     * Summit: 35.1394, -83.5775
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: No
 * Space to guy mast: Yes

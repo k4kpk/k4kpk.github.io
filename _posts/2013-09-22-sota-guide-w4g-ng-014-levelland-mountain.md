@@ -5,7 +5,7 @@ title: SOTA Guide - W4G/NG-014, Levelland Mountain
 created: 1379895820
 redirect_from: /content/sota-guide-w4gng-014-levelland-mountain
 ---
-####Drive Guide - Levelland
+#### Drive Guide - Levelland
 
 * **Duration**: 1:35
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/ESfYO
@@ -23,7 +23,7 @@ redirect_from: /content/sota-guide-w4gng-014-levelland-mountain
 * **On the way home** (scouting/errands):
     * none
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1:30
 * **Navigation**
@@ -35,7 +35,7 @@ redirect_from: /content/sota-guide-w4gng-014-levelland-mountain
     * Summit: 34.7322, -83.903
     * Trailhead/parking: 34.74206, -83.92217
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
@@ -43,7 +43,7 @@ redirect_from: /content/sota-guide-w4gng-014-levelland-mountain
 * Unique features:
     * Appalachian Trail passes through a building (breezeway) near the trailhead.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Blood Mountain
 * Gooch Mountain

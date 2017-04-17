@@ -5,7 +5,7 @@ title: SOTA Guide - W4C/WM-018, Wine Spring Bald
 created: 1375636827
 redirect_from: /content/sota-guide-w4cwm-018-wine-spring-bald
 ---
-####Drive Guide - Wine Spring Bald from Atlanta
+#### Drive Guide - Wine Spring Bald from Atlanta
 
 * **Duration**:  2:35
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/LHJXM
@@ -38,7 +38,7 @@ redirect_from: /content/sota-guide-w4cwm-018-wine-spring-bald
     * Before that: Clayton, GA (busy on Saturday mornings)
     * Before that: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:15 (to walk out of zone and back in)
 * **Trailhead altitude**: 5460'
@@ -46,7 +46,7 @@ redirect_from: /content/sota-guide-w4cwm-018-wine-spring-bald
 * **GPS tracks/waypoints**:
     * Summit: 35.1733, -83.581
 
-####Summit Guide
+#### Summit Guide
 
 The summit is filled with radio towers and guy lines.  The ground is a hard gravel parking lot.
 
@@ -60,6 +60,6 @@ I strapped my mast to a post on the left, between the driveway to the first buil
 * Unique features:
     * Ugly.  Covered with radio towers, weather towers, concrete buildings.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * None listed.

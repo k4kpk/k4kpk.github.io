@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4twm-047-toxaway-mountain
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Toxaway Mountain from Atlanta
+#### Drive Guide - Toxaway Mountain from Atlanta
 
 * **Duration**: 2:50, 148 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/3Bczs
@@ -34,7 +34,7 @@ Drive to Trailhead & Trail Guide
     * Last McDonalds: Lavonia, GA at GA-17
     * Penultimate McDonalds: Commerce, GA at US-441
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:15 (to exit and re-enter the zone; it is a drive-up)
 * **Navigation**:  Follow the dirt road.  At the first turn-out (on the R), there is a dirt road to your right. You keep L.  KI4SVM operated from the 2nd turn-out (on the L)
@@ -42,7 +42,7 @@ Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * End of pavement: 35.131222, -82.983638
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Y
 * Space to guy mast: Y
@@ -51,4 +51,4 @@ Drive to Trailhead & Trail Guide
     * I operated from the turn-out on the left, just below the summit.  I had no QRM, but there might be some on the summit.  The turn-out was a sandy mess.
     * Given the dense antenna farm on top and the unpleasant turn-out, I don't know that I'll do this site again.  If I do, I'll try the grassy summit. I have a portable SW receiver that I'll take and I'll use it to measure QRM on summit before setting up an antenna.
 
-####Plan-B Candidates
+#### Plan-B Candidates

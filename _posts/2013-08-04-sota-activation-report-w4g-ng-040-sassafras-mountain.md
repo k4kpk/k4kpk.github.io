@@ -8,13 +8,13 @@ redirect_from: /content/sota-activation-report-w4gng-040-sassafras-mountain
 
 SOTA Activation Report: W4G/NG-040, Sassafras Mountain
 ----------------------------------------------
-####Trip of 2013.07.26
+#### Trip of 2013.07.26
 * Succeeded: Yes
 * First-activation: No
 * Propagation forecast on departure: 40m: Fair, 30m: Good, 20m: Good, 17m: Fair, S/N: 1-2
 * Propagation forecast on return:
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-040, Sassafras Mountain](http://k4kpk.com/content/sota-guide-w4gng-040-sassafras-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/NG-040, Sassafras Mountain](/content/sota-guide-w4gng-040-sassafras-mountain)
 
 
 Commentary:

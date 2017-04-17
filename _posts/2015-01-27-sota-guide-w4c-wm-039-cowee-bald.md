@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4cwm-039-cowee-bald
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Cowee Bald From Atlanta
+#### Drive Guide - Cowee Bald From Atlanta
 
 * **Duration**: 2:50, 138 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/UyWTN
@@ -37,14 +37,14 @@ Drive to Trailhead & Trail Guide
     * Before that: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
 
-####Drive Guide - Cowee Bald From Yellow Bald
+#### Drive Guide - Cowee Bald From Yellow Bald
 
 * **Duration**: 1:26, 42 miles
 * **Google Maps** URL: http://goo.gl/maps/E2ILc 
 * **Seasonal/Limited Access**:
 * **Directions**:
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:15, 0.5 mile to the summit
 * **Navigation**
@@ -61,7 +61,7 @@ Drive to Trailhead & Trail Guide
     * End of steep climb, 23' below the high point: 35.32995,-83.33716
     * Summit: 35.3265, -83.3351
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
@@ -71,6 +71,6 @@ Drive to Trailhead & Trail Guide
     * Very high QRM (buzzing, S7-S8) on all HF bands at the summit.
     * I was only able to raise one FM contact, even with spotting 146.55 and also calling on 146.52.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * 

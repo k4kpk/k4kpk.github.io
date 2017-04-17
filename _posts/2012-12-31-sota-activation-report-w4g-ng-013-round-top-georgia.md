@@ -63,7 +63,7 @@ Thank you chasers!  Given the slog through the ice, I am exceptionally grateful 
 
 ## Getting There - Driving ##
 * CAREFUL: Google Maps routed the penultimate bits WRONG!
-* See directions at my Double Spring Knob activation.  This summit has the same trailhead as that one.  http://k4kpk.com/content/sota-activation-report-w4gng-007-double-spring-knob-georgia#
+* See directions at my [Double Spring Knob activation](/content/sota-activation-report-w4gng-007-double-spring-knob-georgia).  This summit has the same trailhead as that one.
 
 ## Getting There - Hiking ##
 * There's a gate on Wildcat Road, about a mile from the AT.  You may find references to a another gate.  I found its remains, about half way between the 1-mile gate and Addis Gap.
@@ -82,8 +82,7 @@ Thank you chasers!  Given the slog through the ice, I am exceptionally grateful 
     * Note: I returned to the AT at 34.84834, -83.66022. This would be an OK point to depart the AT.  
 * Summit - On the ground, the summit looked to be 34.84812, -83.66182.  Official summit is at 34.848202, -83.661697, but that's not what it looks like on the ground.
  
-### GPX trace for the hike ###
-<http://k4kpk.com/sites/k4kpk.com/files/SOTA%20Round%20Top.GPX>
+[GPX trace for the hike](/files/SOTA%20Round%20Top.GPX)
 
 ### Time Log ###
 * (See my Double Spring Knob trip report, for times before Addis Gap.)

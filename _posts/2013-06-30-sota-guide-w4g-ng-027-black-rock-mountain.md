@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4gng-027-black-rock-mountain
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Black Rock Mountain from Rabun Bald
+#### Drive Guide - Black Rock Mountain from Rabun Bald
 * **Duration**: 0:40
 * **Seasonal/Limited Access**:  Park is closed Dec 1 - March 15. Park roads are all paved.
 * **Google Maps** URL from Rabun Bald (Beegum Gap trailhead): ?
@@ -25,7 +25,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **Food**
     * Just convenience stores 
 
-####Drive Guide - Black Rock Mountain from Atlanta
+#### Drive Guide - Black Rock Mountain from Atlanta
 
 * **Duration**: 2:00
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/Hgpof
@@ -47,7 +47,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 		* It comes just BEFORE Cornelia and your exit to US-441.
 * Black Rock State Park entrance gate is open 7AM-10PM, March 16-Nov 30.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:30 (0.6 miles)
 * **Navigation**
@@ -61,7 +61,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Tennessee Rock Overlook: 34.90516, -83.41781
     * Summit: 34.90360, -83.42060
 
-####Summit Guide
+#### Summit Guide
 
 * Note: There is a long, narrow ridge at the summit.  The activation zone clearly includes Tennessee Rock Overlook, as well as the proper summit.  I chose to operate from Tennessee Rock because it was convenient to bungee my mast to the wooden railing.
 * Hang antenna from tree: Possible.

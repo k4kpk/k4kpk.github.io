@@ -5,7 +5,7 @@ title: SOTA Guide W4G/HC-009 Dyer Mountain
 created: 1360523295
 redirect_from: /content/sota-guide-w4ghc-009-dyer-mountain
 ---
-####Drive Guide - Dyer Mountain
+#### Drive Guide - Dyer Mountain
 
 * **Duration**: 2:15
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285: http://goo.gl/maps/xlGJx 
@@ -33,15 +33,14 @@ redirect_from: /content/sota-guide-w4ghc-009-dyer-mountain
 * **On the way home** (scouting/errands):
     * None planned.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 15 minutes.  Nasty, brutish, and short.
 * **Navigation**
     * Purely a GPS-based bushwhack. Thorns, brush, trees, deadfall.
-* **GPS tracks/waypoints**:
-    * http://k4kpk.com/sites/k4kpk.com/files/Dyer_Mountain.GPX
+    * [GPS track](/files/Dyer_Mountain.GPX)
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes, if you're flexible.
@@ -50,7 +49,7 @@ redirect_from: /content/sota-guide-w4ghc-009-dyer-mountain
     * Nice view through bare trees in winter.
     * A fairly sharp, well-defined peak for Georgia.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Flat Top Mountain
 * Dyer is really a "Plan-B" for other hills in the area.  With its short hike and all-weather road access, it is a good second choice when you can't get to your primary destination.

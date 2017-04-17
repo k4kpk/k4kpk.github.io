@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4ccm-023-green-knob
 ---
 Drive to Trailhead & Trail Guide - Green Knob
 --------------------------------------------------------
-####Drive Guide - Green Knob from Mt Pisgah
+#### Drive Guide - Green Knob from Mt Pisgah
 (This is CM-023 with no fire tower near Mt Pisgah -- NOT CM-020 with a fire tower near Mt Mitchell.  Mnemonic "On 023, it's just me.")
 
 * **Duration**: 0:15
@@ -19,7 +19,7 @@ Drive to Trailhead & Trail Guide - Green Knob
        * Park in grassy pullout on the side of the road.
        * Trailhead is on RIGHT
 
-####Drive Guide - Green Knob from Black Balsam Knob
+#### Drive Guide - Green Knob from Black Balsam Knob
 (This is CM-023 near Mt Pisgah -- NOT CM-020 near Mt Mitchell)
 
 * **Duration**: 0:15
@@ -32,7 +32,7 @@ Drive to Trailhead & Trail Guide - Green Knob
         * Park in grassy pullout on the side of the road.
         * Trailhead is on LEFT.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:50 up, 0:25 down, 0.7 miles
 * **Navigation**
@@ -45,10 +45,10 @@ Drive to Trailhead & Trail Guide - Green Knob
         * Trailhead is marked by a small, foot tall concrete post, in a grassy shoulder big enough to park 2-3 cars.
         * CAUTION: There's a post on the other side of the road about 100' away.  Make sure you are on the correct side of the road. (Nominally the west side; geographically the north side.)
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Y
 * Space to guy mast: Y
 * Cell coverage: 2015: VZN and AT&T SMS worked and AT&T had internet. 2016: AT&T SMS worked and internet was intermittent.
 
-####Plan-B Candidates
+#### Plan-B Candidates

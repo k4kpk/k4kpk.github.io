@@ -103,9 +103,12 @@ HTML
            f.puts 'redirect_from: /' + post[:alias] if post[:alias]          #KPK
            f.puts '---'
            content.gsub!(/\r\n/,"\n")                                        #KPK
-           content.gsub!("](http://kleinfelter.com/content/", "](/content/") #KPK
-           content.gsub!("http://kleinfelter.com/sites/kleinfelter.com/files/","/files/") #KPK                 
-           content.gsub!("/sites/kleinfelter.com/files/","/files/") #KPK             
+           content.gsub!("](http://k4kpk.com/content/", "](/content/") #KPK
+           content.gsub!("http://k4kpk.com/sites/k4kpk.com/files/ebook/","/files/") #KPK 222
+           content.gsub!("/sites/k4kpk.com/files/ebook/","/files/") #KPK 222
+           content.gsub!("http://k4kpk.com/sites/k4kpk.com/files/","/files/") #KPK                 
+           content.gsub!("/sites/k4kpk.com/files/","/files/") #KPK             
+           content.gsub!(/##([^\s#])/,'## \1')  # KPK change ####xxx to #### xxx
            f.puts content
      end
 

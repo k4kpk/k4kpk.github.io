@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4cwm-001-clingmans-dome
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Clingmans Dome (with a side trip to Wine Spring Bald)
+#### Drive Guide - Clingmans Dome (with a side trip to Wine Spring Bald)
 
 * **Duration**: 8:30 for the round trip
     * 2:50 Atlanta to Wine Spring
@@ -60,7 +60,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * None planned
 * **Note**: From Atlanta, this combines nicely with Wine Spring Bald (a.k.a. Winespring Bald).  This  document covers Atlanta-to-Clingmans with a side trip to Wine Spring.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 
     * 15 minutes to leave/reenter the activation zone at Wine Spring Bald
@@ -73,7 +73,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * Summit: 35.5629, -83.4986
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
@@ -82,6 +82,6 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Big concrete observation deck with ramp
     * Lots of tourists
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * None listed

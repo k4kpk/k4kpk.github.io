@@ -5,11 +5,11 @@ title: 'SOTA Activation Report: W4G/HC-009, Dyer Mountain'
 created: 1360523410
 redirect_from: /content/sota-activation-report-w4ghc-009-dyer-mountain
 ---
-####Trip of 2013.02.09
+#### Trip of 2013.02.09
 * Succeeded: Yes
 * First-activation: Yes
 
-See my trip planning guide at: [SOTA Guide: W4G/HC-009, Dyer Mountain](http://k4kpk.com/content/sota-guide-w4ghc-009-dyer-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/HC-009, Dyer Mountain](/content/sota-guide-w4ghc-009-dyer-mountain)
 
 Commentary:
 

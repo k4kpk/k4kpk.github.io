@@ -5,7 +5,7 @@ title: SOTA Guide W4C/WM-004 Waterrock Knob
 created: 1382905524
 redirect_from: /content/sota-guide-w4cwm-004-waterrock-knob
 ---
-####Drive Guide - Waterrock Knob from Atlanta
+#### Drive Guide - Waterrock Knob from Atlanta
 
 * **Duration**: 161 miles, 2:50
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/lCgm3
@@ -23,14 +23,14 @@ redirect_from: /content/sota-guide-w4cwm-004-waterrock-knob
     * Penultimate McD: Clayton, GA (busy on Saturday mornings)
     * Antepenultimate: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
-####Drive Guide - Waterrock Knob from Barnett Knob
+#### Drive Guide - Waterrock Knob from Barnett Knob
 * **Duration**: 20 minutes, 11 miles
 * **Google Maps** https://goo.gl/maps/RRAZUgdEU7Q2
 * **Directions**:
     * Right turn on Parkway and go 11
     * L on Waterrock Knob driveway and go 0.3
 
-####Drive Guide - Waterrock Knob from Richland Balsam
+#### Drive Guide - Waterrock Knob from Richland Balsam
 
 * **Duration**: 20.4 miles, 30 minutes
 * **Google Maps** URL from Richland Balsam: http://goo.gl/maps/yL0gu 
@@ -39,7 +39,7 @@ redirect_from: /content/sota-guide-w4cwm-004-waterrock-knob
     * R to Waterrock Knob Parking (between mile markers 450 & 451) and go 0.3.
         * Has restrooms
 
-####Drive Guide - Waterrock Knob *to* Atlanta
+#### Drive Guide - Waterrock Knob *to* Atlanta
 
 * **Duration**: 162 miles, 2:50
 * **Directions**:
@@ -50,7 +50,7 @@ redirect_from: /content/sota-guide-w4cwm-004-waterrock-knob
 	* Exit R to US-441 S and go xx to Clayton GA
 	* Follow GA-365 S to I-985 S to I-85 S
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.4 miles, 0:25 up, 0:20 down (not hurrying)
 * **Navigation**: Follow trail north from north end of parking lot
@@ -61,7 +61,7 @@ redirect_from: /content/sota-guide-w4cwm-004-waterrock-knob
     * Trailhead: 35.46094, -83.14085
 	* Summit: 35.4642, -83.1377
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: No.  You could run something semi-horizontal at about 15-20 feet.
 * Space to guy mast: Yes

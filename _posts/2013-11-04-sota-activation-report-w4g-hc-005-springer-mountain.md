@@ -5,11 +5,11 @@ title: 'SOTA Activation Report: W4G/HC-005, Springer Mountain'
 created: 1383615248
 redirect_from: /content/sota-activation-report-w4ghc-005-springer-mountain
 ---
-####Trip of 2013.11.03
+#### Trip of 2013.11.03
 * Succeeded: Yes
 * First-activation: No
 
-See my trip planning guide at: [SOTA Guide: W4G/HC-005, Springer Mountain](http://k4kpk.com/content/sota-guide-w4ghc-005-springer-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/HC-005, Springer Mountain](/content/sota-guide-w4ghc-005-springer-mountain)
 
 
 Commentary:

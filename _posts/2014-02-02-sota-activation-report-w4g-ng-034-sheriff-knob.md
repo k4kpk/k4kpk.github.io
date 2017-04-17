@@ -5,13 +5,13 @@ title: 'SOTA Activation Report: W4G/NG-034, Sheriff Knob'
 created: 1391376490
 redirect_from: /content/sota-activation-report-w4gng-034-sheriff-knob
 ---
-####Trip of 2013.12.15
+#### Trip of 2013.12.15
 * Succeeded: No
 * First-activation: No
 * Propagation forecast on departure: n.a.
 * Propagation forecast on return: n.a.
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-034, Sheriff Knob](http://k4kpk.com/content/sota-guide-w4gng-034-sheriff-knob)
+See my trip planning guide at: [SOTA Guide: W4G/NG-034, Sheriff Knob](/content/sota-guide-w4gng-034-sheriff-knob)
 
 
 Commentary:
@@ -20,13 +20,13 @@ This was planned as the second summit of a double-header with Coosa Bald (W4G/NG
 
 ------
 
-####Trip of 2014.01.26
+#### Trip of 2014.01.26
 * Succeeded: Yes
 * First-activation: No
 * Propagation forecast on departure: n.a.
 * Propagation forecast on return: n.a.
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-034, Sheriff Knob](http://k4kpk.com/content/sota-guide-w4gng-034-sheriff-knob)
+See my trip planning guide at: [SOTA Guide: W4G/NG-034, Sheriff Knob](/content/sota-guide-w4gng-034-sheriff-knob)
 
 
 Commentary:

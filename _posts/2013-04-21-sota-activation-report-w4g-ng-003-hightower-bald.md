@@ -8,11 +8,11 @@ redirect_from: /content/sota-activation-report-w4gng-003-hightower-bald
 
 SOTA Activation Report: W4G/NG-003, Hightower Bald
 ----------------------------------------------
-####Trip of 2013.04.20
+#### Trip of 2013.04.20
 * Succeeded: Yes
 * First-activation: Yes
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-003, Hightower Bald](http://k4kpk.com/content/sota-guide-w4gng-003-hightower-bald)
+See my trip planning guide at: [SOTA Guide: W4G/NG-003, Hightower Bald](/content/sota-guide-w4gng-003-hightower-bald)
 
 Commentary:
 

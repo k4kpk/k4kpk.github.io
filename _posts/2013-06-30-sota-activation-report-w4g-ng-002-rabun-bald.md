@@ -5,14 +5,14 @@ title: 'SOTA Activation Report: W4G/NG-002, Rabun Bald'
 created: 1372623195
 redirect_from: /content/sota-activation-report-w4gng-002-rabun-bald
 ---
-####Trip of 2013.06.29
+#### Trip of 2013.06.29
 * Succeeded: Yes/No
 * First-activation: Yes/No
 * Propagation forecast on departure: "Poor" day and night from 80m to 10m, except Fair/fair on 17 and 15.  Noise level is S4-S6.  E-skip is open on 2, 4, and 6m.
 * Propagation forecast on return: 80-40 poor day, fair night; 30-20 fair/fair; 17/15 fair/fair.  Noise level is S3-S4.
 * Done as a double-header with W4G/NG-027, Black Rock Mountain
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-002, SummitName](http://k4kpk.com/content/sota-guide-w4gng-002-rabun-bald)
+See my trip planning guide at: [SOTA Guide: W4G/NG-002, SummitName](/content/sota-guide-w4gng-002-rabun-bald)
 
 
 Commentary:

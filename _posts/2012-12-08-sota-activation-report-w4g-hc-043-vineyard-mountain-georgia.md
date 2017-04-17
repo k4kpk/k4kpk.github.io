@@ -45,7 +45,7 @@ I was headed home and just before the I-75 entrance ramp, I noticed a rusty gate
 * A big gravel parking lot half-way up the entrance ramp.
 * Just east of the lot, there's an old, abandoned dirt road running north.
 
-####Getting there, plan C:
+#### Getting there, plan C:
 * Park at the gate.  Facing the gate from Red Top Mountain Road, you're going to take the *old* pavement to your left.
 * Follow the old pavement to the gravel lot.
 * Exit the gravel road on the north, following the narrow, abandoned dirt road.
@@ -58,7 +58,7 @@ I was headed home and just before the I-75 entrance ramp, I noticed a rusty gate
 * Follow the red-blazed trail up.
 * When you arrive at the cell tower, you're on top.
 
-####Exit, or Entrance Plan D:
+#### Exit, or Entrance Plan D:
 I'll describe my route out.  You could follow it in the opposite direction to get in.
 
 * Take the gravel road leading south from the cell tower.
@@ -89,8 +89,7 @@ I'll describe my route out.  You could follow it in the opposite direction to ge
 * Trail indistinct.  Just head southish = N34.14497 W84.73545
 * 90 degree right turn, to re-join old pavement = N34.14424 W84.73507
 
-### GPX trace for the hike ###
-<http://k4kpk.com/sites/k4kpk.com/files/SOTA%20Vineyard%20Mtn%20Track.GPX>
+[GPX trace for the hike](/files/SOTA%20Vineyard%20Mtn%20Track.GPX)
 
 ### Time Log ###
 * 9:15 - parked

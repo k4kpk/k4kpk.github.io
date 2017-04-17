@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4ghc-008-rocky-mountain
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Rocky Mountain (HC-008)
+#### Drive Guide - Rocky Mountain (HC-008)
 
 * **Duration**: 1:45
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/llnGb
@@ -26,7 +26,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: Jasper.
     * Dinner: Avoid the barbecue place in Blue Ridge that has billboards telling you to turn at Wendy's. 
             
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 2.3 miles, 1:30
 * Best maps:
@@ -40,7 +40,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Plan A Trailhead: 34.78085, -84.3118, altitude 2322'
     * Summit: 34.7951, -84.3219, altitude 3460'
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes

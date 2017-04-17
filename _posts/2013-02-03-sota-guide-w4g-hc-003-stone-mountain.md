@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4ghc-003-stone-mountain
 ---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide
+#### Drive Guide
 
 * **Duration**: 40 minutes
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/mF3hd
@@ -28,7 +28,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **On the way home** (scouting/errands):
     * None planned.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1:00
 * **Navigation**
@@ -39,7 +39,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * None provided.
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: No suitable trees.
 * Space to guy mast: 
@@ -54,7 +54,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Suppose you have a less-mobile family member.  You can put them on the tram at the bottom of the mountain, then you climb to the top and meet them there.  Then they can observe you operating.
     * How many summits will you operate from that have a snack bar and a movie?
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Pine Mountain
 * Vineyard Mountain

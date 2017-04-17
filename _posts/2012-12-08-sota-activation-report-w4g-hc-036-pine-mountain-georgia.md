@@ -45,5 +45,4 @@ Thank you chasers!
 * Beginning of Red Trail - N34.17841 W84.74715
 * Summit - N34.17680 W84.74500
 
-### GPX trace for the hike ###
-<http://k4kpk.com/sites/k4kpk.com/files/Pine%20Mountain.GPX>
+[GPX trace for the hike](/files/Pine%20Mountain.GPX)

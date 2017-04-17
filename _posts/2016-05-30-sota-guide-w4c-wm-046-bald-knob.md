@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4cwm-046-bald-knob
 ---
 Drive to Trailhead & Trail Guide - Bald Knob
 --------------------------------------------------------
-####Drive Guide - Mt. Pisgah to Bald Knob
+#### Drive Guide - Mt. Pisgah to Bald Knob
 
 * **Duration**: 0:35, 19 miles
 * **Seasonal/Limited Access**: Paved road all the way
@@ -18,7 +18,7 @@ Drive to Trailhead & Trail Guide - Bald Knob
     * R on Explorer Rd (no sign) and go 50'
     * Gated FS road on immediate L
 
-####Drive Guide - Bald Knob to Atlanta
+#### Drive Guide - Bald Knob to Atlanta
 
 * NOTE: If you are driving home late at night, the roads are twisty and slow; I recommend that you go up to the Blue Ridge Parkway and come home as if driving from Black Balsam Knob.
 * **Duration**: 3:00, 164 miles
@@ -34,7 +34,7 @@ Drive to Trailhead & Trail Guide - Bald Knob
     * R on SC-11 S and go 32.4
     * I-85 South and go 83
 
-####Drive Guide - Atlanta to Bald Knob
+#### Drive Guide - Atlanta to Bald Knob
 
 * **Duration**: 3:00, 165 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/2hddE
@@ -52,7 +52,7 @@ Drive to Trailhead & Trail Guide - Bald Knob
     * Last McDonalds: Lavonia, GA (GA-17)
     * Penultimate McDonalds: Commerce, GA (US-441)
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 2 miles, ~600' climb, 1:05 up, 0:50 down
 * **Navigation**
@@ -62,7 +62,7 @@ Drive to Trailhead & Trail Guide - Bald Knob
 * **GPS tracks/waypoints**:
     * ?
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: There's a clearing on the summit.  You *could* hang an antenna from a tree off the side of the clearing, but things are pretty overgrown.
 * Space to guy mast: Yes
@@ -70,6 +70,6 @@ Drive to Trailhead & Trail Guide - Bald Knob
 * Unique features:
     * There's a somewhat-overgrown clearing at the summit.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Black Balsam Knob

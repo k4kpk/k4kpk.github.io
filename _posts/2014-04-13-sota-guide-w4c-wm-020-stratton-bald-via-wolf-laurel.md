@@ -13,7 +13,7 @@ The best map is a National Forest Service paper map titled "Joyce Kilmer-Slickro
 Caution: Wear orange in hunting season (mid October to Jan 1).
 Cool accommodations: http://www.main.nc.us/graham/hiking/santeetlah.html
 
-####Drive Guide from Huckleberry Knob
+#### Drive Guide from Huckleberry Knob
 
 * **Duration**: 0:50 (0:15 from Huck Knob TH to USFS-81; 0:35 from Skyway to the Wolf Laurel TH via USFS-81 and USFS-81F)
 * **Google Maps** URL from Huckleberry Knob parking: (does not cover ~ last mile): http://goo.gl/maps/kDwQu
@@ -26,7 +26,7 @@ Cool accommodations: http://www.main.nc.us/graham/hiking/santeetlah.html
 	* Hairpin L on Wolf Laurel Rd (USFS-81F) and go about 4.8.
 	    * USFS-81F has signs: "Swan Cabin", "Wolf Laurel Trailhead".
 
-####Drive Guide from Atlanta
+#### Drive Guide from Atlanta
 
 * **Duration**: 4:15
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: (does not cover the last few miles) http://goo.gl/maps/UDZDu
@@ -55,7 +55,7 @@ Cool accommodations: http://www.main.nc.us/graham/hiking/santeetlah.html
     * Last McDonalds: Blue Ridge, GA, on the corner where GA-5 turns L
     * Penultimate McDonalds: Ellijay, GA, on L
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1:20 up (1.8 miles; 830' climb); 0:55 down
 * **Navigation**
@@ -76,12 +76,12 @@ Cool accommodations: http://www.main.nc.us/graham/hiking/santeetlah.html
     * Location of water pipe = 35.372028, -84.004334 (estimated)
     * Stratton Bald (per SOTAdata) = 35.37340, -83.99300
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
 * Cell coverage: AT&T=no; VZN showed 2 bars on two phones, but no SMS success, despite multiple tries. APRS=yes
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Huckleberry Knob (W4C/WM-011).

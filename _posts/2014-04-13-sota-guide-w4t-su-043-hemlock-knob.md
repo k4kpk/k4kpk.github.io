@@ -8,7 +8,7 @@ redirect_from: /content/sota-guide-w4tsu-043-hemlock-knob
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 
-####Drive Guide - Hemlock Knob from Stratton Bald
+#### Drive Guide - Hemlock Knob from Stratton Bald
 
 * **Duration**: 0:45
 * **Google Maps** URL:
@@ -19,7 +19,7 @@ Drive to Trailhead & Trail Guide
 	* R on Cherohala Skyway and go 6.5
 	* Parking area on R.
 
-####Drive Guide - Hemlock Knob from Huckleberry Knob
+#### Drive Guide - Hemlock Knob from Huckleberry Knob
 
 * **Duration**: 0:20 (13.0 miles)
 * **Google Maps** URL:
@@ -32,7 +32,7 @@ Drive to Trailhead & Trail Guide
 * **Food**
     * None
 
-####Drive Guide - Hemlock Knob from Atlanta
+#### Drive Guide - Hemlock Knob from Atlanta
 
 * **Duration**: 3:00 (155 miles)
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/2qX3t
@@ -51,7 +51,7 @@ Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: Ellijay, GA, on L
     * Dinner
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:30 up (1.3 miles); 20 minutes down
 * **Navigation**
@@ -68,7 +68,7 @@ Drive to Trailhead & Trail Guide
     * Possible bushwhack to summit: 35.36068,-84.10376
     * Summit: 35.3598, -84.1029
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Y
 * Space to guy mast: Tough.  Many briars.
@@ -76,6 +76,6 @@ Drive to Trailhead & Trail Guide
 * Unique features:
     * One activator encountered a bear in the blackberries.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Huckleberry Knob

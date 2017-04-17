@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4tsu-005-roan-high-knob
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - High Rock to Roan High Knob (Cloudland Trailhead)
+#### Drive Guide - High Rock to Roan High Knob (Cloudland Trailhead)
 
 * **Duration**: 1:25, 57 miles
 * **Google Maps** URL from 35.95440, -82.56102 to 36.10397, -82.13317: http://goo.gl/maps/u5KcU 
@@ -33,7 +33,7 @@ Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: 
     * Dinner
 
-####Drive Guide - Roan High Knob to Atlanta
+#### Drive Guide - Roan High Knob to Atlanta
 
 * **Duration**: 4:30, 263 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -55,7 +55,7 @@ Drive to Trailhead & Trail Guide
     * I-85 S and go 125
     * I-285
 
-####Trail Guide from Cloudland (short route)
+#### Trail Guide from Cloudland (short route)
 
 * **Duration**: 0.8 miles, 250' climb, 0:20
 * **Note**: Flush toilets and a water fountain at trailhead.
@@ -68,7 +68,7 @@ Drive to Trailhead & Trail Guide
 * **Trailhead altitude**: ??? @ 36.10397, -82.13317
 * **Summit altitude**: 6285 @ 36.1046, -82.1224
 
-####Trail Guide from Carvers Gap (long route)
+#### Trail Guide from Carvers Gap (long route)
 
 * **Duration**: 1.6 miles, 1:15
 * **Navigation**
@@ -76,7 +76,7 @@ Drive to Trailhead & Trail Guide
 * **Trailhead altitude**: ??? @ 
 * **Summit altitude**: 6285 @ 36.1046, -82.1224
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Y
 * Space to guy mast: Y
@@ -84,4 +84,4 @@ Drive to Trailhead & Trail Guide
 * Unique features:
     * AT shelter on summit.
 
-####Plan-B Candidates
+#### Plan-B Candidates

@@ -8,11 +8,11 @@ redirect_from: /content/sota-activation-report-w4ghc-043-vineyard-mountain
 
 SOTA Activation Report: W4G/HC-043 - Vineyard Mountain
 ----------------------------------------------
-####Trip of 2012.12.02
+#### Trip of 2012.12.02
 * Succeeded: Yes
 * First-activation: Yes
 
-See my trip planning guide at: [SOTA Guide: W4G/HC-043, Vineyard Mountain](http://k4kpk.com/content/sota-guide-w4ghc-043-vineyard-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/HC-043, Vineyard Mountain](/content/sota-guide-w4ghc-043-vineyard-mountain)
 
 
 Commentary:
@@ -46,7 +46,7 @@ Antennas:
 
 -----
 
-####Trip of 2013.08.10
+#### Trip of 2013.08.10
 * Succeeded: Yes
 * First-activation: Yes
 

@@ -7,13 +7,13 @@ redirect_from: /content/sota-activation-report-w4cwm-014-standing-indian
 ---
 SOTA Activation Report: W4C/WM-014, Standing Indian
 ----------------------------------------------
-####Trip of 2013.10.05
+#### Trip of 2013.10.05
 * Succeeded: Yes
 * First-activation: No
 * Propagation forecast on departure: 40m=Good, 20m=Good, 17m=Fair, S/N=0-1, K=0, A=2
 * Propagation forecast on return: 40m=Good, 20m=Good, 17m=Fair, S/N=0-1, K=0, A=1
 
-See my trip planning guide at: [SOTA Guide: W4C/WM-014, Standing Indian](http://k4kpk.com/content/sota-guide-w4cwm-014-standing-indian)
+See my trip planning guide at: [SOTA Guide: W4C/WM-014, Standing Indian](/content/sota-guide-w4cwm-014-standing-indian)
 
 
 Commentary:

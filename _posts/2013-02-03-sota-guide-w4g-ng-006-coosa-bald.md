@@ -8,7 +8,7 @@ redirect_from: /content/sota-guide-w4gng-006-coosa-bald
 Coosa Bald: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 
-####Drive Guide - Coosa Bald (W4G/NG-006) from Atlanta
+#### Drive Guide - Coosa Bald (W4G/NG-006) from Atlanta
 
 * **Duration**: 1:45 from Atlanta
 * **Google Maps** URL from I-285 at 33.91819, -84.33747: http://goo.gl/maps/YvxLT
@@ -33,7 +33,7 @@ Coosa Bald: Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: GA-400 at GA-53 (38 miles north of I-285)
     * Dinner: Smoke-n-Gold Barbecue in Dahlonega
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:30 and an 0.7 mile hike.
 * **Navigation**
@@ -54,7 +54,7 @@ Coosa Bald: Drive to Trailhead & Trail Guide
     * Trail junction = 34.77750, -83.96065
     * Summit - 34.77880, -83.96364
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: No problems.
 * Space to guy mast: Not a lot of space.  Could bungee a mast to a stump.
@@ -69,7 +69,7 @@ Coosa Bald: Drive to Trailhead & Trail Guide
 * Unique features:
     * There is a view in the winter.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Sherrif Knob
 * Blood Mountain

@@ -8,7 +8,7 @@ redirect_from: /content/how-activate-summit-short-form
 *I want to activate a summit.  I don't want to read a lot. What's the minimum I need to know?*
 
 * Go to [http://sotamaps.wsstvc.org/](http://sotamaps.wsstvc.org/) and pick out a valid SOTA summit.  Learn its "Summit ID." 
-    * See [How to Pick a Summit from SOTA Maps](http://k4kpk.com/content/how-choose-summit-sota-maps), for a brief tutorial.
+    * See [How to Pick a Summit from SOTA Maps](/content/how-choose-summit-sota-maps), for a brief tutorial.
 * (Optional) Post an activation alert at [http://sotawatch.org/alerts.php].  This tells chasers when you'll be there.
 * Go to the top of the mountain.  If you can drive to the top, don't.  Be sure to park at least 100' (elevation) below the summit, and walk the rest of the way to the top.
 * Make at least 4 QSOs from the summit.  You don't have to be exactly at the apex.  Any 4 hams will suffice; it doesn't matter whether they're SOTA chasers.

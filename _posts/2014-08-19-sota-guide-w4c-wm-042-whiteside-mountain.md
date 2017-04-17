@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4cwm-042-whiteside-mountain
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Whiteside Mtn FROM Yellow Mtn Gap
+#### Drive Guide - Whiteside Mtn FROM Yellow Mtn Gap
 
 * **Duration**: 0:20, 6 miles
 * **Google Maps** URL: http://goo.gl/maps/TBNCn
@@ -23,7 +23,7 @@ Drive to Trailhead & Trail Guide
     * Parking lot - $2 parking fee
 * **Food**: None
 
-####Drive Guide - Whiteside Mtn FROM Cole Gap
+#### Drive Guide - Whiteside Mtn FROM Cole Gap
 
 * **Duration**: 0:15, 6 miles
 * **Google Maps** URL: http://goo.gl/maps/azU1v
@@ -36,13 +36,13 @@ Drive to Trailhead & Trail Guide
     * Parking lot - $2 parking fee
 * **Food**: None
 
-####Drive Guide - back to Highlands NC (where you briefly get 3G cell)
+#### Drive Guide - back to Highlands NC (where you briefly get 3G cell)
 
 * Bear R ond Whiteside Mtn Rd out of the lot and go 1
 * L on US-64 W and go 5.5
 
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 
     * Up via flat route: 1.2 miles, 500' climb, 0:50 hurrying, but tired.
@@ -57,14 +57,14 @@ Drive to Trailhead & Trail Guide
     * Trailhead: 35.08044,-83.14419
     * Summit: 35.0813,-83.138
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
 * Cell coverage: VZN fail; AT&T fail; APRS sent but unreliable ACK
 * Unique features: Nice views.
 
-####See Also
+#### See Also
 
 * http://www.hikewnc.info/besthikes/nantahala-ranger-district/whiteside-mountain
 * http://www.hikewnc.info/trails/nantahala-ranger-district/whiteside-mountain

@@ -5,14 +5,14 @@ title: 'SOTA Activation Report: W4G/NG-041, Gooch Mountain'
 created: 1375652053
 redirect_from: /content/sota-activation-report-w4gng-041-gooch-mountain
 ---
-####Trip of 2013.07.26
+#### Trip of 2013.07.26
 
 * Succeeded: No
 * First-activation: N.A.
 * Propagation forecast on departure: 40m: Fair, 30m: Good, 20m: Good, 17m: Fair, S/N: 1-2
 * Propagation forecast on return:
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-041, Gooch Mountain](http://k4kpk.com/content/sota-guide-w4gng-041-gooch-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/NG-041, Gooch Mountain](/content/sota-guide-w4gng-041-gooch-mountain)
 
 
 Commentary:
@@ -23,13 +23,13 @@ Surprise - The trail has been rerouted and no longer goes near the summit.  This
 
 ----------------------------------------------
 
-####Trip of 2013.11.09
+#### Trip of 2013.11.09
 * Succeeded: Yes
 * First-activation: Yes
 * Propagation forecast on departure: 40m=Poor, 20m=Fair, 17m=Fair, S/N=3-4, A=4, K=4, Geomag=Active
 * Propagation forecast on return: 40m=Fair, 20m=Fair, 17m=Good, S/N=1-2, A=4, K=2, Geomag=Quiet
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-041, Gooch Mountain](http://k4kpk.com/content/sota-guide-w4gng-041-gooch-mountain)
+See my trip planning guide at: [SOTA Guide: W4G/NG-041, Gooch Mountain](/content/sota-guide-w4gng-041-gooch-mountain)
 
 
 Commentary:
@@ -47,7 +47,7 @@ I've found a sweet spot with my equipment.  I'm very happy with:
 * EARCHI matchbox on 20m
 * BNC-to-binding-post adapter and a single radial 4' AGL on 40m
 * KX3 at 12 watts
-* [AA power wand](http://k4kpk.com/content/15v-power-wand-kx3)
+* [AA power wand](/content/15v-power-wand-kx3)
 
 I can switch from 20m to 40m in about 2 minutes.  Most of that time is spent in untangling from my earphones and standing up!  The only thing I plan to add is an iambic paddle, once my CW is ready for prime time.
 

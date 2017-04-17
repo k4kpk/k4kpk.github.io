@@ -10,7 +10,7 @@ redirect_from: /content/sota-guide-w4tsu-028-big-fodderstack
 * Please: Just take another trip.  This one isn't worth the pain.  I was still recovering a week later.
 
 
-####Drive Guide - Big Fodderstack
+#### Drive Guide - Big Fodderstack
 
 
 * **Duration**: 3:25 (158 miles)
@@ -39,7 +39,7 @@ redirect_from: /content/sota-guide-w4tsu-028-big-fodderstack
     * Penultimate McDonalds: Ellijay, GA, on L
     * Dinner
 
-####Trail Guide
+#### Trail Guide
 
 * Note: Timings were made on a snowy hike outbound and moving fast with no break inbound (due to risk of being out after dark).
 
@@ -67,14 +67,14 @@ redirect_from: /content/sota-guide-w4tsu-028-big-fodderstack
     * Pine Ridge Trail Jct: 35.41408, -84.02987 (Turn L)
     * Summit: 35.4123, -84.0274
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: No
 * Space to guy mast: Not really. Just push it up through the rhododendron.
 * Cell coverage: VZN marginal; AT&T none; APRS marginal
 * Unique features: Dense rhododendron.  Miserable, intense bushwhack.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Hemlock Knob (Bushwhack up from Cherohala Skyway)
 * Stratton Bald (via Wolf Laurel Rd)

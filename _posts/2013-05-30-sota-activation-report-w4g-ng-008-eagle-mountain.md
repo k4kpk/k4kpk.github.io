@@ -5,11 +5,11 @@ title: 'SOTA Activation Report: W4G/NG-008, Eagle Mountain'
 created: 1369943630
 redirect_from: /content/sota-activation-report-w4gng-008-eagle-mountain
 ---
-####Trip of 2013.05.29
+#### Trip of 2013.05.29
 * Succeeded: Yes
 * First-activation: No
 
-See my trip planning guide at: [SOTA Guide: W4G/NG-008, Eagle Mountain](http://k4kpk.com/content/sota-guide-w4gng-008-eagle-mountain) and [SOTA Guide: W4G/NG-035, Bell Knob](http://k4kpk.com/content/sota-guide-w4gng-035-bell-knob)
+See my trip planning guide at: [SOTA Guide: W4G/NG-008, Eagle Mountain](/content/sota-guide-w4gng-008-eagle-mountain) and [SOTA Guide: W4G/NG-035, Bell Knob](/content/sota-guide-w4gng-035-bell-knob)
 
 
 Commentary:

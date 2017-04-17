@@ -28,7 +28,7 @@ An "alert" is where an activator posts a notice of his intent to activate.  A "s
 
 You'll want to monitor the "Spots" section of SOTAwatch as the alerted time approaches.  Within a few minutes of calling CQ, the activation will be spotted at SOTAwatch.  (If you are lucky enough to be the first contact for the activator, help him out by posting a spot.)  There are some other tools for tracking spots, and  I'll cover them in an upcoming article on SOTA resources.
 
-![Image of sample SOTAWatch Alert](http://k4kpk.com/sites/k4kpk.com/files/ebook/SOTAwatch-Alerts_0.png "SOTAWatch Alerts")
+![Image of sample SOTAWatch Alert](/files/SOTAwatch-Alerts_0.png "SOTAWatch Alerts")
 
 __Act Quickly__
 

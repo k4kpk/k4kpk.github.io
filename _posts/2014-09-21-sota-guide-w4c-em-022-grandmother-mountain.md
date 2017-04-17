@@ -7,7 +7,7 @@ redirect_from: /content/sota-guide-w4cem-022-grandmother-mountain
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Grandmother Mountain from Mt Mitchell
+#### Drive Guide - Grandmother Mountain from Mt Mitchell
 
 * **Duration**: 1:45, 57 miles
 * **Google Maps** URL: (google is broken.  It thinks you can't make a left turn.)
@@ -25,7 +25,7 @@ Drive to Trailhead & Trail Guide
         * This road starts off as paved, but turns to gravel.  OK for sedans, with caution.
     * Follow the road to the summit.
 
-####Drive Guide - Grandmother Mountain TO Atlanta
+#### Drive Guide - Grandmother Mountain TO Atlanta
 
 * **Duration**: 4:30, 256 miles
 * **Google Maps** URL: http://goo.gl/maps/IzbYm
@@ -44,7 +44,7 @@ Drive to Trailhead & Trail Guide
     * Ramp to I-85 S and go 153
     * I-285 West
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1/4 mile, 10 minutes
 * **Navigation**
@@ -58,7 +58,7 @@ Drive to Trailhead & Trail Guide
     * Parking: 36.06226,-81.84253
     * Summit: 36.063, -81.8428
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:

@@ -29,7 +29,7 @@ If you need an easy/no hike, prime candidates include:
 
 ### Map of Suggested First-timer Summits ###
 
-![Map of Good Atlanta-area First-timer Summits](http://k4kpk.com/sites/k4kpk.com/files/ebook/Good-First-timer-summits.png)
+![Map of Good Atlanta-area First-timer Summits](/files/Good-First-timer-summits.png)
 
 Read the rules!
 
@@ -53,7 +53,7 @@ It is possible to activate via HT, but your QSOs must not be via a repeater.  Yo
 
 You'll need a portable antenna.  A resonant dipole is a popular choice for HF -- particularly if you don't have an antenna tuner.  With a good ATU, a 35.5 foot "random" wire with a counterpoise is another popular choice.  Some operators love a magnetic loop.  My personal favorite is an end-fed half-wave.  Remember: You'll be operating QRP from a mountain top.  RF in the shack will not be a major issue; weight and simple setup are a priority.
 
-Of course, you'll need a paddle and/or a microphone, headphones, etc.  Make up a checklist.  Check it twice.  If you discover you've left something out, add it to your checklist so you don't forget it next time.  Here's a [sample checklist](http://k4kpk.com/content/sota-activation-what-bring-activator-edition) you can customize to suit your needs.
+Of course, you'll need a paddle and/or a microphone, headphones, etc.  Make up a checklist.  Check it twice.  If you discover you've left something out, add it to your checklist so you don't forget it next time.  Here's a [sample checklist](/content/sota-activation-what-bring-activator-edition) you can customize to suit your needs.
 
 Take water, a snack, pencil and paper.  Make notes on what went well and what failed.  Bring warm clothing.  Even in the summer, it is cooler 'up on top' than it is at home.
 
@@ -63,7 +63,7 @@ Once you're set up on the summit, you can call CQ on your favorite frequency.  Y
 
 If want to work a pile-up, you want to get spotted on [SOTAwatch](http://www.sotawatch.org/).  Experienced chasers monitor SOTAwatch; when they see an activation, they turn out in force.  If you QSO with a chaser, he'll probably post a spot on SOTAwatch.  (You can ask him to do so, to be sure.)  Once you're spotted, expect a small pile-up in 1-3 minutes.
 
-You can spot yourself.  This is easy if you are on a summit with a cell signal.  If you have an Internet-enabled device, visit SOTAwatch when you're ready to go on the air and post a spot.  If you don't have Internet, but you can make a voice call from the summit, you can call a friend and have him post your spot to SOTAwatch.  You can spot yourself via SMS.  (See [http://k4kpk.com/content/sota-self-spot-sms-usa](http://k4kpk.com/content/sota-self-spot-sms-usa).)  You can spot yourself via APRS.  (See [http://k4kpk.com/content/sota-self-spot-aprs](http://k4kpk.com/content/sota-self-spot-aprs).)  If you posted an alert and you use CW, you'll be automatically spotted through the wonders of [RBN](http://www.reversebeacon.net/) and [RBNGate](http://k4kpk.com/content/rbngate).
+You can spot yourself.  This is easy if you are on a summit with a cell signal.  If you have an Internet-enabled device, visit SOTAwatch when you're ready to go on the air and post a spot.  If you don't have Internet, but you can make a voice call from the summit, you can call a friend and have him post your spot to SOTAwatch.  You can spot yourself via SMS.  (See [http://k4kpk.com/content/sota-self-spot-sms-usa](/content/sota-self-spot-sms-usa).)  You can spot yourself via APRS.  (See [http://k4kpk.com/content/sota-self-spot-aprs](/content/sota-self-spot-aprs).)  If you posted an alert and you use CW, you'll be automatically spotted through the wonders of [RBN](http://www.reversebeacon.net/) and [RBNGate](/content/rbngate).
 
 When you return home, visit [http://sotadata.org.uk/](http://sotadata.org.uk/) and record your QSOs.  Then visit [http://sotadata.org.uk/activatorlog.aspx](http://sotadata.org.uk/activatorlog.aspx) and track your status toward the coveted Mountain Goat award.
 
