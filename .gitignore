@@ -1,0 +1,8 @@
+_cache
+_site
+.bundle
+.DS_Store
+.jekyll-metadata
+.ruby-version
+*.swp
+*.swo
