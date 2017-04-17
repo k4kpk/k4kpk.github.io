@@ -4,7 +4,7 @@ name: K4KPK
 description: My adventures in ham radio...
 
 # url is currently only used only for the RSS feed in feed.xml
-url: http://k4kpk.com
+#url: http://k4kpk.com
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
