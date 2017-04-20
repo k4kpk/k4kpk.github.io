@@ -6,4 +6,5 @@ _site
 .ruby-version
 *.swp
 *.swo
+*.bak
 t

@@ -1,0 +1,94 @@
+---
+layout: default
+---
+
+<div class="well">
+<h4>SOTA Trip Library</h4>
+<p><a href="http://sota.org.uk/">SOTA (Summits On The Air)</a> is an Amateur Radio program where hams climb to the tops of mountains, set up a radio station, and talk with people from around the world. The K4KPK SOTA Trip Library is a library of SOTA trip plans. The idea is</p>
+<ul>
+    <li>I think, "Hey! I'd like to do a SOTA activation next Thursday."</li>
+    <li>I go to the SOTA Trip Library and pull out a trip plan, print it, and go.</li>
+</ul>
+<p>These stories contain driving directions, trail directions, and a summary of what you’ll find on the summit (including whether or not cell coverage is available). I generally don’t publish until I’ve been to the mountain.</p>
+<p><strong>Click on the summit name to get my detailed guide to activating the summit.</strong></p>
+<p><strong>Click on the summit ID to get the official SOTA page for the summit.</strong></p>
+
+<table>
+<thead>
+   <tr>
+      <th class="sname">Summit Name</th>
+      <th class="sid">ID</th>
+      <th class="spoints" title="points">PT</th>
+      <th class="smiles" title="miles">Miles</th>
+      <th class="sbush" title="bushwhack?">BW</th>
+      <th class="sSMS" title="SMS?">SMS</th>
+      <th class="spair" style="width:7em;" title="pair with">Pair With</th>
+   </tr>
+</thead>
+<tbody>
+{% for post in site.pages %}
+  {% if post.layout == 'sota-guide' %}
+   {% assign simpleName = post.name | replace: 'Guide ', '' | replace: '.md', '' %}
+   {% assign myparts = simpleName | split: ' (' %}
+   {% assign summitName = myparts[0] %}
+   {% assign summitId = myparts[1] | replace: ')','' | replace: '_','/' %}
+   <tr>
+      <td class="sname"><a href="{{ site.baseurl}}{{ post.url }}">{{ summitName }}</a></td>
+      <td class="sid"><a href="http://sotawatch.org/summits.php?summit={{ summitId }}">{{ summitId }}</a></td>
+      <td class="spoints" title="points">{{ post.points }}</td>
+      <td class="smiles" title="miles">{{ post.miles }}</td>
+      <td class="sbush" title="bushwhack?">{{ post.bushwhack }}</td>
+      <td class="sSMS" title="SMS?">{{ post.sms }}</td>
+      <td class="spair" title="pair with">{{ post.pair }}</td>
+   </tr>
+  {% endif %}
+{% endfor %}
+</tbody>
+</table>
+<br />
+<ul>
+    <li>Pair With = If you'd like to try activating multiple summits on the same day, here's a candidate to pair with this summit.
+        <ul>
+            <li>Sometimes, I'll list a second summit that is near the primary summit.  Other times, I'll list a secondary summit that you'll drive near on the way to your primary summit.</li>
+            <li>Some of my pairings are "Atlanta centric" in that I'll assume you're driving from Atlanta to a primary summit.</li>
+            <li>Note that not all pairings are orthogonal in that I'll list an easy summit as a pair to a hard summit but not vice versa, because you might do an easy hill on the way to a hard hill, but you'd never say, "Gee.  I'm doing a 15 minute hike today, why don't I add on a grueling 8 hour bushwhack?"</li>
+        </ul>
+    </li>
+    <li>BW = Bushwhack required.</li>
+    <li>PT = Points.</li>
+    <li>SMS = SMS/APRS results: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+        <ul>
+            <li>e.g: "TM-2017, VF, P-2016" would mean AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2017</li>
+            <li>Year (if provided) indicates the latest year I checked it.</li>
+        </ul>
+    </li>
+</ul>
+
+<hr />
+
+<p><a href="http://www.sotadata.org.uk/ActivatorLog.aspx?userid=5327">Here is the official list of summits I have activated.</a></p>
+<p>
+I'm particularly proud of the fact that I first-activated 7 of Georgia's 14 ten-point summits as of April 20, 2013, when I first-activated the last un-activated ten-pointer. I'm also proud of being the first activator to collect the "full house" of all 14 of Georgia's ten-pointers. </p>
+<hr />
+
+<p>If you're looking for routes to summits, Patrick Harris has an impressive set of GPX files at <a href="http://smkymtns.com/">his smokymtns.com web site</a>.</p>
+
+            </div>
+            
+            </div>
+          </div>
+          <div class="pagination">
+              
+                <a class="btn btn-default" href="/sota-activation-report-w4c-wm-020-stratton-bald" class="next">Newer Post</a>
+              
+              
+                <a class="btn btn-default" href="/sota-activation-report-w4g-hc-006-flat-top-mountain" class="previous">Older Post</a>
+              
+          </div>
+        </div>
+    </div>
+</div>
+
+
+
+</div>

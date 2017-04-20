@@ -38,3 +38,10 @@ gems: ['jekyll-paginate', 'jekyll-redirect-from']
 exclude: ['README.md', 'LICENSE', 'vendor']
 safe: true
 whitelist: ['jekyll-redirect-from', 'jekyll-paginate']
+
+# Not just _posts, but other folders too.  By default, tipue_search searches only *posts* and not other pages.
+# Note: The variable in code is site.tipue_search.include.pages.
+# "site" means "comes from _config.yml".  Dots get mapped to foo: bar: baz, in _config.yml.
+tipue_search:
+  include:
+    pages: true
