@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 10
+miles: 1.7
+bushwhack: N
+pair: Blackrock
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: TM,A
+---
 Rabun Bald (W4G/NG-002): Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Rabun Bald from Atlanta
+#### Drive Guide - Rabun Bald from Atlanta
 
 * **Duration**: 2:05 (a little longer than Google Maps says)
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898:
@@ -30,14 +43,14 @@ Rabun Bald (W4G/NG-002): Drive to Trailhead & Trail Guide
     * Last McDonalds: Clayton, GA (busy on Saturday mornings)
     * Before that: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
-####Drive Guide - Rabun Bald TO Atlanta
+#### Drive Guide - Rabun Bald TO Atlanta
 * Drive out on the only road for 0.5
 * L on Bald Mtn Rd / Old Mud Creek Rd and go 1.2
 * Keep L to stay on Bald Mtn Rd and go 1.7
 * L onto GA-246/NC-246/NC-106 and go 4.2
 * L on US-441
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1:05 (1.6 mi) via hiking trail; 1:20 (2.0 miles) via jeep road. 0:40 down
 * **Navigation**
@@ -58,7 +71,7 @@ Rabun Bald (W4G/NG-002): Drive to Trailhead & Trail Guide
     * Trailhead: 34.976, -83.3 (Beegum Gap)
     * Summit: 34.9656, -83.2998			Grid: EM84ix
 
-####Summit Guide
+#### Summit Guide
 
 * Antenna: The only sensible antenna setup is to climb to the top of the tower and bungee cord a mast to the railing.
     * If you are really stubborn, you can tie one end of your antenna to the railing and run an antenna to one of the trees below the tower.

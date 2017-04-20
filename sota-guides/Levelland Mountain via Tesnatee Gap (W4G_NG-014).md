@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 4.5
+bushwhack: N
+pair: 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: T,V
+---
 Levelland via Tesnatee: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Levelland/Tesnatee Gap from ATLANTA
+#### Drive Guide - Levelland/Tesnatee Gap from ATLANTA
 
 * **Duration**: 1:45
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: https://goo.gl/maps/hHBHSgdjYtN2
@@ -20,7 +33,7 @@ Levelland via Tesnatee: Drive to Trailhead & Trail Guide
     * Dinner: 5 Guys in Home Depot shopping center, just south of GA-53, or there's a barbecue joint with a pink pig across from the McDonalds at GA-53.
 
 
-####Drive Guide - Tesnatee Gap to Atlanta (partial)
+#### Drive Guide - Tesnatee Gap to Atlanta (partial)
 
 * R out of the lot and go 7.6
 * R on GA-75 Alt and go 5.9
@@ -30,7 +43,7 @@ Levelland via Tesnatee: Drive to Trailhead & Trail Guide
 * L on GA-115 S and go 4.6
 * Straight onto GA-400 S
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 4.5 miles / ?? out, ?? back (very steep)
 * **Navigation**
@@ -44,13 +57,13 @@ Levelland via Tesnatee: Drive to Trailhead & Trail Guide
         * Side Trail to Wildcat Summit/Whitley Gap Shelter Trail: 34.7248,-83.841
         * Wildcat Summit: 34.7174, -83.8382
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
 * Cell coverage: AT&T and Verizon and APRS -- all good
 
-####After Hike:
+#### After Hike:
 
 Scout out access to AT north of Hogpen Gap:
 
@@ -60,5 +73,5 @@ Scout out access to AT north of Hogpen Gap:
     * Trailhead is on R, just prior to 3rd crossing of stream.
 
 
-####Plan-B Summit(s)
+#### Plan-B Summit(s)
 * Blood Mountain/Levelland Mountain.  (South on 75A, R on US-129. 21 miles @ 27 minutes.)

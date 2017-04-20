@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 10
+miles: 1.0
+bushwhack: N
+pair: Stratton Bald, Hemlock Knob
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
 Drive to Trailhead & Trail Guide - Huckleberry Knob
 --------------------------------------------------------
-####Drive Guide - Huckleberry Knob from Atlanta
+#### Drive Guide - Huckleberry Knob from Atlanta
 
 * **Duration**: 3:15
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/lu3Sa
@@ -21,7 +34,7 @@ Drive to Trailhead & Trail Guide - Huckleberry Knob
     * Last McDonalds: Robbinsville, NC (on right, after Ingles)
     * Penultimate McDonalds: Murphy, NC
 
-####Huckleberry Knob from Wine Spring Bald
+#### Huckleberry Knob from Wine Spring Bald
 * **Duration**: 1:30
 * **Directions**:
     * Drive downhill and go 0.7
@@ -34,7 +47,7 @@ Drive to Trailhead & Trail Guide - Huckleberry Knob
 * **Food**
     * Last McDonalds: Robbinsville, NC (on right, after Ingles)
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 
 	* Up: 0:30 (0.9 mile, climb 400'); Down: 0:20
@@ -48,12 +61,12 @@ Drive to Trailhead & Trail Guide - Huckleberry Knob
     * Trailhead: 35.314, -83.991
     * Summit: 35.3221, -83.9938
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: no
 * Space to guy mast: yes
 * Cell coverage: AT&T=no in 2015; Vzn=OK in 2014, no in 2015; APRS=OK in 2015.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Hemlock Knob

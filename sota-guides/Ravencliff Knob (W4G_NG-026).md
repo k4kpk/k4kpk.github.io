@@ -1,3 +1,16 @@
+---
+layout: sota-guide
+points: 8
+miles: 0.9
+bushwhack: N
+pair: Hullander, Joe
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: T,V
+---
 Ravencliff - Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 * **Seasonal/Limited Access**: 
@@ -16,7 +29,7 @@ Ravencliff - Drive to Trailhead & Trail Guide
     * Park at gate at N34.93995 W83.92687
         * Both forks were gated (closing the side I didn't need) in February 2015.
 
-####Drive Guide - Ravencliff Knob (W4G/NG-026) from Brasstown Bald
+#### Drive Guide - Ravencliff Knob (W4G/NG-026) from Brasstown Bald
 
 * **Duration**: 0:55
 * **Google Maps** URL: http://goo.gl/maps/fn2Ba
@@ -32,7 +45,7 @@ Ravencliff - Drive to Trailhead & Trail Guide
     * L on Ivy Log Gap Rd
     * Directions continue at "Drive Guide - Ravencliff Knob from Ivy Log Gap Rd.
 
-####Drive Guide - Ravencliff Knob (W4G/NG-026) from Standing Indian (W4C/WM-014)
+####nDrive Guide - Ravencliff Knob (W4G/NG-026) from Standing Indian (W4C/WM-014)
 
 * **Duration**: 1:15 
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -48,7 +61,7 @@ Ravencliff - Drive to Trailhead & Trail Guide
     * L on Ivy Log Gap Rd.
     * Directions continue at "Drive Guide - Ravencliff Knob from Ivy Log Gap Rd.
 
-####Drive Guide - Ravencliff Knob to Atlanta
+#### Drive Guide - Ravencliff Knob to Atlanta
 * **Directions**:
     * Head back the way you came on Ravencliff FAA Rd and go 0.9
     * Sharp L on Ivy Log Gap Rd and go about 2 miles.
@@ -67,7 +80,7 @@ Ravencliff - Drive to Trailhead & Trail Guide
     * Straight on Long Branch Rd and go 6.8
     * South on GA-400 and go 46 miles to Hammond Drive exit.
 
-####Drive Guide - Ravencliff Knob from Bell Knob
+#### Drive Guide - Ravencliff Knob from Bell Knob
 * **Duration**: 0:50 in 2014
 * **Google Maps** URL: http://goo.gl/maps/uo4Nd
 * **Directions**
@@ -79,7 +92,7 @@ Ravencliff - Drive to Trailhead & Trail Guide
     * L on Ivy Log Gap Rd. 
     * Directions continue at "Drive Guide - Ravencliff Knob from Ivy Log Gap Rd.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:30 up, 0:20 down, 0.9 miles
 * **Navigation**
@@ -94,7 +107,7 @@ Ravencliff - Drive to Trailhead & Trail Guide
 #### Nearby Summit
 * You drive right past the trailhead for Hullander Knob Knobs West the junction of Ivy Log Gap Rd and Ravencliff FAA Road.  Note that USFS 100 is to the west of the ridge line and does NOT pass near the summit.  
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: No. Absolutely no vegetation on summit.
 * Space to guy mast: Yes

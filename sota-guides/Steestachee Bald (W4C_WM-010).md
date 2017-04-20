@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 10
+miles: 0.5
+bushwhack: Y
+pair: 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Richland Balsam, Waterrock Knob, Bunches Bald, Barnett Knob
+---
 Steestachee Bald - Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Steestachee from Atlanta
+#### Drive Guide - Steestachee from Atlanta
 
 * **Duration**: 2:46, 159 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/yTXBE
@@ -18,21 +31,21 @@ Steestachee Bald - Drive to Trailhead & Trail Guide
     * Penultimate McD: Clayton, GA (busy on Saturday mornings)
     * Antepenultimate: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
-####Drive Guide - Steestache from Bunches Bald
+#### Drive Guide - Steestache from Bunches Bald
 
 * **Duration**: 0:45, 22 miles
 * **Directions**: (from T at end of Heintooga Rd, facing Blue Ridge Parkway)
     * L on Blue Ridge Pky and go 21.4
     * Park on R.  "Deep Gap". MM 436.75
 
-####Drive Guide - Steestachee from Richland Balsam
+#### Drive Guide - Steestachee from Richland Balsam
 
 * **Duration**: 0:10, 5.7 miles
 * **Directions**:
     * Head NW (toward Richland Balsam, from the parking) on the Parkway.  Go 5.7
     * Parking is on Left. Sign says "Grassy Ridge Mine Overlook".
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 
     * April 26, 2014: 0.5 miles and 450' climb, 0:35 up, 0:25 down (not hurrying).
@@ -57,7 +70,7 @@ Steestachee Bald - Drive to Trailhead & Trail Guide
     * Begin bushwhack: 35.4126,-83.0431
     * Summit: 35.4154, -83.0449
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: yes
 * Space to guy mast: yes

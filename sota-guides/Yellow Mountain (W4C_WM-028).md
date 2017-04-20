@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 2 or 8
+bushwhack: N
+pair: Shortoff
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: VW
+---
 Drive to Trailhead & Trail Guide - Yellow Mountain
 --------------------------------------------------------
-####Drive Guide - Yellow Mountain via Zeb Buchanan Rd from Atlanta
+#### Drive Guide - Yellow Mountain via Zeb Buchanan Rd from Atlanta
 
 * **Duration**: 2:40, 133 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/rWqqG
@@ -20,7 +33,7 @@ Drive to Trailhead & Trail Guide - Yellow Mountain
     * Park at subdivision gate on L, just before a big clearing/field.
 * **Trailhead**: 35.13718,-83.18489
     
-####Drive Guide - Yellow Mountain via Yellow Mountain Gap from Highlands, NC
+#### Drive Guide - Yellow Mountain via Yellow Mountain Gap from Highlands, NC
 
 * **Duration**: N.A.
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/iLn8H
@@ -34,7 +47,7 @@ Drive to Trailhead & Trail Guide - Yellow Mountain
     * L on dirt Ponderock Dr and go 20' (Bing calls this Alaska Dr)
     * L fork at telephone pole - "**No Trespassing**" sign here
 
-####Drive Guide - Yellow Mountain via Hamburg Gap from Highlands, NC
+#### Drive Guide - Yellow Mountain via Hamburg Gap from Highlands, NC
 
 * **Duration**: UNKNOWN
 * **Google Maps** URL from Highlands NC: http://goo.gl/maps/TgrPk
@@ -47,7 +60,7 @@ Drive to Trailhead & Trail Guide - Yellow Mountain
     * Bear L on Cloud Catcher Ln (not the hard L) paralleling the main rd and go 0.6
     * Park at dead end.
 
-####Trail Guide From Cole Gap via Shortoff Mountain
+#### Trail Guide From Cole Gap via Shortoff Mountain
 
 * **Duration**: 5.0 miles; 3:30 ascent (moderate pace); 3:00 return
 * **Navigation**: 
@@ -61,7 +74,7 @@ Drive to Trailhead & Trail Guide - Yellow Mountain
     * Summit: 35.1357, -83.1914
 
 
-####Trail Guide From Hamburg Gap
+#### Trail Guide From Hamburg Gap
 
 * **Duration**: Unknown
 * **Navigation**: Unknown
@@ -71,7 +84,7 @@ Drive to Trailhead & Trail Guide - Yellow Mountain
     * Trailhead: 35.14141,-83.19653 (estimated)
     * Summit: 35.1357, -83.1914
 
-####Trail Guide From Zeb Buchanan Rd
+#### Trail Guide From Zeb Buchanan Rd
 
 * **Duration**: 0.8 miles, 0:50
 * **Navigation**:
@@ -85,7 +98,7 @@ Drive to Trailhead & Trail Guide - Yellow Mountain
 	* Trailhead: 35.13733,-83.18496
     * Summit: 35.1357, -83.1914
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes, or from tower
 * Space to guy mast: Yes
@@ -94,6 +107,6 @@ Drive to Trailhead & Trail Guide - Yellow Mountain
     * Observation tower.  Has metal roof, so I set up nearby.
     * Great views.
 
-####See Also
+#### See Also
 
 * http://www.everytrail.com/view_trip.php?trip_id=1990535

@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 0.2
+bushwhack: Y
+pair: Flat Top, Cowpen, Bald, Grassy
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Dyer Mountain from Atlanta
+#### Drive Guide - Dyer Mountain from Atlanta
 
 * **Duration**: 2:00
 * **Google Maps** URL from 33.91819, -84.33747: https://goo.gl/maps/w8MSg9Uc33C2 
@@ -26,11 +39,11 @@ Trip-specific: Drive to Trailhead & Trail Guide
         * Pink Pig Barbecue at 824 Cherry Log St., Cherry Log, GA.  Open Thursday-Sunday 11-9.  VERY busy after church.
         * Note: There's a Barbecue place in Blue Ridge that has several billboards with directions telling you to turn at Wendy's. The pulled pork there is dry and taste-free.
 
-####Drive Guide - Dyer Mountain from Dyer Cemetery Driveway
+#### Drive Guide - Dyer Mountain from Dyer Cemetery Driveway
 * **Duration**: 0:10, 1.7 miles
 * Drive N on USFS-64 to trailhead.  There's a vertical burned out tree trunk at trailhead on left of road in 2014.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 15 minutes.  Nasty, brutish, and short. 
 * **Navigation**: Purely a GPS-based bushwhack. Thorns, brush, trees, deadfall.
@@ -40,7 +53,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * My trailhead: 34.88890, -84.51373
     * Summit: 34.891, -84.5152
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes, if you're flexible.
@@ -48,6 +61,6 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * Unique features:
     * Nice view through bare trees in winter.  A fairly sharp, well-defined peak for Georgia.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Flat Top Mountain

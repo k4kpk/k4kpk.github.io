@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 2
+miles: 1.3
+bushwhack: N
+pair: Kennesaw
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
 Drive to Trailhead & Trail Guide - Pine Mountain, W4G/HC-036
 --------------------------------------------------------
-####Drive Guide - Pine Mountain from Atlanta
+#### Drive Guide - Pine Mountain from Atlanta
 
 * **Duration**: 0:45 from Atlanta
 * **Google Maps** URL from I-285 at 33.91819, -84.33747: https://goo.gl/maps/GIqvp
@@ -14,7 +27,7 @@ Drive to Trailhead & Trail Guide - Pine Mountain, W4G/HC-036
 * **Food**
     * Last McDonalds: When you exit I-75, instead of turning R, turn L and go 1/3 mile.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1.3 miles 0:50 up; 0:35 down
 * **Navigation**
@@ -34,13 +47,13 @@ Drive to Trailhead & Trail Guide - Pine Mountain, W4G/HC-036
     * Summit = 34.17680, -84.74500
     * [GPX](http://k4kpk.com/sites/k4kpk.com/files/Pine%20Mountain.GPX)
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Low trees near summit.  May have to zigzag your wire.
 * Space to guy mast: Yes.  I bungeed mine to a crooked tree.
 * Cell coverage: Good.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Kennesaw Mountain, Vineyard Mountain
 

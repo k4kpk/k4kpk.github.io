@@ -1,9 +1,22 @@
-Trip-specific: Drive to Trailhead & Trail Guide
+---
+layout: sota-guide
+points: 8
+miles: 0.3
+bushwhack: Y
+pair: Richland Balsam, Waterrock Knob, Steestachee Bald, Barnett Knob
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
+Bunches Bald: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 
 Note: This is on the Cherokee reservation.  Ask permission at the campground, it is open May 15 - Oct 15.
 
-####Drive Guide - Heintooga Rd to Bunches Bald
+#### Drive Guide - Heintooga Rd to Bunches Bald
 
 * Best route:
     * Go 1 mile on Heintooga past
@@ -22,7 +35,7 @@ The 5-way intersection in the middle of the camp:
         * There's a sign as you come into camp that says to drive slow.  On the back of this sign (visible from mid-intersection), there's hand-lettered "Exit" on the left side of the sign and a wiggly line on the right side.  This tells you that the road to the left is the driveway back to Heintooga, and the road to the right is the twisty-windy BIA 407 leg back to Heintooga.
     * There's a speed bump on the leg of BIA 407 that leads to the trailhead.  (This is the road between the green shed and the shower building.)
 
-####Drive Guide - Bunches Bald from Atlanta
+#### Drive Guide - Bunches Bald from Atlanta
 
 * **Duration**: 168 miles, 3:05
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/yrTpo
@@ -40,7 +53,7 @@ The 5-way intersection in the middle of the camp:
     * Penultimate McD: Clayton, GA (busy on Saturday mornings)
     * Antepenultimate: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
-####Drive Guide - Bunches Bald from Waterrock Knob
+#### Drive Guide - Bunches Bald from Waterrock Knob
 
 * **Duration**: 8 miles, 0:30
 * **Google Maps** URL from Waterrock: http://goo.gl/maps/LRQ4W 
@@ -50,7 +63,7 @@ The 5-way intersection in the middle of the camp:
     * R onto Heintooga Ridge Rd (mile marker 458 @ sign to Masonic marker).
     * Continue at "Heintooga Rd to Bunches Bald"
         
-####Drive Guide - Bunches Bald TO Atlanta
+#### Drive Guide - Bunches Bald TO Atlanta
 
 * Head back the way you came and go 0.1
 * At the green shed, take the 90-degree left (which has a speed bump) back to Heintooga.
@@ -64,7 +77,7 @@ The 5-way intersection in the middle of the camp:
 * R onto GA-15 S/US-23 S/US-441 S and go 40.1
 * Straight on I-985 and take I-85 to I-285
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.2 miles, 0:10 hike + 10 minutes in office
 * **Trailhead**:
@@ -85,7 +98,7 @@ The 5-way intersection in the middle of the camp:
     * Trailhead at edge of campsite: 35.51554, -83.18875
     * Summit: 35.5161, -83.1900
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: No.  Too much greenery.
 * Space to guy mast: Yes.

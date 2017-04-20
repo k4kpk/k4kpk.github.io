@@ -1,11 +1,24 @@
-Drive to Trailhead & Trail Guide
+---
+layout: sota-guide
+points: 10
+miles: 3.8
+bushwhack: Y
+pair: 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: 
+---
+Big Fodderstack: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 * **CAUTION**: The last 200 yards of this hike are in dense rhododendron.  I had to crawl on hands and knees, and I lost some equipment.  I will never attempt this trip again without saw, pruning shears, or other trail-clearing equipment!  Do not attempt this trip unless you can handle an extremely difficult bushwhack after a 3.8 mile hike, climbing 2400 feet.
 
 * Please: Just take another trip.  This one isn't worth the pain.  I was still recovering a week later.
 
 
-####Drive Guide - Big Fodderstack
+#### Drive Guide - Big Fodderstack
 
 
 * **Duration**: 3:25 (158 miles)
@@ -34,7 +47,7 @@ Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: Ellijay, GA, on L
     * Dinner
 
-####Trail Guide
+#### Trail Guide
 
 * Note: Timings were made on a snowy hike outbound and moving fast with no break inbound (due to risk of being out after dark).
 
@@ -62,14 +75,14 @@ Drive to Trailhead & Trail Guide
     * Pine Ridge Trail Jct: 35.41408, -84.02987 (Turn L)
     * Summit: 35.4123, -84.0274
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: No
 * Space to guy mast: Not really. Just push it up through the rhododendron.
 * Cell coverage: VZN marginal; AT&T none; APRS marginal
 * Unique features: Dense rhododendron.  Miserable, intense bushwhack.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Hemlock Knob (Bushwhack up from Cherohala Skyway)
 * Stratton Bald (via Wolf Laurel Rd)

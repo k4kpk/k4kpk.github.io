@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 0.8
+bushwhack: Y
+pair: Ravencliff, Joe
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: 
+---
 Drive to Trailhead & Trail Guide - Hullander Knobs West
 --------------------------------------------------------
-####Drive Guide - Bell Knob to Hullander Knobs West
+#### Drive Guide - Bell Knob to Hullander Knobs West
 
 * **Duration**: 0:40
 * **Google Maps** URL: 
@@ -14,7 +27,7 @@ Drive to Trailhead & Trail Guide - Hullander Knobs West
     * Park at sharp R on Ravencliff FAA Rd
 
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.8 miles; 0:50 up; 0:30 down
 * **Navigation**: 
@@ -29,10 +42,9 @@ Drive to Trailhead & Trail Guide - Hullander Knobs West
 * **GPS tracks/waypoints**:
     * 34.92054,-83.91235 = Direction change from one ridge line to the other.
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:
 * Cell coverage:
 * Unique features:
-Le

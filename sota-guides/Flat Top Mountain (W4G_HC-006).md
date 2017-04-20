@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: ?
+bushwhack: N
+pair: Dyer, Cowpen, Bald, Grassy
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Flat Top from Atlanta
+#### Drive Guide - Flat Top from Atlanta
 
 * **Duration**: 2:20 to Dyer Cemetery. 
     * Allow 20 minutes more, if you drive from Dyer up to the almost-summit turn-around.
@@ -32,7 +45,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
         * Poole's Barbecue "Pig Hill" at 164 Craig Street, Ellijay. Closes at 7/8/8/6, Thurs/Fri/Sat/Sun.
         * Note: There's a Barbecue place in Blue Ridge that has several billboards with directions telling you to turn at Wendy's. The pulled pork there is dry and taste-free.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**
     * 10 minutes from the turn-around near the top to the summit.
@@ -50,7 +63,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Turn-around near summit: 34.85597, -84.50105
     * Summit: 34.85760, -84.50396
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes.  Many good trees.
 * Space to guy mast: Yes.  There are some briars, but you can find a clear enough spot, or lean your mast against a tree.
@@ -60,6 +73,6 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Low concrete foundation from something at summit.
     * Hiker trail, diamond blazed, marked with a stripped-of-sign post enters north side of summit and leaves to the west.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Dyer Mountain (W4G/HC-009) is a bushwhack from USFS-64.  Accessible even when winter-closed FS roads are gated.

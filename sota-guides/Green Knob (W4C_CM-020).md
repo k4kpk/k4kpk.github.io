@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 0.5
+bushwhack: N
+pair: Mt Mitchell
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: 
+---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Green Knob (W4C/CM-020) from Mt Mitchell
+#### Drive Guide - Green Knob (W4C/CM-020) from Mt Mitchell
 
 * Note: This is the Green Knob with a fire tower.  There's another Green Knob which is near Mt Pisgah which has no fire tower.
 
@@ -15,7 +28,7 @@ Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: 
     * Dinner
 
-####Drive Guide - Green Knob (W4C/CM-020) TO Atlanta
+#### Drive Guide - Green Knob (W4C/CM-020) TO Atlanta
 
 * **Duration**: 4:05, 230 miles
 * **Directions**:
@@ -27,7 +40,7 @@ Drive to Trailhead & Trail Guide
     * Exit 54 for US-25 S
     * Follow US-25 S to I-85 S
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:25, 0.5 miles
 * **Navigation**
@@ -42,7 +55,7 @@ Drive to Trailhead & Trail Guide
     * Leave road: 35.71938,-82.22230
     * Summit: 35.7206, -82.2236
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:
@@ -50,6 +63,6 @@ Drive to Trailhead & Trail Guide
 * Unique features:
     * x
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * summits listed here with some clue as to where/how

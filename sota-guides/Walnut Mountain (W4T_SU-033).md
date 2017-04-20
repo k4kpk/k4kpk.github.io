@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 10
+miles: 1.4
+bushwhack: N
+pair: Max Patch 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: 
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Walnut Mountain (Lemon Gap) from Max Patch Parking
+#### Drive Guide - Walnut Mountain (Lemon Gap) from Max Patch Parking
 
 * **Duration**: 0:15
 * **Google Maps** URL from Knoxville to Max Patch to Walnut to Knoxville: http://goo.gl/maps/20ybb
@@ -12,7 +25,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **Food**
     * Last McDonalds: n.a.
 
-####Drive Guide - Walnut Mountain (Rattlesnake Gap) from Max Patch Parking
+#### Drive Guide - Walnut Mountain (Rattlesnake Gap) from Max Patch Parking
 * **Duration**: 0:25
 * **Seasonal/Limited Access**: 
      * USFS-96 has a gate.  It was open 2014.08.30 and 2015.09.27.
@@ -23,7 +36,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
         * Note: Google maps shows this intersection at 35.83849, -82.95455.  It is really at 35.83328, -82.95083.
     * Park at the T in the road
 
-####Drive Guide - Walnut Mountain (Rattlesnake Gap) TO Atlanta
+#### Drive Guide - Walnut Mountain (Rattlesnake Gap) TO Atlanta
 * **Duration**: (40 minutes to I-40) 3:50
 * **Directions**:
     * S/SW on Wolf Creek Rd (back the way you came in) and go 1.6
@@ -31,7 +44,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Pass the Lemon Gap trailhead on your L.
     * Continue at "Drive Guide - Walnut Mountain (LemonGap) TO Atlanta"
     
-####Drive Guide - Walnut Mountain (Lemon Gap) TO Atlanta
+#### Drive Guide - Walnut Mountain (Lemon Gap) TO Atlanta
 * **Duration**: (30 minutes to I-40) 3:40
 * **Directions**:
     * South (away from Walnut Mtn trail) on Round Mtn Rd / Max Patch Rd and go 3.6
@@ -44,7 +57,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Exit 27, US-23 south, to US-441 south to Atlanta
      
 
-####Trail Guide from Lemon Gap
+#### Trail Guide from Lemon Gap
 
 * **Duration**: 1.4 miles, 1:00 up (GPX trace walks back down some), 0:45 down
 * **Navigation**
@@ -60,7 +73,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Shelter: 35.83651,-82.93644
     * Summit: 35.83670,-82.93410
 
-####Trail Guide from Rattlesnake Gap####
+#### Trail Guide from Rattlesnake Gap####
 * **Duration**: 1.4 miles (565' climb), 0:45 up, 0:35 down (via gated road - not the shortcut trail)
 * **Navigation**:
     * USFS-96 comes into a T at Rattlesnake Gap.  96 turns R on the top-right of the T.  There's a seasonally gated road making the top-left of the T.
@@ -73,7 +86,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * Rattlesnake Gap Trailhead: 35.84758,-82.94426
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: yes
 * Space to guy mast: yes

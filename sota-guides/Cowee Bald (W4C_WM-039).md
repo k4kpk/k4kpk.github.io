@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 0.5
+bushwhack: N
+pair: 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
 Drive to Trailhead & Trail Guide - Cowee Bald
 --------------------------------------------------------
-####Drive Guide - Cowee Bald From Atlanta
+#### Drive Guide - Cowee Bald From Atlanta
 
 * **Duration**: 2:50, 138 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -29,7 +42,7 @@ Drive to Trailhead & Trail Guide - Cowee Bald
     * Before that: Clayton, GA (busy on Saturday mornings)
     * Before that: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
-####Drive Guide - Cowee Bald TO Atlanta
+#### Drive Guide - Cowee Bald TO Atlanta
 
 * **Directions**:
     * Drive out on Government Rd and go 0.8
@@ -47,14 +60,14 @@ Drive to Trailhead & Trail Guide - Cowee Bald
     * Straight onto US-23 S and go 60.4
     * Straight onto I-985
 
-####Drive Guide - Cowee Bald From Yellow Bald
+#### Drive Guide - Cowee Bald From Yellow Bald
 
 * **Duration**: 1:26, 42 miles
 * **Google Maps** URL: http://goo.gl/maps/E2ILc 
 * **Seasonal/Limited Access**:
 * **Directions**:
 
-####Drive Guide - Cowee Bald From Shepherd Bald
+#### Drive Guide - Cowee Bald From Shepherd Bald
 
 * **Duration**: 
 * **Google Maps** 
@@ -65,7 +78,7 @@ Drive to Trailhead & Trail Guide - Cowee Bald
     * Keep L on Government Rd (straight, really) and go 0.8. Road gets moderately rough, but not scary in my Corolla.
     * Park at wide spot in road when you see the locked gate.
 
-####Drive Guide - Cowee Bald From Wine Spring Bald
+#### Drive Guide - Cowee Bald From Wine Spring Bald
 
 * **Duration**: 
 * **Google Maps** 
@@ -85,7 +98,7 @@ Drive to Trailhead & Trail Guide - Cowee Bald
     * Keep L on Government Rd (straight, really) and go 0.8. Road gets moderately rough, but not scary in my Corolla.
     * Park at wide spot in road when you see the locked gate.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:15, 0.5 mile to the summit
 * **Navigation**
@@ -102,7 +115,7 @@ Drive to Trailhead & Trail Guide - Cowee Bald
     * End of steep climb, 23' below the high point: 35.32995,-83.33716
     * Summit: 35.3265, -83.3351
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
@@ -112,6 +125,6 @@ Drive to Trailhead & Trail Guide - Cowee Bald
     * Very high QRM (buzzing, S7-S8) on all HF bands at the summit.
     * I was only able to raise one FM contact, even with spotting 146.55 and also calling on 146.52.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * You literally drive right past the Shepherd Bald (W4C/WM-045) trailhead at 35.32478,-83.37609.

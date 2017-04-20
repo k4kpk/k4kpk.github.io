@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 10
+miles: 4.7
+bushwhack: N
+pair: Bell Knob
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Eagle Mountain
+#### Drive Guide - Eagle Mountain
 
 * **Duration**: 2:15
 * URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -40,7 +53,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: GA-400 at GA-53 (38 miles north of I-285)
     * Dinner
     
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 3:15 hours (4.7 miles, 2000' - from where I parked.  4.4 if you have 4WD.)
 * **Navigation**
@@ -57,7 +70,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
         * Trail is vague here.  You turn L onto vague trail.  Trail soon turns to dirt road.
     * Summit: N34.96438 W83.69103
     
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes. I did.
 * Space to guy mast:  Yes.  Some staking issues due to frequent granite. May have to tie to tree.
@@ -65,6 +78,6 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * Unique features:
     * Nothing special.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Bell Knob

@@ -1,6 +1,19 @@
-Drive to Trailhead & Trail Guide
+---
+layout: sota-guide
+points: 8
+miles: 3
+bushwhack: N
+pair: Standing Indian 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: 
+---
+Boteler Peak: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Standing Indian to Boteler Peak
+#### Drive Guide - Standing Indian to Boteler Peak
 
 * **Duration**: 
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -29,7 +42,7 @@ Drive to Trailhead & Trail Guide
 * **Food**
     * None
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 3 miles (1.7 as the crow flies), 1500' climb, 2:30
 * **Navigation**
@@ -48,7 +61,7 @@ Drive to Trailhead & Trail Guide
     * Summit: 35.0686, -83.6587
     * Summit: 35.0686,-83.6587
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:
@@ -56,6 +69,6 @@ Drive to Trailhead & Trail Guide
 * Unique features:
     * x
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Standing Indian

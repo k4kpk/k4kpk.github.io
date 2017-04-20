@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 10
+miles: 0.3
+bushwhack: N
+pair: Craggy Dome
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Mt Mitchell from Craggy Dome
+#### Drive Guide - Mt Mitchell from Craggy Dome
 
 * **Duration**: 12.7 miles, 0:30
 * **Google Maps** URL: http://goo.gl/maps/pX9I2 
@@ -10,7 +23,7 @@ Drive to Trailhead & Trail Guide
     * Mile marker 355.3
     * L at stone "Mount Mitchell State Park" sign and go 4.6
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.3 miles, 0:10
 * **Navigation**
@@ -23,7 +36,7 @@ Drive to Trailhead & Trail Guide
     * W4C activation zone is 80 feet, so anything above 6604 is good.
     * There is a sign post with the elevation at the far end of the parking lot, so you can calibrate your altimeter.
 
-####Summit Guide
+#### Summit Guide
 
 * Apply bug dope.  On July 11, 2015, the summit and parking area were swarmed with wevils.  Wevils look a lot like ticks.  They were landing on me and my pack faster than I could find them and flick them off.
 * Hang antenna from tree: Yes, if you are away from the apex of the summit.

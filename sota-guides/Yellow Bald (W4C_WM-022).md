@@ -1,9 +1,22 @@
+---
+layout: sota-guide
+points: 8
+miles: 0.4
+bushwhack: Y
+pair: Standing Indian
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: VW
+---
 Drive to Trailhead & Trail Guide - Yellow Bald
 --------------------------------------------------------
 
 * Note: If you elect to pair this with a summit to the west (e.g. Standing Indian), see my guide for Tray Mountain for related directions.
 
-####Drive Guide - Yellow Bald from ATLANTA
+#### Drive Guide - Yellow Bald from ATLANTA
 
 * **Duration**: 2:30 (actual, 2015)
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/l7kIQ
@@ -33,7 +46,7 @@ Drive to Trailhead & Trail Guide - Yellow Bald
     * Penultimate McDonalds: Cornelia, on Level Grove Rd.
         * It comes just BEFORE Cornelia and your exit to US–441.
 
-####Drive Guide - Yellow Bald TO US-441
+#### Drive Guide - Yellow Bald TO US-441
 * **Directions**: about 0:35
     * Drive back the way you came in and go 2.1
     * L onto Ball Creek Rd and go 2.6
@@ -42,7 +55,7 @@ Drive to Trailhead & Trail Guide - Yellow Bald
     * Arrive at US-441
 
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.4, 0:20 up, 0:15 down
 * **Navigation**
@@ -59,7 +72,7 @@ Drive to Trailhead & Trail Guide - Yellow Bald
     * Parking: 35.0525, -83.4802
     * Summit: 35.0501, -83.4837
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Y
 * Space to guy mast: Y

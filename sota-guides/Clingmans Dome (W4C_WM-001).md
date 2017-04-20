@@ -1,6 +1,19 @@
-Trip-specific: Drive to Trailhead & Trail Guide
+---
+layout: sota-guide
+points: 10
+miles: 0.6
+bushwhack: N
+pair: Wine Spring Bald, Nettle Creek Bald, Barnett Knob
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: M
+---
+Clingmans Dome: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Clingmans Dome from Nettle Creek Bald
+#### Drive Guide - Clingmans Dome from Nettle Creek Bald
 
 * **Duration**: 0:25 10.3 miles
 * **Google Maps** URL: http://goo.gl/maps/LDWBt
@@ -8,17 +21,17 @@ Trip-specific: Drive to Trailhead & Trail Guide
 	* Head West (L out of parking) on US-441 N and go 3.3
 	* L on Clingman's Dome Rod and go 7.1
 
-####Drive Guide - Clingmans Dome from Atlanta
+#### Drive Guide - Clingmans Dome from Atlanta
 
 * **Duration**: 3:20, 178 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/88sCD
 
-####Drive Guide - Clingmans Dome from Cowee Bald
+#### Drive Guide - Clingmans Dome from Cowee Bald
 
 * **Duration**: 2:10, 70 miles
 * **Google Maps**: http://goo.gl/maps/4ntXL
 
-####Drive Guide - Clingmans Dome from Wine Spring Bald
+#### Drive Guide - Clingmans Dome from Wine Spring Bald
 
 Note: Any references to a Tennessee summit for Clingmans Dome are obsolete.  The summit splits the state lines.  You used to be able to get credit for both states, but the SOTA management team has disallowed dual-state summits.
 
@@ -44,7 +57,7 @@ Note: Any references to a Tennessee summit for Clingmans Dome are obsolete.  The
     * Before that: Clayton, GA (busy on Saturday mornings)
     * Before that: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 
     * 25 minutes up, 15 minutes down from Clingmans parking lot to summit. 0.6 miles
@@ -57,7 +70,7 @@ Note: Any references to a Tennessee summit for Clingmans Dome are obsolete.  The
     * Trailhead: 35.55659,-83.49598
     * Summit: 35.5629, -83.4986
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
@@ -66,6 +79,6 @@ Note: Any references to a Tennessee summit for Clingmans Dome are obsolete.  The
     * Big concrete observation deck with ramp
     * Lots of tourists
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * None listed

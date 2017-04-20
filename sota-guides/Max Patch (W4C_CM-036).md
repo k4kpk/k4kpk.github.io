@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 0.5
+bushwhack: N
+pair: Walnut
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: TN,VN,A
+---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Max Patch from Knoxville
+#### Drive Guide - Max Patch from Knoxville
 
 * **Duration**: 1:45
 * **Google Maps** URL from Knoxville to Max Patch to Walnut to Knoxville: http://goo.gl/maps/20ybb
@@ -20,7 +33,7 @@ Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: Dandridge TN - State Hwy 92 exit
     * Dinner
 
-####Drive Guide - Max Patch from Atlanta
+#### Drive Guide - Max Patch from Atlanta
 
 * **Duration**: 3:35
 * **Google Maps** URL from Atlanta to Max Patch: http://goo.gl/maps/CmTNi
@@ -46,7 +59,7 @@ Drive to Trailhead & Trail Guide
     * Others: Franklin NC (bad service); Clayton GA (busy)
     * Preferred: Cornelia GA, on Level Grove Rd.
 
-####Drive Guide - Max Patch TO Atlanta
+#### Drive Guide - Max Patch TO Atlanta
 * **Directions**:
     * L from Max Patch parking and go 1.6
     * Keep R on 1182 (not L on 1181) and go 0.2
@@ -57,7 +70,7 @@ Drive to Trailhead & Trail Guide
     * Exit 27, US-23 south, to US-441 south to Atlanta
 
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**:
     * Option 1 = 0.3, 350'. 0:20 up and 0:10 down (respectful overland route); 
@@ -80,7 +93,7 @@ Drive to Trailhead & Trail Guide
     * Trailhead: 35.796401, -82.962596
     * Summit: 35.7973, -82.9569
     
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: No
 * Space to guy mast: Yes

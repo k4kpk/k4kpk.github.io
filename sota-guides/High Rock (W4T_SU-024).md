@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 10
+miles: 1.6
+bushwhack: N
+pair: 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - High Rock from Toxaway Mtn
+#### Drive Guide - High Rock from Toxaway Mtn
 
 * **Duration**: 1:50, 86 miles
 * **Google Maps** URL from 35.131222, -82.983638 to 35.9553,-82.5595: http://goo.gl/maps/qFJVW
@@ -26,7 +39,7 @@ Drive to Trailhead & Trail Guide
     * Last McDonalds: 
     * Penultimate McDonalds: 
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1.8 miles, climb 600', 1:10 up, 0:50 down (hurrying)
 * **Navigation**: (You'll see AT blazes alond the road as it crosses under I-26.)
@@ -38,11 +51,11 @@ Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * 
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:
 * Cell coverage:
 * Unique features:
 
-####Plan-B Candidates
+#### Plan-B Candidates

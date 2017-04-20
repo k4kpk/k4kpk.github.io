@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 1.0
+bushwhack: N
+pair: 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: T,V
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Springer Mountain from Sassafras Mtn
+#### Drive Guide - Springer Mountain from Sassafras Mtn
 
 * **Google Maps**: 
 * **Seasonal/Limited Access**: No gates encountered; lots of dirt road.
@@ -10,7 +23,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Name change to Winding Stair Gap Rd and go 1.6
     * Bear R onto USFS-? and go 2.6
 
-####Drive Guide - Springer Mountain TO Atlanta
+#### Drive Guide - Springer Mountain TO Atlanta
 
 * **Google Maps**: 
 * **Seasonal/Limited Access**: No gates encountered; lots of dirt road.
@@ -29,7 +42,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * L on GA-369 E and go 1
     * R on GA-400 S and go 29.5
 
-####Drive Guide - Springer Mountain from Atlanta
+#### Drive Guide - Springer Mountain from Atlanta
 
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
     * TO summit: http://goo.gl/maps/LLxmQ
@@ -52,7 +65,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: GA-400 at GA-306
     * Anti-penultimate McDonalds: GA-400 at GA-20 (turn L 0.3 from 400) in Cumming
 
-####Drive Guide - Springer Mountain from Rock Mtn (HC-008)
+#### Drive Guide - Springer Mountain from Rock Mtn (HC-008)
 * **Directions from Rocky Mtn (HC-008)**: Duration = 1:00
     * Head South/East (away from US-76/GA-5) on Rock Creek/Stanley Creek Rd and go 3.9
     * R on Aska Rd and go 5.1 (expensive restaurant here)
@@ -61,7 +74,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * L toward Blue Ridge WMA (maybe USFS-42).  (@ gravel lot on R w/2 Mt. Pleasant Church)
         * Go 6.5 on dirt road.  Big parking lot on left.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1.0 miles, 400' climb, Ascent = 0:45, Descent = 0:30
 * **Navigation**
@@ -74,7 +87,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Trailhead: 34.63745, -84.19540
     * Summit: 34.62680, -84.19370
     
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes

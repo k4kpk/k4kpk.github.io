@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 10
+miles: 2.6
+bushwhack: N
+pair: Boteler Peak
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: M
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Standing Indian from Atlanta
+#### Drive Guide - Standing Indian from Atlanta
 
 * **Duration**: 2:35, 140 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/Xg9UJ
@@ -20,7 +33,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Before that: Clayton, GA (busy on Saturday mornings)
     * Before that: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
-####Drive Guide - Standing Indian **to** Atlanta
+#### Drive Guide - Standing Indian **to** Atlanta
 
 * **Duration**: 2:35, 140 miles
 * **Directions**:
@@ -31,7 +44,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * R onto ramp for 441 South.
     * L onto US-441 / US-23 South to I-985 to I-85.
     
-####Drive Guide - Standing Indian (back route 1 - via Beech Gap) from Atlanta
+#### Drive Guide - Standing Indian (back route 1 - via Beech Gap) from Atlanta
 
 * **Duration**: 2:45, 133 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: https://goo.gl/maps/izJJPAgceFE2
@@ -54,7 +67,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **Food**
 
    
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1:45 up, 1:00 down, 2.6 miles
 * **Navigation**
@@ -67,7 +80,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Trailhead: 35.039431,-83.552724   -- 4348'
     * Summit: 35.0354, -83.5380    -- 5499'
     
-#### Trail Guide for Back Route 1 (Beech Gap Trail from USFS 67 + AT)
+####  Trail Guide for Back Route 1 (Beech Gap Trail from USFS 67 + AT)
 
 * **Duration**: 5:00 up, 3:30 down, 5.8 miles.  1800' climb with only one "bump"
 * Trailhead: 35.02728,-83.50656 elevation 3747
@@ -83,7 +96,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * There's a creek on the Beech Gap trail about 5 minutes before Beech Gap.  (There's also a trickle, about 2 minutes before.)
     * There's water at 5 and 10 minutes north of Beech Gap on the AT, and a significant creek 1/2 mile north.
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:  You could do a sloper, but there's nothing 35' tall.
 * Space to guy mast: Yes. Easy.

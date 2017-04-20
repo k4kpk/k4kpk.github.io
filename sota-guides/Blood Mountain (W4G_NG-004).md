@@ -1,6 +1,19 @@
-Trip-specific: Drive to Trailhead & Trail Guide
+---
+layout: sota-guide
+points: 10
+miles: 2.1
+bushwhack: N
+pair: Levelland, Sheriff
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: M
+---
+Blood Mountain: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Blood Mountain (W4G/NG-004)
+#### Drive Guide - Blood Mountain (W4G/NG-004)
 
 * **Duration**: 1:35 (based on experience)
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/ESfYO
@@ -16,7 +29,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: GA-400 at GA-53 (38 miles north of I-285)
     * Dinner: Smokin' Gold Barbecue - 59 East Main St, Dahlonega, GA.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 2.2 miles.  1:55 up; 1:30 down; (1:35 from summit to Walasi-Yi)
 * **Navigation**
@@ -29,7 +42,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Trailhead: 34.74212, -83.92272
     * Summit: 34.7398, -83.937
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Not on *top* of the summit; possible within activation zone.
 * Space to guy mast: Not on *top* of the summit; possible within activation zone.
@@ -42,7 +55,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Walasi-Yi center near trailhead sells provisions
     * The area is very popular.  Don't expect privacy.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Levelland Mountain - Opposite direction on AT at Walasi-Yi
 * Akin Mtn

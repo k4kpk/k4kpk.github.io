@@ -1,10 +1,23 @@
+---
+layout: sota-guide
+points: 10
+miles: 0.6
+bushwhack: N
+pair: Tray, Blue, Rocky
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
 
 Brasstown Bald: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 * Check with GDOT to see whether GA-180 Spur is open: 706-348-4848
 * Pay $5 per adult for parking and/or shuttle. shuttle is included, even if you don't use it.  $3 out of season when shuttle not running.
 
-####Drive Guide - Brasstown Bald from Atlanta
+#### Drive Guide - Brasstown Bald from Atlanta
 
 * **Duration**: 1:45
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/2AIvK 
@@ -22,7 +35,7 @@ Brasstown Bald: Drive to Trailhead & Trail Guide
     * L on GA-180 Spur and go 2.5
 * Last McDonalds: Dahlonega
 
-####Drive Guide - Brasstown Bald from Glassy Mtn
+#### Drive Guide - Brasstown Bald from Glassy Mtn
 
 * **Duration**: 1:10
 * **Google Maps** URL:  http://goo.gl/maps/kxFLb
@@ -36,7 +49,7 @@ Brasstown Bald: Drive to Trailhead & Trail Guide
     * R on GA-180 and go 5.3
     * R on GA-180 Spur and go 2.5
 
-####Drive Guide - Brasstown Bald from Rocky Knob
+#### Drive Guide - Brasstown Bald from Rocky Knob
 
 * **Duration**: 0:35 (allow more, if you stop for food).
 * **Google Maps** URL:  
@@ -49,7 +62,7 @@ Brasstown Bald: Drive to Trailhead & Trail Guide
     * R on GA-180 and go 5.3
     * R on GA-180 Spur and go 2.5
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 30 minutes up (do it in 20 if you don't mind hurting), 15 minutes down, 0.6 miles
 * **Navigation**
@@ -59,7 +72,7 @@ Brasstown Bald: Drive to Trailhead & Trail Guide
 * **Grid Square**: EM84cu
 * **GPS tracks/waypoints**: Main parking lot 34.87014, -83.81000
 
-####Summit Guide
+#### Summit Guide
 
 * Don't set up your antenna near the museum.  Something in the building generates intermittent S9 QRM.  
 * There is a little meadow with benches to your right, just as the trail reaches the summit.  Operated here.  You could also set up near the handicapped parking.
@@ -72,4 +85,4 @@ Brasstown Bald: Drive to Trailhead & Trail Guide
     * W4NGT - 147.210 (input 147.810 PL=100.0) Blairsville, GA
     * W9QXW 146.955 (input 146.355 PL=100.0) Blairsville, GA W9QXW
 
-####Plan-B Candidates
+#### Plan-B Candidates

@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 0.8
+bushwhack: Y
+pair: Buckeye, Coosa
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: A, V
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Akin Mountain (from Buckeye Knob)
+#### Drive Guide - Akin Mountain (from Buckeye Knob)
 
 * **Duration**: 0:45
 * **Google Maps** 
@@ -15,7 +28,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Last McDonalds: None
     * Dinner: Smoke-n-Gold in Dahlonega
 
-####Drive Guide - Akin Mountain (from Atlanta)
+#### Drive Guide - Akin Mountain (from Atlanta)
 
 * **Duration**: 2:05
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/DovLq
@@ -35,7 +48,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: GA-400 at GA-53 (38 miles north of I-285)
     * Dinner: Smoke-n-Gold in Dahlonega
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.8 miles, 0:50 up; 0:35 down 
 * **Navigation**: Hike on the Duncan Ridge Trail from Mulky Gap. Steady, 700' climb.
@@ -52,12 +65,12 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Trailhead: 34.79906,-84.03993
     * Summit: 34.80030,-84.04960
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
 * Cell coverage: AT&T=good, Vzn=good, APRS=outbound message failed in 2013
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Blood Mtn, Levelland Mtn, Coosa Bald, Sheriff Knob, Buckeye Knob

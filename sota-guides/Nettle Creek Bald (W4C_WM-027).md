@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 2.2
+bushwhack: N
+pair: Clingmans, Cowee
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
 Drive to Trailhead & Trail Guide - Nettle Creek Bald
 --------------------------------------------------------
-####Drive Guide - Nettle Creek Bald from Atlanta
+#### Drive Guide - Nettle Creek Bald from Atlanta
 
 * **Duration**: 3:00
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/ZALRL
@@ -13,7 +26,7 @@ Drive to Trailhead & Trail Guide - Nettle Creek Bald
     * Last McDonalds: 
     * Dinner
 
-####Drive Guide - Nettle Creek Bald from Cowee Bald
+#### Drive Guide - Nettle Creek Bald from Cowee Bald
 
 * **Duration**: 1:50, 60 miles (actual 2014 drive time)
 * **Google Maps**: http://goo.gl/maps/VHp0e
@@ -34,12 +47,12 @@ Drive to Trailhead & Trail Guide - Nettle Creek Bald
 	* Park on Left.  Small sign on L, "Thomas Divide Trail"
 
 
-####Drive Guide - Nettle Creek Bald from Clingman's Dome
+#### Drive Guide - Nettle Creek Bald from Clingman's Dome
 
 * **Duration**: 0:25
 * **Google Maps**: http://goo.gl/maps/p6AqR
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 2.2 miles, 1:15 in, 1:00 out (comfortable); 1:05 in and 0:50 out really hurrying
 * **Navigation**
@@ -50,7 +63,7 @@ Drive to Trailhead & Trail Guide - Nettle Creek Bald
     * Trailhead: 35.58578,-83.39884
     * Summit: 35.5666, -83.3819
     
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: yes
 * Space to guy mast: yes

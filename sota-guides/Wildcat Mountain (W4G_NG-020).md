@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 0.8
+bushwhack: N
+pair: 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: M
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Wildcat Mountain from ATLANTA
+#### Drive Guide - Wildcat Mountain from ATLANTA
 
 * **Duration**: 1:45
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -21,7 +34,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Last McDonalds: GA-400 at GA-53.
     * Dinner: 5 Guys in Home Depot shopping center, just south of GA-53, or there's a barbecue joint with a pink pig across from the McDonalds at GA-53.
 
-####Drive Guide - Wildcat Mountain from Sassafras Mtn
+#### Drive Guide - Wildcat Mountain from Sassafras Mtn
 
 * **Duration**: 1:00, 30 miles
 * **Google Maps** URL: 
@@ -40,7 +53,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **Food**: None on the way
     * Dinner: 5 Guys in Home Depot shopping center, just south of GA-53, or there's a barbecue joint with a pink pig across from the McDonalds at GA-53.
 
-####Drive Guide - Wildcat Mtn to Atlanta (partial)
+#### Drive Guide - Wildcat Mtn to Atlanta (partial)
 
 * Left out of the lot and go 7
 * R on GA-75 Alt and go 5.9
@@ -50,7 +63,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * L on GA-115 S and go 4.6
 * Straight onto GA-400 S
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.8 miles / 0:30 up (if fresh), 0:20 down
 * **Navigation**
@@ -66,12 +79,12 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Summit: 34.71740, -83.83820
     * Grid: EM84br
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes, but they aren't very tall.  You'll need to string it through multiple trees.
 * Space to guy mast: Yes.
 * Cell coverage: Yes (Verizon); I was unable to get an SMS out with AT&T.
 * Unique features: Nice views near summit.  Hard to see if trees are in full leaf.
 
-####Plan-B Summit(s)
+#### Plan-B Summit(s)
 * Blood Mountain

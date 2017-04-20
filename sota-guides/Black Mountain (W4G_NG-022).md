@@ -1,4 +1,17 @@
-####Drive Guide - Black Mountain (W4G/NG-022)
+---
+layout: sota-guide
+points: 8
+miles: 1
+bushwhack: N
+pair: Big Cedar, Gooch, Sassafras
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
+#### Drive Guide - Black Mountain (W4G/NG-022)
 
 * **Duration**: 1:20
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/iv36I
@@ -17,7 +30,7 @@
     * Penultimate McDonalds: Hwy 53, Dawsonville - 38 miles from I-285
     * Barbecue - After activating, take GA-60 south to US-19 south, go 7.2 on US-19, R on East Main Street (US-19 biz), follow East Main Street into town.  Smokin' Gold 
 
-####Trail Guide - Black Mountain
+#### Trail Guide - Black Mountain
 
 * **Duration**:
     * Black Mtn: 1.1 miles, 0:40 up; 0:25 down
@@ -33,13 +46,13 @@
     * Woody Gap: 34.67763, -84.00031
     * Maidenhead Grid: EM84hv
 
-####Summit Guide - Black Mountain
+#### Summit Guide - Black Mountain
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
 * Cell coverage: AT&T=good; Verizon=good; APRS=yes
 * Unique features: Fire tower converted to antenna tower at summit.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Gooch Mtn & Sassafras Mtn, Blood Mountain, Levelland Mountain, Big Cedar Mountain

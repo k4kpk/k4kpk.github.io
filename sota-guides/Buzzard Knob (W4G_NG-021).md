@@ -1,8 +1,21 @@
-Trip-specific: Drive to Trailhead & Trail Guide
+---
+layout: sota-guide
+points: 8
+miles: 3.5
+bushwhack: Y
+pair: Little Bald Knob
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: T,V
+---
+Buzzard Knob: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 Note: Buzzard Knob is also accessible via Charlies Creek Rd and Blue Ridge Gap.  See my Hightower Bald guide for access to Blue Ridge Gap via Charlies Creek Rd.
 
-####Drive Guide - Buzzard Knob and Little Bald Knob Double-header
+#### Drive Guide - Buzzard Knob and Little Bald Knob Double-header
 
 * **Duration**: 2:00
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/9CYiQ
@@ -20,7 +33,7 @@ Note: Buzzard Knob is also accessible via Charlies Creek Rd and Blue Ridge Gap. 
 * **Notes**
     * You cannot reach Cowart Gap via Mr. Bert Road in a passenger vehicle.  You may be able to reach it via ATV.  Road becomes  a wide trail by the time it reaches Cowart Gap.
 
-####Trail Guide
+#### Trail Guide
 
 * **Durations (Buzzard, then Little Bald 2013)**: 3:00 - 3.5 Miles total, but it includes significant bushwhack.
     * 2:30 - 3.3 miles, Dicks Creek Gap to Buzzard Knob. 1100' total climb + 400' dip to Cowart Gap. Medium-difficulty bushwhack in summer.
@@ -47,12 +60,12 @@ Note: Buzzard Knob is also accessible via Charlies Creek Rd and Blue Ridge Gap. 
     * Little Bald Knob: 34.9133, -83.6041
     * Buzzard Knob: 34.9335, -83.6025
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Heavy vegetation makes it challenging.
 * Space to guy mast: Heavy vegetation makes it challenging.
 * Cell coverage: Good. AT&T had 3G internet. VZN SMS good. No APRS msgs or beacons worked.
 
-####Scouting After Hike
+#### Scouting After Hike
 
 * Scout the drive to Rock Mtn (NG-024) via Finney Creek Rd.  You can't get there via Courthouse Gap Rd because it becomes a private road near its start.

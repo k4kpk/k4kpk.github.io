@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 2
+miles: 1.3
+bushwhack: N
+pair: 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: T,V
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide
+#### Drive Guide
 
 * **Duration**: 40 minutes
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/mF3hd
@@ -19,7 +32,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: 
     * Dinner
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1:00
 * **Navigation**
@@ -33,7 +46,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Trailhead: 33.81076,-84.16213
     * Summit: 
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: No suitable trees.
 * Space to guy mast: 
@@ -48,7 +61,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Suppose you have a less-mobile family member.  You can put them on the tram at the bottom of the mountain, then you climb to the top and meet them there.  Then they can observe you operating.
     * How many summits will you operate from that have a snack bar and a movie?
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Pine Mountain
 * Vineyard Mountain

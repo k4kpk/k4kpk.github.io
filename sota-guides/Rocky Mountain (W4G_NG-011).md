@@ -1,9 +1,22 @@
+---
+layout: sota-guide
+points: 10
+miles: 1.2
+bushwhack: N
+pair: Brasstown, Tray, Blue
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: T,V
+---
 Trip-specific: Drive to Rocky Mtn T-head & Trail Guide
 --------------------------------------------------------
 
 Note: Shorter distance and much less climb from the Indian Grave Gap trailhead.
 
-####Drive Guide - Rocky Mtn (NG-011) via Unicoi Gap from Rocky Mtn (NG-050)
+#### Drive Guide - Rocky Mtn (NG-011) via Unicoi Gap from Rocky Mtn (NG-050)
 * **Duration**: 1:05
 * **Google Maps** URL:
 * **Seasonal/Limited Access**: All seasons; all weather.
@@ -16,7 +29,7 @@ Note: Shorter distance and much less climb from the Indian Grave Gap trailhead.
   	* R on SR-180 and go 12.6
   	* R on GA-17 S and go 2.5
 
-####Drive Guide - Rocky Mountain via Unicoi Gap from Atlanta
+#### Drive Guide - Rocky Mountain via Unicoi Gap from Atlanta
 
 
 NOTE: **Do not follow Google cell phone map through Helen!**
@@ -39,7 +52,7 @@ NOTE: **Do not follow Google cell phone map through Helen!**
     * Last McDonalds: GA-53, Dawsonville
     * Penultimate McDonalds: 
 
-####Drive Guide - Rocky Mountain via Indian Grave Gap from Blue Mtn
+#### Drive Guide - Rocky Mountain via Indian Grave Gap from Blue Mtn
 * **Duration**: 0:15
 * **Seasonal/Limited Access**: All seasons; all weather.
 * **Directions**: 
@@ -47,7 +60,7 @@ NOTE: **Do not follow Google cell phone map through Helen!**
     * At green mile post 2, sharp R onto Indian Grave Gap Rd and go 3.5
         * The turn is *too* sharp for an SUV.  You may have to go past and turn around.
 
-####Drive Guide - Rocky Mountain via Indian Grave Gap from Atlanta
+#### Drive Guide - Rocky Mountain via Indian Grave Gap from Atlanta
 * **Duration**: 2:15
 * **Seasonal/Limited Access**: All seasons; all weather.
 * **Directions**: 
@@ -72,7 +85,7 @@ NOTE: **Do not follow Google cell phone map through Helen!**
         * After about 15 minutes, large gate made of black logs on right. "No trespassing".
         * 5 more minutes to junction w/IGG Rd.  Keep left on Indian Grave Gap Rd and go about 2 minutes to the trailhead.
     
-####Drive Guide - Rocky Mountain via Unicoi Gap from Tray Mtn
+#### Drive Guide - Rocky Mountain via Unicoi Gap from Tray Mtn
 
 * **Duration**: 0:30
 * **Seasonal/Limited Access**: All seasons; all weather.
@@ -86,7 +99,7 @@ NOTE: **Do not follow Google cell phone map through Helen!**
             * At the fork for Indian Grave Gap, turn L and go 6 on Tray Mtn Rd.
             * At GA-17/GA-75 go RIGHT and go 7.1
 
-####Trail Guide - From Indian Grave Gap
+#### Trail Guide - From Indian Grave Gap
 
 * **Duration**: 1.2 miles. 1:00 up, 0:45 down
 * **Navigation**
@@ -97,7 +110,7 @@ NOTE: **Do not follow Google cell phone map through Helen!**
     * Trailhead: 34.79314,-83.71422
     * Summit: 34.79835, -83.72978
 
-####Trail Guide - From Unicoi Gap
+#### Trail Guide - From Unicoi Gap
 
 * **Duration**: 1.5 miles, 1:25 up, 0:40 down
 * **Navigation**
@@ -108,12 +121,12 @@ NOTE: **Do not follow Google cell phone map through Helen!**
     * Trailhead: 34.80210, -83.74285
     * Summit: 34.79835, -83.72978
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: YES
 * Space to guy mast: YES
 * Cell coverage: Good AT&T and Verizon; APRS text worked
 * Pretty views along the way to Rocky
 
-####Miscellaneous Notes
+#### Miscellaneous Notes
 I drove Indian Grave Gap Rd and Tray Mountain Rd in a Corolla with no problems in dry weather.  Don't drive too fast - there are some surprise potholes and runoff gullies.  The ford on IGG Rd went OK in a dry week.  Don't try it after heavy rain. Maintain momentum crossing the creek, to avoid trouble climbing out.

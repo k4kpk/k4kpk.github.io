@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 1.1
+bushwhack: N
+pair: 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: TF,VW
+---
 Sassafras Knob - Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Sassafras Knob from Grassy Mountain, GA (Overflow Camping Trailhead)
+#### Drive Guide - Sassafras Knob from Grassy Mountain, GA (Overflow Camping Trailhead)
 
 * **Duration**: 2:15, 60 miles
 * **Google Maps**: http://goo.gl/maps/dBri8  (Caution. The first part of route, before the Conasauga "T" is inaccurate. It is just a straight 5.9 mile drive from the trailhead to the T.)
@@ -20,7 +33,7 @@ Sassafras Knob - Drive to Trailhead & Trail Guide
 * **Food**
     * McDonalds in Blue Ridge
 
-####Drive Guide - Sassafras Knob from Atlanta
+#### Drive Guide - Sassafras Knob from Atlanta
 
 * **Duration**: 2:10, 112 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/97JgH
@@ -36,14 +49,14 @@ Sassafras Knob - Drive to Trailhead & Trail Guide
     * Dinner
 
 
-####Drive Guide - Ducktown to Trailhead
+#### Drive Guide - Ducktown to Trailhead
 * **Caution**: If Google Maps sends you on Campbell Cove Creek Rd, it is sending you onto two minor ruts across a field, which quickly develop erosion gullies so severe that you cannot get a passenger sedan through.  I think you'd need pretty serious 4WD to make it through that route.
 * **Caution**: Kimsey Mtn Hwy is barely drivable in a passenger sedan.  Road is eroded around big rocks, with some big erosion gullies.
 * L on GA-60/TN-68 at the T.  Go 8 miles
 * At Vics Auto Parts, sharp L onto ironically named Kimsey Mtn Hwy (dirt road) and go 5.4
 * Road turns sharp L and the gate is on the inside of the turn.  Parking space for 2 vehicles.
 
-####Drive Guide - Sassafras Knob TO Atlanta
+#### Drive Guide - Sassafras Knob TO Atlanta
 
 * **Duration**: 2:10, 112 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/XWUeE
@@ -56,7 +69,7 @@ Sassafras Knob - Drive to Trailhead & Trail Guide
     * R on GA-515 / GA-575 at Blue Ridge McDonalds and go 72.4
     * I-75 S to I-285 E
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1.1 miles, 45 minutes
 * **Navigation**
@@ -74,7 +87,7 @@ Sassafras Knob - Drive to Trailhead & Trail Guide
     * 146.610- (Chattanooga, tone 107.2)
     * Call N4AOW on simplex 146.52
     
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:

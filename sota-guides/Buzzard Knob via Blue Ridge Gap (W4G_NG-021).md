@@ -1,6 +1,19 @@
-Trip-specific: Drive to Trailhead & Trail Guide
+---
+layout: sota-guide
+points: 8
+miles: 2.6
+bushwhack: Y
+pair: 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: T,V
+---
+Buzzard Knob: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Buzzard Knob via Blue Ridge Gap
+#### Drive Guide - Buzzard Knob via Blue Ridge Gap
 
 * **Duration**: 2:10 Estimated.
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: https://goo.gl/maps/yRzXq7qJRrG2
@@ -34,7 +47,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **Notes**
     * If you can't reach Blue Ridge Gap, you can safely get a Prius as far as 34.95928,-83.60615.  This adds 0.8 miles and 560' of climb to your hike (one-way).
 
-####Trail Guide
+#### Trail Guide
 
 * **Durations: 2.6 miles; 1:55 up, 1:30 down. (Estimated)
 
@@ -54,7 +67,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Blue Ridge Gap Trailhead: 34.95871,-83.59633
     * Prius Parking: 34.95928,-83.60615
 
-####Summit Guide
+#### Summit Guide
 
 * The high point on the trail is definitely within the activation zone.  I have measured 34.93261,-83.60191 as being 80-90 feet down from the summit, and the trail high point is well above that.
 * The summit is nothing special.  Activate anywhere convenient within the zone.

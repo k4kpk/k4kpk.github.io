@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 2
+miles: 1.2
+bushwhack: N
+pair: Pine Mountain
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: T,V,A
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Kennesaw Mountain
+#### Drive Guide - Kennesaw Mountain
 
 * **Duration**: 30 minutes
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/NgQXy
@@ -24,7 +37,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **On the way home** (scouting/errands):
     * nothing planned
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1.2 miles. 1:00 with kids.
 * **Navigation**
@@ -35,7 +48,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Parking Lot: 33.98358, -84.57883
     * Summit 33.9763, -84.5794
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes, in the activation zone; no at the apex.
 * Space to guy mast: Yes, in the activation zone; no at the apex.
@@ -43,7 +56,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * Unique features:
     * Canon on top.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Pine Mountain
 * Stone Mountain

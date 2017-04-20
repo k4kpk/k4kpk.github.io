@@ -1,7 +1,20 @@
+---
+layout: sota-guide
+points: 8
+miles: 1.2
+bushwhack: N
+pair: 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: TF,VF
+---
 Whiteside Mtn - Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 
-####Drive Guide - Whiteside Mtn from Blackrock Mtn
+#### Drive Guide - Whiteside Mtn from Blackrock Mtn
 
 * **Duration**: 0:55, 29 miles
 * **Google Maps** URL: https://goo.gl/maps/40zJR
@@ -20,7 +33,7 @@ Whiteside Mtn - Drive to Trailhead & Trail Guide
 * **Food**: 
 
 
-####Drive Guide - Whiteside Mtn FROM Yellow Mtn Gap
+#### Drive Guide - Whiteside Mtn FROM Yellow Mtn Gap
 
 * **Duration**: 0:20, 6 miles
 * **Google Maps** URL: http://goo.gl/maps/TBNCn
@@ -36,7 +49,7 @@ Whiteside Mtn - Drive to Trailhead & Trail Guide
     * Parking lot - $2 parking fee
 * **Food**: None
 
-####Drive Guide - Whiteside Mtn FROM Cole Gap
+#### Drive Guide - Whiteside Mtn FROM Cole Gap
 
 * **Duration**: 0:15, 6 miles
 * **Google Maps** URL: http://goo.gl/maps/azU1v
@@ -49,7 +62,7 @@ Whiteside Mtn - Drive to Trailhead & Trail Guide
     * Parking lot - $2 parking fee
 * **Food**: None
 
-####Drive Guide - back to Highlands NC (where you briefly get 3G cell) and on to Atlanta
+#### Drive Guide - back to Highlands NC (where you briefly get 3G cell) and on to Atlanta
 
 * **Duration**: 2:25, 127 miles
 * **Google Maps** URL: https://goo.gl/maps/ujxql
@@ -60,7 +73,7 @@ Whiteside Mtn - Drive to Trailhead & Trail Guide
     * L on NC-106 E / GA-246 E and go 14.2
     * L on US-441
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 
     * Up via flat route: 1.2 miles, 500' climb, 0:50 hurrying, but tired.
@@ -75,7 +88,7 @@ Whiteside Mtn - Drive to Trailhead & Trail Guide
     * Trailhead: 35.08044,-83.14419
     * Summit: 35.0813,-83.138
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
@@ -83,7 +96,7 @@ Whiteside Mtn - Drive to Trailhead & Trail Guide
 * Cell coverage 2015: VZN fail; AT&T OK; ARPS OK
 * Unique features: Nice views.
 
-####See Also
+#### See Also
 
 * http://www.hikewnc.info/besthikes/nantahala-ranger-district/whiteside-mountain
 * http://www.hikewnc.info/trails/nantahala-ranger-district/whiteside-mountain

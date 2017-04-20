@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 1.4
+bushwhack: N
+pair: Black, Gooch, Sassafras
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Big Cedar (W4G/NG-023) and Black Mountain (W4G/NG-022)
+#### Drive Guide - Big Cedar (W4G/NG-023) and Black Mountain (W4G/NG-022)
 
 Note: Big Cedar is NG-023; Black Mountain is NG-022.  This is confusing (but true).  Normally the lower-numbered summit is taller, but Big Cedar is taller and 10 points and Black Mountain is 8 points, but Big Cedar is NG-023 and Black Mountain is NG-022.
 
@@ -21,7 +34,7 @@ Note: Big Cedar is NG-023; Black Mountain is NG-022.  This is confusing (but tru
     * Penultimate McDonalds: Hwy 53, Dawsonville - 38 miles from I-285
 
 
-####Trail Guide - Big Cedar
+#### Trail Guide - Big Cedar
 
 * **Duration**:
     * Big Cedar: 0:55 up, 0:35 down; 1.4 miles
@@ -34,7 +47,7 @@ Note: Big Cedar is NG-023; Black Mountain is NG-022.  This is confusing (but tru
     * Big Cedar Mtn Summit: 34.689, -83.9922
     * Maidenhead Grid: EM84aq
 
-####Trail Guide - Black Mountain
+#### Trail Guide - Black Mountain
 
 * **Duration**:
     * Black Mtn: 1.1 miles, 0:40 up; 0:25 down
@@ -50,20 +63,20 @@ Note: Big Cedar is NG-023; Black Mountain is NG-022.  This is confusing (but tru
     * Woody Gap: 34.67763, -84.00031
     * Maidenhead Grid: EM84hv
 
-####Summit Guide - Big Cedar
+#### Summit Guide - Big Cedar
 
 * Hang antenna from tree: yes
 * Space to guy mast: yes
 * Cell coverage: AT&T=yes, Verizon=yes, APRS=yes
 * Unique features: Nice view a few tenths before the true summit
 
-####Summit Guide - Black Mountain
+#### Summit Guide - Black Mountain
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
 * Cell coverage: AT&T=good; Verizon=good; APRS=yes
 * Unique features: Fire tower converted to antenna tower at summit.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Gooch Mtn & Sassafras Mtn, Blood Mountain, Levelland Mountain

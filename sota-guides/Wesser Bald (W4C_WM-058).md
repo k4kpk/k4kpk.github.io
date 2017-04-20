@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 1
+bushwhack: N
+pair: Siler Bald, Wine Spring Bald
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: 
+---
 Drive to Trailhead & Trail Guide - Wesser Bald
 --------------------------------------------------------
-####Drive Guide - Wesser Bald FROM Siler Bald
+#### Drive Guide - Wesser Bald FROM Siler Bald
 
 * **Duration**: 0:35
 * **Google Map**: http://goo.gl/maps/7iAQv
@@ -13,7 +26,7 @@ Drive to Trailhead & Trail Guide - Wesser Bald
         * Turns to dirt at 2.7
     * Park at timber-walled pull-out under high power lines
 
-####Drive Guide - Wesser Bald TO Atlanta
+#### Drive Guide - Wesser Bald TO Atlanta
 
 * **Duration**: 2:50 (it is 0:25 from Wesser Bald to NC-28)
 * **Google Map**: http://goo.gl/maps/gVjNq
@@ -35,7 +48,7 @@ Drive to Trailhead & Trail Guide - Wesser Bald
     * S on I-85 S and go 16.4
     * I-285 W
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 
     * via abandoned road: 1.0 miles, 0:50 up; 0:25 DOWN
@@ -50,7 +63,7 @@ Drive to Trailhead & Trail Guide - Wesser Bald
     * Trailhead: 35.26791,-83.57247
     * Summit: 35.2771,-83.5774
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:

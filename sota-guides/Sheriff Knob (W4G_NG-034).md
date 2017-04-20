@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 0.5
+bushwhack: Y
+pair: Coosa
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: 
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Sheriff Knob (W4G/NG-034) from Atlanta
+#### Drive Guide - Sheriff Knob (W4G/NG-034) from Atlanta
 
 I'm finished activating Sheriff.  You could get hurt coming down this hill, and going up is just awful.
 
@@ -21,7 +34,7 @@ I'm finished activating Sheriff.  You could get hurt coming down this hill, and 
 	* Penultimate McDonalds: GA-400 at GA-53 (38 miles north of I-285)
     * Dinner: Smoke-n-Gold Barbecue in Dahlonega
 
-####Drive Guide - Sheriff Knob from Coosa Bald
+#### Drive Guide - Sheriff Knob from Coosa Bald
 
 * **Duration**: 0:20
 * **Google Maps** URL: http://goo.gl/maps/5GaO7 
@@ -32,7 +45,7 @@ I'm finished activating Sheriff.  You could get hurt coming down this hill, and 
     * Road makes 180 degree turn to L, and go 0.25
     * Road makes hard R; turn L onto dirt road and park here.  34.7681,-83.9395
 
-####Drive Guide - Sheriff Knob from Gooch Mtn
+#### Drive Guide - Sheriff Knob from Gooch Mtn
 
 * **Duration**: 0:25
 * **Google Maps** URL: http://goo.gl/maps/hWo23 
@@ -44,7 +57,7 @@ I'm finished activating Sheriff.  You could get hurt coming down this hill, and 
     * Road makes 180 turn to L; go 0.25 more
     * Road makes hard R; park here on dirt W Wolf Creek Rd to left. 34.7681,-83.9395
 
-####Drive Guide - Sheriff Knob from Akin Mtn
+#### Drive Guide - Sheriff Knob from Akin Mtn
 * **Duration**: 
 * **Google Maps** URL: 
 * **Seasonal/Limited Access**: 
@@ -56,7 +69,7 @@ I'm finished activating Sheriff.  You could get hurt coming down this hill, and 
     * R on GA-180 and go 1.9
     * Park on dirt road
 
-####Drive Guide - Sheriff Knob to Atlanta
+#### Drive Guide - Sheriff Knob to Atlanta
 
 * **Directions**:
     * East on GA-180 (straight out from the dirt road where you parked) and go 1.9
@@ -65,7 +78,7 @@ I'm finished activating Sheriff.  You could get hurt coming down this hill, and 
     * L on US-19 and go 5
     * R on GA-400 and go 47 to I-285
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:55 up, 0:30 down 
 * **Navigation**
@@ -78,13 +91,13 @@ I'm finished activating Sheriff.  You could get hurt coming down this hill, and 
     * Trailhead: 34.7681,-83.9395
     * Summit: 34.7703, -83.9339
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: The summit is heavily forested but any antenna arrangement should be possible.
 * Space to guy mast: The summit is heavily forested but any antenna arrangement should be possible.
 * Cell coverage: AT&T, Verizon, and APRS all work.
 * Unique features:
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Coosa

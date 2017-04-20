@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 10
+miles: 0.6
+bushwhack: N
+pair: Grassy Ridge Bald
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: TF,VF,AW
+---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Roan High Knob to Atlanta
+#### Drive Guide - Roan High Knob to Atlanta
 
 * **Duration**: 4:45, 265 miles - Note: Google says it is 4:20.  My 2015 experience is that you need 4:45 (plus any time for pit stops).
 * **Directions**:
@@ -15,7 +28,7 @@ Drive to Trailhead & Trail Guide
 	* L on NC-261 N and go 9.1
 	* L on seasonally gated road 1348 and go 1.6.
 
-####Drive Guide - Carvers Gap to Roan High Knob (Cloudland Trailhead)
+#### Drive Guide - Carvers Gap to Roan High Knob (Cloudland Trailhead)
 
 * **Duration**: 0:10, 1.6 miles
 * **Seasonal/Limited Access**: $3 ($5?) to park.  Road gated at Carvers Gap in bad weather.
@@ -23,7 +36,7 @@ Drive to Trailhead & Trail Guide
     * Follow gated, paved road 1348 WSW (up hill) and go 1.6
     * Big parking lot on R.  Restrooms here.
     
-####Drive Guide - High Rock to Roan High Knob (Cloudland Trailhead)
+#### Drive Guide - High Rock to Roan High Knob (Cloudland Trailhead)
 
 * **Duration**: 1:25, 57 miles
 * **Google Maps** URL from 35.95440, -82.56102 to 36.10397, -82.13317: http://goo.gl/maps/u5KcU 
@@ -49,7 +62,7 @@ Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: 
     * Dinner
 
-####Drive Guide - Roan High Knob to Atlanta
+#### Drive Guide - Roan High Knob to Atlanta
 
 * **Duration**: 4:45, 263 miles
 * **Directions**:
@@ -69,7 +82,7 @@ Drive to Trailhead & Trail Guide
     * I-85 S and go 125
     * I-285
 
-####Drive Guide - Roan High Knob TO Knoxville
+#### Drive Guide - Roan High Knob TO Knoxville
 
 * **Duration**: 150 miles, 2:55 (actual time in 2015)
 * **Directions**:
@@ -84,7 +97,7 @@ Drive to Trailhead & Trail Guide
     * I-81 S and go 57
     * I-40 W and go 35
 
-####Trail Guide from Cloudland (short route)
+#### Trail Guide from Cloudland (short route)
 
 * **Duration**: 0.8 miles, 250' climb
     * After 2 other summits: 0:30 up, 0:20 down (in 2014)
@@ -99,7 +112,7 @@ Drive to Trailhead & Trail Guide
 * **Trailhead altitude**: ??? @ 36.10397, -82.13317
 * **Summit altitude**: 6285 @ 36.1046, -82.1224
 
-####Trail Guide from Carvers Gap (long route)
+#### Trail Guide from Carvers Gap (long route)
 
 * **Duration**: 1.6 miles, 1:15 up, 800' climb
 * **Navigation**
@@ -107,7 +120,7 @@ Drive to Trailhead & Trail Guide
 * **Trailhead altitude**: 5510 @ 36.1064, -82.1104
 * **Summit altitude**: 6285 @ 36.1046, -82.1224
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Y
 * Space to guy mast: Y
@@ -115,6 +128,6 @@ Drive to Trailhead & Trail Guide
 * Unique features:
     * AT shelter on summit.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Grassy Ridge Bald W4C/EM-001.

@@ -1,3 +1,16 @@
+---
+layout: sota-guide
+points: 8
+miles: 3.6
+bushwhack: N
+pair: Hemlock, Huckleberry
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: N
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 
@@ -7,7 +20,7 @@ Caution: Wear orange in hunting season (mid October to Jan 1).
 
 Cool accommodations: http://www.main.nc.us/graham/hiking/santeetlah.html
 
-####Drive Guide
+#### Drive Guide
 
 * **Duration**: 3:30
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/S4YjT
@@ -29,7 +42,7 @@ The Benton McKaye trail is supposed to exit the lot on the north end (the end fr
     * Penultimate McDonalds: Ellijay, GA, on L
     * Dinner
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 3:30
 * **Navigation**
@@ -57,7 +70,7 @@ The Benton McKaye trail is supposed to exit the lot on the north end (the end fr
     * Stratton Bald (per map) = 35.37339, -83.99297
     * Stratton Bald (per SOTAdata) = 35.37340, -83.99300
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
@@ -65,6 +78,6 @@ The Benton McKaye trail is supposed to exit the lot on the north end (the end fr
 * Unique features:
     * You always freeze your tail off on Stratton Bald.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Huckleberry Knob (W4C/WM-011).  Trailhead on Cherohala Skyway at 35.31387, -83.99093, just 8.9 miles further along the Cherohala Skyway.

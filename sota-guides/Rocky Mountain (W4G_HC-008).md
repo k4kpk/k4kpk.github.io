@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 2.3
+bushwhack: N
+pair: 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: T,V
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Rocky Mountain (HC-008) from Atlanta
+#### Drive Guide - Rocky Mountain (HC-008) from Atlanta
 
 * **Duration**: 1:45
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/llnGb
@@ -19,7 +32,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: Jasper.
     * Dinner: Avoid the barbecue place in Blue Ridge that has billboards telling you to turn at Wendy's. 
     
-#### Drive Guide - Rocky Mountain (HC-008) from Springer Mtn
+####  Drive Guide - Rocky Mountain (HC-008) from Springer Mtn
 
 * **Duration**: 0:55 (Google says longer.  Took 0:55 on 2014.12.30)
 * **Google Maps**: http://goo.gl/maps/K7Fxc
@@ -33,7 +46,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Road turns L at farm house and field.  Name change to Rock Creek Rd and go 1.0
     * Parking is at a narrow, deep driveway on R.
             
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 2.3 miles, Ascent = 1:30, Descent (hurrying) = 1:00
 * Best maps:
@@ -48,12 +61,12 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Leave BMT for faint trail: 34.79693,-84.32301
     * Summit: 34.7951, -84.3219, altitude 3460'
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
 * Cell coverage: ATT=good, Vzn=excellent, APRS=excellent
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Dyer, Flat Top, Springer

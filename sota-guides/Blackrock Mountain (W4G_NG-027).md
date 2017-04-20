@@ -1,7 +1,20 @@
+---
+layout: sota-guide
+points: 8
+miles: 0.6
+bushwhack: N
+pair: Rabun Bald
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: M
+---
 
 Blackrock Mtn (W4G/NG-027): Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Black Rock Mountain from Rabun Bald
+#### Drive Guide - Black Rock Mountain from Rabun Bald
 * **Duration**: 0:40
 * **Seasonal/Limited Access**:  Park is closed Dec 1 - March 15. Park roads are all paved.
 * **Google Maps** URL from Rabun Bald (Beegum Gap trailhead): ?
@@ -20,7 +33,7 @@ Blackrock Mtn (W4G/NG-027): Drive to Trailhead & Trail Guide
 * **Food**
     * Just convenience stores 
 
-####Drive Guide - Black Rock Mountain from Atlanta
+#### Drive Guide - Black Rock Mountain from Atlanta
 
 * **Duration**: 2:00
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/Hgpof
@@ -42,12 +55,12 @@ Blackrock Mtn (W4G/NG-027): Drive to Trailhead & Trail Guide
 		* It comes just BEFORE Cornelia and your exit to US-441.
 * Black Rock State Park entrance gate is open 7AM-10PM, March 16-Nov 30.
 
-####Drive Guide - Black Rock Mountain TO Atlanta
+#### Drive Guide - Black Rock Mountain TO Atlanta
     * Head downhill on Blackrock Mtn Pky and go 0.2
     * L on Blackrock Mtn Pky and go 2.3
     * R on US-441
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:30 (0.6 miles); 0:20 down.  This is for the true summit.  ~0:05 less to Tennessee Rock.
 * **Navigation**
@@ -61,7 +74,7 @@ Blackrock Mtn (W4G/NG-027): Drive to Trailhead & Trail Guide
     * Tennessee Rock Overlook: 34.90516, -83.41781
     * Summit: 34.90360, -83.42060		Grid: EM84gv
 
-####Summit Guide
+#### Summit Guide
 
 * Activate from Tennessee Rock: There is a long, narrow ridge at the summit.  
     * The activation zone clearly includes Tennessee Rock Overlook, as well as the proper summit. 

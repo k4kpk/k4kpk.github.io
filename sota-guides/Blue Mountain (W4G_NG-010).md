@@ -1,6 +1,19 @@
-Trip-specific: Drive to Trailhead & Trail Guide
+---
+layout: sota-guide
+points: 10
+miles: 1.1
+bushwhack: N
+pair: Rocky, Tray, Brasstown
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: M
+---
+Blue Mountain: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide Altanta to Blue Mountain
+#### Drive Guide Altanta to Blue Mountain
 
 NOTE: **Do not follow Google map through Helen!**
 
@@ -22,7 +35,7 @@ NOTE: **Do not follow Google map through Helen!**
     * Last McDonalds: GA-53, Dawsonville
     * Penultimate McDonalds: 
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1:15 up; 0:50 down
 * **Navigation**
@@ -37,7 +50,7 @@ NOTE: **Do not follow Google map through Helen!**
     * GPS trace: [GPX](http://k4kpk.com/sites/k4kpk.com/files/Blue%20Mountain.GPX)
     * There appears to be an alternate route, following USFS trail 44F from N34.79306, W83.75578 to its merge with the AT at N34.80986, W83.75380.  Flatter, but much longer walk.
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Easy
 * Space to guy mast: Good

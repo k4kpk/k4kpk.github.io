@@ -1,10 +1,23 @@
+---
+layout: sota-guide
+points: 1
+miles: 1
+bushwhack: N
+pair: 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
 Vineyard Mountain W4G/HC-043
 
 Trip-specific: Drive to Trailhead & Trail Guide
 
 Caution: Use bug dope. I got bug bites that took over 6 weeks to heal from my ankle to my knee while wearing hiking boots, over-the-calf socks, and long pants. My son also got similar bites (while not as thoroughly clothed). (Summer 2013)
 
-####Drive Guide
+#### Drive Guide
 
 * **Duration**: 0:45
 * **Google Maps** URL from I-285 at 33.91819, -84.33747: 
@@ -31,7 +44,7 @@ Caution: Use bug dope. I got bug bites that took over 6 weeks to heal from my an
     * Penultimate McDonalds: 
     * Dinner
 
-####Trail Guide (Easy Route - a.k.a. "Eagle Scout Trails")
+#### Trail Guide (Easy Route - a.k.a. "Eagle Scout Trails")
 
 * **Duration**: 0:40
 * **Navigation**
@@ -40,7 +53,7 @@ Caution: Use bug dope. I got bug bites that took over 6 weeks to heal from my an
     * Follow the red-blazed trail up.
     * When you arrive at the cell tower, you're on top.
 
-####Trail Guide (Hard Route)
+#### Trail Guide (Hard Route)
 
 * **Duration**: 1:20
 * **Navigation**
@@ -54,7 +67,7 @@ Caution: Use bug dope. I got bug bites that took over 6 weeks to heal from my an
     * When you arrive at Alatoona Dam Road, turn right, and you're at the trailhead for the Eagle Scout Trails.
     * From here, follow the Eagle Scout Trails (the 'Easy Route' instructions).
 
-####Trail Guide (My Route Out - All Season.  Risk of getting hassled.)
+#### Trail Guide (My Route Out - All Season.  Risk of getting hassled.)
 
 I'll describe my route out. You could follow it in the opposite direction to get in.  It goes through a gated, not-yet-built subdivision.  I carefully avoided "No Trespassing" signs.
 
@@ -89,7 +102,7 @@ I'll describe my route out. You could follow it in the opposite direction to get
 * Trail indistinct. Just head southish = 34.14497, -84.73545
 * 90 degree right turn, to re-join old pavement = 34.14424, -84.73507
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
@@ -97,7 +110,7 @@ I'll describe my route out. You could follow it in the opposite direction to get
 * Unique features:
     * Cell tower
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Pine Mountain
 * Kennesaw Mountain

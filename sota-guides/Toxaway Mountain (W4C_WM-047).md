@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 0
+bushwhack: N
+pair: 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Toxaway Mountain from Rabun Bald
+#### Drive Guide - Toxaway Mountain from Rabun Bald
 
 * **Duration**: 1:15, 33 miles
 * **Google Maps** 
@@ -29,7 +42,7 @@ Drive to Trailhead & Trail Guide
 * **Food**
     * Limited options
 
-####Drive Guide - Toxaway Mountain from Atlanta
+#### Drive Guide - Toxaway Mountain from Atlanta
 
 * **Duration**: 2:50, 148 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/3Bczs
@@ -52,7 +65,7 @@ Drive to Trailhead & Trail Guide
     * Last McDonalds: Lavonia, GA at GA-17
     * Penultimate McDonalds: Commerce, GA at US-441
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:15 (to exit and re-enter the zone; it is a drive-up)
 * **Navigation**:  Follow the dirt road.  At the first turn-out (on the R), there is a dirt road to your right. You keep L.  KI4SVM operated from the 2nd turn-out (on the L)
@@ -60,7 +73,7 @@ Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * End of pavement: 35.131222, -82.983638
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Y
 * Space to guy mast: Y
@@ -71,4 +84,4 @@ Drive to Trailhead & Trail Guide
 * KI4SVM (Pat) has a picture showing that he activated from near the fire tower on the summit.  He says he had no problem with QRM in late 2014.
 * I had moderate, intermittent QRM near the fire tower in 2015
 
-####Plan-B Candidates
+#### Plan-B Candidates

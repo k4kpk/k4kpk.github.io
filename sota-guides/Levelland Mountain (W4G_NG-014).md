@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 1.9
+bushwhack: N
+pair: Blood, Sheriff
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: T,V
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Levelland
+#### Drive Guide - Levelland
 
 * **Duration**: 1:35
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/ESfYO
@@ -15,7 +28,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: GA-400 at GA-53 (38 miles north of I-285)
     * Dinner: Smokin' Gold Barbecue - 59 East Main St, Dahlonega, GA.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1:45 up; 1:00 down.  1.8 miles
 * **Navigation**
@@ -28,7 +41,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Summit: 34.7322, -83.903
     * Trailhead/parking: 34.74206, -83.92217
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
@@ -36,7 +49,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * Unique features:
     * Appalachian Trail passes through a building (breezeway) near the trailhead.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Blood Mountain
 * Akin Mtn

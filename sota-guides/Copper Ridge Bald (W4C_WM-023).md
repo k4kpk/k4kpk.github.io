@@ -1,14 +1,19 @@
 ---
 layout: sota-guide
-points: 2.1
-miles: 2.2
+points: 8
+miles: 3
 bushwhack: Y
-sms: Y, 2016
-pair: Mauna Kea
+pair: 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: TM,PM
 ---
-Drive to Trailhead & Trail Guide
+Copper Ridge Bald Drive Guide & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Copper Ridge Bald (via Tellico Gap) from Atlanta
+#### Drive Guide - Copper Ridge Bald (via Tellico Gap) from Atlanta
 
 * **Duration**: 2:50, 150 miles
 
@@ -48,7 +53,7 @@ Drive to Trailhead & Trail Guide
 
 * **Car Wash**: Canton GA - 301 Adams Jenkins Memorial Dr, Canton, GA 30115
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**:
   * 2:05 / 3 miles to summit (includes 10 minute bushwhack)
@@ -72,7 +77,7 @@ Drive to Trailhead & Trail Guide
     * Cold Spring Shelter (and water): 4920' elevation at 35.231093, -83.55996
     * Burningtown Gap: 4,236' elevation at 35.22244,-83.5623
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:

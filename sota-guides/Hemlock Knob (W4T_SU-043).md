@@ -1,7 +1,20 @@
+---
+layout: sota-guide
+points: 8
+miles: 0.6
+bushwhack: Y
+pair: Stratton Bald, Huckleberry Knob
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: N
+---
 Drive to Trailhead & Trail Guide - Hemlock Knob
 --------------------------------------------------------
 
-####Drive Guide - Hemlock Knob from Stratton Bald
+#### Drive Guide - Hemlock Knob from Stratton Bald
 
 * **Duration**: 0:45
 * **Google Maps** URL:
@@ -12,7 +25,7 @@ Drive to Trailhead & Trail Guide - Hemlock Knob
 	* R on Cherohala Skyway and go 6.5
 	* Parking area on R.
 
-####Drive Guide - Hemlock Knob from Huckleberry Knob
+#### Drive Guide - Hemlock Knob from Huckleberry Knob
 
 * **Duration**: 0:20 (13.0 miles)
 * **Google Maps** URL:
@@ -25,7 +38,7 @@ Drive to Trailhead & Trail Guide - Hemlock Knob
 * **Food**
     * None
 
-####Drive Guide - Hemlock Knob from Atlanta
+#### Drive Guide - Hemlock Knob from Atlanta
 
 * **Duration**: 3:00 (155 miles)
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/2qX3t
@@ -44,7 +57,7 @@ Drive to Trailhead & Trail Guide - Hemlock Knob
     * Penultimate McDonalds: Ellijay, GA, on L
     * Dinner
 
-####Drive Guide - Hemlock Knob TO Atlanta
+#### Drive Guide - Hemlock Knob TO Atlanta
 
 * **Navigation**
     * Go Northwest on NC-143 and go 18.9
@@ -53,7 +66,7 @@ Drive to Trailhead & Trail Guide - Hemlock Knob
     * R on GA-5 S and go 10.2
     * R on GA-5 and go to Atlanta via I-575 and I-75
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:35 up (0.7 miles); 20 minutes down
 * **Navigation**
@@ -70,7 +83,7 @@ Drive to Trailhead & Trail Guide - Hemlock Knob
     * Possible bushwhack to summit: 35.36068,-84.10376
     * Summit: 35.3598, -84.1029
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Y
 * Space to guy mast: Tough.  Many briars.
@@ -78,6 +91,6 @@ Drive to Trailhead & Trail Guide - Hemlock Knob
 * Unique features:
     * One activator encountered a bear in the blackberries.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Huckleberry Knob

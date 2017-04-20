@@ -1,7 +1,20 @@
+---
+layout: sota-guide
+points: 10
+miles: 1.4
+bushwhack: N
+pair: Walnut Mtn, Max Patch
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: TF
+---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 
-####Drive Guide - Round Mountain from Walnut Mountain
+#### Drive Guide - Round Mountain from Walnut Mountain
 
 * **Duration**: 0:30
 * **Seasonal/Limited Access**: 
@@ -26,7 +39,7 @@ Drive to Trailhead & Trail Guide
     * Note: USFS-3242 is not shown on Google map, but you can see it in satellite view, just north of Round Mountain Road.
     * Note: USFS-3242 is a very poor drive.  Round Mountain Road is fine to drive.
 
-####Drive Guide - Round Mountain to ATLANTA
+#### Drive Guide - Round Mountain to ATLANTA
 
 * **Directions**:
     * Head East on USFS-3242 and go 1.8
@@ -42,7 +55,7 @@ Drive to Trailhead & Trail Guide
     * US-23 South and go 20.5
     * Ramp to US-23 South and go to I-985 South
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1.4 miles, 1:15 up, 0:45 down
 * **Navigation**
@@ -55,7 +68,7 @@ Drive to Trailhead & Trail Guide
     	* CAUTION: Google doesn't know about USFS-3242, so it will route you to someplace on Round Mountain Road.  You need to look 685' NNW of where the point on Round Mountain Road for a dirt road you can see in satellite view.
     * Summit: 35.8495, -82.9586
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Y
 * Space to guy mast: Y

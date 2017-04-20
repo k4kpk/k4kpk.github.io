@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 10
+miles: 1.2
+bushwhack: N
+pair: Black Balsam Knob Green Knob Mt Pisgah Richland Balsam
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: T,V
+---
 Drive to Trailhead & Trail Guide - Mt Pisgah
 --------------------------------------------------------
-####Drive Guide - Mt Pisgah from Atlanta
+#### Drive Guide - Mt Pisgah from Atlanta
 
 * **Duration**: 3:25, 177 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -35,7 +48,7 @@ Drive to Trailhead & Trail Guide - Mt Pisgah
     * Before that: Clayton, GA (busy on Saturday mornings)
     * Before that: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
-####Drive Guide - Mt Pisgah from Green Knob
+#### Drive Guide - Mt Pisgah from Green Knob
 
 * **Duration**: 20 minutes (includes a stop for soft drink at the "country store")
 * **Seasonal/Limited Access**: Blue Ridge Parkway closed in winter
@@ -46,7 +59,7 @@ Drive to Trailhead & Trail Guide - Mt Pisgah
 * **Food**
     * Last McDonalds: 
 
-####Drive Guide - Mt Pisgah to Atlanta
+#### Drive Guide - Mt Pisgah to Atlanta
 
 * **Duration**: 3:25
 * **Google Maps** URL ending at Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -68,13 +81,13 @@ Drive to Trailhead & Trail Guide - Mt Pisgah
     * I-85 S and go 16.4
     * West on I-285
 
-####Near the trailhead
+#### Near the trailhead
 
 * You turn off the parkway at MM 407.7
 * Soft drinks are available at the "Country Store" at the north end of the Mt. Pisgah lodge parking lot.
 * There is a long parking lot just south of your turn-off (and just north of the store).  There are restrooms here.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1:10 up, 0:45 down.  1.2 miles. Slow going due to eroded trail with many large rocks. Tough on the knees.
 * **Navigation**: Follow the trail off the end of the last parking.
@@ -83,7 +96,7 @@ Drive to Trailhead & Trail Guide - Mt Pisgah
 * **GPS tracks/waypoints**:
     * Trailhead: 35.41863, -82.74795
 	* Summit: 35.4257, -82.7569
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:
@@ -91,4 +104,4 @@ Drive to Trailhead & Trail Guide - Mt Pisgah
 * Unique features: TV antenna and observation platform on top
 * 2016: S7 QRM (presumably from TV/radio transmitters or air conditioning) on 20 meters.  (I operated from the grassy area accessible by passing through the tower.)
 
-####Plan-B Candidates
+#### Plan-B Candidates

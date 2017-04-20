@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 2.4
+bushwhack: N
+pair: Bald Mountain, Cowpen, Flattop, Dyer
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
 Trip-specific: Grassy Mtn - Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Grassy Mtn From Atlanta
+#### Drive Guide - Grassy Mtn From Atlanta
 
 * **Special**: Take cash ($2 in 2013) to pay parking fee.
 * **Duration**: 2:30
@@ -45,7 +58,7 @@ Trip-specific: Grassy Mtn - Drive to Trailhead & Trail Guide
                         * Park in parking area near (not at) the boat ramp.  No restroom in this area. GPS coordinates: 34.86002, -84.65275
                         * Walk the circum-lake trail counter-clockwise about 0.1 mile to reach the dam. 
                     * The trail description begins from the dam.
-####Drive Guide - Bald Mountain TO Atlanta
+#### Drive Guide - Bald Mountain TO Atlanta
 * Head back the way you came until you get to the Bald Mountain trailhead.
 * Head east on FS-68, toward the "Conasauga T" and go 3.5
 * R at "Conasauga T" to stay on FS-68 (straight becomes FS-64) and go 3.2
@@ -60,7 +73,7 @@ Trip-specific: Grassy Mtn - Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: Jasper - at Hwy 53, about 0.1 mile to the right
 
 --------------------------------------------------------
-####Drive Guide - Grassy Mtn From Dyer Cemetery
+#### Drive Guide - Grassy Mtn From Dyer Cemetery
 
 * **Duration**: 1:00; 15 miles
 * **Google Maps**: https://goo.gl/maps/xNjFm 
@@ -72,7 +85,7 @@ Trip-specific: Grassy Mtn - Drive to Trailhead & Trail Guide
     * Pass Bald Mtn trailhead and group camp driveway.  Continue at "Final turns - from Bald Mtn" in directions.
 
 --------------------------------------------------------
-####Drive Guide - Grassy Mtn From Sassafras Knob, TN
+#### Drive Guide - Grassy Mtn From Sassafras Knob, TN
 
 * **Duration**: 2:00
 * **Google Maps**: http://goo.gl/maps/ZiEJh 
@@ -92,12 +105,12 @@ Trip-specific: Grassy Mtn - Drive to Trailhead & Trail Guide
 	* See "From Gates Chapel Rd" above, under drive from Atlanta
 
 --------------------------------------------------------
-####Trail Guide - Gravel Road From Overflow Camping ("Gravel Road")
+#### Trail Guide - Gravel Road From Overflow Camping ("Gravel Road")
 
 * **Duration**: 0:40
 * **Navigation**: Just follow the gravel road to the fire tower at the summit.
 
-####Trail Guide - Hiking Trails Past the Dam ("Trails")
+#### Trail Guide - Hiking Trails Past the Dam ("Trails")
 
 * **Duration**: 1:20
 * **Navigation**
@@ -129,7 +142,7 @@ Trip-specific: Grassy Mtn - Drive to Trailhead & Trail Guide
             * Trail gets steep after a few hundred feet.
         * Trail joins road: 34.86708, -84.66740 -- Elevation: 3614
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes, around edges of clearing.
 * Space to guy mast: Yes.
@@ -141,6 +154,6 @@ Trip-specific: Grassy Mtn - Drive to Trailhead & Trail Guide
 * Note that there are flush toilets at the picnic area at Lake Conasauga.  You have to pay $2 to park there, and don't forget that the picnic area isn't open for the full March-December season that the road is open.
 
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Bald Mountain

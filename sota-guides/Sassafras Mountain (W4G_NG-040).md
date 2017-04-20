@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 0.7
+bushwhack: N
+pair: Big Cedar, Black, Gooch
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Sassafras Mountain from Gooch Mtn
+#### Drive Guide - Sassafras Mountain from Gooch Mtn
 
 * **Duration**: 0:21 from Gooch Mtn trailhead
 * **Directions**:
@@ -8,7 +21,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * R fork, and go 5.2
     * To use Horse Gap trailhead, continue 1.5 more.
 
-####Drive Guide - Sassafras Mountain from ATLANTA
+#### Drive Guide - Sassafras Mountain from ATLANTA
 
 * **Duration**: 1:30
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -30,7 +43,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Last McDonalds: Dahlonega
     * Penultimate McDonalds: Hwy 53, Dawsonville, just north of Cumming
 
-####Drive Guide - Sassafras Mountain from Springer Mtn
+#### Drive Guide - Sassafras Mountain from Springer Mtn
 
 * **Duration**: 0:40, 10 miles
 * **Google Maps** URL: 
@@ -47,7 +60,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 
 * **Food**: none
 
-####Drive Guide - Sassafras Mountain (Horse Gap T-head) TO Atlanta
+#### Drive Guide - Sassafras Mountain (Horse Gap T-head) TO Atlanta
 * **Duration**: 1:30
 * **Seasonal/Limited Access**: Dirt roads; quality OK.
 * **Directions**:
@@ -61,7 +74,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * L on US-19 S and go 5
     * R on US-19 and go 46
 
-####Trail Guide - Coopers Gap Rd
+#### Trail Guide - Coopers Gap Rd
 
 * **Duration**: 0:35, walk 0.7 miles, gain 510'.  Down = 0:25
 * **Navigation**
@@ -74,18 +87,18 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Trailhead (Cooper Gap Rd): 34.653, -84.08453
     * Summit: 34.6531, -84.094
     
-####Trail Guide (supplement) - Horse Gap
+#### Trail Guide (supplement) - Horse Gap
 * Duration: 0:40, walk 1.1 miles, gain 662'.  Down = 0:25.
     * Trailhead (Horse Gap): 34.65568,-84.10542
 
     
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Tough
 * Cell coverage: AT&T=yes 2016, Verizon=yes 2015, APRS=yes 2015
 * Unique features: none
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Black Mtn & Big Cedar Mtn

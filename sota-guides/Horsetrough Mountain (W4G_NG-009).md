@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 10
+miles: 3.2
+bushwhack: Y
+pair: 
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: T,V
+---
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Horsetrough Mountain
+#### Drive Guide - Horsetrough Mountain
 
 * **Duration**: 2:20
     * 1:40 from Perimeter Mall to Chattahoochee UMC.
@@ -40,7 +53,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Last McDonalds: GA-400 at GA-53 (38 miles north of I-285)
         * If you miss it, you can swing by 1550 S MAIN ST, Cleveland, adding 5 minutes.
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 2:10 -- about 3 miles. 2.4 trail miles and 0.6 bushwhack.
     * Gain 865 ft on road/trail to Poplar Stomp Gap + brief stretch on AT -- 2.4 miles @ 865 ft @ 1:15
@@ -74,7 +87,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * Alternate route from Jacks Gap (GA-180) is 4.1 AT miles and 0.8 bushwhack.
 * Alternate route from Hogpen Gap (GA-348/Richard B Russel) is 5.8 AT miles and 0.8 bushwhack.
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree, guy a mast, or bungee to a tree.
 * Cell coverage: Good AT&T from summit.  AT&T is also available at Poplar Stomp Gap.
@@ -82,4 +95,4 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * W4NGT - 147.210 (input 147.810 PL=100.0) Blairsville, GA
     * W9QXW 146.955 (input 146.355 PL=100.0) Blairsville, GA W9QXW
 
-####Other Resources
+#### Other Resources

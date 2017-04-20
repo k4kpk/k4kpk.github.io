@@ -1,3 +1,16 @@
+---
+layout: sota-guide
+points: 8
+miles: 0
+bushwhack: N
+pair: Max Patch, Walnut Mtn, Clingmans, Barnett
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: T
+---
 I do not like Greentop.  I do not intend to activate it again.  
 
 * It is difficult to find a safe spot for an HF antenna, avoiding power lines.
@@ -9,7 +22,7 @@ I do not like Greentop.  I do not intend to activate it again.
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 
-####Drive Guide - Greentop - From Applewood Restaurant, Pigeon Forge
+#### Drive Guide - Greentop - From Applewood Restaurant, Pigeon Forge
 
 * **Duration**: 0:30
 * **Google Maps**: n.a. 
@@ -28,7 +41,7 @@ Drive to Trailhead & Trail Guide
 * **Food**
     * Applewood Restaurant
 
-####Drive Guide - Greentop From Atlanta
+#### Drive Guide - Greentop From Atlanta
 * **Duration**: 4:00
 * **Google Maps**: https://goo.gl/maps/cdFAE
 * **Seasonal/Limited Access**: Paved to top
@@ -44,7 +57,7 @@ Drive to Trailhead & Trail Guide
     * S past Horse Cove Rd and go 0.3
     * Sharp R at ridge top onto very short road to antenna tower.
 
-####Drive Guide - Clingmans Dome to Greentop
+#### Drive Guide - Clingmans Dome to Greentop
 * **Duration**: 1:10
 * **Directions**:
     * Head out on Clingmans Dome Rd and go 7
@@ -62,7 +75,7 @@ Drive to Trailhead & Trail Guide
     * S past Horse Cove Rd and go 0.3
     * Sharp R at ridge top onto very short road to antenna tower.
 
-####Drive Guide - Greentop - TO Knoxville
+#### Drive Guide - Greentop - TO Knoxville
 * **Directions**:
     * Head downhill (sharp L from tower driveway) and go 1.0
     * Sharp R ond Bluff Mtn Rd and go 4.1
@@ -74,7 +87,7 @@ Drive to Trailhead & Trail Guide
     	* L on TN-168 W and go 6.7
 	* If going to Atlanta, go 20.2 to ramp to I-40 W
     
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 20 minutes
 * **Navigation**
@@ -82,7 +95,7 @@ Drive to Trailhead & Trail Guide
 * **Summit altitude**: 3069'
 * **GPS tracks/waypoints**: Official Summit: 35.8119, -83.6672
     
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: No
 * Space to guy mast: No

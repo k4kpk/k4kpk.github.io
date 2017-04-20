@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 0.5
+bushwhack: Y
+pair: Sassafras, Black, Big Cedar
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: T,V
+---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Gooch Mountain from ATLANTA
+#### Drive Guide - Gooch Mountain from ATLANTA
 
 * **Duration**: 
     * Atlanta to Gooch: 1:30
@@ -29,7 +42,7 @@ Drive to Trailhead & Trail Guide
     * Last McDonalds: Dahlonega
     * Penultimate McDonalds: Hwy 53, Dawsonville, just north of Cumming
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.5 miles bushwhack, 0:30 up, 0:20 down
 * **Navigation**
@@ -44,12 +57,12 @@ Drive to Trailhead & Trail Guide
     * Summit: 34.6509, -84.0382
     * Maidenhead grid: EM74xp
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: yes
 * Space to guy mast: Yes, but not to lay it out flat first
 * Cell coverage: AT&T=good 2016, Vzn=good 2015, APRS=good 2015
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Black Mtn & Big Cedar Mtn & Sassafras Mtn

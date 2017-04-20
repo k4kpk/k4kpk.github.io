@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 10
+miles: 0.3
+bushwhack: N
+pair:  Clingmans, Siler Bald, Wesser Bald
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: M
+---
 Drive to Trailhead & Trail Guide - Wine Spring Bald
 --------------------------------------------------------
-####Drive Guide - Wine Spring Bald from Atlanta
+#### Drive Guide - Wine Spring Bald from Atlanta
 
 * **Duration**:  2:30
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/LHJXM
@@ -34,7 +47,7 @@ Drive to Trailhead & Trail Guide - Wine Spring Bald
     * Before that: Clayton, GA (busy on Saturday mornings)
     * Before that: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 
     * IF THE GATE IS OPEN: 0:15 (to walk out of zone and back in)
@@ -45,7 +58,7 @@ Drive to Trailhead & Trail Guide - Wine Spring Bald
     * Summit: 35.1733, -83.581
     * Gate on summit road: 35.172981, -83.574805
 
-####Summit Guide
+#### Summit Guide
 
 * The ugly summit is filled with a concrete block building, radio towers and guy lines.  The ground is a hard gravel parking lot.  There's a large clearing past the towers, but it is below the activation zone.
 * 2014: I strapped my mast to a post on the left, between the driveway to the first building and the big lot.  The post has a sign which says not to drive past that point.  It is overgrown, so it is hard to see.  Medium QRM from air conditioning in buildings.

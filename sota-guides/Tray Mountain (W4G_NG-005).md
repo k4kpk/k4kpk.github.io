@@ -1,4 +1,17 @@
-Trip-specific: Drive to Trailhead & Trail Guide
+---
+layout: sota-guide
+points: 10
+miles: 0.7
+bushwhack: N
+pair: Brasstown, Blue, Rocky
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: T,V
+---
+Tray Mtn: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 
 * Update: 2016.05 - Tray Mtn Rd from the junction with Indian Grave Gap Rd to Tray Gap is deeply rutted and unsafe to drive in a sedan. Deep ruts, big rocks. Note to self - **Don't do it!**
@@ -10,7 +23,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 NOTE: **Do not drive through Helen.  Traffic is often 2 MPH. **
 
 
-####Drive Guide - Tray Mountain (Tray Gap trailhead) via Tray Mtn Rd
+#### Drive Guide - Tray Mountain (Tray Gap trailhead) via Tray Mtn Rd
 
 Directions:
 
@@ -43,7 +56,7 @@ Directions:
         * If you miss it, you can swing by 1550 S MAIN ST, Cleveland, adding 5 minutes.
     * Dinner: Barbecue in Helen or Barbecue at GA-400 and Hwy 53
 
-####Drive Guide - Tray Mountain (Tray Gap trailhead) from Rocky Mtn at Indian Grave Gap Trailhead
+#### Drive Guide - Tray Mountain (Tray Gap trailhead) from Rocky Mtn at Indian Grave Gap Trailhead
 
 * **Duration**: 0:10.
 * **Directions**
@@ -51,7 +64,7 @@ Directions:
     * Acute Left turn and go 1.8
     * See notes elswhere in this guide regarding road condition to Tray Gap.
 
-####Drive Guide - Tray Mountain (Indian Grave Gap trailhead) from YELLOW BALD
+#### Drive Guide - Tray Mountain (Indian Grave Gap trailhead) from YELLOW BALD
 
 * **Duration**: 2:00.  Although Tray Mtn Rd is SLOW, the roads near Yellow Bald are very good. 
 * **Directions**
@@ -70,7 +83,7 @@ Directions:
     * L onto Indian Grave Gap Rd, marked USFS-283 and "High Shoals Scenic Area" and go 3.5 to Indian Grave Gap
         * Road fords a creek.  I had no trouble at 6" deep water level in my Corolla.
 
-#### Drive Guide - Tray Mountain TO Atlanta
+####  Drive Guide - Tray Mountain TO Atlanta
 
 * Head southwest out of the gap and go 1.8
 * Bear L to stay on Tray Mtn Rd and go 6
@@ -83,7 +96,7 @@ Directions:
 * L on GA-115 S and go 4.8
 * South on GA-400
 
-####Trail Guide - Tray Mountain from Tray Gap
+#### Trail Guide - Tray Mountain from Tray Gap
 
 * **Distance** (one way): 0.7 (0:35 up, 0:25 down)
 * **Navigation** - Follow white AT blazes.
@@ -98,7 +111,7 @@ Directions:
     * Tray Gap trailhead 34.79921, -83.69089
     * Tray Mtn Summit 34.80140, -83.68380
 
-####Summit Guide
+#### Summit Guide
 
 * For the view, stop at the summit.  For a better operating site, continue about 1/10 mile to a campsite, which I measured to be within the activation zone.
 * Hang antenna from tree: 
@@ -111,7 +124,7 @@ Directions:
 * Unique features: Nice view.  Easy to find benchmark on summit.
 
 
-####Miscellaneous Notes
+#### Miscellaneous Notes
 
 * I drove Indian Grave Gap Rd in a Corolla with no problems in dry weather.  Don't drive too fast - there are some surprise potholes and runoff gullies.  The ford on IGG Rd went OK in a dry week.  Don't try it after heavy rain. Maintain momentum crossing the creek, to avoid trouble climbing out.
 * There is a very weak Internet/data connection in Tray Gap.

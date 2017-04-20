@@ -1,7 +1,20 @@
+---
+layout: sota-guide
+points: 10
+miles: 0.7
+bushwhack: N
+pair: Akin, Buckeye, Sheriff
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: N
+---
 Coosa Bald: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 
-####Drive Guide - Coosa Bald (W4G/NG-006) from Atlanta
+#### Drive Guide - Coosa Bald (W4G/NG-006) from Atlanta
 
 * **Duration**: 1:45 from Atlanta
 * **Google Maps** URL from I-285 at 33.91819, -84.33747: http://goo.gl/maps/YvxLT
@@ -26,7 +39,7 @@ Coosa Bald: Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: GA-400 at GA-53 (38 miles north of I-285)
     * Dinner: Smoke-n-Gold Barbecue in Dahlonega
 
-####Drive Guide - Coosa Bald (W4G/NG-006) from Wildcat Mtn
+#### Drive Guide - Coosa Bald (W4G/NG-006) from Wildcat Mtn
 * **Duration**: 0:30
 * **Google Maps**: 
 * **Seasonal/Limited Access**:
@@ -37,7 +50,7 @@ Coosa Bald: Drive to Trailhead & Trail Guide
     * R on GA-180 (another GA-180) and go 3.3
     * R on Duncan Ridge Rd "Coopers Creek WMA" sign and go 1.2
 
-####Drive Guide - Coosa Bald (W4G/NG-006) from Sheriff Mtn
+#### Drive Guide - Coosa Bald (W4G/NG-006) from Sheriff Mtn
 * **Duration**: 0:15
 * **Google Maps**: http://goo.gl/maps/YR6fQ
 * **Seasonal/Limited Access**:
@@ -45,7 +58,7 @@ Coosa Bald: Drive to Trailhead & Trail Guide
     * R on SR-180 (Wolf Pen Gap Rd) and go 1.4
     * R on Duncan Ridge Rd at "Coopers Creek WMA" sign and go 1.2
 
-####Drive Guide - Coosa Bald TO Atlanta
+#### Drive Guide - Coosa Bald TO Atlanta
 * Coming from the trail, turn Left on Duncan Ridge Rd
 * R on GA-180 and go 7.8
 * L on GA-60 S and go 7.3
@@ -53,7 +66,7 @@ Coosa Bald: Drive to Trailhead & Trail Guide
 * L on GA-60 S and go 5
 * R on GA-400
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:30 up (0:40, if tired), 0:20 (0:25, if tired) down, and an 0.7 mile hike.
 * **Navigation**
@@ -77,7 +90,7 @@ Coosa Bald: Drive to Trailhead & Trail Guide
     * Summit = 34.77880, -83.96364
     * Grid Square: EM84as
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: No problems.
 * Space to guy mast: Not a lot of space.  Could bungee a mast to a stump.
@@ -92,7 +105,7 @@ Coosa Bald: Drive to Trailhead & Trail Guide
 * Unique features:
     * There is a view in the winter.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Sherrif Knob
 * Blood Mountain

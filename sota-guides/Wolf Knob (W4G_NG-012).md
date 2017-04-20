@@ -1,6 +1,19 @@
+---
+layout: sota-guide
+points: 8
+miles: 0.6
+bushwhack: Y
+pair: Rabun Bald, Blackrock Mtn, Glassy Mtn
+
+# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+# Optional: Provide the latest year checked.
+# e.g: TM-2017, VF, P-2016
+# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+sms: Y
+---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Wolf Knob from Atlanta
+#### Drive Guide - Wolf Knob from Atlanta
 
 * **Duration**: 2:15
     * Measured at 0:35 from Clayton to Patterson Gap
@@ -30,7 +43,7 @@ Drive to Trailhead & Trail Guide
 		* It comes just BEFORE Cornelia and your exit to US-441.
     * Dinner
 
-####Drive Guide - Wolf Knob from Rabun Bald
+#### Drive Guide - Wolf Knob from Rabun Bald
 
 * **Duration**: 0:45
 * **Google Maps**: http://goo.gl/maps/xBeKx
@@ -49,7 +62,7 @@ Drive to Trailhead & Trail Guide
     	* Park at Patterson Gap.  If you go 0.2 too far, the road makes a sharp 180 to the R.
 
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:55
 * **Navigation**
@@ -63,13 +76,13 @@ Drive to Trailhead & Trail Guide
     * Trailhead: 34.96983, -83.47713
     * Summit: 34.96425, -83.47421
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes
 * Space to guy mast: Dense forest. Possible, but challenging.  I bungeed to a stump.
 * Cell coverage: AT&T=good
 * Unique features: Relatively small area at summit.  Well-defined apex for an Appalachian mtn.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Glassy Mtn; Blackrock Mtn
