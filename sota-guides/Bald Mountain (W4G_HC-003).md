@@ -14,7 +14,7 @@ sms: TM, VW
 Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 
-####Drive Guide - Bald Mountain from ATLANTA
+#### Drive Guide - Bald Mountain from ATLANTA
 
 * **Duration**: 2:15
 * **Google Maps** After you reach Bald Mtn, the Google map *site* directions to Grassy Mtn were useless in 2013.
@@ -25,12 +25,12 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * [See driving directions in my [Grassy Mtn](http://k4kpk.com/content/sota-guide-w4ghc-007-grassy-mountain) guide.  The drive to Bald Mtn is 95% of the drive to Grassy Mtn.]
 * **Food**: (See Grassy Mtn)
 
-####Drive Guide - Bald Mountain from Cowpen Mountain
+#### Drive Guide - Bald Mountain from Cowpen Mountain
 * Right/straight/south out of parking (NOT left/east)  on USFS-64 and go 4.1
 * Straight through "Conasauga T" (NOT left) onto USFS-67 and go 3.5
 * Park at the driveway to the group camping area (on left); trailhead is across the road
 
-####Drive Guide - Bald Mountain TO Atlanta
+#### Drive Guide - Bald Mountain TO Atlanta
 * Head east on FS-68, toward the "Conasauga T" and go 3.5
 * R at "Conasauga T" to stay on FS-68 (straight becomes FS-64) and go 3.2
 * Sharp L on FS-90 (becomes Wilderness Trail) and go 1.5
@@ -39,7 +39,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * R onto bridge and go 0.1
 * R on GA-515/GA-575
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0:30 up, 0:15 down; 0.5 miles
 * **Navigation**
@@ -52,13 +52,13 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Trailhead: 34.86117, -84.63482
     * Summit: 34.86450, -84.62830
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: Yes.
 * Space to guy mast: Challenging in spring/summer, due to underbrush.
 * Cell coverage: Verizon SMS, AT&T SMS (intermittent), and APRS -- all worked.
 * Note that there are flush toilets at the picnic area at Lake Conasauga.  You have to pay $2 to park there, and don't forget that the picnic area isn't open for the full March-December season that the road is open.
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * Grassy Mtn
