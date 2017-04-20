@@ -1,7 +1,7 @@
 ---
 layout: sota-guide
 points: 10 + 8
-miles: ?
+miles: 
 bushwhack: Y
 pair: 
 

@@ -1,7 +1,7 @@
 ---
 layout: sota-guide
 points: 8
-miles: ?
+miles: 
 bushwhack: N
 pair: Dyer, Cowpen, Bald, Grassy
 
