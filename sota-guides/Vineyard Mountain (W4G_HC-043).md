@@ -11,9 +11,7 @@ pair:
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: Y
 ---
-Vineyard Mountain W4G/HC-043
-
-Trip-specific: Drive to Trailhead & Trail Guide
+#### Drive to Trailhead & Trail Guide
 
 Caution: Use bug dope. I got bug bites that took over 6 weeks to heal from my ankle to my knee while wearing hiking boots, over-the-calf socks, and long pants. My son also got similar bites (while not as thoroughly clothed). (Summer 2013)
 

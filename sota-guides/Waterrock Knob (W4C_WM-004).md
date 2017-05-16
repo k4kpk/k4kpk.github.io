@@ -29,14 +29,14 @@ sms: T,V
     * Penultimate McD: Clayton, GA (busy on Saturday mornings)
     * Antepenultimate: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
-#### Drive Guide - Waterrock Knob from Barnett Knob
+#### Drive Guide - Waterrock Knob from Barnett Knob (W4C/WM-055)
 * **Duration**: 20 minutes, 11 miles
 * **Google Maps** https://goo.gl/maps/RRAZUgdEU7Q2
 * **Directions**:
     * Right turn on Parkway and go 11
     * L on Waterrock Knob driveway and go 0.3
 
-#### Drive Guide - Waterrock Knob from Richland Balsam
+#### Drive Guide - Waterrock Knob from Richland Balsam (W4C/WM-003)
 
 * **Duration**: 20.4 miles, 30 minutes
 * **Google Maps** URL from Richland Balsam: http://goo.gl/maps/yL0gu 
@@ -49,12 +49,12 @@ sms: T,V
 
 * **Duration**: 162 miles, 2:50
 * **Directions**:
-	* Head away from parking lot, back to Parkway (0.3 miles)
-	* L on Blue Ridge Parkway and go 7.7
-	* L on exit road to Smoky Mtn Expressway/US-23/US-74 and go 0.5
-	* R on US-23/US-74 and go 13.0
-	* Exit R to US-441 S and go xx to Clayton GA
-	* Follow GA-365 S to I-985 S to I-85 S
+ * Head away from parking lot, back to Parkway (0.3 miles)
+ * L on Blue Ridge Parkway and go 7.7
+ * L on exit road to Smoky Mtn Expressway/US-23/US-74 and go 0.5
+ * R on US-23/US-74 and go 13.0
+ * Exit R to US-441 S and go xx to Clayton GA
+ * Follow GA-365 S to I-985 S to I-85 S
 
 #### Trail Guide
 
@@ -65,7 +65,7 @@ sms: T,V
 * **GPS tracks/waypoints**:
     * Parking: 35.46023, -83.14121
     * Trailhead: 35.46094, -83.14085
-	* Summit: 35.4642, -83.1377
+    * Summit: 35.4642, -83.1377
 
 #### Summit Guide
 

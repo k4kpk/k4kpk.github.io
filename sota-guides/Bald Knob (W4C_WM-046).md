@@ -13,7 +13,7 @@ sms: N
 ---
 Drive to Trailhead & Trail Guide - Bald Knob
 --------------------------------------------------------
-#### Drive Guide - Mt. Pisgah to Bald Knob
+#### Drive Guide - Mt. Pisgah (W4C/CM-011) to Bald Knob
 
 * **Duration**: 0:35, 19 miles
 * **Seasonal/Limited Access**: Paved road all the way

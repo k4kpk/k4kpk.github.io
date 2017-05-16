@@ -14,7 +14,7 @@ sms: TF,VF
 Whiteside Mtn - Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 
-#### Drive Guide - Whiteside Mtn from Blackrock Mtn
+#### Drive Guide - Whiteside Mtn from Blackrock Mtn (W4G/NG-027)
 
 * **Duration**: 0:55, 29 miles
 * **Google Maps** URL: https://goo.gl/maps/40zJR
@@ -33,7 +33,7 @@ Whiteside Mtn - Drive to Trailhead & Trail Guide
 * **Food**: 
 
 
-#### Drive Guide - Whiteside Mtn FROM Yellow Mtn Gap
+#### Drive Guide - Whiteside Mtn FROM Yellow Mtn Gap (W4C/WM-028)
 
 * **Duration**: 0:20, 6 miles
 * **Google Maps** URL: http://goo.gl/maps/TBNCn
@@ -49,7 +49,7 @@ Whiteside Mtn - Drive to Trailhead & Trail Guide
     * Parking lot - $2 parking fee
 * **Food**: None
 
-#### Drive Guide - Whiteside Mtn FROM Cole Gap
+#### Drive Guide - Whiteside Mtn FROM Cole Gap (W4C/WM-033)
 
 * **Duration**: 0:15, 6 miles
 * **Google Maps** URL: http://goo.gl/maps/azU1v

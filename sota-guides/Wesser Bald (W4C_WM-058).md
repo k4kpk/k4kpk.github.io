@@ -13,7 +13,7 @@ sms:
 ---
 Drive to Trailhead & Trail Guide - Wesser Bald
 --------------------------------------------------------
-#### Drive Guide - Wesser Bald FROM Siler Bald
+#### Drive Guide - Wesser Bald FROM Siler Bald (W4C/WM-024)
 
 * **Duration**: 0:35
 * **Google Map**: http://goo.gl/maps/7iAQv
