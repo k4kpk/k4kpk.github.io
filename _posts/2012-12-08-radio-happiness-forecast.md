@@ -18,7 +18,7 @@ redirect_from: /content/radio-happiness-forecast
   <li><a href="http://www.solarham.net/index.htm">Solar Ham</a></li>
   <li><a href="http://dx.qsl.net/propagation/" target="new">QSL.net Propagation</a></li>
   <li><a href="http://aprs.fi/#!mt=roadmap&z=11&call=a%2FK4KPK-7%2Ca%2FK4KPK-5&timerange=86400&tail=43200">Track me using APRS</a></li>
-  <li><a href="http://k4kpk.com/content/sota-avoid-contests">Contest Calendars</li>
+  <li><a href="http://k4kpk.com/content/sota-avoid-contests">Contest Calendars</a></li>
 </ul>
 
 Thanks!
