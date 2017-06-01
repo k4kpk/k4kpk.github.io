@@ -1,6 +1,6 @@
 ---
 layout: default
 sitemap: false
-permalink: /testme/
+permalink: /testme
 ---
 Use http://k4kpk.com/trackme
