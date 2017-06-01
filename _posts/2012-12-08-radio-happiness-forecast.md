@@ -5,7 +5,7 @@ title: Radio Happiness Forecast
 created: 1355014058
 redirect_from: /content/radio-happiness-forecast
 ---
-<a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101vhfper.php" /></a></td>
+<a href="http://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="http://www.hamqsl.com/solar101vhfper.php" /></a>
 
 <ul>
   <li><a href="http://www.weather.com/weather/tenday/Blue+Ridge+GA+USGA0055" target="new">Blue Ridge, GA Weather Forecast</a></li>
