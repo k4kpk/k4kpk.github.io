@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Huckleberry Knob
 #### Drive Guide - Huckleberry Knob from Atlanta
 
 * **Duration**: 3:15
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/lu3Sa
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/lu3Sa
 * **Seasonal/Limited Access**:
 * **Directions**: CAUTION: Confusing route.  I missed a turn in 2014.
     * I-285 W
@@ -50,7 +50,7 @@ Drive to Trailhead & Trail Guide - Huckleberry Knob
 #### Trail Guide
 
 * **Duration**: 
-	* Up: 0:30 (0.9 mile, climb 400'); Down: 0:20
+  * Up: 0:30 (0.9 mile, climb 400'); Down: 0:20
 * **Navigation**
     * Follow the closed, grassy road from corner of parking area.
     * Pass through first clearing.  Continue to follow the road through clearing.  If obscured by snow, just head to north edge of clearing.

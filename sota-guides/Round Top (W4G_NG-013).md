@@ -9,9 +9,9 @@ pair:
 # Optional: Provide the latest year checked.
 # e.g: TM-2017, VF, P-2016
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: 
+sms: ?
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Round Top
 --------------------------------------------------------
 
 Guide for Round Top is wholly contained within the guide for Double Spring Knob (W4G/NG-007).

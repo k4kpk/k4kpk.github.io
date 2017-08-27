@@ -18,17 +18,17 @@ Blue Mountain: Drive to Trailhead & Trail Guide
 NOTE: **Do not follow Google map through Helen!**
 
 * **Duration**: 1:45 (actual, 2015)
-* **Google Maps** URL from I-285 at 33.91819, -84.33747: http://goo.gl/maps/u85WX
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/u85WX
 * **Seasonal/Limited Access**: All seasons; all weather.
 * **Directions**:
-  	* GA-400 N and go 47.
+   * GA-400 N and go 47.
     * At GA-400 end, go straight on GA-115 and go 4.8
     * R on GA-115 and go 11.5
     * L on Tesnatee Gap Valley Rd. There's a left turn lane.  Go 2.8.
     * Go straight onto McAfee Rd. (Tesnatee turns left.)  Go 0.2
     * L on US-129 and go 0.8
     * R on GA-75-Alt and go 8.1
-	* L on GA-75 and go 7.9
+   * L on GA-75 and go 7.9
     * Park in the big lot on the right at Unicoi Gap.  The gap is marked with a roadside sign.
     * There are no dirt roads involved in getting there.  High ground clearance vehicle is NOT required.
 * **Food**

@@ -19,7 +19,7 @@ Drive to Trailhead & Trail Guide - Yellow Bald
 #### Drive Guide - Yellow Bald from ATLANTA
 
 * **Duration**: 2:30 (actual, 2015)
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/l7kIQ
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/l7kIQ
 * **Seasonal/Limited Access**: Last part is gated in winter.  In summer of 2016 there were 3 deep erosion gullies making the Ball Creek Rd (USFS-83) route questionable; considr taking USFS-67 from Wallace Gap (near Standing Indian Campground)
 * **Directions**:
     * I-285 E

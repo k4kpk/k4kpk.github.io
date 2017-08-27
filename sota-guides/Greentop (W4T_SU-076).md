@@ -11,16 +11,15 @@ pair: Max Patch, Walnut Mtn, Clingmans, Barnett
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T
 ---
-I do not like Greentop.  I do not intend to activate it again.  
+## Drive to Trailhead & Trail Guide - Greentop
+
+#### I do not like Greentop.  I do not intend to activate it again.  
 
 * It is difficult to find a safe spot for an HF antenna, avoiding power lines.
 * I was able to raise Knoxville (strong signal report) on VHF with a Yagi, but I found only 2 VHF contacts with calling on 146.52 and zero chasers after spotting.
 * S5 noise level on 20 and 40 meters in 2015.  (S3 in 2014.)
 * No opportunity to set up away from noise sources.
 * I got blisters from poison ivy on the summit.
-
-Drive to Trailhead & Trail Guide
---------------------------------------------------------
 
 #### Drive Guide - Greentop - From Applewood Restaurant, Pigeon Forge
 
@@ -83,10 +82,10 @@ Drive to Trailhead & Trail Guide
     * L on Whites School Rd and go 0.6
     * L on US-441 N
     * If going to Alcoa Hwy go 13.4
-	    * R on ramp to TN-168 (John Sevier Hwy)
-    	* L on TN-168 W and go 6.7
-	* If going to Atlanta, go 20.2 to ramp to I-40 W
-    
+        * R on ramp to TN-168 (John Sevier Hwy)
+        * L on TN-168 W and go 6.7
+    * If going to Atlanta, go 20.2 to ramp to I-40 W
+
 #### Trail Guide
 
 * **Duration**: 20 minutes
@@ -94,7 +93,7 @@ Drive to Trailhead & Trail Guide
     * It is a big activation zone.  Coming up the road from Horse Cove Rd, once you round the bend to the left, you are in the zone.
 * **Summit altitude**: 3069'
 * **GPS tracks/waypoints**: Official Summit: 35.8119, -83.6672
-    
+
 #### Summit Guide
 
 * Hang antenna from tree: No

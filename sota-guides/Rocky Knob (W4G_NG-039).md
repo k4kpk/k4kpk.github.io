@@ -11,12 +11,12 @@ pair:
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T-2016
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Rocky Knob
 --------------------------------------------------------
 #### Drive Guide - Rocky Knob
 
 * **Duration**: 2:00
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/g6OqO
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/g6OqO
    * Note: After the last turn on the Google Map (onto unnamed road), continue 1/4 mile to parking on right.  Walk 0.1 farther to trailhead on right.
 * **Seasonal/Limited Access**: Paved road all the way.
 * **Directions**:
@@ -31,7 +31,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Do NOT follow GPS/Google to turn R on Timberline Dr.
     * Take the first R after Blue Ridge Electric Coop, onto Fairway Ln and go 0.2.
     * Park in small dirt lot on R, with small sign signifying trail parking.
-green. 
+      green. 
 * **Food**
     * Last McDonalds: Dahlonega
     * Penultimate McDonalds: GA-400 at GA-53 (38 miles north of I-285)
@@ -53,7 +53,7 @@ green.
     * Trailhead: 34.95116, -83.83993
     * Loop Trail Split: 34.95384, -83.83381
     * Summit: 34.9493, -83.8174
-    
+
 #### Summit Guide
 
 * Hang antenna from tree:

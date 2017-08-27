@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Wine Spring Bald
 #### Drive Guide - Wine Spring Bald from Atlanta
 
 * **Duration**:  2:30
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/LHJXM
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/LHJXM
 * **Seasonal/Limited Access**: Dirt road.  Gated some parts of winter. (Check current schedule.)
 * **Directions**:
     * Atlanta to junction of US-441 and US-64
@@ -35,7 +35,7 @@ Drive to Trailhead & Trail Guide - Wine Spring Bald
             * Narrower dirt road
         * IF THE GATE IS OPEN: Park at the summit.  Don't drive past the first building.  There's a hidden closed-to-vehicles sign just after the driveway to the first building.
         * IF THE GATE IS CLOSED: Park near the gate.
-    *  The drive back to US-441 and US-64 junction:
+    * The drive back to US-441 and US-64 junction:
         * Drive downhill and go 0.7
         * R on USFS-69 and go 3.5
         * L on Wayah Rd and go 9.0

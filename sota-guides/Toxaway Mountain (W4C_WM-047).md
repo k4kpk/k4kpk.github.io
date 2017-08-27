@@ -11,7 +11,7 @@ pair:
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: Y
 ---
-Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Toxaway Mtn
 --------------------------------------------------------
 #### Drive Guide - Toxaway Mountain from Rabun Bald
 
@@ -45,7 +45,7 @@ Drive to Trailhead & Trail Guide
 #### Drive Guide - Toxaway Mountain from Atlanta
 
 * **Duration**: 2:50, 148 miles
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/3Bczs
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/3Bczs
 * **Seasonal/Limited Access**: 
     * Tower Rd is a one lane paved road with turn outs.  It is a very slow drive.
 * **Directions**:
@@ -60,7 +60,7 @@ Drive to Trailhead & Trail Guide
     * Acute L on Tower Rd after hairpin turn and go 0.4
     * R on Tower Rd and go 2.2
         * It looks like the last driveway (on L) before the water tank turn-out on the R is the edge of the activation zone.  I ran down to the prior driveway (on R), to be sure I was out of the zone.
-    
+
 * **Food**
     * Last McDonalds: Lavonia, GA at GA-17
     * Penultimate McDonalds: Commerce, GA at US-441

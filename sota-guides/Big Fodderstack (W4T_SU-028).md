@@ -9,7 +9,7 @@ pair:
 # Optional: Provide the latest year checked.
 # e.g: TM-2017, VF, P-2016
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: 
+sms: ?
 ---
 Big Fodderstack: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
@@ -30,13 +30,13 @@ Big Fodderstack: Drive to Trailhead & Trail Guide
     * I-575 / GA-5 N and go 72 miles
     * L on GA-5 N in Blue Ridge, GA and go 10.2
     * L on GA-60 / TN-68 and go 36.4
-    	* Careful: TN-68 forks left in about 13 miles.  I missed this fork in March of 2014.
+     * Careful: TN-68 forks left in about 13 miles.  I missed this fork in March of 2014.
     * R on Cherohala Skyway (TN-165) and go 14.3
     * L on Indian Boundary Rd (USFS-345)(paved turn) and go 1.2
     * R on Indian Boundary Rd (turns to dirt) and go 3.9
-    	* Sign: "Citico Creek".  USFS-35-1.
-    	* Drive @25 MPH when wet, all the way to trailhead.
-    	* Gate at start of this road.  It was open on March 30, 2014.
+     * Sign: "Citico Creek".  USFS-35-1.
+     * Drive @25 MPH when wet, all the way to trailhead.
+     * Gate at start of this road.  It was open on March 30, 2014.
     * Cross stream and R on Doublecamp Creek Rd (following creek) (USFS-2659) and go 2.6
         * Pit toilets and Doublecamp Creek Recreation area at turn.
         * Note: Continue past false trailhead for trail 100 at 2.4 with plenty parking.

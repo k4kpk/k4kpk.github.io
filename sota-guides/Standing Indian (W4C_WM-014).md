@@ -11,12 +11,12 @@ pair: Boteler Peak
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: M
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Standing Indian
 --------------------------------------------------------
 #### Drive Guide - Standing Indian from Atlanta
 
 * **Duration**: 2:35, 140 miles
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/Xg9UJ
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/Xg9UJ
 * **Seasonal/Limited Access**:
 * **Directions**:
     * I-285E, to I-85N, to 985/365 N
@@ -43,7 +43,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * R on US-64 East and go 14.5
     * R onto ramp for 441 South.
     * L onto US-441 / US-23 South to I-985 to I-85.
-    
+
 #### Drive Guide - Standing Indian (back route 1 - via Beech Gap) from Atlanta
 
 * **Duration**: 2:45, 133 miles
@@ -63,10 +63,10 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * S on Allison Creek/Dills Creek Rd/Old Murphy (just after hairpin L) and go 2.8
     * L on USFS 67 / Standing Indian Campground Road (at sign for Standing Indian Campground) and go 4.0 to a shallow, paved ford.  Reset odometer to zero.
     * Go 2.3 past the ford and park at wide spot in road at Beech Gap Trail sign (on R)
-    
+
 * **Food**
 
-   
+
 #### Trail Guide
 
 * **Duration**: 1:45 up, 1:00 down, 2.6 miles
@@ -79,7 +79,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * Trailhead: 35.039431,-83.552724   -- 4348'
     * Summit: 35.0354, -83.5380    -- 5499'
-    
+
 ####  Trail Guide for Back Route 1 (Beech Gap Trail from USFS 67 + AT)
 
 * **Duration**: 5:00 up, 3:30 down, 5.8 miles.  1800' climb with only one "bump"

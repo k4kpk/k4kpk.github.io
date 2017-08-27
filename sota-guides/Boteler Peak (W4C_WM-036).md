@@ -9,24 +9,24 @@ pair: Standing Indian
 # Optional: Provide the latest year checked.
 # e.g: TM-2017, VF, P-2016
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: 
+sms: ?
 ---
 Boteler Peak: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 #### Drive Guide - Standing Indian to Boteler Peak
 
 * **Duration**: 
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
 * **Seasonal/Limited Access**:
 * **Directions**:
     * Head back the way you came on the dirt road and go 5.8
         * "Back the way you came" : If you are standing *inside* the hairpin turn, you'll go clockwise.
     * L on US-64 W and go 2.9
-	* Just before time to turn, see a short road stub on L.
-	* R on paved road just before "Entering Hiwassee River Basin" sign
-	* Immediate L on USFS-6236 and go 300'.
-	    * As you turn L, you drive between a "77" post on the left and a USFS-6236 sign on R.
-	* Parking for 1 on L as road curves R.
+    * Just before time to turn, see a short road stub on L.
+    * R on paved road just before "Entering Hiwassee River Basin" sign
+    * Immediate L on USFS-6236 and go 300'.
+        * As you turn L, you drive between a "77" post on the left and a USFS-6236 sign on R.
+    * Parking for 1 on L as road curves R.
     * Narrow, brown metal post on L, marked "77".
 * **Directions to Wildcat Mtn**:
     * If you just want to go home, go back the way you came in.  Otherwise...

@@ -16,7 +16,7 @@ Glassy Mtn - Drive to Trailhead & Trail Guide
 #### Drive Guide - Glassy Mtn from Atlanta
 
 * **Duration**: 1:45
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/4jV5Y
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/4jV5Y
 * **Seasonal/Limited Access**:
 * **Directions**:
     * 285 East
@@ -24,10 +24,10 @@ Glassy Mtn - Drive to Trailhead & Trail Guide
     * 985/365 North
     * US-441 North
     * After Tallulah and before Clayton, turn L on 441/Tiger-Connector at "Goats on the Roof"
-	* See remainder of directions under "from Clayton" guide below.
+    * See remainder of directions under "from Clayton" guide below.
 * **Food**
     * Last McDonalds: Cornelia, on Level Grove Rd.
-		* It comes just BEFORE Cornelia and your exit to US-441.
+      * It comes just BEFORE Cornelia and your exit to US-441.
 
 #### Drive Guide - Glassy Mtn from Bell Knob (US 76)
 
@@ -48,12 +48,12 @@ Glassy Mtn - Drive to Trailhead & Trail Guide
 * **Directions**:
     * From US-76 and US-441, go south on US-441 and go 2.8
     * R on 441/Tiger-Connector (R only; @ **"Goats On the Roof"**) and go 5.8
-    	* Note: It is about 15 minutes from this turn to the gate/trailhead.
+      * Note: It is about 15 minutes from this turn to the gate/trailhead.
         * Name changes to Bridge Creek Rd
     * R on Glassy Mtn Rd (USFS-11) and go 2.1
-    	* Good condition dirt road. Easy drive in a Corolla in spring of 2014.
+      * Good condition dirt road. Easy drive in a Corolla in spring of 2014.
     * Sharp R and gate. Drive 0.9 more to top if gate open (in summer).
-		* Park just after the hairpin turn, well before the gate.  Room for 2 cars.
+      * Park just after the hairpin turn, well before the gate.  Room for 2 cars.
         * There's a lesser, gated road, if you don't make the sharp R. This does not lead to the summit.
 * **Food**
     * Last McDonalds: Cornelia, on Level Grove Rd (just BEFORE Cornelia)

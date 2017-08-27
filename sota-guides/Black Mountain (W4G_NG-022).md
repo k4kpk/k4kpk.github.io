@@ -11,10 +11,12 @@ pair: Big Cedar, Gooch, Sassafras
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: Y
 ---
+## Drive to Trailhead & Trail Guide - Black Mountain
+
 #### Drive Guide - Black Mountain (W4G/NG-022)
 
 * **Duration**: 1:20
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/iv36I
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/iv36I
 * **Seasonal/Limited Access**:
     * Paved road all the way.  Parking may be full on weekend. 
 * **Directions**:

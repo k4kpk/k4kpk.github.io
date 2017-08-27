@@ -17,7 +17,7 @@ Copper Ridge Bald Drive Guide & Trail Guide
 
 * **Duration**: 2:50, 150 miles
 
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898:  [Maps URL](https://www.google.com/maps/dir/33.91998,+-84.33898/Tellico+Gap,+Nantahala,+NC+28734/@34.588674,-84.5330016,9z/am=t/data=!4m14!4m13!1m3!2m2!1d-84.33898!2d33.91998!1m5!1m1!1s0x88593321bfbe45b9:0xba90731274cb8b1!2m2!1d-83.5723856!2d35.2678705!2m2!7e2!8j1490850000)
+* **Google Maps** URL from Atlanta (33.91998, -84.33898):  [Maps URL](https://www.google.com/maps/dir/33.91998,+-84.33898/Tellico+Gap,+Nantahala,+NC+28734/@34.588674,-84.5330016,9z/am=t/data=!4m14!4m13!1m3!2m2!1d-84.33898!2d33.91998!1m5!1m1!1s0x88593321bfbe45b9:0xba90731274cb8b1!2m2!1d-83.5723856!2d35.2678705!2m2!7e2!8j1490850000)
 
 * **Seasonal/Limited Access**: Dirt road.  No scheduled closures, but there is a gate so it could be closed in bad weather.
 

@@ -11,7 +11,7 @@ pair: Hemlock, Huckleberry
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: N
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Stratton Bald via Beech Gap
 --------------------------------------------------------
 
 Note: The really good map for this area is a National Forest Service paper map titled "Joyce Kilmer-Slickrock Wilderness and Citico Creek Wilderness" subtitled "in the Nantahala and Cherokee National Forests".  My copy says it was "compiled" in 1987.  The National Geograpic "Trail Maps" IOS application also shows the Wolf Laurel trail and Wolf Laurel Road (AKA USFS-81F, which is 2WD drivable to Wolf Laurel Basin).
@@ -23,7 +23,7 @@ Cool accommodations: http://www.main.nc.us/graham/hiking/santeetlah.html
 #### Drive Guide
 
 * **Duration**: 3:30
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/S4YjT
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/S4YjT
 * **SOTA Extra Info Page**: http://sotawatch.org/summits.php?summit=w4c/wm-020
 * **Seasonal/Limited Access**: All seasons, all weather.  You can drive it in a sports car.
 * **Directions**
@@ -36,7 +36,7 @@ Cool accommodations: http://www.main.nc.us/graham/hiking/santeetlah.html
     * In Tellico Plains, turn right on TN-165/Cherohala Skyway. Reset odometer.
         * At 23.8 miles, you'll cross the TN/NC state line.
         * 0.2 afterward, park in the lot on the left at 35.34518, -84.03546.  (There's a real, paved parking lot.  It has a low, rock wall between the lot and the road.
-The Benton McKaye trail is supposed to exit the lot on the north end (the end from which you were driving). In 2012, this section of the trail was closed.  You'll hike back up the skyway (northwest) about a tenth of a mile.  There's a gated road to your right.  (The gate is up the road a bit.) This was our trailhead.
+          The Benton McKaye trail is supposed to exit the lot on the north end (the end from which you were driving). In 2012, this section of the trail was closed.  You'll hike back up the skyway (northwest) about a tenth of a mile.  There's a gated road to your right.  (The gate is up the road a bit.) This was our trailhead.
 * **Food**
     * Last McDonalds: Blue Ridge, GA, on the corner where GA-5 turns L
     * Penultimate McDonalds: Ellijay, GA, on L

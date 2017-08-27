@@ -11,12 +11,12 @@ pair:
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T,V
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Rocky Mtn (W4C/HC-008)
 --------------------------------------------------------
 #### Drive Guide - Rocky Mountain (HC-008) from Atlanta
 
 * **Duration**: 1:45
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/llnGb
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/llnGb
 * **Seasonal/Limited Access**: All seasons, most weather (good quality dirt road).  No gates encountered.
 * **Directions**:
     * I-285 W
@@ -31,7 +31,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Last McDonalds: Ellijay (East Ellijay). 
     * Penultimate McDonalds: Jasper.
     * Dinner: Avoid the barbecue place in Blue Ridge that has billboards telling you to turn at Wendy's. 
-    
+
 ####  Drive Guide - Rocky Mountain (HC-008) from Springer Mtn
 
 * **Duration**: 0:55 (Google says longer.  Took 0:55 on 2014.12.30)
@@ -45,7 +45,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * L on Stanley Creek Rd and go 2.9.  (Road turns to dirt at about 2.8)
     * Road turns L at farm house and field.  Name change to Rock Creek Rd and go 1.0
     * Parking is at a narrow, deep driveway on R.
-            
+      ​      
 #### Trail Guide
 
 * **Duration**: 2.3 miles, Ascent = 1:30, Descent (hurrying) = 1:00

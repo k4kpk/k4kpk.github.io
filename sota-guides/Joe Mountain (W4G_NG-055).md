@@ -11,11 +11,11 @@ pair: Ravencliff, Hullander
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T
 ---
-Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Joe Mtn
 --------------------------------------------------------
 #### Drive Guide - Joe Mountain (W4G/NG-055) from Glassy Mountain (W4G/NG-031)
 * **Duration**: 0:45, 16 miles
-* **Google Maps**: URL https://goo.gl/maps/J9XHrJCJjQU2
+* **Google Maps**: URL from Atlanta (33.91998, -84.33898) https://goo.gl/maps/J9XHrJCJjQU2
 * **Directions**:
     * Head downhill on Glassy Mtn Rd and go 2.1
     * L on Bridge Creek Rd and go 4.8

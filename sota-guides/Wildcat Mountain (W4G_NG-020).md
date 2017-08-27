@@ -16,7 +16,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 #### Drive Guide - Wildcat Mountain from ATLANTA
 
 * **Duration**: 1:45
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
     * http://goo.gl/maps/wtGrc
 * **Seasonal/Limited Access**:  All seasons, paved roads, BUT Richard B Russell sometimes gets closed for **repairs** or ice.  Check with GDOT.  Plan an alternate.
 * **Directions**:

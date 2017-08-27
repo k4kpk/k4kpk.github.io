@@ -36,7 +36,7 @@ Sassafras Knob - Drive to Trailhead & Trail Guide
 #### Drive Guide - Sassafras Knob from Atlanta
 
 * **Duration**: 2:10, 112 miles
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/97JgH
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/97JgH
 * **Seasonal/Limited Access**: Lots of dirt road.  Unknown about gates.
 * **Directions**:
     * I-285 to I-75 to I-575
@@ -86,7 +86,7 @@ Sassafras Knob - Drive to Trailhead & Trail Guide
     * 146.925- (Cleveland Amateur Radio Club, tone 114.8)
     * 146.610- (Chattanooga, tone 107.2)
     * Call N4AOW on simplex 146.52
-    
+
 #### Summit Guide
 
 * Hang antenna from tree:

@@ -11,22 +11,22 @@ pair: Grassy Ridge Bald
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: TF,VF,AW
 ---
-Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Roan High Knob
 --------------------------------------------------------
 #### Drive Guide - Roan High Knob to Atlanta
 
 * **Duration**: 4:45, 265 miles - Note: Google says it is 4:20.  My 2015 experience is that you need 4:45 (plus any time for pit stops).
 * **Directions**:
-	* I-285 to I-85 N
-	* In Greenville, SC: I-185 N and go 1.6
-	* Exit 15, US-25 N and go 39
-	* I-26 W and go 45
-	* Exit 9, US-19 N and go 10.7
-	* US-19E N and go 6.9 (last McDonalds is on this stretch)
-	* L on NC-197 and go 3
-	* R on Fork Mtn Rd and go 4.2
-	* L on NC-261 N and go 9.1
-	* L on seasonally gated road 1348 and go 1.6.
+ * I-285 to I-85 N
+ * In Greenville, SC: I-185 N and go 1.6
+ * Exit 15, US-25 N and go 39
+ * I-26 W and go 45
+ * Exit 9, US-19 N and go 10.7
+ * US-19E N and go 6.9 (last McDonalds is on this stretch)
+ * L on NC-197 and go 3
+ * R on Fork Mtn Rd and go 4.2
+ * L on NC-261 N and go 9.1
+ * L on seasonally gated road 1348 and go 1.6.
 
 #### Drive Guide - Carvers Gap to Roan High Knob (Cloudland Trailhead)
 
@@ -35,7 +35,7 @@ Drive to Trailhead & Trail Guide
 * **Directions**:
     * Follow gated, paved road 1348 WSW (up hill) and go 1.6
     * Big parking lot on R.  Restrooms here.
-    
+
 #### Drive Guide - High Rock to Roan High Knob (Cloudland Trailhead)
 
 * **Duration**: 1:25, 57 miles

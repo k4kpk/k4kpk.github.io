@@ -11,14 +11,14 @@ pair:
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: Y
 ---
-#### Drive to Trailhead & Trail Guide
+## Drive to Trailhead & Trail Guide - Vineyard Mountain
 
 Caution: Use bug dope. I got bug bites that took over 6 weeks to heal from my ankle to my knee while wearing hiking boots, over-the-calf socks, and long pants. My son also got similar bites (while not as thoroughly clothed). (Summer 2013)
 
 #### Drive Guide
 
 * **Duration**: 0:45
-* **Google Maps** URL from I-285 at 33.91819, -84.33747: 
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
     * To the easy, seasonal trailhead: http://goo.gl/maps/TNXri
     * To the difficult, year-round trailhead at 34.14386, -84.73565: http://goo.gl/maps/5C2k1
 * **Seasonal/Limited Access**:

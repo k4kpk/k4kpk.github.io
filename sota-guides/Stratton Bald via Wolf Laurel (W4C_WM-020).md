@@ -11,9 +11,7 @@ pair: Hemlock, Huckleberry
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: N
 ---
-	Trip-specific: Drive to Trailhead & Trail Guide
---------------------------------------------------------
-** Stratton Bald via Wolf Laurel Trailhead**
+## Drive to Trailhead & Trail Guide - Stratton Bald via Wolf Laurel
 
 The best map is a National Forest Service paper map titled "Joyce Kilmer-Slickrock Wilderness and Citico Creek Wilderness" subtitled "in the Nantahala and Cherokee National Forests".  Mine says it was "compiled" in 1987.  The National Geograpic "Trail Maps" IOS application also shows the Wolf Laurel trail and Wolf Laurel Road (AKA USFS-81F, which is 2WD drivable to Wolf Laurel Basin).
 
@@ -25,39 +23,39 @@ Cool accommodations: http://www.main.nc.us/graham/hiking/santeetlah.html
 * **Duration**: 0:50 (0:15 from Huck Knob TH to USFS-81; 0:35 from Skyway to the Wolf Laurel TH via USFS-81 and USFS-81F)
 * **Google Maps** URL from Huckleberry Knob parking: (does not cover ~ last mile): http://goo.gl/maps/kDwQu
 * **Seasonal/Limited Access**: Road may be closed late December to mid-March.  
-	* Drivable in passenger car.  There's a big sign that says "Not suitable for passenger cars" at the start of USFS-81.  I drove it after 3+ dry days; it could be tough when muddy.
+* Drivable in passenger car.  There's a big sign that says "Not suitable for passenger cars" at the start of USFS-81.  I drove it after 3+ dry days; it could be tough when muddy.
 * **Directions**:
-	* Head SW on Cherohala Skyway (turn R out of parking lot) and go 6.8
-	* R on Old Santeelah Rd and go 0.1.
-	* Straight on USFS-81 and go 3.9
-	* Hairpin L on Wolf Laurel Rd (USFS-81F) and go about 4.8.
-	    * USFS-81F has signs: "Swan Cabin", "Wolf Laurel Trailhead".
+* Head SW on Cherohala Skyway (turn R out of parking lot) and go 6.8
+* R on Old Santeelah Rd and go 0.1.
+* Straight on USFS-81 and go 3.9
+* Hairpin L on Wolf Laurel Rd (USFS-81F) and go about 4.8.
+     * USFS-81F has signs: "Swan Cabin", "Wolf Laurel Trailhead".
 
 #### Drive Guide from Atlanta
 
 * **Duration**: 4:15
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: (does not cover the last few miles) http://goo.gl/maps/UDZDu
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): (does not cover the last few miles) http://goo.gl/maps/UDZDu
 * **SOTA Extra Info Page**: http://sotawatch.org/summits.php?summit=w4c/wm-020
 * **Seasonal/Limited Access**: Road may be closed late December to mid-March.  Reportedly drivable in passenger car.
 * **Directions**:
-	* Note: Google maps thinks USFS-81 ends before the trailhead.  It extends a mile or so more than Google knows.  Google thinks it ends near Fork Ridge.  The USGS quad shows it extending up to Wolf Laurel Basin.
-    * I-285 W
-    * I-75 N
-    * I-575 / GA-5 N and go 72 miles
-    * L on GA-5 N in Blue Ridge, GA and go 10.2
-    * L on GA-60 / TN-68 and go 36.4
-    	* Careful: TN-68 forks left in about 13 miles.  I missed this fork in March of 2014.
-    * In Tellico Plains, R on TN-165/Cherohala Skyway.  Reset odometer.
-        * At 23.8 miles, you'll cross the TN/NC state line.            
-        * 0.2 afterward, there's a paved parking lot on the left at 35.34518, -84.03546.  This is where you would park for the Beech Gap route.
-        * Pause in the parking area to enable route trace on your GPS, to save this route for your files!
-        * Continue about 1.3 miles.  Watch for N. River Rd.
-            * If you can, turn L on N. River Rd (35.33671, -84.03121) and immediately L on USFS-81.
-            * Otherwise, continue 0.2 past N. River Rd, turn L on Old Santeelah Rd (a.k.a. USFS-81)(35.33657, -84.02831) and go 0.2 and continue onto USFS-81.
-    * Go 3.7 on USFS-81.
-    * Hairpin L to USFS-81F (a.k.a. Wolf Laurel Rd) (35.34686, -83.98784
-) and go 4.9 to gate (Wolf Laurel trail parking).
-    * On the 2011 "Santeelah Creek" USGS quadrangle, Stratton Bald is in the upper left corner. Southeast of the bald is "Wolf Laurel Basin." There's a road which runs east from "Basin".  You'll park at the gate at the easternmost point on this road.
+* Note: Google maps thinks USFS-81 ends before the trailhead.  It extends a mile or so more than Google knows.  Google thinks it ends near Fork Ridge.  The USGS quad shows it extending up to Wolf Laurel Basin.
+   * I-285 W
+   * I-75 N
+   * I-575 / GA-5 N and go 72 miles
+   * L on GA-5 N in Blue Ridge, GA and go 10.2
+   * L on GA-60 / TN-68 and go 36.4
+   * Careful: TN-68 forks left in about 13 miles.  I missed this fork in March of 2014.
+   * In Tellico Plains, R on TN-165/Cherohala Skyway.  Reset odometer.
+       * At 23.8 miles, you'll cross the TN/NC state line.            
+       * 0.2 afterward, there's a paved parking lot on the left at 35.34518, -84.03546.  This is where you would park for the Beech Gap route.
+       * Pause in the parking area to enable route trace on your GPS, to save this route for your files!
+       * Continue about 1.3 miles.  Watch for N. River Rd.
+           * If you can, turn L on N. River Rd (35.33671, -84.03121) and immediately L on USFS-81.
+           * Otherwise, continue 0.2 past N. River Rd, turn L on Old Santeelah Rd (a.k.a. USFS-81)(35.33657, -84.02831) and go 0.2 and continue onto USFS-81.
+   * Go 3.7 on USFS-81.
+   * Hairpin L to USFS-81F (a.k.a. Wolf Laurel Rd) (35.34686, -83.98784
+       ) and go 4.9 to gate (Wolf Laurel trail parking).
+   * On the 2011 "Santeelah Creek" USGS quadrangle, Stratton Bald is in the upper left corner. Southeast of the bald is "Wolf Laurel Basin." There's a road which runs east from "Basin".  You'll park at the gate at the easternmost point on this road.
 * **Food**
     * Last McDonalds: Blue Ridge, GA, on the corner where GA-5 turns L
     * Penultimate McDonalds: Ellijay, GA, on L

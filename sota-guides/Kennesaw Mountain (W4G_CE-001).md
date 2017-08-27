@@ -11,12 +11,12 @@ pair: Pine Mountain
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T,V,A
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Kennesaw Mtn
 --------------------------------------------------------
 #### Drive Guide - Kennesaw Mountain
 
 * **Duration**: 30 minutes
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/NgQXy
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/NgQXy
 * **SOTA Extra Info Page**: http://sotawatch.org/summits.php?summit=w4g/ce-001
 * **Seasonal/Limited Access**: 
     * All weather, all season.  All paved roads.

@@ -18,7 +18,7 @@ Craggy Dome: Drive to Trailhead & Trail Guide
 NOTE: I've decided this is such a miserable hike and an ovegrown summit that after activating it twice, I'm not going to activate it again -- even for 10 points and even to make a triple-header possible.  It isn't any fun.
 
 * **Duration**: 217 miles, 4:15.  (Google says 3:45; it took me 4:10 in 2014.)
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/FU9qS
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/FU9qS
 * **Seasonal/Limited Access**: Blue Ridge Parkway closes in bad weather. Check the [BRP Closure Map](http://www.nps.gov/maps/blri/road-closures/).  In Spring 2015, this was one of the last sections to open.
 * **Directions**:
     * I-285 E
@@ -53,14 +53,14 @@ NOTE: I've decided this is such a miserable hike and an ovegrown summit that aft
 * **Navigation**
     * Bring a jacket in the summer: On July 11, 2015 at 10 A.M. the weather was 59 degrees, windy, with dense fog.
     * It is an intense climb due to overgrown trail with steep spots; for large parts of the trail, you can't see where you are putting your feet.
-	* Walk 85 yards on parkway toward the Craggy Gardens visitor center on left shoulder of road
-	* At MST post on left, turn L onto Mountains to Sea Trail.
-	* At 12 yards, see large boulder on R.  In 6 more yards, depart trail to R.
-	* Bushwhack about 5 minutes to find manway.
-	* Manway is overgrown (in mid-September 2014).
-	* You will need to find the manway before reaching dense laurel, in order to make it through.
+    * Walk 85 yards on parkway toward the Craggy Gardens visitor center on left shoulder of road
+    * At MST post on left, turn L onto Mountains to Sea Trail.
+    * At 12 yards, see large boulder on R.  In 6 more yards, depart trail to R.
+    * Bushwhack about 5 minutes to find manway.
+    * Manway is overgrown (in mid-September 2014).
+    * You will need to find the manway before reaching dense laurel, in order to make it through.
 * **Parking**: 5590' @ 35.71083,-82.36422
-* **Summit altitude**: 6100	' @ 35.706, -82.3667
+  * **Summit altitude**: 6100' @ 35.706, -82.3667
 * **GPS tracks/waypoints**:
     * MST post: 35.71009,-82.36489
     * Leave MST: 35.71008,-82.36472

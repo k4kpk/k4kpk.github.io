@@ -11,12 +11,12 @@ pair:
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T,V
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide  - Stone Mtn
 --------------------------------------------------------
 #### Drive Guide
 
 * **Duration**: 40 minutes
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/mF3hd
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/mF3hd
 * **Seasonal/Limited Access**: Year-round.  All weather.
 * **Directions**:
     * I-285 East
@@ -41,7 +41,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Distance is 1.3 miles.  Altitude gain is 825 feet.  The last part is pretty steep, and is slippery when wet.
 
 * **Trailhead altitude**: 1005' @ trailhead parking lot
-* **Summit altitude**: 4005'	
+ * **Summit altitude**: 4005'
 * **GPS tracks/waypoints**:
     * Trailhead: 33.81076,-84.16213
     * Summit: 

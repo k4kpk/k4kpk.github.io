@@ -11,12 +11,12 @@ pair:
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: Y
 ---
-Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Grandmother Mtn
 --------------------------------------------------------
 #### Drive Guide - Grandmother Mountain from Mt Mitchell
 
 * **Duration**: 1:45, 57 miles
-* **Google Maps** URL: (google is broken.  It thinks you can't make a left turn.)
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): (google is broken.  It thinks you can't make a left turn.)
     * http://goo.gl/maps/fNCLg (part way there) 
     * http://goo.gl/maps/Yo3E1  (rest of the way there)
 * **Seasonal/Limited Access**: Check the [BRP Closure Map](http://www.nps.gov/maps/blri/road-closures/).

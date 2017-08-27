@@ -36,7 +36,7 @@ Blackrock Mtn (W4G/NG-027): Drive to Trailhead & Trail Guide
 #### Drive Guide - Black Rock Mountain from Atlanta
 
 * **Duration**: 2:00
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/Hgpof
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/Hgpof
 * **Seasonal/Limited Access**:  Park is closed Dec 1 - March 15.  Paved road all the way.
 * **Directions**:
     * Take money. There is a parking fee.
@@ -52,7 +52,7 @@ Blackrock Mtn (W4G/NG-027): Drive to Trailhead & Trail Guide
 * **Food**
     * Last McDonalds: Clayton, GA
     * Penultimate McDonalds: Cornelia, on Level Grove Rd.
-		* It comes just BEFORE Cornelia and your exit to US-441.
+      * It comes just BEFORE Cornelia and your exit to US-441.
 * Black Rock State Park entrance gate is open 7AM-10PM, March 16-Nov 30.
 
 #### Drive Guide - Black Rock Mountain TO Atlanta
@@ -65,14 +65,14 @@ Blackrock Mtn (W4G/NG-027): Drive to Trailhead & Trail Guide
 * **Duration**: 0:30 (0.6 miles); 0:20 down.  This is for the true summit.  ~0:05 less to Tennessee Rock.
 * **Navigation**
     * Trailhead at Tennessee Rock Trail parking.  Trailhead is through the picnic area, past the pay-to-park post.
-	* Within the first 5 minutes, take both left forks.
+    * Within the first 5 minutes, take both left forks.
     * It is a loop trail. The left side is 2/3 the length of the right.  Right side may be nice if you have extra time, but left side is what I document.
 * **Trailhead altitude**: 3255'
 * **Summit altitude**: 3640
 * **GPS tracks/waypoints**:
     * Trailhead: 34.90725, -83.41211
     * Tennessee Rock Overlook: 34.90516, -83.41781
-    * Summit: 34.90360, -83.42060		Grid: EM84gv
+      * Summit: 34.90360, -83.42060	Grid: EM84gv
 
 #### Summit Guide
 

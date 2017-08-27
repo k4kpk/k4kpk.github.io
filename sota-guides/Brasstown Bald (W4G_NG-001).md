@@ -20,7 +20,7 @@ Brasstown Bald: Drive to Trailhead & Trail Guide
 #### Drive Guide - Brasstown Bald from Atlanta
 
 * **Duration**: 1:45
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/2AIvK 
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/2AIvK 
 * **Seasonal/Limited Access**: All seasons, but "GA-180 Spur" is closed in inclement weather. Check before going.
     * Google: site:http://www.fs.usda.gov/ "Brasstown Bald Visitor Information Center" 
         * look for "Area Status: Open"

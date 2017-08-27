@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide
 #### Drive Guide - Atlanta to Mt Hardy
 
 * **Duration**: 171 miles, 3:05
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/9zN9u
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/9zN9u
 * **Seasonal/Limited Access**: Check the [BRP Closure Map](http://www.nps.gov/maps/blri/road-closures/).
 * **Directions**:
     * I-285 to I-85 N

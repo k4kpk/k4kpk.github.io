@@ -43,7 +43,7 @@ Drive to Trailhead & Trail Guide - Bald Knob
 #### Drive Guide - Atlanta to Bald Knob
 
 * **Duration**: 3:00, 165 miles
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/2hddE
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/2hddE
 * **Seasonal/Limited Access**: Paved road all the way
 * **Directions**:
     * I-285 to I-85 N and go 83
@@ -64,9 +64,9 @@ Drive to Trailhead & Trail Guide - Bald Knob
 * **Navigation**
     * Follow overgrown, gated Forest Service road to summit.
 * **Trailhead altitude**: 4178 @ 35.262169,-82.922161
-* **Summit altitude**: 35.2457, -82.9248
+* **Summit altitude**: 4780 @ 35.2457, -82.9248
+* **Grid square**: EM85mf
 * **GPS tracks/waypoints**:
-    * ?
 
 #### Summit Guide
 

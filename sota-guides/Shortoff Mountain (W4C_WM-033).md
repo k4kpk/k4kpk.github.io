@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Shortoff Mtn
 #### Drive Guide - Shortoff Mountain via Cole Gap from Atlanta
 
 * **Duration**: 2:20
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
 * **Seasonal/Limited Access**:
 * **Directions**:
     * I-285 E

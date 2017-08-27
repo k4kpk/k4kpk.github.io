@@ -9,17 +9,17 @@ pair: Coosa
 # Optional: Provide the latest year checked.
 # e.g: TM-2017, VF, P-2016
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: 
+sms: ?
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Sheriff Knob
 --------------------------------------------------------
 #### Drive Guide - Sheriff Knob (W4G/NG-034) from Atlanta
 
 I'm finished activating Sheriff.  You could get hurt coming down this hill, and going up is just awful.
 
 * **Duration**: 1:35
-* **Google Maps** from Ashford Dunwoody Rd at 33.91998, -84.33898: http://goo.gl/maps/c7qnk
-* **Google Maps** from Ashford Dunwoody, via Coosa, back to start: http://goo.gl/maps/k8uhl
+* **Google Maps** from Atlanta (33.91998, -84.33898): http://goo.gl/maps/c7qnk
+* **Google Maps** from Atlanta (33.91998, -84.33898), via Coosa, back to start: http://goo.gl/maps/k8uhl
 * **Seasonal/Limited Access**: Paved, un-gated.
 * **Directions**:
     * From I-285 take GA-400 and go 47
@@ -31,7 +31,7 @@ I'm finished activating Sheriff.  You could get hurt coming down this hill, and 
     * Park here (34.768092,-83.939545).
 * **Food**
     * Last McDonalds: Dahlonega
-	* Penultimate McDonalds: GA-400 at GA-53 (38 miles north of I-285)
+    * Penultimate McDonalds: GA-400 at GA-53 (38 miles north of I-285)
     * Dinner: Smoke-n-Gold Barbecue in Dahlonega
 
 #### Drive Guide - Sheriff Knob from Coosa Bald

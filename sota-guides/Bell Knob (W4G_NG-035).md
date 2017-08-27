@@ -19,7 +19,7 @@ New in 2016 - Road is  paved to the top.  This is now a drive-up summit, with an
 #### Drive Guide - Bell Knob from Atlanta
 
 * **Duration**: 2:05, 98 miles
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
     * http://goo.gl/maps/LQJzq
 * **Seasonal/Limited Access**:
 * **Directions**:
@@ -35,10 +35,10 @@ New in 2016 - Road is  paved to the top.  This is now a drive-up summit, with an
     * L on GA-75 N/US-76 W. Go 1.4
     * R on Shake Rag Rd at convenience store and power substation.
     * Continue directions at "Drive Guide - Bell Knob from Shake Rag Rd"
-    
+
 #### Drive Guide - Bell Knob from Shake Rag Rd
 * **Directions**:
-	* After turning onto Shake Rag Rd...
+  * After turning onto Shake Rag Rd...
     * STOP: Turn on GPS devices and get a fix.  (Good cell signal on AT&T in 2014.)
     * Set GPS destination to: 34.9556, -83.7297
     * At 0.7 miles, follow Shake Rag as it turns left and passes "Bright Apartments".
@@ -50,7 +50,7 @@ New in 2016 - Road is  paved to the top.  This is now a drive-up summit, with an
 * **Food**
     * Last McDonalds:  GA-400 at GA-53 (38 miles north of I-285)
         * There is a McDonalds in Hiawasee that opens at 6 AM 7 days a week, but it is out of your way.
-        
+
 #### Drive Guide - Bell Knob from Blackrock Mtn
 * **Google Maps** URL: https://goo.gl/maps/SF2uNBkL2B62
 * **Duration**: 0:50
@@ -70,7 +70,7 @@ New in 2016 - Road is  paved to the top.  This is now a drive-up summit, with an
     * L on GA-17 N / GA-75 N and go 6.3
     * L on GA-2 W / US-76 W and go 1.4
     * R on Shake Rag Rd.  Continue directions at "Drive Guide - Bell Knob from Shake Rag Rd"
-    
+
 #### Drive Guide - Bell Knob from Eagle Mountain
 * **Google Maps** URL: http://goo.gl/maps/uW7m9
 * **Directions**:

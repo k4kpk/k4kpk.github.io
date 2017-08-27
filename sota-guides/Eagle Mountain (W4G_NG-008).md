@@ -11,12 +11,12 @@ pair: Bell Knob
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: Y
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Eagle Mtn
 --------------------------------------------------------
 #### Drive Guide - Eagle Mountain
 
 * **Duration**: 2:15
-* URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* URL from Atlanta (33.91998, -84.33898): 
     * Part 1: http://goo.gl/maps/c2FWn
     * Part 2: See directions below after "GOOGLE MAPS IS USELESS"
 * **Seasonal/Limited Access**:
@@ -52,13 +52,13 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Last McDonalds: Hiawasee, GA. At turn from US-76 to GA-75 in Hiawassee.
     * Penultimate McDonalds: GA-400 at GA-53 (38 miles north of I-285)
     * Dinner
-    
+
 #### Trail Guide
 
 * **Duration**: 3:15 hours (4.7 miles, 2000' - from where I parked.  4.4 if you have 4WD.)
 * **Navigation**
     * Trailhead at at 34.96183, -83.72151 at wide spot in road, or continue 0.3 miles farther if you can make it.
-        
+
 * **Trailhead altitude**: 2371' at the gate @ 34.95712, -83.72229
 * **Summit altitude**: 4260'
 * **GPS tracks/waypoints**:
@@ -69,7 +69,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * N34.96769 W83.69245: Enter a fern glen, with a small swamp on R.
         * Trail is vague here.  You turn L onto vague trail.  Trail soon turns to dirt road.
     * Summit: N34.96438 W83.69103
-    
+
 #### Summit Guide
 
 * Hang antenna from tree: Yes. I did.

@@ -11,7 +11,7 @@ pair: Buckeye, Coosa
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: A, V
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Akin Mtn
 --------------------------------------------------------
 #### Drive Guide - Akin Mountain (from Buckeye Knob)
 
@@ -31,7 +31,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 #### Drive Guide - Akin Mountain (from Atlanta)
 
 * **Duration**: 2:05
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/DovLq
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/DovLq
 * **Seasonal/Limited Access**: All-season, dirt. Patrick drove it in February.
 * **Directions**:
     * North on GA-400 and go 47

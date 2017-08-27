@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide
 #### Drive Guide - Mt Mitchell from Craggy Dome
 
 * **Duration**: 12.7 miles, 0:30
-* **Google Maps** URL: http://goo.gl/maps/pX9I2 
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/pX9I2 
 * **Seasonal/Limited Access**: Blue Ridge Parkway closed in bad weather. Check the [BRP Closure Map](http://www.nps.gov/maps/blri/road-closures/).
 * **Directions**:
     * N on the Parkway (turn R out of lot) and go 8

@@ -16,7 +16,7 @@ Rabun Bald (W4G/NG-002): Drive to Trailhead & Trail Guide
 #### Drive Guide - Rabun Bald from Atlanta
 
 * **Duration**: 2:05 (a little longer than Google Maps says)
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898:
+* **Google Maps** URL from Atlanta (33.91998, -84.33898):
     * To Clayton: http://goo.gl/maps/Ib4j2
     * Clayton to Beegum gap: http://goo.gl/maps/ECuOq
     * Beegum to Black Rock: http://goo.gl/maps/OAZtE
@@ -29,8 +29,8 @@ Rabun Bald (W4G/NG-002): Drive to Trailhead & Trail Guide
     * From Clayton GA (intersection of US-441 and US-76) to Beegum Gap trailhead - 0:30 :
         * US-441N and go 7.5
         * R on GA-246/NC-246/NC-106 and go 4.2
-		* R on Old Mud Creek Rd/Bald Mtn Rd (@ "Mountain Jct Store/Sinclair Gas") and go 1.7
-		* Keep R to stay on Bald Mtn Rd and go 1.2
+        * R on Old Mud Creek Rd/Bald Mtn Rd (@ "Mountain Jct Store/Sinclair Gas") and go 1.7
+        * Keep R to stay on Bald Mtn Rd and go 1.2
         * R onto Kelsey Mtn Rd and go 0.5
             * Park at end of pavement.  Limited parking available.
         * Note: Some people may try to drive the jeep trail past this point. There are some deep erosion gullies and you'll do some boulder climbing.  If I get a Forrester, I'm not going to drive it.
@@ -69,7 +69,7 @@ Rabun Bald (W4G/NG-002): Drive to Trailhead & Trail Guide
 * **Summit altitude**: 4696'
 * **GPS tracks/waypoints**:
     * Trailhead: 34.976, -83.3 (Beegum Gap)
-    * Summit: 34.9656, -83.2998			Grid: EM84ix
+      * Summit: 34.9656, -83.2998		Grid: EM84ix
 
 #### Summit Guide
 

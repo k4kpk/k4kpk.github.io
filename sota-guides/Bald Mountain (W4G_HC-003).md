@@ -11,14 +11,14 @@ pair: Grassy
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: TM, VW
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Bald Mtn
 --------------------------------------------------------
 
 #### Drive Guide - Bald Mountain from ATLANTA
 
 * **Duration**: 2:15
 * **Google Maps** After you reach Bald Mtn, the Google map *site* directions to Grassy Mtn were useless in 2013.
-    * URL from 33.91998, –84.33898 to Bald Mountain to Grassy Mtn: http://goo.gl/maps/LNlI3
+    * URL from Atlanta (33.91998, -84.33898) to Bald Mountain to Grassy Mtn: http://goo.gl/maps/LNlI3
 * **Seasonal/Limited Access**:
     * March 1 - December 31 (per http://www.fs.usda.gov/recarea/conf/recreation/hiking/recarea/?recid=10465&actid=104), and there are gates.
 * **Directions to Bald Mtn Trailhead**:

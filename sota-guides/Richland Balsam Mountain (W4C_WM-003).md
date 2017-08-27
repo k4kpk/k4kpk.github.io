@@ -9,7 +9,7 @@ pair: Steestachee Bald, Waterrock Knob, Bunches Bald, Barnett Knob
 # Optional: Provide the latest year checked.
 # e.g: TM-2017, VF, P-2016
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: Y
+sms: ?
 ---
 
 Richland Balsam - Drive to Trailhead & Trail Guide
@@ -18,7 +18,7 @@ Richland Balsam - Drive to Trailhead & Trail Guide
 #### Drive Guide - Richland Balsam from Atlanta
 
 * **Duration**: 165 miles, 2:55
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/nmFuq
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/nmFuq
 * **Seasonal/Limited Access**: Parkway closed in winter.  Check the [BRP Closure Map](http://www.nps.gov/maps/blri/road-closures/).
 
 * **Directions**:
@@ -27,7 +27,7 @@ Richland Balsam - Drive to Trailhead & Trail Guide
     * US-23N and go 76.6
     * L to Blue Ridge Pky access and go 0.5
     * L onto Blue Ridge Pky and go 12.5
-    * Pass lot on RIGHT for the overlook (same side as drop-off) near milepost 431.		* Big sign, "Richland Balsam Highest Point on Parkway". No restroom.
+       * Pass lot on RIGHT for the overlook (same side as drop-off) near milepost 431.* Big sign, "Richland Balsam Highest Point on Parkway". No restroom.
     * Park in lot on LEFT (same side as mountain). 
         * Sign: Haywood Jackson Overlook. Elevation 6020".  No restroom.
 * **Food**
@@ -54,10 +54,10 @@ Richland Balsam - Drive to Trailhead & Trail Guide
 
 * **Duration**: 0:10, 5.7 miles
 * **Directions**:
-	* SW on Parkway (right turn, out of parking) and go 5.7 miles
-    * Pass lot on RIGHT for the overlook (same side as drop-off) near milepost 431.		* Big sign, "Richland Balsam Highest Point on Parkway". No restroom.
-    * Park in lot on LEFT (same side as mountain). 
-        * Sign: Haywood Jackson Overlook. Elevation 6020".  No restroom.
+ * SW on Parkway (right turn, out of parking) and go 5.7 miles
+   * Pass lot on RIGHT for the overlook (same side as drop-off) near milepost 431.		* Big sign, "Richland Balsam Highest Point on Parkway". No restroom.
+   * Park in lot on LEFT (same side as mountain). 
+       * Sign: Haywood Jackson Overlook. Elevation 6020".  No restroom.
 
 #### Drive Guide - Richland Balsam TO Atlanta
 
@@ -82,10 +82,10 @@ Richland Balsam - Drive to Trailhead & Trail Guide
 * **Summit altitude**: 6410
 * **GPS tracks/waypoints**:
     * Trailhead: 35.36005, -82.98707
-	* Summit: 35.36750, -82.99030
+    * Summit: 35.36750, -82.99030
 
 #### Summit Guide
 
 * Hang antenna from tree: Yes, but vertical EFHW will not be fully vertical.
 * Space to guy mast: Yes.  I bungeed my mast to the you-are-at-summit sign.
-* Cell coverage: AT&T intermittent (best facing NE); Verizon OK; APRS excellent
+* Cell coverage: 2016: AT&T intermittent; Verizon OK; APRS OK.  2017: APRS OK; no AT&T cell.

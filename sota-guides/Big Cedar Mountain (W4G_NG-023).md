@@ -11,7 +11,7 @@ pair: Black, Gooch, Sassafras
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: Y
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Big Cedar Mtn
 --------------------------------------------------------
 #### Drive Guide - Big Cedar (W4G/NG-023) and Black Mountain (W4G/NG-022)
 

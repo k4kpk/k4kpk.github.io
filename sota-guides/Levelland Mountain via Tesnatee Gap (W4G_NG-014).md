@@ -16,7 +16,7 @@ Levelland via Tesnatee: Drive to Trailhead & Trail Guide
 #### Drive Guide - Levelland/Tesnatee Gap from ATLANTA
 
 * **Duration**: 1:45
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: https://goo.gl/maps/hHBHSgdjYtN2
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): https://goo.gl/maps/hHBHSgdjYtN2
 * **Seasonal/Limited Access**:  All seasons, paved roads, BUT Richard B Russell sometimes gets closed for **repairs** or ice.  Check with GDOT.  Plan an alternate.
 * **Directions**:
     * N on GA-400 and go 47 miles.
@@ -52,8 +52,8 @@ Levelland via Tesnatee: Drive to Trailhead & Trail Guide
 * **Summit altitude**: 3900' @ 34.7322,–83.903
 * **GPS tracks/waypoints**:
     * Trailhead: 34.726,-83.8476
-	* Optional extension: Hike from Tesnatee Gap to Wildcat Mtn
-	    * Distance to trail junction for side trail is 0.7 miles east (nominal north), up 690' and down 400' (one way), with 0.4 more miles on side trail to summit.
+    * Optional extension: Hike from Tesnatee Gap to Wildcat Mtn
+        * Distance to trail junction for side trail is 0.7 miles east (nominal north), up 690' and down 400' (one way), with 0.4 more miles on side trail to summit.
         * Side Trail to Wildcat Summit/Whitley Gap Shelter Trail: 34.7248,-83.841
         * Wildcat Summit: 34.7174, -83.8382
 

@@ -46,6 +46,7 @@ Drive to Trailhead & Trail Guide - Green Knob
     * There is a "false summit" just before the summit. Cross the false summit, pass through some rocks/rhodadendron, and find the true summit on the ridge after.
 * **Trailhead altitude**: About 4440' @ 35.34742, -82.80712
 * **Summit altitude**: 5056' @ 35.357, -82.8009
+* **Grid square**: EM85oi
 * **GPS tracks/waypoints**:
     * Park at 35.34742, -82.80712 (BRP MM 414.5)
         * Trailhead is marked by a small, foot tall concrete post, in a grassy shoulder big enough to park 2-3 cars.
@@ -55,6 +56,4 @@ Drive to Trailhead & Trail Guide - Green Knob
 
 * Hang antenna from tree: Y
 * Space to guy mast: Y
-* Cell coverage: 2015: VZN and AT&T SMS worked and AT&T had internet. 2016: AT&T SMS worked and internet was intermittent.
-
-#### Plan-B Candidates
+* Cell coverage: 2015: VZN and AT&T SMS worked. 2016: AT&T SMS OK.  2017: AT&T SMS OK.

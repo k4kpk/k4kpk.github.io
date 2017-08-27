@@ -3,37 +3,24 @@ layout: sota-guide
 points: 10
 miles: 1.4
 bushwhack: N
-pair: Max Patch 
+pair: Max Patch
 
 # SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
 # Optional: Provide the latest year checked.
 # e.g: TM-2017, VF, P-2016
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: 
+sms: ?
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Walnut Mountain
 --------------------------------------------------------
-#### Drive Guide - Walnut Mountain (Lemon Gap) from Max Patch Parking
-
-* **Duration**: 0:15
-* **Google Maps** URL from Knoxville to Max Patch to Walnut to Knoxville: http://goo.gl/maps/20ybb
-* **Seasonal/Limited Access**:
-* **Directions**:
-    * North on Max Patch Rd (Turn R, exiting parking lot) and go 3.6
-    * USFS-3505 (AKA Rattlesnake Branch Rd) road Ts in from right at Lemon Gap.  AT crosses it.
-    * Park at AT crossing at Lemon Gap.
-* **Food**
-    * Last McDonalds: n.a.
-
 #### Drive Guide - Walnut Mountain (Rattlesnake Gap) from Max Patch Parking
 * **Duration**: 0:25
-* **Seasonal/Limited Access**: 
-     * USFS-96 has a gate.  It was open 2014.08.30 and 2015.09.27.
+* **Seasonal/Limited Access**: USFS-96 has a gate.  It was open 2014.08.30 and 2015.09.27.
 * **Directions**:
     * Drive north on Max Patch Rd (right, out of Max Patch parking) and go 3.6 to Lemon Gap
-    * Continue (assuming you came from Max Patch) north on Max Patch / Round Mountain Rd and go 1.1
+    * Continue north on Max Patch / Round Mountain Rd and go 1.1
     * Turn R on USFS-96 / Wolf Creek Rd and go about 1.6 miles to Rattlesnake Gap.
-        * Note: Google maps shows this intersection at 35.83849, -82.95455.  It is really at 35.83328, -82.95083.
+        * Note: Google Maps no longer shows this road (2017).
     * Park at the T in the road
 
 #### Drive Guide - Walnut Mountain (Rattlesnake Gap) TO Atlanta
@@ -43,8 +30,19 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * L on Round Mtn Rd and go 1.1
     * Pass the Lemon Gap trailhead on your L.
     * Continue at "Drive Guide - Walnut Mountain (LemonGap) TO Atlanta"
-    
+
+#### Drive Guide - Walnut Mountain (Lemon Gap) from Max Patch Parking
+
+* **Duration**: 0:15
+* **Google Maps** URL from Knoxville to Max Patch to Walnut to Knoxville:
+* **Seasonal/Limited Access**:
+* **Directions**:
+    * North on Max Patch Rd (Turn R, exiting parking lot) and go 3.6
+    * USFS-3505 (AKA Rattlesnake Branch Rd) road Ts in from right at Lemon Gap.  AT crosses it.
+    * Park at AT crossing at Lemon Gap.
+
 #### Drive Guide - Walnut Mountain (Lemon Gap) TO Atlanta
+
 * **Duration**: (30 minutes to I-40) 3:40
 * **Directions**:
     * South (away from Walnut Mtn trail) on Round Mtn Rd / Max Patch Rd and go 3.6
@@ -55,11 +53,11 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * S on Cold Springs Creek Rd and go 3.2
     * Cross under I-40 and go L onto I-40 EAST and go 20.3
     * Exit 27, US-23 south, to US-441 south to Atlanta
-     
+
 
 #### Trail Guide from Lemon Gap
 
-* **Duration**: 1.4 miles, 1:00 up (GPX trace walks back down some), 0:45 down
+* **Duration**: 1.4 miles, 1:00 up, 0:45 down
 * **Navigation**
     * Follow AT 1.25 North to Walnut Mtn shelter at 35.8365,-82.93649
     * Follow faint trail past shelter, to left of AT, 0.2 to summit at 35.8367, -82.9341
@@ -74,20 +72,20 @@ Trip-specific: Drive to Trailhead & Trail Guide
     * Summit: 35.83670,-82.93410
 
 #### Trail Guide from Rattlesnake Gap####
-* **Duration**: 1.4 miles (565' climb), 0:45 up, 0:35 down (via gated road - not the shortcut trail)
+* **Duration**: 1.4 miles (565' climb), 0:45 up, 0:30 down (via gated road - not the shortcut trail)
 * **Navigation**:
     * USFS-96 comes into a T at Rattlesnake Gap.  96 turns R on the top-right of the T.  There's a seasonally gated road making the top-left of the T.
     * There's another dirt road that ends inside the right-turn of 96.  Standing in the gap, face SE and walk toward 35.847824, -82.94429.  It arrives at a gate pretty quickly.  This is the trail. (FS Trail 135.)
     * Follow this road to the Walnut Mtn shelter, in Walnut Gap.
-    * This might be 1/10 mile longer than from Lemon Gap, but it climbs 200' less.  I think it is easier.
-    * Coming back from the shelter, there is a sign near the shelter that points to a well-defined trail marked "Rattlesnake Gap 0.9 miles".  
+    * This might be 1/10 mile longer than from Lemon Gap, but it climbs 200' less.  I think it is easier. Lemon Gap is prettier.
+    * Coming back from the shelter, there is a sign near the shelter that points to a well-defined trail marked "Rattlesnake Gap 0.9 miles".
     * Pat Harris has a GPX trace at [http://smkymtns.com/sota-resources/sota-gpx-tracks/viewtrack/118-/118-.html](http://smkymtns.com/sota-resources/sota-gpx-tracks/viewtrack/118-/118-.html)
-    * Going up, you'll encounter a "Walnut Trail" sign, part way up.  This is a shortcut.  Pat says it comes out in the clearing near the top, but I didn't see it.  I thought I'd hike up on the road and down on the shortcut, but I couldn't find the top.  If you want to compare it, hike *up* the shortcut and *down* the road.  Pat says it is much shorter but steeper. Pa says it enters the clearing downhill from where the road enters the clearing.
+    * Going up, you'll encounter a "Walnut Trail" sign, part way up.  This is a shortcut.  You won't be able to find the other end on the way back down (35.8388,-82.93836) unless you hike the shortcut up. The shortcut is overgrown and becomes a bushwhack. I do not recommend it.
 * **GPS tracks/waypoints**:
-    * Rattlesnake Gap Trailhead: 35.84758,-82.94426
+    * Rattlesnake Gap: 35.84758,-82.94426
 
 #### Summit Guide
 
 * Hang antenna from tree: yes
 * Space to guy mast: yes
-* Cell coverage: ATT=no; Vzn: 2013 no, 2014 yes, 2015 no; APRS=yes
+* Cell coverage: ATT: 2017 no; Vzn: 2013 no, 2014 yes, 2015 no; APRS=yes but no ACK

@@ -11,7 +11,7 @@ pair:
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T,V
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Springer Mtn
 --------------------------------------------------------
 #### Drive Guide - Springer Mountain from Sassafras Mtn
 
@@ -44,7 +44,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 
 #### Drive Guide - Springer Mountain from Atlanta
 
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
     * TO summit: http://goo.gl/maps/LLxmQ
 * **Seasonal/Limited Access**: No gates encountered; lots of dirt road.
 * **Directions from Atlanta**: Duration = 1:55 (2014 measurement)
@@ -86,7 +86,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * Trailhead: 34.63745, -84.19540
     * Summit: 34.62680, -84.19370
-    
+
 #### Summit Guide
 
 * Hang antenna from tree: Yes

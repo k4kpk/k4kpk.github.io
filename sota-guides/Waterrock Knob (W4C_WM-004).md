@@ -11,10 +11,12 @@ pair: Richland Balsam, Steestachee Bald, Bunches Bald, Barnett Knob
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T,V
 ---
+## Drive to Trailhead & Trail Guide - Waterrock Knob
+
 #### Drive Guide - Waterrock Knob from Atlanta
 
 * **Duration**: 161 miles, 2:50
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/lCgm3
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/lCgm3
 * **Seasonal/Limited Access**: Parkway closed in winter.  Check the [BRP Closure Map](http://www.nps.gov/maps/blri/road-closures/).
 * **Directions**:
     * I-285 to I-85. On I-85 go N 16.6
@@ -49,12 +51,12 @@ sms: T,V
 
 * **Duration**: 162 miles, 2:50
 * **Directions**:
- * Head away from parking lot, back to Parkway (0.3 miles)
- * L on Blue Ridge Parkway and go 7.7
- * L on exit road to Smoky Mtn Expressway/US-23/US-74 and go 0.5
- * R on US-23/US-74 and go 13.0
- * Exit R to US-441 S and go xx to Clayton GA
- * Follow GA-365 S to I-985 S to I-85 S
+* Head away from parking lot, back to Parkway (0.3 miles)
+* L on Blue Ridge Parkway and go 7.7
+* L on exit road to Smoky Mtn Expressway/US-23/US-74 and go 0.5
+* R on US-23/US-74 and go 13.0
+* Exit R to US-441 S and go xx to Clayton GA
+* Follow GA-365 S to I-985 S to I-85 S
 
 #### Trail Guide
 

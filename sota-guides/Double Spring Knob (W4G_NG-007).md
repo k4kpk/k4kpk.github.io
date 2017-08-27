@@ -18,7 +18,7 @@ Double Spring Knob + Round Top: Drive to Trailhead & Trail Guide
 #### Drive Guide
 
 * **Duration**: 2:30 from Atlanta
-* **Google Maps** URL from I-285 at 33.91819, -84.33747: http://goo.gl/maps/QQRl2
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/QQRl2
 * **Seasonal/Limited Access**: Dirt road.  I saw open gates on 2012.12.30.  Patrick did not report closed gates on 2013.02.27.  FS map does not show it as seasonal.
 * **Directions**:
     * CAREFUL: The default Google Maps route got the penultimate bits WRONG!  
@@ -62,7 +62,7 @@ Double Spring Knob + Round Top: Drive to Trailhead & Trail Guide
 
 * **Navigation (parking to Double Spring)**:
     * There's a gate on Wildcat Road, about a mile from the AT. You may read about another gate. Its remains are about half way between the 1-mile gate and Addis Gap.
-Walk past the gate and up the road.
+      Walk past the gate and up the road.
     * When you come to a T, take the trail to your left. It is marked with a forest service iron post with a diamond on it.
     * Addis Gap is well marked. It is clearly a gap. The dirt road you enter on crests and continues forward and down. AT goes left and right. Turn R for the Double Spring Knob.
     * As you near the summit, the trail crosses over the ridge and starts to descend. You don't descend.
@@ -74,8 +74,8 @@ Walk past the gate and up the road.
     * Continue through Addis Gap on AT.
     * As you near the summit, the trail curves around the end of the ridge. It is about 45 minutes from Addis Gap. 
     * Bushwhack to summit.
-    
-* **Trailhead altitude**: 3050' at gate @ 	34.86298, -83.64907
+
+    * **Trailhead altitude**: 3050' at gate @ 34.86298, -83.64907
 * **Summit altitude**: Double Spring =4300' ; Round Top = 3964'
 * **GPS tracks/waypoints**:
     * Trailhead at the gate = 34.86298, -83.64907

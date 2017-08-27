@@ -26,7 +26,7 @@ Note: This is on the Cherokee reservation.  Ask permission at the campground, it
         * Do not take the acute R.  This leads into campsites.
         * 90-degree left turn leads to office (slight uphill).  There are signs when the camp is open. Go there and ask permission.
         * 90-degree right turn (passing between green shed and shower building) leads to trailhead.  Park in the grass strip (inside the hairpin) where road makes hairpin turn L.  
-      There's a gate on the path to the summit (not across BIA 407).
+          There's a gate on the path to the summit (not across BIA 407).
 
 * Poorer route - Immediately after turning onto Heintooga, bear L on twisty dirt road (BIA 407) up to campground.
 
@@ -38,7 +38,7 @@ The 5-way intersection in the middle of the camp:
 #### Drive Guide - Bunches Bald from Atlanta
 
 * **Duration**: 168 miles, 3:05
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/yrTpo
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/yrTpo
 * **Seasonal/Limited Access**: Parkway closed in winter.  Check the [BRP Closure Map](http://www.nps.gov/maps/blri/road-closures/).
 * **Directions**:
     * I-285 to I-85. At I-85 go N 16.6
@@ -62,7 +62,7 @@ The 5-way intersection in the middle of the camp:
     * R onto Pky and go 6.9
     * R onto Heintooga Ridge Rd (mile marker 458 @ sign to Masonic marker).
     * Continue at "Heintooga Rd to Bunches Bald"
-        
+
 #### Drive Guide - Bunches Bald TO Atlanta
 
 * Head back the way you came and go 0.1

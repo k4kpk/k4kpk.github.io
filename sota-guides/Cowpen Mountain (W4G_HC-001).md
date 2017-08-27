@@ -18,7 +18,7 @@ Cowpen: Drive to Trailhead & Trail Guide
 * **Duration** ('western' approach): 
     * 2.5 hours from Atlanta
     * 50 minutes from the square in downtown Ellijay
-* **Google Maps** URL from I-285 at 33.91819, -84.33747: 
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
     * Western approach: http://goo.gl/maps/9mSdQ
     * Eastern approach: http://goo.gl/maps/9S43g - Probably 15 minutes longer to drive from Atlanta.
 * **Seasonal/Limited Access**:
@@ -27,7 +27,7 @@ Cowpen: Drive to Trailhead & Trail Guide
     * Gates close Jan 3; reopen "mid-March"
     * Note that the approach from the west is a little quicker, but the road from the east was  better maintained in 2013.
     * March 15, 2014, both the east and west routes were in good shape.
-    
+
 * **Directions (western approach)**:
     * I-285 W
     * I-75 N

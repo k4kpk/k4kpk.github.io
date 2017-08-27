@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Yellow Mountain
 #### Drive Guide - Yellow Mountain via Zeb Buchanan Rd from Atlanta
 
 * **Duration**: 2:40, 133 miles
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/rWqqG
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/rWqqG
 * **Seasonal/Limited Access**: 
 * **Directions**:
     * I-285 E
@@ -32,7 +32,7 @@ Drive to Trailhead & Trail Guide - Yellow Mountain
     * L on Zeb Buchanan Rd and go 1.3
     * Park at subdivision gate on L, just before a big clearing/field.
 * **Trailhead**: 35.13718,-83.18489
-    
+
 #### Drive Guide - Yellow Mountain via Yellow Mountain Gap from Highlands, NC
 
 * **Duration**: N.A.
@@ -95,7 +95,7 @@ Drive to Trailhead & Trail Guide - Yellow Mountain
 * **Trailhead altitude**: ~ 4550'
 * **Summit altitude**: 5127'
 * **GPS tracks/waypoints**:
-	* Trailhead: 35.13733,-83.18496
+  * Trailhead: 35.13733,-83.18496
     * Summit: 35.1357, -83.1914
 
 #### Summit Guide

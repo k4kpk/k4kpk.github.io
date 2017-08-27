@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Cowee Bald
 #### Drive Guide - Cowee Bald From Atlanta
 
 * **Duration**: 2:50, 138 miles
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
     * https://goo.gl/maps/Dc1uJsxKMLQ2  (includes Shepherd Bald and Cowee Bald)
 * **Seasonal/Limited Access**:
 * **Directions**:

@@ -11,12 +11,12 @@ pair: Flat Top, Cowpen, Bald, Grassy
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: Y
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Dyer Mtn
 --------------------------------------------------------
 #### Drive Guide - Dyer Mountain from Atlanta
 
 * **Duration**: 2:00
-* **Google Maps** URL from 33.91819, -84.33747: https://goo.gl/maps/w8MSg9Uc33C2 
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): https://goo.gl/maps/w8MSg9Uc33C2 
 * **Seasonal/Limited Access**: All weather, all seasons
 * **Directions**:
     * I-285 West

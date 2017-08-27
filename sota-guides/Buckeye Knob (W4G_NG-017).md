@@ -16,7 +16,7 @@ Buckeye Knob: Drive to Trailhead & Trail Guide
 #### Drive Guide - Buckeye Knob from Atlanta
 
 * **Duration**: 1:45
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
     * Atlanta, Buckeye, Akin, Atlanta (Double-header): http://goo.gl/maps/0XZ0E
     * ... plus dinner: http://goo.gl/maps/cR97o
 * **Seasonal/Limited Access**: All-season, dirt. Patrick drove it in February. May require SUV.
@@ -66,7 +66,7 @@ Buckeye Knob: Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * Trailhead: 34.78459,-83.99194
     * Summit: 34.7873, -83.9982
-    
+
 #### Summit Guide
 
 * Hang antenna from tree: yes

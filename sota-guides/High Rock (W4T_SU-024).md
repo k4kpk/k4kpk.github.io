@@ -11,7 +11,7 @@ pair:
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: Y
 ---
-Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - High Rock
 --------------------------------------------------------
 #### Drive Guide - High Rock from Toxaway Mtn
 
@@ -49,7 +49,7 @@ Drive to Trailhead & Trail Guide
 * **Trailhead altitude**: ~3750 at 35.95240,-82.56085°
 * **Summit altitude**: 4500 at 35.96440,-82.57800°
 * **GPS tracks/waypoints**:
-    * 
+    * ​
 
 #### Summit Guide
 

@@ -11,13 +11,13 @@ pair: Bald Mountain, Cowpen, Flattop, Dyer
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: Y
 ---
-Trip-specific: Grassy Mtn - Drive to Trailhead & Trail Guide
+Grassy Mtn - Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 #### Drive Guide - Grassy Mtn From Atlanta
 
 * **Special**: Take cash ($2 in 2013) to pay parking fee.
 * **Duration**: 2:30
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285: 
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
     * Via Ellijay: http://goo.gl/maps/wcc21
     * The part of the Google directions after Bald Mountain are confusing.
 * **Seasonal/Limited Access**:
@@ -33,14 +33,14 @@ Trip-specific: Grassy Mtn - Drive to Trailhead & Trail Guide
     * Left on 1st Ave, to cross bridge to Ellijay. Go 0.1
     * Left on River St (a.k.a. GA-52). Go 1 mile
     * Ellijay downtown roundabout. Stay on 52 and go 5.1 to Gates Chapel Rd.
-    **From Gates Chapel Rd**:
-	    * R on Gates Chapel Rd.  (There's a pond that you'll see just after you turn.)  Go 5.4.
-	    * Pavement ends at fork.  Bear R on Wilderness Trail (Becomes FS90) Go 1.5.
-	    * Hairpin R onto FS 68 (a.k.a. Conasauga Rd), go 3.2.
-	    * L on Conasauga Lake Rd (FS 68 goes L; FS 64 goes R) at "Conasauga T" (34.84158, -84.59447).  Go 3.4.
-	    * **BALD MTN TRAILHEAD**: At this point, you are at the trailhead for Bald Mountain.
-	        * (Note to self: Retain this.  Bald Mtn trip refers the reader here.)
-	    * Continue on FS 68 / Conasauga Rd.  See "Final Turns" below.
+        **From Gates Chapel Rd**:
+        * R on Gates Chapel Rd.  (There's a pond that you'll see just after you turn.)  Go 5.4.
+          * Pavement ends at fork.  Bear R on Wilderness Trail (Becomes FS90) Go 1.5.
+          * Hairpin R onto FS 68 (a.k.a. Conasauga Rd), go 3.2.
+          * L on Conasauga Lake Rd (FS 68 goes L; FS 64 goes R) at "Conasauga T" (34.84158, -84.59447).  Go 3.4.
+          * **BALD MTN TRAILHEAD**: At this point, you are at the trailhead for Bald Mountain.
+              * (Note to self: Retain this.  Bald Mtn trip refers the reader here.)
+          * Continue on FS 68 / Conasauga Rd.  See "Final Turns" below.
     * **Final turns - from Bald Mtn / Tearbritches Trail**:
         * On USFS-68 at Tearbritches Trail (Bald Mtn trailhead and also group camp driveway) heading west, **go 0.4**.
         * At camping entrance, go straight - do not turn R to "Camping Loop A."  **Go 0.6**.
@@ -102,7 +102,7 @@ Trip-specific: Grassy Mtn - Drive to Trailhead & Trail Guide
     * R on Tabor St (or Teem St if you miss Tabor) and go 0.1
     * R on GA-52 W and go 4.9
     * R on Gates Chapel Rd
-	* See "From Gates Chapel Rd" above, under drive from Atlanta
+    * See "From Gates Chapel Rd" above, under drive from Atlanta
 
 --------------------------------------------------------
 #### Trail Guide - Gravel Road From Overflow Camping ("Gravel Road")

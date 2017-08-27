@@ -9,9 +9,9 @@ pair: Mt Mitchell
 # Optional: Provide the latest year checked.
 # e.g: TM-2017, VF, P-2016
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: 
+sms: ?
 ---
-Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Green Knob
 --------------------------------------------------------
 #### Drive Guide - Green Knob (W4C/CM-020) from Mt Mitchell
 

@@ -11,13 +11,13 @@ pair: Dyer, Cowpen, Bald, Grassy
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: Y
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Flat Top Mtn
 --------------------------------------------------------
 #### Drive Guide - Flat Top from Atlanta
 
 * **Duration**: 2:20 to Dyer Cemetery. 
     * Allow 20 minutes more, if you drive from Dyer up to the almost-summit turn-around.
-* **Google Maps** URL from I-285 at 33.91819, -84.33747: [http://goo.gl/maps/K0jCA](http://goo.gl/maps/K0jCA)
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): [http://goo.gl/maps/K0jCA](http://goo.gl/maps/K0jCA)
 * **Seasonal/Limited Access**:  
     * No limits if hiking from Dyer Cemetery.
     * Gate on final mile (USFS-64A) officially closed Jan to mid-March.

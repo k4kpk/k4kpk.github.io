@@ -28,7 +28,7 @@ NOTE: **Do not drive through Helen.  Traffic is often 2 MPH. **
 Directions:
 
 * **Duration**: 2:15 to Tray Mtn.  Tray Mtn Rd is *slow*.
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
     * http://goo.gl/maps/p7PG4
 * **SOTA Extra Info Page**: http://sotawatch.org/summits.php?summit=w4g/ng-005
 * **Seasonal/Limited Access**:

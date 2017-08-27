@@ -11,12 +11,12 @@ pair: Blood, Sheriff
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T,V
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Levelland Mtn
 --------------------------------------------------------
 #### Drive Guide - Levelland
 
 * **Duration**: 1:35
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/ESfYO
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/ESfYO
 * **Seasonal/Limited Access**: All seasons, all weather roads.
 * **Directions**:
     * N on GA-400 from I-285 for 47 miles

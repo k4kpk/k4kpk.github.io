@@ -11,7 +11,7 @@ pair:
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T,V
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Horsetrough Mtn
 --------------------------------------------------------
 #### Drive Guide - Horsetrough Mountain
 
@@ -26,9 +26,9 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **Road Notes**:
     * From GA 74-Alt, just before it reaches GA-75, a road heads north.  Its name changes from Poplar Stump Road to Chattahoochee River Road. It emerges at Unicoi Gap at GA-75.  You can reach the trailhead from either end of this road. The full length of the road was drivable by a Corolla in March 2016.
     * **Next trip, consider this**: From the Chattagoochee UMC, you could also drive up to Unicoi gap and come in from that side.  Drive time is:
-    	* 14 minutes - church to Wilks Rd turn-off from GA-75, near Unicoi gap.
-    	* 25 minutes, GA-75 to trailhead.
-    	* Distances: Church to Wilks Rd = 8.5, Campground is 1.3 miles before trailhead, bridge is 1.1 miles before reaching trailhead.
+     * 14 minutes - church to Wilks Rd turn-off from GA-75, near Unicoi gap.
+     * 25 minutes, GA-75 to trailhead.
+     * Distances: Church to Wilks Rd = 8.5, Campground is 1.3 miles before trailhead, bridge is 1.1 miles before reaching trailhead.
 * **Camping**:
     * Upper Chattahoochee Campground (34.78646, -83.78294). The campground was open on Saturday, March 30, 2013. It was closed on Saturday, March 3, 2016.
     * Andrews Cove Campground at 4.1 miles on Chattahoochee River Rd from 74-Alt.  Open on April 6, 2013.  Closed on Saturday, March 3, 2016.
@@ -45,10 +45,10 @@ Trip-specific: Drive to Trailhead & Trail Guide
         * Road is marked as "Chattahoochee River Rd" on maps, shortly after this turn.
         * Go straight for 4.3 miles.
         * At Andrews Cove Campground, the road turns R, crosses a bridge, and becomes USFS-44.
-        	* Campground was open 2013.04.06 and closed 2016.03.05.
+         * Campground was open 2013.04.06 and closed 2016.03.05.
         * 2.3 miles after you turned right, the road forks.  Keep right. Left fork is gated.
         * 1.6 miles past the fork, the road turns sharply right and is gated.  You're at 44C (a.k.a. Poplar Stump Rd) and just past Vandiver Branch.  The Forest Service informally calls this area "Vandiver Fields."  There were many park-by-the-side-of-the-road campers here on a spring Saturday.
-    
+
 * **Food**
     * Last McDonalds: GA-400 at GA-53 (38 miles north of I-285)
         * If you miss it, you can swing by 1550 S MAIN ST, Cleveland, adding 5 minutes.

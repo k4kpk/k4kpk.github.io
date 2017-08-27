@@ -18,13 +18,13 @@ Clingmans Dome: Drive to Trailhead & Trail Guide
 * **Duration**: 0:25 10.3 miles
 * **Google Maps** URL: http://goo.gl/maps/LDWBt
 * **Directions**: 
-	* Head West (L out of parking) on US-441 N and go 3.3
-	* L on Clingman's Dome Rod and go 7.1
+  * Head West (L out of parking) on US-441 N and go 3.3
+  * L on Clingman's Dome Rod and go 7.1
 
 #### Drive Guide - Clingmans Dome from Atlanta
 
 * **Duration**: 3:20, 178 miles
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/88sCD
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/88sCD
 
 #### Drive Guide - Clingmans Dome from Cowee Bald
 

@@ -11,14 +11,14 @@ pair: Sassafras, Black, Big Cedar
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T,V
 ---
-Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Gooch Mtn
 --------------------------------------------------------
 #### Drive Guide - Gooch Mountain from ATLANTA
 
 * **Duration**: 
     * Atlanta to Gooch: 1:30
     * Gooch to Sassafras: 0:15
-* **Google Maps** from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/mwC2c
+* **Google Maps** from Atlanta (33.91998, -84.33898): http://goo.gl/maps/mwC2c
 * **Seasonal/Limited Access**: Most of Coopers Gap Rd is dirt; easy drive in a Corolla; no gates.
 * **Directions**:
     * WARNING: Take the route shown below
@@ -50,7 +50,7 @@ Drive to Trailhead & Trail Guide
     * Bushwhack west, up to the ridge on your right.
     * You'll follow the gully/valley up to the saddle.
     * Follow ridge from the saddle to the north to the summit.
-    
+
 * **Summit altitude**: 3333
 * **GPS tracks/waypoints**:
     * Trailhead: 34.64775, -84.03514

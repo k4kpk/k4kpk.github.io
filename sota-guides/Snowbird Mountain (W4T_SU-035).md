@@ -1,9 +1,9 @@
-Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Snowbird Mtn
 --------------------------------------------------------
 ####Drive Guide - Snowbird Mountain from Atlanta
 
 * **Duration**: 
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/EzDYN
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/EzDYN
 * **Seasonal/Limited Access**:
 * **Directions**:
     * East on I-285
@@ -17,7 +17,7 @@ Drive to Trailhead & Trail Guide
     * L on Green Corner Rd and go 0.4
     * R on Grassy Fork Rd and go 4.2
         * It is too steep to drive all the way to the top in 2WD.  Park in 90° pull-out on L at 35.7987,-83.0458.  (Room for 2 small cars.)
-    
+
 * **Food**
     * Last McDonalds: 
     * Penultimate McDonalds: 
@@ -44,7 +44,7 @@ Drive to Trailhead & Trail Guide
     * R on Grassy Fork Rd and go 3.1  (turns to dirt at 1.3)
         * It is too steep to drive all the way to the top in 2WD.  Park in 90° pull-out on L at 35.7987,-83.0458.  (Room for 2 small cars.)
 
-    
+
 ####Drive Guide - Snowbird Mountain TO Atlanta
 * **Directions**:
     * Head out on Grassy Fork Rd and go 4.2

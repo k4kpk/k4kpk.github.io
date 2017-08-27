@@ -10,8 +10,9 @@ pair:
 # e.g: TM-2017, VF, P-2016
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T,V
+​---
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+## Drive to Trailhead & Trail Guide - Hightower Bald
 
 UPDATE: Pat and Ryan say their route from the north is good.
 
@@ -19,7 +20,7 @@ UPDATE: Pat and Ryan say their route from the north is good.
 #### Drive Guide - Hightower Bald (Southern Approach) from Atlanta
 
 * **Duration**: 2:15
-* **Google Maps** from Ashford Dunwoody Rd  I-285 at 33.91998, -84.33898: http://goo.gl/maps/yFSRF
+* **Google Maps** from Atlanta (33.91998, -84.33898): http://goo.gl/maps/yFSRF
 * **Seasonal/Limited Access**: Unknown
 * **Directions**:
     * I made it to the 2WD trailhead in a Prius.  Using both a Prius and a Corolla, I was unable to make it past an erosion ditch shortly after this point.  I got hung-up on my trailer hitch and had to rock the car to get out.

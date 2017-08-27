@@ -11,7 +11,7 @@ pair: Brasstown, Tray, Blue
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T,V
 ---
-Trip-specific: Drive to Rocky Mtn T-head & Trail Guide
+Drive to Trailhead & Trail Guide - Rocky Mtn (W4G/NG-011)
 --------------------------------------------------------
 
 Note: Shorter distance and much less climb from the Indian Grave Gap trailhead.
@@ -21,13 +21,13 @@ Note: Shorter distance and much less climb from the Indian Grave Gap trailhead.
 * **Google Maps** URL:
 * **Seasonal/Limited Access**: All seasons; all weather.
 * **Directions**:
-  	* Head out on FS 236 and go 0.4
-  	* R on Cavender Gap Rd and go 0.8
-  	* L on GA-60 S and go 7.5
-  	* R on SR-80 and go 11.2
-  	* L on US-129 and go 2.4
-  	* R on SR-180 and go 12.6
-  	* R on GA-17 S and go 2.5
+   * Head out on FS 236 and go 0.4
+    * R on Cavender Gap Rd and go 0.8
+    * L on GA-60 S and go 7.5
+    * R on SR-80 and go 11.2
+    * L on US-129 and go 2.4
+    * R on SR-180 and go 12.6
+    * R on GA-17 S and go 2.5
 
 #### Drive Guide - Rocky Mountain via Unicoi Gap from Atlanta
 
@@ -35,19 +35,19 @@ Note: Shorter distance and much less climb from the Indian Grave Gap trailhead.
 NOTE: **Do not follow Google cell phone map through Helen!**
 
 * **Duration**: 1:45
-* **Google Maps** URL from I-285 at 33.91819, -84.33747: http://goo.gl/maps/u85WX
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/u85WX
 * **Seasonal/Limited Access**: All seasons; all weather.
 * **Directions**:
-  	* GA-400 N and go 47.
-    * At GA-400 end, go straight on GA-115 and go 4.8
-    * R on GA-115 and go 11.5
-    * L on Tesnatee Gap Valley Rd. There's a left turn lane.  Go 2.8.
-    * Go straight onto McAfee Rd. (Tesnatee turns left.)  Go 0.2
-    * L on US-129 and go 0.8
-    * R on GA-75-Alt and go 8.1
-	* L on GA-75 and go 7.9
-    * Park in the big lot on the right at Unicoi Gap.  The gap is marked with a roadside sign.
-    * There are no dirt roads involved in getting there.  High ground clearance vehicle is NOT required.
+   * GA-400 N and go 47.
+   * At GA-400 end, go straight on GA-115 and go 4.8
+   * R on GA-115 and go 11.5
+   * L on Tesnatee Gap Valley Rd. There's a left turn lane.  Go 2.8.
+   * Go straight onto McAfee Rd. (Tesnatee turns left.)  Go 0.2
+   * L on US-129 and go 0.8
+   * R on GA-75-Alt and go 8.1
+   * L on GA-75 and go 7.9
+   * Park in the big lot on the right at Unicoi Gap.  The gap is marked with a roadside sign.
+   * There are no dirt roads involved in getting there.  High ground clearance vehicle is NOT required.
 * **Food**
     * Last McDonalds: GA-53, Dawsonville
     * Penultimate McDonalds: 
@@ -84,7 +84,7 @@ NOTE: **Do not follow Google cell phone map through Helen!**
         * R on Tray Mountain Rd.  Small, thin sign "Bison View Lodge".
         * After about 15 minutes, large gate made of black logs on right. "No trespassing".
         * 5 more minutes to junction w/IGG Rd.  Keep left on Indian Grave Gap Rd and go about 2 minutes to the trailhead.
-    
+
 #### Drive Guide - Rocky Mountain via Unicoi Gap from Tray Mtn
 
 * **Duration**: 0:30
@@ -93,8 +93,8 @@ NOTE: **Do not follow Google cell phone map through Helen!**
     * SW on Tray Mtn Rd, back toward Indian Grave Gap. Go 1.8
     * At fork for Indian Grave Gap, you have two choices: The 15-minute faster route includes a ford.  I'm 4-for-4 in successfully crossing it in my Corolla, but it always gives me the sweats.  The 15-minute slower route bypasses the ford.
         * Fast, ford route:
-        	* At the fork for Indian Grave Gap, turn R and go 4.1
-        	* At GA-17/GA-75 go sharp LEFT and go 2.0
+         * At the fork for Indian Grave Gap, turn R and go 4.1
+         * At GA-17/GA-75 go sharp LEFT and go 2.0
         * Slow, no-ford route:
             * At the fork for Indian Grave Gap, turn L and go 6 on Tray Mtn Rd.
             * At GA-17/GA-75 go RIGHT and go 7.1

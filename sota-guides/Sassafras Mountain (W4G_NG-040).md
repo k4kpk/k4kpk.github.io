@@ -11,7 +11,7 @@ pair: Big Cedar, Black, Gooch
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: Y
 ---
-Trip-specific: Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Sassafras Mtn
 --------------------------------------------------------
 #### Drive Guide - Sassafras Mountain from Gooch Mtn
 
@@ -24,7 +24,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 #### Drive Guide - Sassafras Mountain from ATLANTA
 
 * **Duration**: 1:30
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
 * **Seasonal/Limited Access**: Dirt roads; quality OK.
 * **Directions**:
     * WARNING: Take the route shown below
@@ -51,12 +51,12 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **Directions**:
     * Left out of the Springer Mtn parking and go 2.6
     * Keep left onto Winding Stair Gap Rd and go 3.6.
-    	* If you need cell signal, just as you turn onto WSG Rd you will briefly get it.
-    	* There are TWO roads to your left. Left-most goes downhill, near-left goes uphill.  Take the uphill left.
-    	* At 2.4 of 3.6, bear R.
+     * If you need cell signal, just as you turn onto WSG Rd you will briefly get it.
+     * There are TWO roads to your left. Left-most goes downhill, near-left goes uphill.  Take the uphill left.
+     * At 2.4 of 3.6, bear R.
     * Keep R (on main road - Appalachian Blue Ridge Rd) and go 3.7
     * This section was VERY muddy.  I don't think I could have driven it in the other direction.  You really should have 48 hours dry before driving this.
-	* Park at the + intersection.
+    * Park at the + intersection.
 
 * **Food**: none
 
@@ -86,12 +86,12 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * Trailhead (Cooper Gap Rd): 34.653, -84.08453
     * Summit: 34.6531, -84.094
-    
+
 #### Trail Guide (supplement) - Horse Gap
 * Duration: 0:40, walk 1.1 miles, gain 662'.  Down = 0:25.
     * Trailhead (Horse Gap): 34.65568,-84.10542
 
-    
+
 #### Summit Guide
 
 * Hang antenna from tree: Yes
