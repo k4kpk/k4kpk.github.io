@@ -13,12 +13,10 @@ sms: Y
 ---
 Drive to Trailhead & Trail Guide - Big Cedar Mtn
 --------------------------------------------------------
-#### Drive Guide - Big Cedar (W4G/NG-023) and Black Mountain (W4G/NG-022)
-
-Note: Big Cedar is NG-023; Black Mountain is NG-022.  This is confusing (but true).  Normally the lower-numbered summit is taller, but Big Cedar is taller and 10 points and Black Mountain is 8 points, but Big Cedar is NG-023 and Black Mountain is NG-022.
+#### Drive Guide - Big Cedar (W4G/NG-023)
 
 * **Duration**: 1:20
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/iv36I
+* **Google Maps** URL from Ashford Dunwoody Rd: **http://tinyurl.com/woody-gap**
 * **Seasonal/Limited Access**:
     * Paved road all the way.  Parking may be full on weekend. Plenty @ 8:45 Saturday, August 24, 2013.
 * **Directions**:
@@ -28,10 +26,11 @@ Note: Big Cedar is NG-023; Black Mountain is NG-022.  This is confusing (but tru
     * Straight on GA-60 and go 5.4
     * Park at Woody Gap AT trailhead
     * Big Cedar trail leaves the parking area past the latrines.  Black Mtn trailhead is 200 yards NW on GA-60 (continuing in direction of drive)
-        * Google Maps shows this dirt road incorrectly!
+        * Google Maps shows the Black Mtn dirt road incorrectly!
 * **Food**
     * Last McDonalds: Dahlonega
     * Penultimate McDonalds: Hwy 53, Dawsonville - 38 miles from I-285
+    * Barbecue - After activating, take GA-60 south to US-19 south, go 7.2 on US-19, R on East Main Street (US-19 biz), follow East Main Street into town.  Smokin' Gold
 
 
 #### Trail Guide - Big Cedar
@@ -47,22 +46,6 @@ Note: Big Cedar is NG-023; Black Mountain is NG-022.  This is confusing (but tru
     * Big Cedar Mtn Summit: 34.689, -83.9922
     * Maidenhead Grid: EM84aq
 
-#### Trail Guide - Black Mountain
-
-* **Duration**:
-    * Black Mtn: 1.1 miles, 0:40 up; 0:25 down
-* **Navigation**
-    * From Woody Gap AT parking, walk NW on GA-60 ~200 yds.
-    * L onto gated FS Rd
-    * Follow dirt road to summit with fire/antenna tower.
-* **Trailhead altitude**: 3173' at Woody Gap; 3128' at entrance to FS road.
-* **Summit altitude**: Black Mtn: 3700'
-* **GPS tracks/waypoints**:
-    * Gated FS Rd at 34.67924, -84.00232
-    * Black Mtn Summit: 34.6749, -84.0061
-    * Woody Gap: 34.67763, -84.00031
-    * Maidenhead Grid: EM84hv
-
 #### Summit Guide - Big Cedar
 
 * Hang antenna from tree: yes
@@ -70,13 +53,6 @@ Note: Big Cedar is NG-023; Black Mountain is NG-022.  This is confusing (but tru
 * Cell coverage: AT&T=yes, Verizon=yes, APRS=yes
 * Unique features: Nice view a few tenths before the true summit
 
-#### Summit Guide - Black Mountain
-
-* Hang antenna from tree: Yes
-* Space to guy mast: Yes
-* Cell coverage: AT&T=good; Verizon=good; APRS=yes
-* Unique features: Fire tower converted to antenna tower at summit.
-
 #### Plan-B Candidates
 
-* Gooch Mtn & Sassafras Mtn, Blood Mountain, Levelland Mountain
+* Gooch Mtn & Sassafras Mtn, Blood Mountain, Levelland Mountain, Black Mountain

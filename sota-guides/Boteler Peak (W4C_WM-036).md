@@ -9,7 +9,7 @@ pair: Standing Indian
 # Optional: Provide the latest year checked.
 # e.g: TM-2017, VF, P-2016
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: ?
+sms: unknown
 ---
 Boteler Peak: Drive to Trailhead & Trail Guide
 --------------------------------------------------------

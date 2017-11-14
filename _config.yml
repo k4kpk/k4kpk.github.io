@@ -38,6 +38,7 @@ gems: ['jekyll-paginate', 'jekyll-redirect-from']
 exclude: ['README.md', 'LICENSE', 'vendor']
 safe: true
 whitelist: ['jekyll-redirect-from', 'jekyll-paginate']
+port: 4001
 
 # Not just _posts, but other folders too.  By default, tipue_search searches only *posts* and not other pages.
 # Note: The variable in code is site.tipue_search.include.pages.

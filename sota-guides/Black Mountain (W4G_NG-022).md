@@ -16,7 +16,7 @@ sms: Y
 #### Drive Guide - Black Mountain (W4G/NG-022)
 
 * **Duration**: 1:20
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/iv36I
+* **Google Maps** URL from Atlanta: **http://tinyurl.com/woody-gap**
 * **Seasonal/Limited Access**:
     * Paved road all the way.  Parking may be full on weekend. 
 * **Directions**:
@@ -24,9 +24,7 @@ sms: Y
     * L on GA-60/US-19 and go 5.1
     * R on GA-9 and go 8.0
     * Straight on GA-60 and go 5.4
-    * Park at Woody Gap AT trailhead
-    * Black Mtn trailhead is 200 yards NW on GA-60 (continuing in direction of drive)
-        * Google Maps shows this dirt road incorrectly!
+    * Park at Woody Gap parking lot.  Black Mtn trailhead is 200 yards NW on GA-60 (continuing in direction of drive).  Google Maps shows the Black Mountain dirt road incorrectly!
 * **Food**
     * Last McDonalds: Dahlonega
     * Penultimate McDonalds: Hwy 53, Dawsonville - 38 miles from I-285
@@ -38,10 +36,9 @@ sms: Y
     * Black Mtn: 1.1 miles, 0:40 up; 0:25 down
 * **Navigation**
     * From Woody Gap AT parking, walk NW on GA-60 ~200 yds.
-    * L onto gated FS Rd
-    * Follow dirt road to summit with fire/antenna tower.
+    * L onto gated FS Rd.  Follow dirt road to summit with fire/antenna tower.
 * **Trailhead altitude**: 3173' at Woody Gap; 3128' at entrance to FS road.
-* **Summit altitude**: Black Mtn: 3700'
+* **Summit altitude**: Black Mtn: 3740'
 * **GPS tracks/waypoints**:
     * Gated FS Rd at 34.67924, -84.00232
     * Black Mtn Summit: 34.6749, -84.0061
@@ -53,8 +50,8 @@ sms: Y
 * Hang antenna from tree: Yes
 * Space to guy mast: Yes
 * Cell coverage: AT&T=good; Verizon=good; APRS=yes
-* Unique features: Fire tower converted to antenna tower at summit.
 
 #### Plan-B Candidates
 
 * Gooch Mtn & Sassafras Mtn, Blood Mountain, Levelland Mountain, Big Cedar Mountain
+
