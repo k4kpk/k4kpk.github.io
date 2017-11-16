@@ -1,0 +1,7 @@
+jekyll-k4kpk:
+    build: .
+    command: jekyll serve --watch --incremental
+    ports:
+        - 4001:4001
+    volumes:
+        - /Users/kevin/Sync/Sites/k4kpk.github.io:/srv/jekyll

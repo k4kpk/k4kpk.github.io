@@ -2,6 +2,7 @@
 
 name: K4KPK
 description: My adventures in ham radio...
+title: K4KPK
 
 # url is currently only used only for the RSS feed in feed.xml AND for auto-redirects
 #url: http://k4kpk.com
@@ -34,7 +35,7 @@ permalink: /:title
 paginate: 9
 highlighter: rouge
 markdown: kramdown
-gems: ['jekyll-paginate', 'jekyll-redirect-from']
+plugins: ['jekyll-paginate', 'jekyll-redirect-from', 'jekyll-admin']
 exclude: ['README.md', 'LICENSE', 'vendor']
 safe: true
 whitelist: ['jekyll-redirect-from', 'jekyll-paginate']
