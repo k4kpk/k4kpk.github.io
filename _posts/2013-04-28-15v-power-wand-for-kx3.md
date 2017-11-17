@@ -7,18 +7,18 @@ redirect_from: /content/15v-power-wand-kx3
 ---
 I wanted a 15V battery pack for my Elecraft KX3, made with NiMh AA batteries.  To get 15V, I needed 11 NiMh cells.  There are very few sources of 12 cell AA battery holders.  For a while, I've used two 6-cell holders with 11 AA cells and one dummy cell.  I thought it would be interesting to make an 11 cell battery holder...
 
+
 <table style="border-style:hidden;">
-<tr>
-<td>
-<img src="/files/wand.png">
-</td>
-<td>
-<img src="/files/uncapped.PNG">
-</td>
-<td>
-<img src="/files/capped.PNG">
-</td>
+  <tr>
+    <td><img src="/files/wand.png"></td>
+    <td><img src="/files/uncapped.PNG"></td>
+    <td><img src="/files/capped.PNG"></td>
+  </tr>
 </table>
+<br />
+&nbsp;
+<br />
+
 This isn't exactly how I did it, but it is how I would do it, if I were to do it again.
 
 
@@ -27,7 +27,7 @@ Ingredients:
 * 19-1/4" length section of 1/2" schedule 40 PVC pipe. 1 @ $2 (I had this sitting around the house, so I just estimated its price.)
 * 3/4"x1/2" PVC male adapter.  This fits over the outside of 1/2" pipe, giving it 3/4" male threads.  2 @ $0.66 each
 * 3/4" PVC screw cap.  2 @ $1.26 each
-* #6-32 machine screw, 1/2" long, with nut, plus 2 extra nuts.  From one package with several screws. $1.18 for the pack.
+* \#6-32 machine screw, 1/2" long, with nut, plus 2 extra nuts.  From one package with several screws. $1.18 for the pack.
 * One negative terminal spring, removed from a AA battery holder.  Be sure to grab one that has a small circle inside the big end.  These things are sorta cone shaped.  If you find the right one, it will be riveted inside the large end, and and there will be a small circle of wire inside the large end, with a rivet through it.  You just have to drill out the rivet.  $2
 * 2 ring terminals, crimp style, sized to fit #6 machine screw, from supplies.  $0.10
 * 2' red/black zip line, 18 gauge, from supplies.  $0.30.
@@ -49,6 +49,8 @@ Instructions:
 1. Screw on the cap without the spring.
 1. Push the leg tips over the caps, to cover the screw ends.  You could skip this step, but since I'll be stuffing my power wand inside a backpack, I don't want the screws ripping my pack.
 1. Bask in the glory of a job well done.
+
+Update (2017): I replaced the chair leg tips with large diameter heat-shrink tubing.  Tubing weighs less than the chair tips.  After multiple years of operating without the tips, I had a wire break at the tip, so I added the heat-shrink to provide some protection.
 
 -----
 It is a little on the heavy side.  For comparison:
