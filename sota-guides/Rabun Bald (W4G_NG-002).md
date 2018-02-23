@@ -27,6 +27,7 @@ Rabun Bald (W4G/NG-002): Drive to Trailhead & Trail Guide
         * I-985 N and go 23.8
         * Straight on US-23 N for 52
     * From Clayton GA (intersection of US-441 and US-76) to Beegum Gap trailhead - 0:30 :
+        * CAUTION: Google Maps may try to direct you into Sky Valley.  Just ignore it if it tells you to turn R into Sky Valley.
         * US-441N and go 7.5
         * R on GA-246/NC-246/NC-106 and go 4.2
         * R on Old Mud Creek Rd/Bald Mtn Rd (@ "Mountain Jct Store/Sinclair Gas") and go 1.7

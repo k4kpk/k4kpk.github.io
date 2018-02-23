@@ -13,6 +13,32 @@ sms: T,V
 ---
 Drive to Trailhead & Trail Guide - Springer Mtn
 --------------------------------------------------------
+#### Drive Guide - Springer Mountain from Atlanta
+
+- **Google Maps** URL from Atlanta (33.91998, -84.33898): 
+  - TO summit: **https://preview.tinyurl.com/springer-2018**
+- **Seasonal/Limited Access**: No gates encountered; lots of dirt road.
+- **Directions from Atlanta**: Duration = 1:55 (2014 measurement)
+  - GA-400 North for 40 miles
+  - L on GA-136 West, Harmony Church Rd and go 6.6
+  - R on Shoal Creek Rd, GA-136-Spur, at old courthouse and go 2.6
+  - Bear L on GA-136 and go 3.2
+  - R on Bailey Waters Rd and go 2.4
+  - R on Max Wehunt Rd and go 1.2
+  - R on GA-52 East and go and go 1.8
+  - Bear L on Nimblewill Church Rd and go 1.1
+  - R at T at church to stay on Nimblewill Church Rd and go 0.1 
+  - L on FS-28-1 and go 2.1
+    - Note: At 0.3, keep R.
+  - Bear L onto USFS-77 and go 4.9  (This doesn't quite match Google in 2014.)
+  - L on dirt road and go 2.6 (I *think* this is USFS-42).
+  - Parking lot on R.  Lot frequently full by mid-morning on weekends/holidays.
+  - Note: USFS-77 had some moderate mud spots, erosion down to rough rocks, and deep ruts. But Appalachian Blue Ridge and Winding Stair Gap Rd north of Deerlick Gap was a muddy morass.  I drove it downhill on my way to Sassafras Mtn, and I don't think I could have driven it uphill.
+- **Food**
+  - Last McDonalds: GA-400 at GA-53 near Dawsonville.  Last chance for gas!
+  - Penultimate McDonalds: GA-400 at GA-306
+  - Anti-penultimate McDonalds: GA-400 at GA-20 (turn L 0.3 from 400) in Cumming
+
 #### Drive Guide - Springer Mountain from Sassafras Mtn
 
 * **Google Maps**: 
@@ -41,29 +67,6 @@ Drive to Trailhead & Trail Guide - Springer Mtn
     * Go around the square and go R ond GA-9 S and go 11.9
     * L on GA-369 E and go 1
     * R on GA-400 S and go 29.5
-
-#### Drive Guide - Springer Mountain from Atlanta
-
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
-    * TO summit: http://goo.gl/maps/LLxmQ
-* **Seasonal/Limited Access**: No gates encountered; lots of dirt road.
-* **Directions from Atlanta**: Duration = 1:55 (2014 measurement)
-    * GA-400 North for 41 miles
-    * L on GA-136 West, Harmony Church Rd and go 11.7
-    * R on Bailey Waters Rd and go 3.6
-    * R on Wesley Chapel Rd and go 2.9
-    * Bear L on (unmarked) Nimblewill Church Rd and go 1.1
-    * R at T at church to stay on Nimblewill Church Rd and go 0.1 
-    * L on FS-28-1 and go 2.1
-        * Note: At 0.3, keep R.
-    * Bear L onto USFS-77 and go 4.9  (This doesn't quite match Google in 2014.)
-    * L on dirt road and go 2.6 (I *think* this is USFS-42).
-    * Parking lot on R.  Lot frequently full by mid-morning on weekends/holidays.
-    * Note: USFS-77 had some moderate mud spots, erosion down to rough rocks, and deep ruts. But Appalachian Blue Ridge and Winding Stair Gap Rd north of Deerlick Gap was a muddy morass.  I drove it downhill on my way to Sassafras Mtn, and I don't think I could have driven it uphill.
-* **Food**
-    * Last McDonalds: GA-400 at GA-53 near Dawsonville.  Last chance for gas!
-    * Penultimate McDonalds: GA-400 at GA-306
-    * Anti-penultimate McDonalds: GA-400 at GA-20 (turn L 0.3 from 400) in Cumming
 
 #### Drive Guide - Springer Mountain from Rock Mtn (HC-008)
 * **Directions from Rocky Mtn (HC-008)**: Duration = 1:00

@@ -55,6 +55,7 @@ Drive to Trailhead & Trail Guide - Huckleberry Knob
     * Follow the closed, grassy road from corner of parking area.
     * Pass through first clearing.  Continue to follow the road through clearing.  If obscured by snow, just head to north edge of clearing.
     * Follow road to summit in second clearing.
+    * Activation zone: When the trail enters the clearing on Huckleberry Knob, you are 60' below the high point.  If you needed to, you could operate from here.
 * **Trailhead altitude**: 5290
 * **Summit altitude**: 5580
 * **GPS tracks/waypoints**:
@@ -63,7 +64,7 @@ Drive to Trailhead & Trail Guide - Huckleberry Knob
 
 #### Summit Guide
 
-* Hang antenna from tree: no
+* Hang antenna from tree: not on top; there are some low trees at the edge of the clearing, which are just inside the activation zone.  You could run something between them, but I don't think any are 30' tall.
 * Space to guy mast: yes
 * Cell coverage: AT&T=no in 2015; Vzn=OK in 2014, no in 2015; APRS=OK in 2015.
 

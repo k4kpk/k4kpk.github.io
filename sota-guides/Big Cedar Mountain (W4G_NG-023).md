@@ -4,17 +4,17 @@ points: 8
 miles: 1.4
 bushwhack: N
 pair: Black, Gooch, Sassafras
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+ # SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
+ # Optional: Provide the latest year checked.
+ # e.g: TM-2017, VF, P-2016
+ # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: Y
+
 ---
+
 Drive to Trailhead & Trail Guide - Big Cedar Mtn
 --------------------------------------------------------
 #### Drive Guide - Big Cedar (W4G/NG-023)
-
 * **Duration**: 1:20
 * **Google Maps** URL from Ashford Dunwoody Rd: **http://tinyurl.com/woody-gap**
 * **Seasonal/Limited Access**:

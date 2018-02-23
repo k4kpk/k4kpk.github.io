@@ -4,7 +4,7 @@ layout: default
 
 <div class="well">
 <h4>SOTA Trip Library</h4>
-<p><a href="http://sota.org.uk/">SOTA (Summits On The Air)</a> is an Amateur Radio program where hams climb to the tops of mountains, set up a radio station, and talk with people from around the world. The K4KPK SOTA Trip Library is a library of SOTA trip plans. The idea is</p>
+<p><a href="http://sota.org.uk/">SOTA (Summits On The Air)</a> is an Amateur Radio program where hams climb to the tops of mountains, set up a radio station, and talk with people from around the world. The K4KPK SOTA Trip Library is a library of SOTA trip plans. The idea is:</p>
 <ul>
     <li>I think, "Hey! I'd like to do a SOTA activation next Thursday."</li>
     <li>I go to the SOTA Trip Library and pull out a trip plan, print it, and go.</li>
@@ -34,7 +34,7 @@ layout: default
    {% assign summitId = myparts[1] | replace: ')','' | replace: '_','/' %}
    <tr>
       <td class="sname"><a href="{{ site.baseurl}}{{ post.url }}">{{ summitName }}</a></td>
-      <td class="sid"><a href="http://sotawatch.org/summits.php?summit={{ summitId }}">{{ summitId }}</a></td>
+      <td class="sid"><a href="http://www.sota.org.uk/Summit/{{ summitId }}">{{ summitId }}</a></td>
       <td class="spoints" title="points">{{ post.points }}</td>
       <td class="smiles" title="miles">{{ post.miles }}</td>
       <td class="sbush" title="bushwhack?">{{ post.bushwhack }}</td>

@@ -19,10 +19,10 @@ Drive to Trailhead & Trail Guide - Siler Bald
 * **Google Map** from Atlanta (33.91998, -84.33898): https://goo.gl/maps/iZ3b8vam9SN2
 * **Seasonal/Limited Access**: All weather
 * **Directions**:
-        * I-985/US-23 North and go 52.6
-        * Bear L on US-23 and go 43.7
-        * Arrive at US-64.
-            * As you approach US-64, you'll pass through the last gas, fast food, and grocery.
+    * I-985/US-23 North and go 52.6
+    * Bear L on US-23 and go 43.7
+    * Arrive at US-64.
+        * As you approach US-64, you'll pass through the last gas, fast food, and grocery.
     * US-441/US-64 to Wine Spring Bald
         * West on US-64 and go 3.8
         * R on Patton Rd (watch for LBJ Job Corps camp sign) and go 0.3
