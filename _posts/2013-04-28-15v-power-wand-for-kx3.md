@@ -47,7 +47,7 @@ Instructions:
 1. Screw on the cap with the spring.
 1. Insert your batteries, 
 1. Screw on the cap without the spring.
-1. Push the leg tips over the caps, to cover the screw ends.  You could skip this step, but since I'll be stuffing my power wand inside a backpack, I don't want the screws ripping my pack.
+1. Push the leg tips over the caps, to cover the screw ends.
 1. Bask in the glory of a job well done.
 
 Update (2017): I replaced the chair leg tips with large diameter heat-shrink tubing.  Tubing weighs less than the chair tips.
