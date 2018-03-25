@@ -11,7 +11,7 @@ pair: Richland Balsam, Black Balsam
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: TF
 ---
-Drive to Trailhead & Trail Guide
+Drive to Trailhead & Trail Guide - Mt Hardy - 10 points
 --------------------------------------------------------
 #### Drive Guide - Atlanta to Mt Hardy
 

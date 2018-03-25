@@ -29,7 +29,7 @@ Ingredients:
 * 3/4" PVC screw cap.  2 @ $1.26 each
 * \#6-32 machine screw, 1/2" long, with nut, plus 2 extra nuts.  From one package with several screws. $1.18 for the pack.
 * One negative terminal spring, removed from a AA battery holder.  Be sure to grab one that has a small circle inside the big end.  These things are sorta cone shaped.  If you find the right one, it will be riveted inside the large end, and and there will be a small circle of wire inside the large end, with a rivet through it.  You just have to drill out the rivet.  $2
-* 2 ring terminals, crimp style, sized to fit #6 machine screw, from supplies.  $0.10
+* 2 ring terminals, sized to fit #6 machine screw, from supplies.  $0.10
 * 2' red/black zip line, 18 gauge, from supplies.  $0.30.
 * 1 pair of PowerPole connectors, from supplies. $1.25.
 * 1 pair of 1-1/4" rubber chair leg tips. $2.79.
@@ -41,7 +41,7 @@ Instructions:
 1. Screw one #6 machine screw through the cap, with the screw head *inside* and the screw end *outside* the cap.
 1. Screw the other #6 machine screw through the small circle inside the large end of the battery spring, then through the other cap, from the inside to the outside.
 1. At this point, you have two caps with the ends of the machine screws sticking out.  Screw one nut onto each.  Tighten the nut securely.
-1. Crimp a pair of ring terminals onto one end of the zip wire.
+1. Solder a pair of ring terminals onto one end of the zip wire.
 1. Crimp PowerPole connectors onto the other end of the zip wire.
 1. Fasten the ring terminals onto the machine screws, using another nut for each machine screw.  Use a washer too, if you like.
 1. Screw on the cap with the spring.
@@ -50,7 +50,7 @@ Instructions:
 1. Push the leg tips over the caps, to cover the screw ends.  You could skip this step, but since I'll be stuffing my power wand inside a backpack, I don't want the screws ripping my pack.
 1. Bask in the glory of a job well done.
 
-Update (2017): I replaced the chair leg tips with large diameter heat-shrink tubing.  Tubing weighs less than the chair tips.  After multiple years of operating without the tips, I had a wire break at the tip, so I added the heat-shrink to provide some protection.
+Update (2017): I replaced the chair leg tips with large diameter heat-shrink tubing.  Tubing weighs less than the chair tips.
 
 -----
 It is a little on the heavy side.  For comparison:

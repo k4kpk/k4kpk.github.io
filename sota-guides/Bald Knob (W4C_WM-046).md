@@ -11,7 +11,7 @@ pair:
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: N
 ---
-Drive to Trailhead & Trail Guide - Bald Knob
+Drive to Trailhead & Trail Guide - Bald Knob - 8 points
 --------------------------------------------------------
 #### Drive Guide - Mt. Pisgah (W4C/CM-011) to Bald Knob
 

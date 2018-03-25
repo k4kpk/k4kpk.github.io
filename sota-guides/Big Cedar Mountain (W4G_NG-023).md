@@ -16,17 +16,14 @@ Drive to Trailhead & Trail Guide - Big Cedar Mtn
 --------------------------------------------------------
 #### Drive Guide - Big Cedar (W4G/NG-023)
 * **Duration**: 1:20
-* **Google Maps** URL from Ashford Dunwoody Rd: **http://tinyurl.com/woody-gap**
-* **Seasonal/Limited Access**:
-    * Paved road all the way.  Parking may be full on weekend. Plenty @ 8:45 Saturday, August 24, 2013.
+* **Google Maps** URL from Ashford Dunwoody Rd: http://tinyurl.com/woody-gap
+* **Seasonal/Limited Access**: Paved road.  Parking full weekend afternoon. Plenty @8:45 Sat, Aug 24.
 * **Directions**:
     * GA-400/US-19 N and go 47 miles.
     * L on GA-60/US-19 and go 5.1
     * R on GA-9 and go 8.0
     * Straight on GA-60 and go 5.4
     * Park at Woody Gap AT trailhead
-    * Big Cedar trail leaves the parking area past the latrines.  Black Mtn trailhead is 200 yards NW on GA-60 (continuing in direction of drive)
-        * Google Maps shows the Black Mtn dirt road incorrectly!
 * **Food**
     * Last McDonalds: Dahlonega
     * Penultimate McDonalds: Hwy 53, Dawsonville - 38 miles from I-285
@@ -35,10 +32,8 @@ Drive to Trailhead & Trail Guide - Big Cedar Mtn
 
 #### Trail Guide - Big Cedar
 
-* **Duration**:
-    * Big Cedar: 0:55 up, 0:35 down; 1.4 miles
-* **Navigation**
-    * From Woody Gap AT parking, NE on AT, about 1 mile, climbing 530'
+* **Duration**: Big Cedar: 0:55 up, 0:35 down; 1.4 miles
+* **Navigation**: Big Cedar trail leaves the parking area past latrines.  NE on AT, 1 mile, climbing 530'.
 * **Trailhead altitude**: 3173' at Woody Gap
 * **Summit altitude**: Big Cedar Mtn: 3721'
 * **GPS tracks/waypoints**:
@@ -55,4 +50,4 @@ Drive to Trailhead & Trail Guide - Big Cedar Mtn
 
 #### Plan-B Candidates
 
-* Gooch Mtn & Sassafras Mtn, Blood Mountain, Levelland Mountain, Black Mountain
+* Gooch Mtn, Sassafras Mtn, Blood Mountain, Levelland Mountain, Black Mountain

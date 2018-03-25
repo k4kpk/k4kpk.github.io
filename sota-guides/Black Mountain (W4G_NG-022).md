@@ -17,8 +17,7 @@ sms: Y
 
 * **Duration**: 1:20
 * **Google Maps** URL from Atlanta: **http://tinyurl.com/woody-gap**
-* **Seasonal/Limited Access**:
-    * Paved road all the way.  Parking may be full on weekend. 
+* **Seasonal/Limited Access**: Paved road all the way.  Parking may be full on weekend. 
 * **Directions**:
     * GA-400/US-19 N and go 47 miles.
     * L on GA-60/US-19 and go 5.1
@@ -32,8 +31,7 @@ sms: Y
 
 #### Trail Guide - Black Mountain
 
-* **Duration**:
-    * Black Mtn: 1.1 miles, 0:40 up; 0:25 down
+* **Duration**: Black Mtn: 1.1 miles, 0:40 up; 0:25 down
 * **Navigation**
     * From Woody Gap AT parking, walk NW on GA-60 ~200 yds.
     * L onto gated FS Rd.  Follow dirt road to summit with fire/antenna tower.
@@ -53,5 +51,5 @@ sms: Y
 
 #### Plan-B Candidates
 
-* Gooch Mtn & Sassafras Mtn, Blood Mountain, Levelland Mountain, Big Cedar Mountain
+* Gooch Mtn, Sassafras Mtn, Blood Mountain, Levelland Mountain, Big Cedar Mountain
 

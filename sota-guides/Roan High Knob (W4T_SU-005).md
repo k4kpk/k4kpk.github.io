@@ -31,7 +31,10 @@ Drive to Trailhead & Trail Guide - Roan High Knob
 #### Drive Guide - Carvers Gap to Roan High Knob (Cloudland Trailhead)
 
 * **Duration**: 0:10, 1.6 miles
-* **Seasonal/Limited Access**: $3 ($5?) to park.  Road gated at Carvers Gap in bad weather.
+* **Seasonal/Limited Access**: $3 ($5?) to park.  Road (NC-1348) gated at Carvers Gap in bad weather.
+    * USFS at https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48626 says the **rec area** is open "Memorial Day - Last Weekend in September"
+    * This USFS brochure https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5366102.pdf says the **road** is open April to November.
+    * Call USFS office at 828-682-6146 to check road status (M-F, 8:00-4:30)
 * **Directions**:
     * Follow gated, paved road 1348 WSW (up hill) and go 1.6
     * Big parking lot on R.  Restrooms here.

@@ -16,8 +16,8 @@ sms: T,V
 #### Drive Guide - Waterrock Knob from Atlanta
 
 * **Duration**: 161 miles, 2:50
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/lCgm3
-* **Seasonal/Limited Access**: Parkway closed in winter.  Check the [BRP Closure Map](http://www.nps.gov/maps/blri/road-closures/).
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): **https://tinyurl.com/atl-to-waterrock**
+* **Seasonal/Limited Access**: Parkway closed in winter.  Check the [BRP Closure Map](http://go.nps.gov/blri-roads).
 * **Directions**:
     * I-285 to I-85. On I-85 go N 16.6
     * I-985/GA-365 and go 52.6

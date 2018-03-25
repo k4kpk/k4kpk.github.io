@@ -11,7 +11,7 @@ pair: Bald Mountain, Cowpen, Flattop, Dyer
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: Y
 ---
-Grassy Mtn - Drive to Trailhead & Trail Guide
+Grassy Mtn - Drive to Trailhead & Trail Guide - 8 points
 --------------------------------------------------------
 #### Drive Guide - Grassy Mtn From Atlanta
 
@@ -107,7 +107,7 @@ Grassy Mtn - Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 #### Trail Guide - Gravel Road From Overflow Camping ("Gravel Road")
 
-* **Duration**: 0:40
+* **Duration**: 0:35 up, 0:30 down, 1.5 miles 1-way
 * **Navigation**: Just follow the gravel road to the fire tower at the summit.
 
 #### Trail Guide - Hiking Trails Past the Dam ("Trails")

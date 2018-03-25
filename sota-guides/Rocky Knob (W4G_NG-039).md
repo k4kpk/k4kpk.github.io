@@ -11,7 +11,7 @@ pair:
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T-2016
 ---
-Drive to Trailhead & Trail Guide - Rocky Knob
+Drive to Trailhead & Trail Guide - Rocky Knob - 8 points
 --------------------------------------------------------
 #### Drive Guide - Rocky Knob
 
@@ -39,7 +39,7 @@ Drive to Trailhead & Trail Guide - Rocky Knob
 
 #### Trail Guide
 
-* **Duration**: 1:45 up; 1:30 down
+* **Duration**: 1:45 up; 1:30 down.  
 * **Navigation**
     * Named "Miller Trek Trail".
     * From day hiker parking lot, walk 200' farther on the road.  Follow the painted "T" markings through the narrow employee parking lot on the right, leading to the arch over the trailhead.

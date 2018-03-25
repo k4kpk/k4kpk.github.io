@@ -80,7 +80,7 @@ I'm finished activating Sheriff.  You could get hurt coming down this hill, and 
 
 #### Trail Guide
 
-* **Duration**: 0:55 up, 0:30 down 
+* **Duration**: 0:55 up, 0:30 down, 0.5 miles
 * **Navigation**
     * Walk 10' up the trail, to where there are a couple of dirt-mound "bridges" across the gully. Bushwhack up.
     * Very intense, steep climb up.  Tough bushwhack; do not attempt in green season; winter die-off season only.

@@ -11,7 +11,7 @@ pair: Grassy
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: TM, VW
 ---
-Drive to Trailhead & Trail Guide - Bald Mtn
+Drive to Trailhead & Trail Guide - Bald Mtn - 10 points
 --------------------------------------------------------
 
 #### Drive Guide - Bald Mountain from ATLANTA
