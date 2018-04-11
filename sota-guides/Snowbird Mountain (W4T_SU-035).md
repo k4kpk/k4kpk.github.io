@@ -2,7 +2,7 @@ Drive to Trailhead & Trail Guide - Snowbird Mtn
 --------------------------------------------------------
 ####Drive Guide - Snowbird Mountain from Atlanta
 
-* **Duration**: 
+* **Duration**: 3:45
 * **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/EzDYN
 * **Seasonal/Limited Access**:
 * **Directions**:
@@ -46,6 +46,7 @@ Drive to Trailhead & Trail Guide - Snowbird Mtn
 
 
 ####Drive Guide - Snowbird Mountain TO Atlanta
+* **Duration**: 3:45
 * **Directions**:
     * Head out on Grassy Fork Rd and go 4.2
     * L on Green Corner Rd and go 3.8

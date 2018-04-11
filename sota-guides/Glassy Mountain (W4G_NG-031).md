@@ -11,7 +11,7 @@ pair: Blackrock
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T,V
 ---
-Glassy Mtn - Drive to Trailhead & Trail Guide
+Glassy Mtn - Drive to Trailhead & Trail Guide. 8 points
 --------------------------------------------------------
 #### Drive Guide - Glassy Mtn from Atlanta
 
@@ -28,6 +28,10 @@ Glassy Mtn - Drive to Trailhead & Trail Guide
 * **Food**
     * Last McDonalds: Cornelia, on Level Grove Rd.
       * It comes just BEFORE Cornelia and your exit to US-441.
+
+#### Drive Guide - Glassy Mtn from Rabun Bald
+
+* **Duration**: 0:55
 
 #### Drive Guide - Glassy Mtn from Bell Knob (US 76)
 
@@ -48,30 +52,26 @@ Glassy Mtn - Drive to Trailhead & Trail Guide
 * **Directions**:
     * From US-76 and US-441, go south on US-441 and go 2.8
     * R on 441/Tiger-Connector (R only; @ **"Goats On the Roof"**) and go 5.8
-      * Note: It is about 15 minutes from this turn to the gate/trailhead.
+        * Note: It is about 15 minutes from this turn to the gate/trailhead.
         * Name changes to Bridge Creek Rd
     * R on Glassy Mtn Rd (USFS-11) and go 2.1
       * Good condition dirt road. Easy drive in a Corolla in spring of 2014.
-    * Sharp R and gate. Drive 0.9 more to top if gate open (in summer).
-      * Park just after the hairpin turn, well before the gate.  Room for 2 cars.
+    * Sharp R and gate.
+        * Park just after the hairpin turn, well before the gate.  Room for 2 cars.
         * There's a lesser, gated road, if you don't make the sharp R. This does not lead to the summit.
-* **Food**
-    * Last McDonalds: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
 #### Trail Guide
 
-* **Duration**: 0:35 up, 0:20 down; 0.9 miles (550' climb) when gate is locked.
-* **Navigation**
-    * Follow the road up the hill.
-* **Trailhead altitude**: 2882 (at gate)
-* **Summit altitude**: 3460
+* **Duration**: 0:30 up, 0:20 down; 0.9 miles (550' climb)
+* **Navigation**: Follow the road up the hill.
 * **Grid square**: EM84fu
 * **GPS tracks/waypoints**:
-    * Trailhead: 34.8461, -83.5138 (Gate to R)
-    * Summit: 34.8453, -83.5002
+    * Trailhead: 34.8461, -83.5138 (Gate to R) at 2882' altitude
+    * Summit: 34.8453, -83.5002 at 3460' altitude
 
 #### Summit Guide
 
+* Don't drive past the gate if it is open.  It has a "No parking beyond the gate" sign.  I have seen a cell maintenance truck spend less than an hour at the summit.  He left the gate open on his way up and locked it on the way down.  He did not check with a group of people who had driven to the summit before leaving.  (They quickly chased him down the hill.) You could easily get locked in.
 * Hang antenna from tree: No.  All trees have been cleared.
 * Space to guy mast: Yes.
 * Cell coverage: ATT=yes, Vzn=adequate, Patrick says APRS=yes (but no tracking)

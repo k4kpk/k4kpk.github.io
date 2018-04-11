@@ -22,6 +22,60 @@ Tray Mtn: Drive to Trailhead & Trail Guide
 
 NOTE: **Do not drive through Helen.  Traffic is often 2 MPH. **
 
+NOTE: There are three 'entry points' to the parking:
+
+- Southern: Tray Mountain Road all the way from GA-75. Sometimes way too rutted for a sedan; sometimes OK.
+- Ford: Ford a creek near GA-75, past Indian Grave Gap, then Tray Mountain Rd. Sometimes too rutted. 
+- Northern: Drive past other two entry points, cross new Hiwasee River bridge, Corbin Creek Rd all the way. Bumpy and long, but drivable in a sedan.
+
+
+
+#### Drive Guide - Atlanta to GA-75
+
+Getting to near the destination (applies to all 3 entry points):
+
+- N on GA-400 and go 47 miles.
+- At end of 400 (@ GA-60) go straight onto GA-115. Go 4.8
+- GA-115 turns R.  (About 60 minute drive to this turn.) Go 11.4.
+- L on Tesnatee Gap Valley Rd. There's a left turn lane.  Go 2.8.
+- Go straight onto McAfee Rd. (Tesnatee turns left.)  Go 0.2
+- L on US-129 N at T. (About 1:15 total drive time to this turn.) Go 0.8.
+- R on GA-75A. Go 8.0.  (Pass Richard B Russell Scenic Hwy at 1:25 from trip start.)
+- Continue to intersection of GA-75A and GA-75
+
+**Food**
+
+- Last McDonalds: GA-400 at GA-53 (38 miles north of I-285)
+  - If you miss it, you can swing by 1550 S MAIN ST, Cleveland, adding 5 minutes.
+- Dinner: Barbecue in Helen or Barbecue at GA-400 and Hwy 53
+
+
+
+#### Drive Guide - Tray Mountain (Tray Gap trailhead) From Atlanta via Corbin Creek Rd
+
+(This is the "safe" route.)
+
+- **Duration**: 2:30
+- **Google Maps** URL from Atlanta (33.91998, -84.33898): https://tinyurl.com/tray-corbin
+- Follow directions for "Atlanta to GA-75"
+- L on GA-75 and go 12.4
+- After crossing Hiwasee River, R on first road. (It is paved for 10'.)
+- Immediate R on (dirt) Corbin Creek Rd and go 10.2
+
+
+
+#### Drive Guide - Tray Mountain (Tray Gap trailhead) From Unicoi Gap (Blue Mtn Parking) via Corbin Creek Rd
+
+(This is the "safe" route.)
+
+- **Duration**: 0:50
+- **Google Maps** URL from Atlanta (33.91998, -84.33898): https://tinyurl.com/tray-corbin
+- Follow directions for "Atlanta to GA-75"
+- R on GA-75 (north) from parking and go 4.6
+- After crossing Hiwasee River, R on first road. (It is paved for 10'.)
+- Immediate R on (dirt) Corbin Creek Rd and go 10.2
+
+
 
 #### Drive Guide - Tray Mountain (Tray Gap trailhead) via Tray Mtn Rd
 
@@ -35,26 +89,17 @@ Directions:
     * Condition of road from junction with Indian Grave Gap Rd to Tray Gap varies from year to year.  Sometimes it is drivable in a sedan; sometimes it really needs 4WD + HGC.
     * Gates at both ends of IGG Rd.  Season is unknown. No gates on TM Rd. 
 * **Directions**:
-    * Getting to near the destination:
-        * N on GA-400 and go 47 miles.
-        * At end of 400 (@ GA-60) go straight onto GA-115. Go 4.8
-        * GA-115 turns R.  (About 60 minute drive to this turn.) Go 11.4.
-        * L on Tesnatee Gap Valley Rd. There's a left turn lane.  Go 2.8.
-        * Go straight onto McAfee Rd. (Tesnatee turns left.)  Go 0.2
-        * L on US-129 N at T. (About 1:15 total drive time to this turn.) Go 0.8.
-        * R on GA-75A. Go 8.0.  (Pass Richard B Russell Scenic Hwy at 1:25 from trip start.)
-        * From intersection of GA-75A and GA-75, on GA-75 go north
-    * Final approach (60 minutes - tell Google Maps to take you to 34.79921, -83.69089.  This is much slower that Google estimates.):
+    * Follow directions for "Atlanta to GA-75"
+    * Final approach (60 minutes - tell Google Maps to take you to 34.79921, -83.69089.  This is much slower than Google estimates.):
+        * L on GA-75
         * Watch for mile marker 8.  ~ 0.2 to TM Rd.
         * Watch for brown house on left, close to road, with no windows. TM Rd imminent.
         * R on Tray Mountain Rd.  Small, thin sign "Bison View Lodge".
         * After about 15 minutes, large gate made of black logs on right. "No trespassing".
         * 5 more minutes to junction w/IGG Rd.  Keep right on Tray Mountain RD (USFS-79).
         * 10 more minutes to Tray Gap. Roads to L and R with AT in center.  (Both roads un-gated.)
-* **Food**
-    * Last McDonalds: GA-400 at GA-53 (38 miles north of I-285)
-        * If you miss it, you can swing by 1550 S MAIN ST, Cleveland, adding 5 minutes.
-    * Dinner: Barbecue in Helen or Barbecue at GA-400 and Hwy 53
+
+
 
 #### Drive Guide - Tray Mountain (Tray Gap trailhead) from Rocky Mtn at Indian Grave Gap Trailhead
 
@@ -63,6 +108,8 @@ Directions:
     * Drive south about 0.6 miles
     * Acute Left turn and go 1.8
     * See notes elswhere in this guide regarding road condition to Tray Gap.
+
+
 
 #### Drive Guide - Tray Mountain (Indian Grave Gap trailhead) from YELLOW BALD
 
@@ -83,7 +130,7 @@ Directions:
     * L onto Indian Grave Gap Rd, marked USFS-283 and "High Shoals Scenic Area" and go 3.5 to Indian Grave Gap
         * Road fords a creek.  I had no trouble at 6" deep water level in my Corolla.
 
-####  Drive Guide - Tray Mountain TO Atlanta
+####  Drive Guide - Tray Mountain TO Atlanta via Tray Mtn Rd
 
 * Head southwest out of the gap and go 1.8
 * Bear L to stay on Tray Mtn Rd and go 6
