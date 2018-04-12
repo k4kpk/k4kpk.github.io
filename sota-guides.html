@@ -33,7 +33,7 @@ layout: default
    {% assign summitName = myparts[0] %}
    {% assign summitId = myparts[1] | replace: ')','' | replace: '_','/' %}
    <tr>
-      <td class="sname"><a href="{{ site.baseurl}}{{ post.url }}">{{ summitName }}</a></td>
+      <td class="sname"><a href="{{ site.baseurl}}{{ post.url }}.html">{{ summitName }}</a></td>
       <td class="sid"><a href="http://www.sota.org.uk/Summit/{{ summitId }}">{{ summitId }}</a></td>
       <td class="spoints" title="points">{{ post.points }}</td>
       <td class="smiles" title="miles">{{ post.miles }}</td>
