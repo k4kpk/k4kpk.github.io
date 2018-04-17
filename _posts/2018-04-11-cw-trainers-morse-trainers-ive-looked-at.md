@@ -23,3 +23,4 @@ I'm at a peculiar skill level -- I can copy random, perfectly-spaced characters 
 * Morse Mania - similar to AA9PW web site's simulated QSO. (I'd rather use the AA9PW web site. You *could* find this one useful if you need to run offline.)
 * G4ILO Morse Machine - just characters.
 * AD5RX doesn't run on current-generation Mac OS X.  (Maybe it was on PowerPC chip set?)
+
