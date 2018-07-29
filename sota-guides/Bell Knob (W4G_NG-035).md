@@ -99,7 +99,7 @@ New in 2016 - Road is  paved to the top.  This is now a drive-up summit, with an
 * **Navigation**: Follow the paved road to the parking lot at the end.
 * **Summit altitude**: 3420'
 * **Grid Square**: EM84dx
-* **GPS tracks/waypoints**: Benchmark: 34.95986, 83.72896
+* **GPS tracks/waypoints**: Benchmark: 34.95986, -83.72896
 
 #### Summit Guide
 

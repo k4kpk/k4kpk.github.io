@@ -41,7 +41,7 @@ Drive to Trailhead & Trail Guide  - Stone Mtn
     * Distance is 1.3 miles.  Altitude gain is 825 feet.  The last part is pretty steep, and is slippery when wet.
 
 * **Trailhead altitude**: 1005' @ trailhead parking lot
- * **Summit altitude**: 4005'
+ * **Summit altitude**: 1686'
 * **GPS tracks/waypoints**:
     * Trailhead: 33.81076,-84.16213
     * Summit: 

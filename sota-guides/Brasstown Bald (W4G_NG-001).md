@@ -15,7 +15,7 @@ sms: Y
 Brasstown Bald: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 * Check with GDOT to see whether GA-180 Spur is open: 706-348-4848
-* Pay $5 per adult for parking and/or shuttle. shuttle is included, even if you don't use it.  $3 out of season when shuttle not running.
+* Pay \$5 per adult for parking and/or shuttle. shuttle is included, even if you don't use it.  \$3 out of season when shuttle not running.
 
 #### Drive Guide - Brasstown Bald from Atlanta
 

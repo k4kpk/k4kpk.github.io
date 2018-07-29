@@ -56,6 +56,7 @@ Note: This looks to be just outside parkway land, on Cherokee territory.
 * **Trailhead altitude**: 4286
 * **Summit altitude**: 4652
 * **GPS tracks/waypoints**:
+    * Grid Square EM85jm
     * Trailhead: 35.52482,-83.22941
     * Summit: 35.52450,-83.23630
 

@@ -9,14 +9,14 @@ pair: Roan High Knob
 # Optional: Provide the latest year checked.
 # e.g: TM-2017, VF, P-2016
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: M
+sms: TF-2018, P-2018
 ---
 Drive to Trailhead & Trail Guide - Grassy Ridge Bald
 --------------------------------------------------------
 #### Drive Guide - Grassy Ridge Bald from Atlanta
 
-* **Duration**: 4:45  (Google says it is 4:20.  My 2015 experience is that you need 4:45 (plus any time for pit stops).
-* **Google Maps** URL fromAtlanta (33.91998, -84.33898): https://goo.gl/maps/QKIHd
+* **Duration**: 4:30  (Google says it is 4:20.  My 2018 experience is that you need 4:30 (plus any time for pit stops).
+* **Google Maps** URL fromAtlanta (33.91998, -84.33898): https://tinyurl.com/atl-grb-atl
 * **Seasonal/Limited Access**: Paved road all the way.
 * **Directions**:
  * I-285 to I-85 N
@@ -32,6 +32,7 @@ Drive to Trailhead & Trail Guide - Grassy Ridge Bald
 * **Food**
     * Last McDonalds: 19E in Burnsville, NC; just before you turn L on NC-197.
     * Penultimate McDonalds: Weaverville, NC; I-26 exit 19B.
+    * Best Plan: About 10 miles before Asheville (whether you go I-26 or I-40 route)
 
 #### Drive Guide - Grassy Ridge Bald from Knoxville, TN
 
@@ -54,11 +55,11 @@ Drive to Trailhead & Trail Guide - Grassy Ridge Bald
 
 #### Trail Guide
 
-* **Duration**: 2.4 miles, 1:30 up and 1:10 down (actual times in 2015, first summit of the day)
+* **Duration**: 2.4 miles, 1:40 up and 1:20 down (actual times in 2018, first summit of the day)
 * **Navigation**
     * Follow the AT east from parking at the state line
     * Cross 2 peaks before you get there
-    * At about 2 miles, the trail forks and the AT bears left and downhill and the trail to Grassy Ridge Bald bears right and uphill to ascend to the summit.
+    * At about 2 miles, the trail forks and the AT bears left and downhill and the trail to Grassy Ridge Bald bears right and uphill to the summit.
 * **Trailhead altitude**: 5510 @ 36.1064, -82.1104
 * **Summit altitude**: 6180 @ 36.0998, -82.0804
 
@@ -66,5 +67,5 @@ Drive to Trailhead & Trail Guide - Grassy Ridge Bald
 
 * Hang antenna from tree: Few trees on top. Some off-summit in the activation zone.
 * Space to guy mast: yes
-* Cell coverage: 2015: ATT yes, VZn intermittent, ATT had data service
+* Cell coverage: 2018: ATT no, APRS excellent. 2015: ATT yes, VZn intermittent, ATT had data service
 * Unique features: Beautiful hike.

@@ -16,6 +16,8 @@ Bunches Bald: Drive to Trailhead & Trail Guide
 
 Note: This is on the Cherokee reservation.  Ask permission at the campground, it is open May 15 - Oct 15.
 
+**ALERT**: There is a [2017 report](https://www.sota.org.uk/Article/W4C/WM-013/21367) that they are now hostile to summit hikers. I recommend against sneaking up in the off season.  I've heard Cherokee courts are unsympathetic to trespassers.  In 2015, when I activated, I asked at the camp office and they said, "Sure.  Go ahead."
+
 #### Drive Guide - Heintooga Rd to Bunches Bald
 
 * Best route:
@@ -28,12 +30,13 @@ Note: This is on the Cherokee reservation.  Ask permission at the campground, it
         * 90-degree right turn (passing between green shed and shower building) leads to trailhead.  Park in the grass strip (inside the hairpin) where road makes hairpin turn L.  
           There's a gate on the path to the summit (not across BIA 407).
 
-* Poorer route - Immediately after turning onto Heintooga, bear L on twisty dirt road (BIA 407) up to campground.
+* Poor route - Immediately after turning onto Heintooga, bear L on twisty dirt road (BIA 407) up to campground.
 
 The 5-way intersection in the middle of the camp:
-    * There's a speed bump on the driveway back to Heintooga.
-        * There's a sign as you come into camp that says to drive slow.  On the back of this sign (visible from mid-intersection), there's hand-lettered "Exit" on the left side of the sign and a wiggly line on the right side.  This tells you that the road to the left is the driveway back to Heintooga, and the road to the right is the twisty-windy BIA 407 leg back to Heintooga.
-    * There's a speed bump on the leg of BIA 407 that leads to the trailhead.  (This is the road between the green shed and the shower building.)
+
+* There's a speed bump on the driveway back to Heintooga.
+* There's a sign as you come into camp that says to drive slow.  On the back of this sign (visible from mid-intersection), there's hand-lettered "Exit" on the left side of the sign and a wiggly line on the right side.  This tells you that the road to the left is the driveway back to Heintooga, and the road to the right is the twisty-windy BIA 407 leg back to Heintooga.
+* There's a speed bump on the leg of BIA 407 that leads to the trailhead.  (This is the road between the green shed and the shower building.)
 
 #### Drive Guide - Bunches Bald from Atlanta
 

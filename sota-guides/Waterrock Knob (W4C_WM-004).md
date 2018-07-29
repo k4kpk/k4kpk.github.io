@@ -16,7 +16,7 @@ sms: T,V
 #### Drive Guide - Waterrock Knob from Atlanta
 
 * **Duration**: 161 miles, 2:50
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): **https://tinyurl.com/atl-to-waterrock**
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): https://tinyurl.com/atl-to-waterrock
 * **Seasonal/Limited Access**: Parkway closed in winter.  Check the [BRP Closure Map](http://go.nps.gov/blri-roads).
 * **Directions**:
     * I-285 to I-85. On I-85 go N 16.6
@@ -33,19 +33,18 @@ sms: T,V
 
 #### Drive Guide - Waterrock Knob from Barnett Knob (W4C/WM-055)
 * **Duration**: 20 minutes, 11 miles
-* **Google Maps** https://goo.gl/maps/RRAZUgdEU7Q2
+* **Google Maps** https://tinyurl.com/WR-from-barnett
 * **Directions**:
     * Right turn on Parkway and go 11
     * L on Waterrock Knob driveway and go 0.3
 
 #### Drive Guide - Waterrock Knob from Richland Balsam (W4C/WM-003)
 
-* **Duration**: 20.4 miles, 30 minutes
-* **Google Maps** URL from Richland Balsam: http://goo.gl/maps/yL0gu 
+* **Duration**: 20.4 miles, 33 minutes
+* **Google Maps** URL from Richland Balsam: https://tinyurl.com/WR-from-richland 
 * **Directions**:
     * Head north (turn right exiting parking) on Blue Ridge Pky and go 20.1
-    * R to Waterrock Knob Parking (between mile markers 450 & 451) and go 0.3.
-        * Has restrooms
+    * R to Waterrock Knob Parking (between mile markers 450 & 451) and go 0.3. Restrooms.
 
 #### Drive Guide - Waterrock Knob *to* Atlanta
 
@@ -65,12 +64,13 @@ sms: T,V
 * **Trailhead altitude**: 5800
 * **Summit altitude**: 6247
 * **GPS tracks/waypoints**:
+    * Grid Square: EM85kl
     * Parking: 35.46023, -83.14121
     * Trailhead: 35.46094, -83.14085
     * Summit: 35.4642, -83.1377
 
 #### Summit Guide
 
-* Hang antenna from tree: No.  You could run something semi-horizontal at about 15-20 feet.
+* Hang antenna from tree: No.  You could run something horizontal at about 15-20 feet.
 * Space to guy mast: Yes
-* Cell coverage: AT&T(2015)=No, AT&T(2014)=OK, Verizon=OK, APRS=OK
+* Cell coverage: AT&T  2018=SMS slow but worked 2 for 2. AT&T(2014)=OK, Verizon=OK, APRS=OK

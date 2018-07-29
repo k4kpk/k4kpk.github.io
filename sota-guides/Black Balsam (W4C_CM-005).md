@@ -14,7 +14,7 @@ sms: unknown
 Drive to Trailhead & Trail Guide - Black Balsam
 --------------------------------------------------------
 
-* Parking is an issue.  At 9 AM on Memorial Day, it was almost full; by 11 AM, even the extra pull-offs 1/4 mile before the trailhead were full.
+* Parking is an issue.  At 9 AM on Memorial Day, it was almost full; by 11 AM, *everything* was full.
 
 #### Drive Guide - Black Balsam Knob from Richland Balsam
 
@@ -27,7 +27,7 @@ Drive to Trailhead & Trail Guide - Black Balsam
 
 #### Drive Guide - Black Balsam Knob from Atlanta
 
-- **Duration**: 3:15, 173 miles
+- **Duration**: 3:10, 173 miles
 - **Google Maps** URL from Atlanta (33.91998, -84.33898): 
 - **Seasonal/Limited Access**: Blue Ridge Parkway closed in winter.   KI4SVM says "often access from the side Hwy 215 is available... BRP's infoline... is highly recommended - 828-298-0398."
 - **Directions**:
@@ -42,25 +42,22 @@ Drive to Trailhead & Trail Guide - Black Balsam
   - L on Black Balsam Rd at BRP mile 420.2 and go 0.7
     - Trailhead is on the right.
 - **Food**
-  - Last McDonalds: 7512 Skyland Dr  Sylva, NC (About 1.4 miles from exit); exit 85 (US-23 Business) on US-64.
-  - Penultimate McDonalds: 329 Franklin Plaza, Franklin, NC (poor service)
-  - Before that: Clayton, GA (busy on Saturday mornings)
+  - Last McDonalds: 7512 Skyland Dr  Sylva, NC (1.4 miles from exit); exit 85 (US-23 Business) on US-64.
+  - Also McDonalds in Franklin and Clayton. Slow service Saturday A.M.
   - Before that: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
 #### Drive Guide - Black Balsam Knob from Green Knob
 
 * **Duration**: 0:15, ? miles
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898:
-* **Seasonal/Limited Access**: Blue Ridge Parkway closed in winter.   KI4SVM says "often access from the side Hwy 215 is available... BRP's infoline... is highly recommended - 828-298-0398." Check the [BRP Closure Map](http://www.nps.gov/maps/blri/road-closures/).
+* **Seasonal/Limited Access**: Parkway closed in winter.   KI4SVM says "often access from the side Hwy 215 is available... BRP's infoline... recommended - 828-298-0398." Check the [BRP Closure Map](http://go.nps.gov/blri-roads).
 * **Directions**:
     * West on BRP (right, from the trail coming down from Green Knob) and go 5.7
     * R on Black Balsam Rd (Road #815) at BRP mile 420.2 and go 0.7.  Paved but many potholes.
-        * Trailhead is on the right.
 
 #### Drive Guide - Black Balsam Knob **to** Atlanta
 
 * **Duration**: 3:15, 177 miles
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: **http://tinyurl.com/BlackBalsamKPK**
+* **Google Maps** URL: http://tinyurl.com/BlackBalsamKPK
 * **Directions**:
     * Drive SE (back toward BRP) and go 0.7
     * R on BRP and go 23.3
@@ -70,24 +67,22 @@ Drive to Trailhead & Trail Guide - Black Balsam
     * Ramp to US-23 S and go 21.8
     * R on US-23 S and go 11
     * R on US-23 S and go 40
-    * S on I-985 S
-    * S on I-85 S
+    * S on I-985 S and S on I-85 S
 
 #### Trail Guide
 
 * **Duration**: 0:30 up, 0:25 down, 0.7 miles
 * **Navigation**
-    * Follow the heavily eroded Art Loeb Trail about 1/2 mile through the forest to reach the alpine meadows. Cross the first Knob and continue to Black Balsam.  Deeply eroded dirt trail plus some walks on exposed granite.
+    * Follow the Art Loeb Trail about 1/2 mile through the forest to reach the alpine meadows. Cross the first Knob and continue to Black Balsam.  Deeply eroded dirt trail plus walks on exposed granite.
 * **Trailhead altitude**: About 5895'
 * **Summit altitude**: 6214'
 * **Grid square**: EM85nh
 * **GPS tracks/waypoints**:
-    * Trailhead: 35.320654,-82.876193 (along the road - not at the parking for the restroom)
+    * Trailhead: 35.320654,-82.876193 (along road - not at restroom parking lot)
     * Summit: 35.328, -82.8746
 
 #### Summit Guide
 
-* Hang antenna from tree: no
-* Space to guy mast: yes
-* Cell coverage: APRS OK. 2016: AT&T Cell + internet. 2017: No AT&T cell.
+* Hang antenna from tree: no.  Space to guy mast: yes.
+* Cell coverage: 2018: No AT&T; APRS OK. 2016: AT&T Cell + internet.
 * Unique features: a bald bald.

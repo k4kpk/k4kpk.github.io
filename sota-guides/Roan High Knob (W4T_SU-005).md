@@ -9,13 +9,15 @@ pair: Grassy Ridge Bald
 # Optional: Provide the latest year checked.
 # e.g: TM-2017, VF, P-2016
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: TF,VF,AW
+sms: TF-2018,VF,AW-2018
 ---
 Drive to Trailhead & Trail Guide - Roan High Knob
 --------------------------------------------------------
-#### Drive Guide - Roan High Knob to Atlanta
+Food if driving from Atlanta: Best Plan: About 10 miles before Asheville (whether you go I-26 or I-40 route)
 
-* **Duration**: 4:45, 265 miles - Note: Google says it is 4:20.  My 2015 experience is that you need 4:45 (plus any time for pit stops).
+#### Drive Guide - Roan High Knob from Atlanta
+
+* **Duration**: 4:40, 265 miles - Note: Google says it is 4:20.  My 2018 experience is that you need 4:40 (plus any time for pit stops).
 * **Directions**:
  * I-285 to I-85 N
  * In Greenville, SC: I-185 N and go 1.6
@@ -26,14 +28,15 @@ Drive to Trailhead & Trail Guide - Roan High Knob
  * L on NC-197 and go 3
  * R on Fork Mtn Rd and go 4.2
  * L on NC-261 N and go 9.1
- * L on seasonally gated road 1348 and go 1.6.
+ * Continue at "Drive Guide - Carvers Gap to Roan High Knob" below.
 
 #### Drive Guide - Carvers Gap to Roan High Knob (Cloudland Trailhead)
 
 * **Duration**: 0:10, 1.6 miles
-* **Seasonal/Limited Access**: $3 ($5?) to park.  Road (NC-1348) gated at Carvers Gap in bad weather.
-    * USFS at https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48626 says the **rec area** is open "Memorial Day - Last Weekend in September"
+* **Seasonal/Limited Access**: \$3 (\$5?) to park.  Road (NC-1348) gated at Carvers Gap in bad weather.
+    * https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48626 says the **rec area** is open "Memorial Day - Last Weekend in September"
     * This USFS brochure https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5366102.pdf says the **road** is open April to November.
+    * Reality: The road was gated on May 12, 2018. It appears they don't open it until Memorial Day.
     * Call USFS office at 828-682-6146 to check road status (M-F, 8:00-4:30)
 * **Directions**:
     * Follow gated, paved road 1348 WSW (up hill) and go 1.6
@@ -43,7 +46,6 @@ Drive to Trailhead & Trail Guide - Roan High Knob
 
 * **Duration**: 1:25, 57 miles
 * **Google Maps** URL from 35.95440, -82.56102 to 36.10397, -82.13317: http://goo.gl/maps/u5KcU 
-* **Seasonal/Limited Access**: $3 ($5?) to park.  Road gated at Carvers Gap in bad weather.
 * **Directions**:
     * Head south for 3.2 miles, generally paralleling I-26.
         * If you parked in the paved lot just before I-26, you will be heading away from I-26.
@@ -57,8 +59,7 @@ Drive to Trailhead & Trail Guide - Roan High Knob
     * L on NC-226 N and go 3
     * R on Fork Mtn Rd and go 4.2
     * L on NC-261 N and go 9.2
-    * L  onto 1348 at state line and AT and go 1.7
-    * Big parking lot on R.  Restrooms here.
+    * Continue at "Drive Guide - Carvers Gap to Roan High Knob". 
 
 * **Food**
     * Last McDonalds: 
@@ -69,6 +70,7 @@ Drive to Trailhead & Trail Guide - Roan High Knob
 
 * **Duration**: 4:45, 263 miles
 * **Directions**:
+    * **WATCH CAREFULLY**: You won't have Google Maps for a long time, and I missed a turn in 2018. 
     * Turn L out of parking lot and go 1.6
     * R on NC-261 S and go 9.2
     * R on Fork Mtn Rd and go 4.2
@@ -117,9 +119,10 @@ Drive to Trailhead & Trail Guide - Roan High Knob
 
 #### Trail Guide from Carvers Gap (long route)
 
-* **Duration**: 1.6 miles, 1:15 up, 800' climb
+* **Duration**: 1.6 miles, 1:30 up via creek, 0:50 down via NC-1348, 800' climb (2nd summit of the day)
 * **Navigation**
-    * x
+    * Option 1: Walk north (into Tennessee) to the end of the on-road parking. Turn L at double-blaze onto AT.  This descends to a creek and then climbs through a series of switchback to the blue-blazed turn-off on the L to the summit + shelter.
+    * Option 2: Walk up NC-1348 past the gate about 1/10th mile. Look for a graveled trail on the R, with a vertical post blocking vehicles.  This will join up with the AT in about 1/10th mile at the first major switchback.  It isn't as pleasant as option 1, but it saves you the descent to and climb from the creek.
 * **Trailhead altitude**: 5510 @ 36.1064, -82.1104
 * **Summit altitude**: 6285 @ 36.1046, -82.1224
 
@@ -127,7 +130,7 @@ Drive to Trailhead & Trail Guide - Roan High Knob
 
 * Hang antenna from tree: Y
 * Space to guy mast: Y
-* Cell coverage: 2014: AT&T=N, Vzn=N, APRS=Y; 2015: same
+* Cell coverage: 2018: AT&T No, APRS excellent. 2015: AT&T=N, Vzn=N, APRS=Y.
 * Unique features:
     * AT shelter on summit.
 
