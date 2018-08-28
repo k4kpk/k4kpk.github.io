@@ -14,28 +14,15 @@ sms: T,V
 Drive to Trailhead & Trail Guide - Rocky Mtn (W4G/NG-011)
 --------------------------------------------------------
 
-Note: Shorter distance and much less climb from the Indian Grave Gap trailhead.
+Note: Shorter distance and less climb from the Indian Grave Gap trailhead.
 
-#### Drive Guide - Rocky Mtn (NG-011) via Unicoi Gap from Rocky Mtn (NG-050)
-* **Duration**: 1:05
-* **Google Maps** URL:
-* **Seasonal/Limited Access**: All seasons; all weather.
-* **Directions**:
-   * Head out on FS 236 and go 0.4
-    * R on Cavender Gap Rd and go 0.8
-    * L on GA-60 S and go 7.5
-    * R on SR-80 and go 11.2
-    * L on US-129 and go 2.4
-    * R on SR-180 and go 12.6
-    * R on GA-17 S and go 2.5
-
-#### Drive Guide - Rocky Mountain via Unicoi Gap from Atlanta
+#### Drive Guide - Rocky Mountain via Unicoi Gap from Atlanta via GA-400
 
 
-NOTE: **Do not follow Google cell phone map through Helen!**
+NOTE: **Do not route through Helen!**
 
 * **Duration**: 1:45
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/u85WX
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): https://tinyurl.com/rocky-near-helen
 * **Seasonal/Limited Access**: All seasons; all weather.
 * **Directions**:
    * GA-400 N and go 47.
@@ -47,10 +34,8 @@ NOTE: **Do not follow Google cell phone map through Helen!**
    * R on GA-75-Alt and go 8.1
    * L on GA-75 and go 7.9
    * Park in the big lot on the right at Unicoi Gap.  The gap is marked with a roadside sign.
-   * There are no dirt roads involved in getting there.  High ground clearance vehicle is NOT required.
 * **Food**
-    * Last McDonalds: GA-53, Dawsonville
-    * Penultimate McDonalds: 
+    * McDonalds: GA-53 in Dawsonville.  Before that: 2815 Keith Bridge Rd, Cumming
 
 #### Drive Guide - Rocky Mountain via Indian Grave Gap from Blue Mtn
 * **Duration**: 0:15
@@ -99,11 +84,24 @@ NOTE: **Do not follow Google cell phone map through Helen!**
             * At the fork for Indian Grave Gap, turn L and go 6 on Tray Mtn Rd.
             * At GA-17/GA-75 go RIGHT and go 7.1
 
+#### Drive Guide - Rocky Mtn (NG-011) via Unicoi Gap from Rocky Mtn (NG-050)
+
+- **Duration**: 1:05
+- **Google Maps** URL:
+- **Seasonal/Limited Access**: All seasons; all weather.
+- **Directions**:
+  - Head out on FS 236 and go 0.4
+  - R on Cavender Gap Rd and go 0.8
+  - L on GA-60 S and go 7.5
+  - R on SR-80 and go 11.2
+  - L on US-129 and go 2.4
+  - R on SR-180 and go 12.6
+  - R on GA-17 S and go 2.5
+
 #### Trail Guide - From Indian Grave Gap
 
 * **Duration**: 1.2 miles. 1:00 up, 0:45 down
-* **Navigation**
-    * Head west on AT.
+* **Navigation**: Head west on AT.
 * **Trailhead altitude**: 3050
 * **Summit altitude**: 4014
 * **GPS tracks/waypoints**:
@@ -112,9 +110,8 @@ NOTE: **Do not follow Google cell phone map through Helen!**
 
 #### Trail Guide - From Unicoi Gap
 
-* **Duration**: 1.5 miles, 1:25 up, 0:40 down
-* **Navigation**
-    * Head east on AT.  (Stay on parking lot side of the road.) 
+* **Duration**: 1.5 miles, 1:25 up, 0:50 down
+* **Navigation**: Head east on AT.  (Stay on parking lot side of the road.) 
 * **Trailhead altitude**: 2941
 * **Summit altitude**: 4014
 * **GPS tracks/waypoints**:
@@ -126,7 +123,6 @@ NOTE: **Do not follow Google cell phone map through Helen!**
 * Hang antenna from tree: YES
 * Space to guy mast: YES
 * Cell coverage: Good AT&T and Verizon; APRS text worked
-* Pretty views along the way to Rocky
 
 #### Miscellaneous Notes
-I drove Indian Grave Gap Rd and Tray Mountain Rd in a Corolla with no problems in dry weather.  Don't drive too fast - there are some surprise potholes and runoff gullies.  The ford on IGG Rd went OK in a dry week.  Don't try it after heavy rain. Maintain momentum crossing the creek, to avoid trouble climbing out.
+The ford on IGG Rd went OK in a dry week.  Don't try it after heavy rain. Maintain momentum crossing creek, to avoid trouble climbing out.

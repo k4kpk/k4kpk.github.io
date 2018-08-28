@@ -18,7 +18,7 @@ Blue Mountain: Drive to Trailhead & Trail Guide
 NOTE: **Do not follow Google map through Helen!**
 
 * **Duration**: 1:45 (actual, 2015)
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/u85WX
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): https://tinyurl.com/rocky-near-helen
 * **Seasonal/Limited Access**: All seasons; all weather.
 * **Directions**:
    * GA-400 N and go 47.
@@ -37,7 +37,7 @@ NOTE: **Do not follow Google map through Helen!**
 
 #### Trail Guide
 
-* **Duration**: 1:15 up; 0:50 down
+* **Duration**: 1:15 up; 0:50 down; 1.6 miles and 1080 feet climb.
 * **Navigation**
     * The AT is easy to follow.  From a navigation perspective, this is a piece of cake.  Park on one side of the highway, take the obvious trail on the other side of the highway, and follow it until there is no more 'up' to climb.
     * Some maps show about a 1.1 mile hike.  Not a chance. My GPS says we walked 1.6 miles.  The maps don't show some big switchbacks.  It was about a 15% grade, so it was not a 'walk in the park.'
