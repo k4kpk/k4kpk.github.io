@@ -1,16 +1,12 @@
 ---
 layout: sota-guide
-points: 
-miles: 
+points: null
+miles: null
 bushwhack: N
-pair: 
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: 
+pair: null
+sms: null
 ---
+
 Burnt Mountain: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 
@@ -21,7 +17,7 @@ There are two roads marked "Monument Road" on Google Maps:
 * [This one](https://www.google.com/maps/dir/34.540904,-84.34373/34.531328,+-84.342115/@34.537234,-84.3479005,16z/data=!3m1!4b1!4m7!4m6!1m0!1m3!2m2!1d-84.342115!2d34.531328!3e0) is real.  It is paved, it is drivable, it is public, and it is not gated.  I'll refer to this as "new Monument Road."
 * [This one is off limits](https://www.google.com/maps/dir/34.536270,+-84.345047/34.5433937,-84.3692373/@34.538432,-84.3661273,16z/data=!4m7!4m6!1m3!2m2!1d-84.345047!2d34.53627!1m0!3e0). It is gated at both ends, it is abandoned, and it is on private property. I'll refer to this as "old Monument Road."  Here's a topo: [https://tinyurl.com/burnt-mtn-trek](https://tinyurl.com/burnt-mtn-trek).
 
-The signs at the ends of old Monument Road have no information regarding who to contact.  [Mountain Conservation Trust](http://www.mctga.org/) (MCT) holds a conservation easment on the property, to prevent development. MCT was very helpful, but they do not own the property and cannot grant permission to hike it.  Old Monument Road is owned by Tate Mountain Associates, which owns a gated community nearby.  (Uh oh.  Gated communities don't generally like hikers.)  The summit itself is owned by the Georgia Board of Regents. MCT referred my request via email to Tate and the Regents on August 28, 2018.  If I get a reply, I'll summarize it here.
+The signs at the ends of old Monument Road have no information regarding who to contact.  [Mountain Conservation Trust](http://www.mctga.org/) (MCT) holds a conservation easement on the property, to prevent development. MCT was very helpful, but they do not own the property and cannot grant permission to hike it.  Old Monument Road is owned by Tate Mountain Associates, which owns a gated community nearby.  (Uh oh.  Gated communities don't generally like hikers.)  The summit itself is owned by the Georgia Board of Regents. MCT referred my request via email to Tate and the Regents on August 28, 2018.  If I get a reply, I'll summarize it here.
 
 I had thought about following the power line, if the road was un-travelable.  Don't do it.  The No Trespassing signs were pretty clear, and there are additional No Trespassing signs along Georgia Highway 136 too.
 
@@ -75,4 +71,3 @@ I'll update this post if I find anything more.
 * Cell coverage: ?
 * Unique features:
     * [Peakbagger](http://www.peakbagger.com/climber/ascent.aspx?aid=945489) says, "... you'll find impressive stone ruins of the old Connahaynee Lodge. It was built in 1930 and burned down in 1947."
-

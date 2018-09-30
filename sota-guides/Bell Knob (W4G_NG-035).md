@@ -60,6 +60,7 @@ New in 2016 - Road is  paved to the top.  This is now a drive-up summit, with an
     * R on US-441 and go 2.9
     * R on US-76 and go 25.2
     * R on Shake Rag Rd.  Continue directions at "Drive Guide - Bell Knob from Shake Rag Rd"
+    * Allow 5-10 extra minutes, and drive 0.9 past Shake Rag Rd to Dairy Queen for restroom and ice cream
 
 #### Drive Guide - Bell Knob from Brasstown Bald
 * **Google Maps** URL: http://goo.gl/maps/QQcyb
@@ -70,6 +71,7 @@ New in 2016 - Road is  paved to the top.  This is now a drive-up summit, with an
     * L on GA-17 N / GA-75 N and go 6.3
     * L on GA-2 W / US-76 W and go 1.4
     * R on Shake Rag Rd.  Continue directions at "Drive Guide - Bell Knob from Shake Rag Rd"
+    * Allow 5-10 extra minutes, and drive 0.9 past Shake Rag Rd to Dairy Queen for restroom and ice cream
 
 #### Drive Guide - Bell Knob from Eagle Mountain
 * **Google Maps** URL: http://goo.gl/maps/uW7m9
@@ -79,6 +81,7 @@ New in 2016 - Road is  paved to the top.  This is now a drive-up summit, with an
     * L on Upper Bell Creek Rd and go 1.1
     * L on GA-75 S and go 1.9
     * L on US-76 E and go 1.8
+    * Allow 5-10 extra minutes, and stop 0.9 before Shake Rag Rd to Dairy Queen for restroom and ice cream
     * L on Shake Rag Rd.  Continue with "Drive Guide - Bell Knob from Shake Rag Rd" directions.
 
 #### Drive Guide - Bell Knob TO Atlanta

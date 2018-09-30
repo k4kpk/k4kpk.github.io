@@ -37,7 +37,7 @@ NOTE: **Do not follow Google map through Helen!**
 
 #### Trail Guide
 
-* **Duration**: 1:15 up; 0:50 down; 1.6 miles and 1080 feet climb.
+* **Duration**: 1:20 up; 0:55 down; 1.6 miles and 1080 feet climb.
 * **Navigation**
     * The AT is easy to follow.  From a navigation perspective, this is a piece of cake.  Park on one side of the highway, take the obvious trail on the other side of the highway, and follow it until there is no more 'up' to climb.
     * Some maps show about a 1.1 mile hike.  Not a chance. My GPS says we walked 1.6 miles.  The maps don't show some big switchbacks.  It was about a 15% grade, so it was not a 'walk in the park.'
@@ -54,6 +54,6 @@ NOTE: **Do not follow Google map through Helen!**
 
 * Hang antenna from tree: Easy
 * Space to guy mast: Good
-* Cell coverage: Marginally adequate.  Came and went. I did get off an SMS.  Web browsing was difficult.
+* Cell coverage: 2018 ATT Marginal.  Came and went. I did get off an SMS.  Web browsing was difficult.
 * Unique features:
     * Busy section of Appalachian Trail.

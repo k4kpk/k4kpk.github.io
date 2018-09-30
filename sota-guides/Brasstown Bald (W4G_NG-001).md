@@ -35,6 +35,16 @@ Brasstown Bald: Drive to Trailhead & Trail Guide
     * L on GA-180 Spur and go 2.5
 * Last McDonalds: Dahlonega
 
+#### Drive Guide - Brasstown Bald from Blue Mtn (Unicoi Gap)
+
+- **Duration**: 
+- **Google Maps** URL:  
+- **Seasonal/Limited Access**: All seasons.
+- **Directions**:
+  - North (R from parking) on GA-17N/GA-75N and go 2.5
+  - L on GA-180 and go 5.3
+  - R on GA-180 Spur and go 2.5
+
 #### Drive Guide - Brasstown Bald from Glassy Mtn
 
 * **Duration**: 1:10
@@ -78,7 +88,7 @@ Brasstown Bald: Drive to Trailhead & Trail Guide
 * There is a little meadow with benches to your right, just as the trail reaches the summit.  Operated here.  You could also set up near the handicapped parking.
 * Hang antenna from tree: Possible.
 * Space to guy mast: Yes
-* Cell coverage: Very spotty.  If you run up to the breezeway between buildings you may get an AT&T or a Verizon signal.
+* **Cell coverage**: Very spotty.  If you run up to the breezeway between buildings you may get an AT&T or a Verizon signal. APRS from top deck got spotted but no ACK.
 * Unique features: Museum on top.
 * Restrooms at parking lot and summit.  Locked except late spring through early fall. Also locked when freezing is a risk.
 * Area repeaters:

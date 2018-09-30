@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Huckleberry Knob
 #### Drive Guide - Huckleberry Knob from Atlanta
 
 * **Duration**: 3:15
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/lu3Sa
+* **Google Maps** URL from Atlanta (33.91998, -84.33898): https://tinyurl.com/huckleberry-2
 * **Seasonal/Limited Access**:
 * **Directions**: CAUTION: Confusing route.  I missed a turn in 2014.
     * I-285 W
@@ -28,13 +28,37 @@ Drive to Trailhead & Trail Guide - Huckleberry Knob
     * Straight on NC-60 and go 5.0
     * R on US-74E (follow 74E!) and go 30.4
     * L on US-129N and go 13.0
-    * L on NC-143 (Cherohalla Skyway) and go 3.4
+    * L on NC-143 (Cherohalla Skyway, at sign for "Joyce Kilmer Mem Forest") and go 3.4
+      * Google maps will try and shortcut you to turn left early, just as you reach Robbinsville. Don't!
+      * Continue through Robbinsville to where NC-143 turns L just before US-129 crosses the river.
     * R on NC_143 and go 16.0
 * **Food**
-    * Last McDonalds: Robbinsville, NC (on right, after Ingles)
+    * Last McDonalds: Robbinsville, NC - Slow service at 2 different times of day. 5 minutes per person in line.  Wendy's served me a stale bun.
     * Penultimate McDonalds: Murphy, NC
 
+
+
+#### Huckleberry Knob from Blood Mtn
+
+- **Duration**: 2:10 (0:10 slower than Google Maps predicts)
+- **Directions**:
+  - North (Left) on US-129 from parking and go 12.4
+  - Straight, through traffic circle and go 0.1
+  - L on US-76 ramp, L on US-76 and go 0.4
+  - R on US-129 and go 14.3
+  - R on US-129 and go 13
+  - L on NC-143 (Cherohalla Skyway, at sign for "Joyce Kilmer Mem Forest") and go 3.4
+    - Google maps will try and shortcut you to turn left early, just as you reach Robbinsville. Don't!
+    - Continue through Robbinsville to where NC-143 turns L just before US-129 crosses the river.
+  - R on NC_143 and go 16.0
+- **Food**
+  - Last food in Robbinsville
+  - Multiple options in Blairsville on and shortly after the US-76 segment.
+
+#### 
+
 #### Huckleberry Knob from Wine Spring Bald
+
 * **Duration**: 1:30
 * **Directions**:
     * Drive downhill and go 0.7
@@ -47,6 +71,33 @@ Drive to Trailhead & Trail Guide - Huckleberry Knob
 * **Food**
     * Last McDonalds: Robbinsville, NC (on right, after Ingles)
 
+
+
+#### Huckleberry Knob TO Atlanta
+
+- **Duration**: 3:15
+
+- **Directions**:
+
+  - L on NC_143 and go 16
+
+  - L on NC_143 and go 3.4
+
+  - R on US-129 and go 13
+
+  - R on US-74 and go 30.4
+
+  - L on NC-60 and go 5
+
+  - S on GA-60 Spur (GA-60S) and go 7.6
+
+  - L on GA-60 and go 1.9
+
+  - R on GA-515 and go 1.9
+
+  - S on GA-5 / I-575 and go 75 miles
+
+
 #### Trail Guide
 
 * **Duration**: 
@@ -55,10 +106,12 @@ Drive to Trailhead & Trail Guide - Huckleberry Knob
     * Follow the closed, grassy road from corner of parking area.
     * Pass through first clearing.  Continue to follow the road through clearing.  If obscured by snow, just head to north edge of clearing.
     * Follow road to summit in second clearing.
-    * Activation zone: When the trail enters the clearing on Huckleberry Knob, you are 60' below the high point.  If you needed to, you could operate from here.
+    * Activation zone: When the trail enters the clearing on Huckleberry Knob, you are 60' below the high point.  If you need to, you can operate from here.
 * **Trailhead altitude**: 5290
 * **Summit altitude**: 5580
+* **Grid**: EM85ah
 * **GPS tracks/waypoints**:
+    * Parking: 35.3135, -83.9911
     * Trailhead: 35.314, -83.991
     * Summit: 35.3221, -83.9938
 
