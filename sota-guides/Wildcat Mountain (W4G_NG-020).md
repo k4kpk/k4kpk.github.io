@@ -15,9 +15,9 @@ Trip-specific: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 #### Drive Guide - Wildcat Mountain from ATLANTA
 
-* **Duration**: 1:45
+* **Duration**: 1:35
 * **Google Maps** URL from Atlanta (33.91998, -84.33898): 
-    * http://goo.gl/maps/wtGrc
+    * https://tinyurl.com/atlanta-wildcat
 * **Seasonal/Limited Access**:  All seasons, paved roads, BUT Richard B Russell sometimes gets closed for **repairs** or ice.  Check with GDOT.  Plan an alternate.
 * **Directions**:
     * N on GA-400 and go 47 miles.
@@ -32,7 +32,8 @@ Trip-specific: Drive to Trailhead & Trail Guide
         * Note: If lot full, there's another, 1/10 mile farther on GA-348.
 * **Food**
     * Last McDonalds: GA-400 at GA-53.
-    * Dinner: 5 Guys in Home Depot shopping center, just south of GA-53, or there's a barbecue joint with a pink pig across from the McDonalds at GA-53.
+      * If you miss it, add 10 minutes and go to 1550 S Main St Cleveland, GA.
+    * Dinner: 5 Guys in Home Depot shopping center, just south of GA-53
 
 #### Drive Guide - Wildcat Mountain from Sassafras Mtn (W4G/NG-040)
 
@@ -51,7 +52,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
  * R on GA-348 (Richard B Russel Scenic Hwy).  Go 6.9
    * Parking lot on left, at AT crossing.
 * **Food**: None on the way
-    * Dinner: 5 Guys in Home Depot shopping center, just south of GA-53, or there's a barbecue joint with a pink pig across from the McDonalds at GA-53.
+    * Dinner: 5 Guys in Home Depot shopping center, just south of GA-53
 
 #### Drive Guide - Wildcat Mtn to Atlanta (partial)
 
@@ -67,7 +68,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 
 * **Duration**: 0.8 miles / 0:30 up (if fresh), 0:20 down
 * **Navigation**
-    * Take the AT on the south side of GA-348.  Trail crosses highway SE of the lot; it is obvious and well-marked.
+    * Take the AT on the south side of GA-348.  Trail crosses highway SE of the lot; it is obvious.
     * Climb steeply (w/switchbacks) for 0.2 miles.
     * Turn left (south) on Whitley Gap Shelter trail.  Blue-blazed ridge trail.
     * Reach summit in 0.6 miles.

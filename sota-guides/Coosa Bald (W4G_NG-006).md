@@ -1,16 +1,3 @@
----
-layout: sota-guide
-points: 10
-miles: 0.7
-bushwhack: N
-pair: Akin, Buckeye, Sheriff
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: N
----
 Coosa Bald: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 
@@ -31,7 +18,7 @@ Coosa Bald: Drive to Trailhead & Trail Guide
         * Duncan Ridge Rd Landmarks, where Duncan Ridge Rd meets GA-180:
         * Watch for "Wolf Pen Gap" highway sign on the right.
         * On left: Dirt road with "Coopers Creek WMA" sign.
-    * Duncan Ridge Rd is *barely* drivable in a Corolla in December 2013.  Deep ruts.  Particularly challenging on the day after rain.
+    * Duncan Ridge Rd *barely* drivable in a Corolla in December 2013.  Deep ruts.  In 2018, very drivable 3 or more days after rain. Risk of stuck in muddy rut if road wet from recent rain.
     * Note: If Duncan Ridge Rd impassible, trail meets GA-180 at Duncan Ridge Rd and runs to the trailhead 1.2 miles up Duncan Ridge Rd, adding 1 steep mile distance to the hike.
 
 * **Food**
@@ -98,8 +85,8 @@ Coosa Bald: Drive to Trailhead & Trail Guide
     * Trees around the opening at the summit. Not a lot of real tall trees. Mostly semi-dwarf. Space to guy out a vertical is limited right at the summit, but there's space among the trees within the activation zone.
 
 * Cell coverage: 
-    * No cell coverage is available at the summit. However, I got 4 bars on the trail about 1/4 mile short of the summit. If you want to self-spot, take a collaborator with you and send him/her back up the trail.
-    * I briefly had VZN coverage, and got out a test email, but could not post a spot.
+    * 2018 (ATT): 4 of 5 SMS succeeded; 5th SMS sent successfully but its confirmation failed. 
+    * 2015: No cell coverage is available at the summit. However, I got 4 bars on the trail about 1/4 mile short of the summit. If you want to self-spot, take a collaborator with you and send him/her back up the trail. 
     * KI4SVM reported no cell coverage on 2013.01.19
     * 2013.12.15 - My APRS self-spot went out promptly.
 * Unique features:

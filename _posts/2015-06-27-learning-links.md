@@ -1,10 +1,10 @@
 ---
-categories: []
-layout: post
 title: Learning Links
+layout: post
 created: 1435432583
-redirect_from: /content/learning-links
+redirect_from: "/content/learning-links"
 ---
+
 Here are some sites I find helpful for learning ham radio and electronics:
 
 * [All About Circuits textbooks](http://www.allaboutcircuits.com/textbook/)
@@ -14,6 +14,8 @@ Here are some sites I find helpful for learning ham radio and electronics:
     * Browser based: Random character groups, call signs, RSS headlines, QSO.  Many RSS feeds now fail to load.
 * [AA9PW - Ham Morse](http://aa9pw.com/hammorse/)
     * iPhone/iPad: Similar to his web site in features and in issues.    Many RSS feeds now fail to load.
+* [Seiuchy](http://seiuchy.macache.com/)
+    * Morse code trainer
 * [ZL1AN Teach](http://www.qsl.net/zl1an/)
     * Windows: 950 supplied texts can be played at any speed
 * [G4FON](http://www.g4fon.net/CW%20Trainer.htm)
