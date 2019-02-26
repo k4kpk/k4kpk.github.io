@@ -4,4 +4,4 @@ jekyll-k4kpk:
     ports:
         - 4001:4001
     volumes:
-        - /Users/kevin/Sync/Sites/k4kpk.github.io:/srv/jekyll
+        - /home/kevin/sites/k4kpk.github.io:/srv/jekyll
