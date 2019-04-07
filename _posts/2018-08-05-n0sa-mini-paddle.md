@@ -2,7 +2,7 @@
 title: N0SA Mini-paddle
 ---
 
-I'm a big fan of the N0SA mini-paddle, for SOTA CW use.  It is lightweight, has a good feel... and it is supported by N0SA.  He calls them "SSP Mini Paddles" and they are aluminum and steel.
+I'm a fan of the N0SA mini-paddle, for SOTA CW use.  It is lightweight, has a good feel... and it is supported by N0SA.  He calls them "SSP Mini Paddles" and they are aluminum and steel.
 
 Like all paddles with steel-posts and aluminum arms, I have trouble with developing a high-resistance connection between the pin and the arm/paddle, particularly after a period of non-use.  So I decided to pull the arm off.  To do so meant removing a c-clip.
 
