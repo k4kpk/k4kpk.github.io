@@ -31,6 +31,8 @@ Drive to Trailhead & Trail Guide - Siler Bald
         * L onto dirt road and go 0.1.
             * Keep L at fork.  Park in small parking area at end of dirt road.
         * Note: There are some pretty deep ruts on this short driveway/road in 2014.
+* **McDonalds**: Cornelia, GA (Level Grove Rd) about 1:15 from home.
+    * Slow McDonalds in Clayton, GA and Franklin, NC, if you miss the Cornelia McD.
 
 #### Drive Guide - Siler Bald FROM Wine Spring Bald
 
