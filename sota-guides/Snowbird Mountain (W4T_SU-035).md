@@ -1,5 +1,3 @@
-If a Summit is missing from SOTA trip library on k4kpk.com:
-* Check to see that the .md file has the header. The layout script only adds items to the library if they have "layout: sota-guide":
 ---
 layout: sota-guide
 points: 8

@@ -1,5 +1,5 @@
 ---
-layout: sota-guide
+layout: draft-sota-guide
 points: 8
 miles: 0
 bushwhack: N
@@ -13,7 +13,7 @@ sms:
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - SummitName
+####Drive Guide - Lickstone Bald
 
 * **Duration**: 
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 

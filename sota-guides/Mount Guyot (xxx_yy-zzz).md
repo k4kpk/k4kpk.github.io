@@ -1,5 +1,5 @@
 ---
-layout: sota-guide
+layout: draft-sota-guide
 points: 8
 miles: 0
 bushwhack: N
