@@ -19,16 +19,14 @@ Drive to Trailhead & Trail Guide - Black Balsam
 #### Drive Guide - Black Balsam Knob from Richland Balsam
 
 * **Duration**: 0:20, 11.5 miles
-* **Google Maps**:
 * **Directions**:
   * Left on BRP and go 10.8
-  * Left on Black Balsam Knob Rd at BRP mile 420.2 and go 0.7
-    * Trailhead is on R.
+  * Left on Black Balsam Knob Rd at BRP mile 420.2 and go 0.7.  Trailhead is on R.
 
 #### Drive Guide - Black Balsam Knob from Atlanta
 
 - **Duration**: 3:10, 173 miles
-- **Google Maps** URL from Atlanta (33.91998, -84.33898): 
+- **Google Maps** URL from Atlanta: 
 - **Seasonal/Limited Access**: Blue Ridge Parkway closed in winter.   KI4SVM says "often access from the side Hwy 215 is available... BRP's infoline... is highly recommended - 828-298-0398."
 - **Directions**:
   - I-285 E
@@ -39,8 +37,7 @@ Drive to Trailhead & Trail Guide - Black Balsam
   - Ramp for 64 E and go 13.1
   - L on BRP access rd and go 0.5
   - L on Blue Ridge Parkway and go 23.3
-  - L on Black Balsam Rd at BRP mile 420.2 and go 0.7
-    - Trailhead is on the right.
+  - L on Black Balsam Rd at BRP mile 420.2 and go 0.7.  Trailhead is on the right.
 - **Food**
   - Last McDonalds: 7512 Skyland Dr  Sylva, NC (1.4 miles from exit); exit 85 (US-23 Business) on US-64.
   - Also McDonalds in Franklin and Clayton. Slow service Saturday A.M.

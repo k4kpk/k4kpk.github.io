@@ -23,6 +23,13 @@ Richland Balsam - Drive to Trailhead & Trail Guide
   - R on BRP and go 10.8
   - R into parking lot. "Haywood Jackson Overlook. Elevation 6020". No restroom.
 
+#### Drive Guide - Richland Balsam from Mt Hardy (Mt Hardy Gap)
+
+- **Duration**: 10 minutes, 6.8 miles
+- **Directions**:
+  - Head compass north (BRP south, toward Cherokee) on BRP and go 6.8
+  - R into parking lot. "Haywood Jackson Overlook. Elevation 6020". No restroom.
+
 #### Drive Guide - Richland Balsam from Atlanta
 
 * **Duration**: 165 miles, 2:55.  **Google Maps**: https://tinyurl.com/atl-to-richland
@@ -34,8 +41,7 @@ Richland Balsam - Drive to Trailhead & Trail Guide
     * US-23N and go 76.6
     * L to Blue Ridge Pky access and go 0.5
     * L onto Blue Ridge Pky and go 12.5
-       * Pass lot on RIGHT for the overlook (same side as drop-off) near milepost 431.
-       * Big sign, "Richland Balsam Highest Point on Parkway". No restroom.
+       * PAST big sign: "Richland Balsam Highest Point on Parkway". Not here.
     * L into parking lot. "Haywood Jackson Overlook. Elevation 6020".  No restroom.
 * **Food**
     * Last McDonalds: 329 Franklin Plaza, Franklin, NC (poor service)
@@ -89,6 +95,5 @@ Richland Balsam - Drive to Trailhead & Trail Guide
 
 #### Summit Guide
 
-* Hang antenna from tree: Yes.
-* Space to guy mast: Yes.  I bungeed my mast to the you-are-at-summit sign.
+* Hang antenna from tree: Yes.  Guy mast: Yes.  I bungeed my mast to the at-summit sign.
 * Cell coverage: 2018: APRS OK; **no** AT&T cell.  2016: AT&T intermittent; Verizon OK; APRS OK.

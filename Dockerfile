@@ -1,3 +1,3 @@
-FROM jekyll/jekyll:pages  
+FROM jekyll/jekyll:pages
 RUN gem install jekyll-admin
 

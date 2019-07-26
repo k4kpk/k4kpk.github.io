@@ -13,10 +13,10 @@ sms: TF
 ---
 Drive to Trailhead & Trail Guide - Mt Hardy - 10 points
 --------------------------------------------------------
-#### Drive Guide - Atlanta to Mt Hardy
+#### Drive Guide - Atlanta to Mt Hardy (Buckeye Gap Trailhead)
 
 * **Duration**: 171 miles, 3:05
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/9zN9u
+* **Google Maps** URL from Atlanta (33.91998, -84.33898):
 * **Seasonal/Limited Access**: Check the [BRP Closure Map](http://www.nps.gov/maps/blri/road-closures/).
 * **Directions**:
     * I-285 to I-85 N
@@ -48,7 +48,27 @@ Drive to Trailhead & Trail Guide - Mt Hardy - 10 points
     * [Park map](http://gastateparks.org/net/go/parks.aspx?locid=46&show=map) shows a shelter symbol on a creek, north of "Terrora Campground"
     * "Pioneer Campground" is marked on [this map](http://www.chaswebs.com/hiking/tallulah_gorge_hiking.htm)
 
-#### Trail Guide
+#### Drive Guide - Black Balsam to Mt Hardy (Mt Hardy Gap Trailhead)
+
+- Head back to BRP on Black Balsam Knob Rd.
+- R on BRP and go 4.0
+
+#### Trail Guide - Mt Hardy Gap to Summit
+
+- **Duration**: 0:50 up; 0:35 down; 0.9 miles
+- **Navigation**
+  - You will need a GPS to follow the route. Head mostly north about 0.6. Then turn L onto main trail and go south 0.3 to the summit.
+  - Caltopo indicates another tail, NNNW, with lots of switchbacks, heading directly up the summit.
+  - The trailhead is just (compass) north of the end of the paved drainage ditch. 
+  - Park 50 yards (compass) north of the end of the paved drainage ditch.
+  - Pat says "... there is a paved drainage ditch along the north side of the road and where it ends is ... where you go into the woods... park around 50 yards to BRP southbound from the drainage ditch end."
+- **GPS Failure recovery**: Head compass south until you reach BRP. You can go a little EAST of straight-down-the-hill, but not much or you'll have to climb back up to BRP.
+- **Trailhead altitude** (Mt Hardy Gap): 5520' @ parking @ 35.29949,-82.92544
+- **Summit altitude**: 6140' @ 35.3031, -82.9276
+- **GPS tracks/waypoints**:
+  - Follow Pat's GPS trace, but don't take the eastward jag at the beginning.
+
+#### Trail Guide - Buckeye Gap to Summit
 
 * **Duration**: 1:40 up; 1:15 down; 2.2 miles
 * **Navigation**
@@ -58,10 +78,12 @@ Drive to Trailhead & Trail Guide - Mt Hardy - 10 points
         * The compass says it is the north end of the lot.  Parkway mileposts say it is the southern end of the lot because the northbound parkway heads south here.
     * After a few hundred yards, note the metal posts.  When you return, you need to retrace your route, and there's a risk you'll wander off to the right.
     * At 1.3 miles (about 0:40 for me), there is a steep, vague trail climbing up to your right.  Take this trail.  (I missed it, and went an extra 0.6 on the level trail.)
-* **Trailhead altitude**: 5300' @ parking lot @ 35.3041900, -82.9422550
-* **Summit altitude**: 6140'
+* **Trailhead altitude** (Buckeye Gap): 5300' @ parking lot @ 35.3041900, -82.9422550
+* **Trailhead altitude** (Mt Hardy Gap): 5520' @ parking @ 35.29949,-82.92544
+* **Summit altitude**: 6140' @ 35.3031, -82.9276
 * **GPS tracks/waypoints**:
-    * 35.3087,-82.92525 = Intersection with route from NC-215
+    * 35.3087,-82.92525 = Intersection with route from NC-215 (Buckeye Gap route)
+    * 35.30589,-82.92599 = Intersection of Mt Hardy Gap trail with other routes.
 
 #### Summit Guide
 

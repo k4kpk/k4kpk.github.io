@@ -30,7 +30,7 @@ Drive to Trailhead & Trail Guide - Bluff Mountain via Lemon Gap
 #### Trail Guide from Lemon Gap
 
 * **Duration**: 4 miles, 3:20 up, 3:00 down.
-    * In 2018, this was about all I could <u>comfortably</u> handle.  I was pretty tired by the time I reached the car, but I was not miserable. 
+    * In 2018, this was about all I could <u>comfortably</u> handle.  (I did Walnut and Bluff but NOT Max Patch.)  I was pretty tired by the time I reached the car, but I was not miserable. 
 * **Navigation to Walnut Mtn**  (See Walnut Mtn guide.)
 * **Navigate from Walnut to Bluff Mountain**
     * Continue on AT 3 miles. You'll pass through 2 gaps, then pass 3 water sources (a trickle, a small cascade, and a trickle - tank up at the cascade), then climb the ridge to Bluff Mtn.  Take lots of breaks along the way; this is a slow hike.
