@@ -13,7 +13,7 @@ sms:
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Mount Guyot
+#### Drive Guide - Mount Guyot
 
 * **Duration**: 
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -25,7 +25,7 @@ Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: 
     * Dinner
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: **Overnight required** (If you don't overnight at Tricorner Knob shelter, you'll have to overnight before/after near the trailhead, because it will be 14-16 hours to hike and activate.
 * **Navigation**: 
@@ -38,7 +38,7 @@ Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * x
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:
@@ -46,6 +46,6 @@ Drive to Trailhead & Trail Guide
 * Unique features:
     * x
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * summits listed here with some clue as to where/how

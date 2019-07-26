@@ -13,7 +13,8 @@ sms:
 ---
 Drive to Trailhead & Trail Guide - Snowbird Mtn
 --------------------------------------------------------
-####Drive Guide - Snowbird Mountain from Atlanta
+
+#### Drive Guide - Snowbird Mountain from Atlanta
 
 * **Duration**: 3:45
 * **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/EzDYN
@@ -58,7 +59,7 @@ Drive to Trailhead & Trail Guide - Snowbird Mtn
         * It is too steep to drive all the way to the top in 2WD.  Park in 90° pull-out on L at 35.7987,-83.0458.  (Room for 2 small cars.)
 
 
-####Drive Guide - Snowbird Mountain TO Atlanta
+#### Drive Guide - Snowbird Mountain TO Atlanta
 * **Duration**: 3:45
 * **Directions**:
     * Head out on Grassy Fork Rd and go 4.2
@@ -69,7 +70,7 @@ Drive to Trailhead & Trail Guide - Snowbird Mtn
     * US-23 S / US-441 S and go 98
     * I-985 S to I-85 S
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.2 miles, 10 minutes
 * **Navigation**
@@ -83,7 +84,7 @@ Drive to Trailhead & Trail Guide - Snowbird Mtn
 * **Trailhead altitude**: ~3485' @ 35.7987,-83.0458 parking
 * **Summit altitude**: 4260' @ 35.7897, -83.0525
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree: No
 * Space to guy mast: Yes

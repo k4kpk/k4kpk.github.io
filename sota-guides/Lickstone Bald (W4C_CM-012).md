@@ -13,7 +13,7 @@ sms:
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Lickstone Bald
+#### Drive Guide - Lickstone Bald
 
 * **Duration**: 
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -25,7 +25,7 @@ Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: 
     * Dinner
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**:
 * **Navigation**
@@ -35,7 +35,7 @@ Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * x
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:
@@ -43,10 +43,10 @@ Drive to Trailhead & Trail Guide
 * Unique features:
     * x
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * summits listed here with some clue as to where/how
 
-####Pre-planning notes:
+#### Pre-planning notes:
 
 * Paul Benson (pdbenson@charter.net - not a SOTA guy) - I have an email from him in my Gmail that shows a GPX and a top with the route.

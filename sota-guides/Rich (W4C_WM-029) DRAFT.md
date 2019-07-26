@@ -13,7 +13,7 @@ sms:
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Rich (WM-029)
+#### Drive Guide - Rich (WM-029)
 
 * **Duration**: 
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -25,7 +25,7 @@ Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: 
     * Dinner
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1.8 miles with 610' climb
 * **Navigation**
@@ -36,7 +36,7 @@ Trailhead is accessed by seasonal FS Road 4665 off of Charlie's Creek Road ( <br
 * **GPS tracks/waypoints**:
     * x
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:
@@ -44,6 +44,6 @@ Trailhead is accessed by seasonal FS Road 4665 off of Charlie's Creek Road ( <br
 * Unique features:
     * x
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * summits listed here with some clue as to where/how

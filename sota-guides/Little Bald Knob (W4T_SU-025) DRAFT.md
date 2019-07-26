@@ -13,7 +13,7 @@ sms:
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Little Bald Knob
+#### Drive Guide - Little Bald Knob
 
 * **Duration**: 4:15, 260 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
@@ -39,7 +39,7 @@ Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: 
     * Dinner
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 0.7 miles, about 660' climb; 0:40 up; 0:25 down
 * **Navigation**
@@ -51,7 +51,7 @@ Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * x
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:
@@ -59,6 +59,6 @@ Drive to Trailhead & Trail Guide
 * Unique features:
     * x
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * summits listed here with some clue as to where/how

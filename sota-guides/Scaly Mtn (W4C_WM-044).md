@@ -13,7 +13,7 @@ sms:
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
-####Drive Guide - Scaly Mtn from Atlanta
+#### Drive Guide - Scaly Mtn from Atlanta
 
 * **Duration**: 1:55, 115 miles
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/CBxy7
@@ -30,7 +30,7 @@ Drive to Trailhead & Trail Guide
     * Penultimate McDonalds: 
     * Dinner
 
-####Trail Guide
+#### Trail Guide
 
 * **Duration**: 1.8, 1:30
 * **Navigation**
@@ -44,7 +44,7 @@ Drive to Trailhead & Trail Guide
 * **GPS tracks/waypoints**:
     * 
 
-####Summit Guide
+#### Summit Guide
 
 * Hang antenna from tree:
 * Space to guy mast:
@@ -52,6 +52,6 @@ Drive to Trailhead & Trail Guide
 * Unique features:
     * x
 
-####Plan-B Candidates
+#### Plan-B Candidates
 
 * summits listed here with some clue as to where/how
