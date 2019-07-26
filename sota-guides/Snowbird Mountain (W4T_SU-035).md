@@ -72,7 +72,7 @@ Drive to Trailhead & Trail Guide - Snowbird Mtn
 
 #### Trail Guide
 
-* **Duration**: 0.2 miles, 10 minutes
+* **Duration**: 1.5 miles, 55 minutes up; 35 down. (When very tired.)
 * **Navigation**
     * Walk up-hill
     * Walk past the gate
