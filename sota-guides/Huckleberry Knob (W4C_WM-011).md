@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Huckleberry Knob
 #### Drive Guide - Huckleberry Knob from Atlanta
 
 * **Duration**: 3:15
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): https://tinyurl.com/huckleberry-2
+* **Google Maps** URL from Atlanta (33.917, -84.3378): https://tinyurl.com/huckleberry-2
 * **Seasonal/Limited Access**:
 * **Directions**: CAUTION: Confusing route.  I missed a turn in 2014.
     * I-285 W

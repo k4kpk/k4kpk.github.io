@@ -16,7 +16,7 @@ Buzzard Knob: Drive to Trailhead & Trail Guide
 #### Drive Guide - Buzzard Knob via Blue Ridge Gap
 
 * **Duration**: 2:10 Estimated.
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): https://goo.gl/maps/yRzXq7qJRrG2
+* **Google Maps** URL from Atlanta (33.917, -84.3378): https://goo.gl/maps/yRzXq7qJRrG2
 * **Seasonal/Limited Access**: Last bit is steep, dirt road.  Impassible in 2014; re-graded in 2015.
 * **Directions**:
     * Take a good street-capable GPS and pre-load maps, if necessary.  You'll want it for your final approach, where Google Maps and reality diverge.

@@ -16,7 +16,7 @@ Big Bald Mountain: Drive to Trailhead & Trail Guide
 Assumes seasonal gates are closed, and route is via hiking USFS-338.
 #### Drive Guide - Big Bald Mountain (BBM)
 * **Duration**: 1:45
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/AGglU
+* **Google Maps** URL from Atlanta (33.917, -84.3378): http://goo.gl/maps/AGglU
 * **Seasonal/Limited Access**: 
     * No limits to Rock Creek Road.
     * USFS-338 (at Stanley Gap) is open March 15 - May 16, Aug 10 - Dec 31. (I've seen it open in Nov.)

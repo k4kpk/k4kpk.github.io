@@ -12,7 +12,7 @@ pair: Steestachee Bald, Waterrock Knob, Bunches Bald, Barnett Knob
 sms: unknown
 ---
 
-Richland Balsam - Drive to Trailhead & Trail Guide
+Trail Guid: Richland Balsam
 -------------------------------------------------
 
 #### Drive Guide - Richland Balsam from Black Balsam
@@ -36,7 +36,7 @@ Richland Balsam - Drive to Trailhead & Trail Guide
 * **Seasonal/Limited Access**: Parkway closed in winter.  Check the [BRP Closure Map](http://go.nps.gov/blri-roads).
 
 * **Directions**:
-    * I-285 to I-85. On I-85 go N 16.6
+    * I-285 to I-85N.
     * I-985/GA-365 and go 52.6
     * US-23N and go 76.6
     * L to Blue Ridge Pky access and go 0.5
@@ -44,8 +44,7 @@ Richland Balsam - Drive to Trailhead & Trail Guide
        * PAST big sign: "Richland Balsam Highest Point on Parkway". Not here.
     * L into parking lot. "Haywood Jackson Overlook. Elevation 6020".  No restroom.
 * **Food**
-    * Last McDonalds: 329 Franklin Plaza, Franklin, NC (poor service)
-    * Penultimate McD: Clayton, GA (busy on Saturday mornings)
+    * Last McDonalds: Avoid Franklin + Clayton. Slow on Saturday A.M.
     * Antepenultimate: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
 #### Drive Guide - Richland Balsam from Waterrock Knob
@@ -96,4 +95,4 @@ Richland Balsam - Drive to Trailhead & Trail Guide
 #### Summit Guide
 
 * Hang antenna from tree: Yes.  Guy mast: Yes.  I bungeed my mast to the at-summit sign.
-* Cell coverage: 2018: APRS OK; **no** AT&T cell.  2016: AT&T intermittent; Verizon OK; APRS OK.
+* Spotting: No AT&T Cell 2019; good APRS 2019.

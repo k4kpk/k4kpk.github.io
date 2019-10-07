@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Siler Bald
 #### Drive Guide - Siler Bald FROM Atlanta
 
 * **Duration**: 2:20
-* **Google Map** from Atlanta (33.91998, -84.33898): https://goo.gl/maps/iZ3b8vam9SN2
+* **Google Map** from Atlanta (33.917, -84.3378): https://goo.gl/maps/iZ3b8vam9SN2
 * **Seasonal/Limited Access**: All weather
 * **Directions**:
     * I-985/US-23 North and go 52.6
@@ -65,7 +65,7 @@ Drive to Trailhead & Trail Guide - Siler Bald
 
 #### Drive Guide - Winding Stair Gap from Atlanta
 * **Duration**: 2:10, 131 miles
-* **Google Map** from Atlanta (33.91998, -84.33898): https://goo.gl/maps/iMiLpUXU4su
+* **Google Map** from Atlanta (33.917, -84.3378): https://goo.gl/maps/iMiLpUXU4su
 * **Seasonal/Limited Access**: All weather, all paved
 * **Directions**:
     * I-85 North to I-985 North to US-23 North to US-64 West at Franklin

@@ -9,9 +9,9 @@ pair: Green Knob, Mt Pisgah, Richland Balsam
 # Optional: Provide the latest year checked.
 # e.g: TM-2017, VF, P-2016
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: unknown
+sms: TM-2019, PW-2019
 ---
-Drive to Trailhead & Trail Guide - Black Balsam
+Trail Guide: Black Balsam
 --------------------------------------------------------
 
 * Parking is an issue.  At 9 AM on Memorial Day, it was almost full; by 11 AM, *everything* was full.
@@ -21,15 +21,14 @@ Drive to Trailhead & Trail Guide - Black Balsam
 * **Duration**: 0:20, 11.5 miles
 * **Directions**:
   * Left on BRP and go 10.8
-  * Left on Black Balsam Knob Rd at BRP mile 420.2 and go 0.7.  Trailhead is on R.
+  * Left on Black Balsam Knob Rd at BRP mile 420.2 and go 0.7.  Trailhead on R.
 
 #### Drive Guide - Black Balsam Knob from Atlanta
 
-- **Duration**: 3:10, 173 miles
+- **Duration**: 3:20, 173 miles. (Google says 3:10 but  experience says 3:20.)
 - **Google Maps** URL from Atlanta: 
 - **Seasonal/Limited Access**: Blue Ridge Parkway closed in winter.   KI4SVM says "often access from the side Hwy 215 is available... BRP's infoline... is highly recommended - 828-298-0398."
 - **Directions**:
-  - I-285 E
   - I-85 N and go 16.6
   - I-985/GA-365 N and go 52
   - US-441 N and go 44
@@ -40,7 +39,7 @@ Drive to Trailhead & Trail Guide - Black Balsam
   - L on Black Balsam Rd at BRP mile 420.2 and go 0.7.  Trailhead is on the right.
 - **Food**
   - Last McDonalds: 7512 Skyland Dr  Sylva, NC (1.4 miles from exit); exit 85 (US-23 Business) on US-64.
-  - Also McDonalds in Franklin and Clayton. Slow service Saturday A.M.
+  - Avoid McDonalds in Franklin and Clayton. Slow service Saturday A.M.
   - Before that: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
 #### Drive Guide - Black Balsam Knob from Green Knob

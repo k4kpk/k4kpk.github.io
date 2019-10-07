@@ -23,7 +23,7 @@ Cool accommodations: http://www.main.nc.us/graham/hiking/santeetlah.html
 #### Drive Guide
 
 * **Duration**: 3:30
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/S4YjT
+* **Google Maps** URL from Atlanta (33.917, -84.3378): http://goo.gl/maps/S4YjT
 * **SOTA Extra Info Page**: http://sotawatch.org/summits.php?summit=w4c/wm-020
 * **Seasonal/Limited Access**: All seasons, all weather.  You can drive it in a sports car.
 * **Directions**

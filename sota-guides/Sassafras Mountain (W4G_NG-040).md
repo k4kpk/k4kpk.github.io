@@ -24,7 +24,7 @@ Drive to Trailhead & Trail Guide - Sassafras Mtn
 #### Drive Guide - Sassafras Mountain from ATLANTA
 
 * **Duration**: 1:30
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
+* **Google Maps** URL from Atlanta (33.917, -84.3378): 
 * **Seasonal/Limited Access**: Dirt roads; quality OK.
 * **Directions**:
     * WARNING: Take the route shown below

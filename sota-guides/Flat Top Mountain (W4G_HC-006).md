@@ -17,7 +17,7 @@ Drive to Trailhead & Trail Guide - Flat Top Mtn
 
 * **Duration**: 2:20 to Dyer Cemetery. 
     * Allow 20 minutes more, if you drive from Dyer up to the almost-summit turn-around.
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): [http://goo.gl/maps/K0jCA](http://goo.gl/maps/K0jCA)
+* **Google Maps** URL from Atlanta (33.917, -84.3378): [http://goo.gl/maps/K0jCA](http://goo.gl/maps/K0jCA)
 * **Seasonal/Limited Access**:  
     * No limits if hiking from Dyer Cemetery.
     * Gate on final mile (USFS-64A) officially closed Jan to mid-March.

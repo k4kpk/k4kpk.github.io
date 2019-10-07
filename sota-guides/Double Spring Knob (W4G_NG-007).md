@@ -18,7 +18,7 @@ Double Spring Knob + Round Top: Drive to Trailhead & Trail Guide
 #### Drive Guide
 
 * **Duration**: 2:30 from Atlanta
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/QQRl2
+* **Google Maps** URL from Atlanta (33.917, -84.3378): http://goo.gl/maps/QQRl2
 * **Seasonal/Limited Access**: Dirt road.  I saw open gates on 2012.12.30.  Patrick did not report closed gates on 2013.02.27.  FS map does not show it as seasonal.
 * **Directions**:
     * CAREFUL: The default Google Maps route got the penultimate bits WRONG!  

@@ -1,7 +1,29 @@
-jekyll-k4kpk:
-    build: .
-    command: jekyll serve --watch --incremental
-    ports:
-        - 4001:4001
-    volumes:
-        - /home/kevin/sites/k4kpk.github.io:/srv/jekyll
+version: "3.2"                    # Using version 3 docker-compose file format.
+services:
+    k4kpk:
+        container_name: k4kpk
+        build: .
+        network_mode: "host"
+        #ports:
+        #    - 4001:4001
+        # volume mount syntax= host-path:container-path
+        environment:
+        - TZ
+        volumes:
+#            - .:/srv/jekyll
+            - type: bind
+              source: "."
+              target: "/srv/jekyll"
+
+            - type: bind
+              source: "/etc/timezone"
+              target: "/etc/timezone"
+              read_only: true
+
+            - type: bind 
+              source: "/etc/localtime"
+              target: "/etc/localtime"
+              read_only: true
+
+
+        command: jekyll serve --port 4001 -H 192.168.8.10 --watch --incremental

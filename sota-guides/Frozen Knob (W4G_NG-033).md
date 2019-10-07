@@ -16,7 +16,7 @@ Trip-specific: Drive to Trailhead & Trail Guide
 #### Drive Guide - Frozen Knob
 
 * **Duration**: 2:00
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: 
 * **Seasonal/Limited Access**: USFS-346 *closed Jan 2 - Mar 10*. Unknown drivability in 2WD.
 * **Directions**:
     * GA-400 N and go 47

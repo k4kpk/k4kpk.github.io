@@ -18,7 +18,7 @@ Note: Buzzard Knob is also accessible via Charlies Creek Rd and Blue Ridge Gap. 
 #### Drive Guide - Buzzard Knob and Little Bald Knob Double-header
 
 * **Duration**: 2:00
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/9CYiQ
+* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: http://goo.gl/maps/9CYiQ
 * **Seasonal/Limited Access**: Paved road all the way.  Parking may be a problem on weekends.
 * **Directions**:
     * I-285

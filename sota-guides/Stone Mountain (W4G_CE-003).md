@@ -16,16 +16,17 @@ Drive to Trailhead & Trail Guide  - Stone Mtn
 #### Drive Guide
 
 * **Duration**: 40 minutes
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/mF3hd
+* **Google Maps** URL from Atlanta (33.917, -84.3378): http://goo.gl/maps/mF3hd
 * **Seasonal/Limited Access**: Year-round.  All weather.
 * **Directions**:
     * I-285 East
     * Exit 39B - US-78 East.  Go 8.0 miles.
     * Exit 8 - Stone Mountain Park
-    * Pay $10 at the gate to park, or buy a $35 annual pass. (Prices as of December 2012.)  Go 1.1.
+    * Pay at the gate to park, or buy an annual pass.  Go 1.1.
         * Gate is open 6 A.M. to midnight
     * Right on Robert E. Lee Blvd. Go 1.0 to trail parking lot.
     * Beware: Parking lot is often full.  Arrive early.
+    * Note: Free parking exists in Stone Mountain Village, and you can follow the PATH trail from the police department into the park near the parking lot.  (It is a flat walk!)
 
 * **Food**
     * Last McDonalds: 

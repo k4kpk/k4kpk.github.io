@@ -16,7 +16,7 @@ Glassy Mtn - Drive to Trailhead & Trail Guide. 8 points
 #### Drive Guide - Glassy Mtn from Atlanta
 
 * **Duration**: 1:45
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/4jV5Y
+* **Google Maps** URL from Atlanta (33.917, -84.3378): **https://tinyurl.com/atl-glassy2**
 * **Seasonal/Limited Access**:
 * **Directions**:
     * 285 East
@@ -71,7 +71,7 @@ Glassy Mtn - Drive to Trailhead & Trail Guide. 8 points
 
 #### Summit Guide
 
-* Don't drive past the gate if it is open.  It has a "No parking beyond the gate" sign.  I have seen a cell maintenance truck spend less than an hour at the summit.  He left the gate open on his way up and locked it on the way down.  He did not check with a group of people who had driven to the summit before leaving.  (They quickly chased him down the hill.) You could easily get locked in.
+* Don't drive past the gate if it is open.  It has a "No parking beyond the gate" sign.  I have seen a maintenance truck leave the gate open on his way up and lock it on the way down.  He did not check with a group who had driven to the summit before he left.  You could get locked in.
 * Hang antenna from tree: No.  All trees have been cleared.
 * Space to guy mast: Yes.
 * Cell coverage: ATT=yes, Vzn=adequate, Patrick says APRS=yes (but no tracking)

@@ -11,12 +11,12 @@ pair: Richland Balsam, Steestachee Bald, Bunches Bald, Barnett Knob
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T,V
 ---
-## Drive to Trailhead & Trail Guide - Waterrock Knob
+## Guide: Waterrock Knob W4C/WM-004
 
 #### Drive Guide - Waterrock Knob from Atlanta
 
 * **Duration**: 161 miles, 2:50
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): https://tinyurl.com/atl-to-waterrock
+* **Google Maps** URL from Atlanta (33.917, -84.3378): https://tinyurl.com/atl-to-waterrock
 * **Seasonal/Limited Access**: Parkway closed in winter.  Check the [BRP Closure Map](http://go.nps.gov/blri-roads).
 * **Directions**:
     * I-285 to I-85. On I-85 go N 16.6
@@ -43,7 +43,7 @@ sms: T,V
 * **Duration**: 20.4 miles, 33 minutes
 * **Google Maps** URL from Richland Balsam: https://tinyurl.com/WR-from-richland 
 * **Directions**:
-    * Head north (turn right exiting parking) on Blue Ridge Pky and go 20.1
+    * Head compass north (parkway south, toward Cherokee: turn right exiting parking) on Blue Ridge Pky and go 20.1
     * R to Waterrock Knob Parking (between mile markers 450 & 451) and go 0.3. Restrooms.
 
 #### Drive Guide - Waterrock Knob *to* Atlanta

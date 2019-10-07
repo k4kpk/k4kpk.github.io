@@ -16,7 +16,7 @@ Levelland via Tesnatee: Drive to Trailhead & Trail Guide
 #### Drive Guide - Levelland/Tesnatee Gap from ATLANTA
 
 * **Duration**: 1:45
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): https://goo.gl/maps/hHBHSgdjYtN2
+* **Google Maps** URL from Atlanta (33.917, -84.3378): https://goo.gl/maps/hHBHSgdjYtN2
 * **Seasonal/Limited Access**:  All seasons, paved roads, BUT Richard B Russell sometimes gets closed for **repairs** or ice.  Check with GDOT.  Plan an alternate.
 * **Directions**:
     * N on GA-400 and go 47 miles.

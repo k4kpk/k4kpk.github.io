@@ -18,7 +18,7 @@ Craggy Dome: Drive to Trailhead & Trail Guide
 NOTE: I've decided this is such a miserable hike and an ovegrown summit that after activating it twice, I'm not going to activate it again -- even for 10 points and even to make a triple-header possible.  It isn't any fun.
 
 * **Duration**: 217 miles, 4:15.  (Google says 3:45; it took me 4:10 in 2014.)
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/FU9qS
+* **Google Maps** URL from Atlanta (33.917, -84.3378): http://goo.gl/maps/FU9qS
 * **Seasonal/Limited Access**: Blue Ridge Parkway closes in bad weather. Check the [BRP Closure Map](http://www.nps.gov/maps/blri/road-closures/).  In Spring 2015, this was one of the last sections to open.
 * **Directions**:
     * I-285 E

@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Grassy Ridge Bald
 #### Drive Guide - Grassy Ridge Bald from Atlanta
 
 * **Duration**: 4:30  (Google says it is 4:20.  My 2018 experience is that you need 4:30 (plus any time for pit stops).
-* **Google Maps** URL fromAtlanta (33.91998, -84.33898): https://tinyurl.com/atl-grb-atl
+* **Google Maps** URL fromAtlanta (33.917, -84.3378): https://tinyurl.com/atl-grb-atl
 * **Seasonal/Limited Access**: Paved road all the way.
 * **Directions**:
  * I-285 to I-85 N

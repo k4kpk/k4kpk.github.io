@@ -41,7 +41,7 @@ The 5-way intersection in the middle of the camp:
 #### Drive Guide - Bunches Bald from Atlanta
 
 * **Duration**: 168 miles, 3:05
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/yrTpo
+* **Google Maps** URL from Atlanta (33.917, -84.3378): http://goo.gl/maps/yrTpo
 * **Seasonal/Limited Access**: Parkway closed in winter.  Check the [BRP Closure Map](http://www.nps.gov/maps/blri/road-closures/).
 * **Directions**:
     * I-285 to I-85. At I-85 go N 16.6

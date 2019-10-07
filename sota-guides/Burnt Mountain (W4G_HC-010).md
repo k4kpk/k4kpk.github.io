@@ -30,7 +30,7 @@ I'll update this post if I find anything more.
 #### Drive Guide - Burnt Mountain
 
 * **Duration**: 
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: [https://tinyurl.com/burnt-mtn-drive-1](https://tinyurl.com/burnt-mtn-drive-1)
+* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: [https://tinyurl.com/burnt-mtn-drive-1](https://tinyurl.com/burnt-mtn-drive-1)
 * **Final Drive**: [https://tinyurl.com/burnt-mtn-final-drive]( https://tinyurl.com/burnt-mtn-final-drive  )
 * **Seasonal/Limited Access**: All weather, all season.  Paved roads.
 * **Directions**:

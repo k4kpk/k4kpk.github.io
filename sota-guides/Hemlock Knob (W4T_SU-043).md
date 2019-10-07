@@ -41,7 +41,7 @@ Drive to Trailhead & Trail Guide - Hemlock Knob
 #### Drive Guide - Hemlock Knob from Atlanta
 
 * **Duration**: 3:00 (155 miles)
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: http://goo.gl/maps/2qX3t
+* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: http://goo.gl/maps/2qX3t
 * **Seasonal/Limited Access**: Paved all the way; Cherohala Skyway sometimes closed by snow
 * **Directions**:
     * I-285 W

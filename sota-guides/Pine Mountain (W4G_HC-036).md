@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Pine Mountain, W4G/HC-036
 #### Drive Guide - Pine Mountain from Atlanta
 
 * **Duration**: 0:45 from Atlanta
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): https://goo.gl/maps/GIqvp
+* **Google Maps** URL from Atlanta (33.917, -84.3378): https://goo.gl/maps/GIqvp
 * **Seasonal/Limited Access**: Year-round, all weather.
 * **Directions**:
     * I-285 West

@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Levelland Mtn
 #### Drive Guide - Levelland
 
 * **Duration**: 1:35
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/ESfYO
+* **Google Maps** URL from Atlanta (33.917, -84.3378): http://goo.gl/maps/ESfYO
 * **Seasonal/Limited Access**: All seasons, all weather roads.
 * **Directions**:
     * N on GA-400 from I-285 for 47 miles

@@ -18,7 +18,7 @@ Drive to Trailhead & Trail Guide - Horsetrough Mtn
 * **Duration**: 2:20
     * 1:40 from Perimeter Mall to Chattahoochee UMC.
     * 0:40 from Chattahoochee UMC to USFS-44C.
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: 
     * http://goo.gl/maps/Hl1Qr
     * WARNING: The Google Maps directions don't match up well with reality on the ground  after you leave 75A.  Use a good GPS.
 * **Seasonal/Limited Access**:

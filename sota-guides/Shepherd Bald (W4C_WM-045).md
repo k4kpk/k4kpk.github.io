@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Shepherd Bald
 #### Drive Guide - Shepherd Bald from ATLANTA
 
 * **Duration**: 
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: 
     * https://goo.gl/maps/Dc1uJsxKMLQ2  (includes Shepherd Bald and Cowee Bald)
 * **Seasonal/Limited Access**:
 * **Directions**:

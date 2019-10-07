@@ -28,7 +28,7 @@ Drive to Trailhead & Trail Guide - Bald Knob - 8 points
 
 * NOTE: If you are driving home late at night, the roads are twisty and slow; I recommend that you go up to the Blue Ridge Parkway and come home as if driving from Black Balsam Knob.
 * **Duration**: 3:00, 164 miles
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: https://goo.gl/maps/8rFJkXfNdjt
+* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: https://goo.gl/maps/8rFJkXfNdjt
 * **Seasonal/Limited Access**: Paved road all the way
 * **Directions**:
     * R on Explorer Rd and go 100'
@@ -43,7 +43,7 @@ Drive to Trailhead & Trail Guide - Bald Knob - 8 points
 #### Drive Guide - Atlanta to Bald Knob
 
 * **Duration**: 3:00, 165 miles
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/2hddE
+* **Google Maps** URL from Atlanta (33.917, -84.3378): http://goo.gl/maps/2hddE
 * **Seasonal/Limited Access**: Paved road all the way
 * **Directions**:
     * I-285 to I-85 N and go 83

@@ -18,7 +18,7 @@ Drive to Trailhead & Trail Guide - Green Knob
 * Note: This is the Green Knob with a fire tower.  There's another Green Knob which is near Mt Pisgah which has no fire tower.
 
 * **Duration**: 0:25, 9.6 miles
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: 
 * **Seasonal/Limited Access**: Blue Ridge Parkway closed in bad weather. Check the [BRP Closure Map](http://www.nps.gov/maps/blri/road-closures/).
 * **Directions**:
     * Head downhill 4.5 miles from parking lot

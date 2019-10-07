@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide
 #### Drive Guide - Pond Mountain
 
 * **Duration**: 4:30 from Atlanta; 2:20 from Knoxville
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: https://goo.gl/maps/B3DJ7wLN4272
+* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: https://goo.gl/maps/B3DJ7wLN4272
 * **Google Maps** URL from Knoxville: https://goo.gl/maps/vBEU6D2yDc32
 * **Seasonal/Limited Access**:
 * **Directions**:

@@ -17,7 +17,7 @@ Drive to Trailhead & Trail Guide
 
 * **Duration**: 2:15
     * Measured at 0:35 from Clayton to Patterson Gap
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/6avZl
+* **Google Maps** URL from Atlanta (33.917, -84.3378): http://goo.gl/maps/6avZl
 * **Seasonal/Limited Access**:
 * **Directions**:
     * Atlanta to Clayton GA - 1:45

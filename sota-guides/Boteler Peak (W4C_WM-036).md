@@ -16,7 +16,7 @@ Boteler Peak: Drive to Trailhead & Trail Guide
 #### Drive Guide - Standing Indian to Boteler Peak
 
 * **Duration**: 
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
+* **Google Maps** URL from Atlanta (33.917, -84.3378): 
 * **Seasonal/Limited Access**:
 * **Directions**:
     * Head back the way you came on the dirt road and go 5.8

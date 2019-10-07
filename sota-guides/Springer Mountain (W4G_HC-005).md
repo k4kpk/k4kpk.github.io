@@ -15,7 +15,7 @@ Drive to Trailhead & Trail Guide - Springer Mtn
 --------------------------------------------------------
 #### Drive Guide - Springer Mountain from Atlanta
 
-- **Google Maps** URL from Atlanta (33.91998, -84.33898): 
+- **Google Maps** URL from Atlanta (33.917, -84.3378): 
   - TO summit: **https://preview.tinyurl.com/springer-2018**
 - **Seasonal/Limited Access**: No gates encountered; lots of dirt road.
 - **Directions from Atlanta**: Duration = 1:55 (2014 measurement)

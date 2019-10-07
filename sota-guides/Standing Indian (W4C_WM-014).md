@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Standing Indian
 #### Drive Guide - Standing Indian from Atlanta
 
 * **Duration**: 2:35, 140 miles
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/Xg9UJ
+* **Google Maps** URL from Atlanta (33.917, -84.3378): http://goo.gl/maps/Xg9UJ
 * **Seasonal/Limited Access**:
 * **Directions**:
     * I-285E, to I-85N, to 985/365 N
@@ -47,7 +47,7 @@ Drive to Trailhead & Trail Guide - Standing Indian
 #### Drive Guide - Standing Indian (back route 1 - via Beech Gap) from Atlanta
 
 * **Duration**: 2:45, 133 miles
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: https://goo.gl/maps/izJJPAgceFE2
+* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: https://goo.gl/maps/izJJPAgceFE2
 * **Seasonal/Limited Access**:
 * **Directions**:
     * I-285 to I-85 N to I-985 to US-23/441 to Clayton, GA.  Trailhead is about 1 hour past Clayton.

@@ -56,7 +56,7 @@ Getting to near the destination (applies to all 3 entry points):
 #### Drive Guide - Tray Gap Trailhead From Atlanta via Corbin Creek Rd
 
 - **Duration**: 2:30
-- **Google Maps** URL from Atlanta (33.91998, -84.33898): https://tinyurl.com/tray-corbin
+- **Google Maps** URL from Atlanta (33.917, -84.3378): https://tinyurl.com/tray-corbin
 - Follow directions for "Atlanta to GA-75"
 - L on GA-75 and go 12.4
 - After crossing Hiwasee River, R on first road. (It is paved for 10'.)
@@ -67,7 +67,7 @@ Getting to near the destination (applies to all 3 entry points):
 #### Drive Guide - Tray Gap Trailhead From Unicoi Gap (Blue Mtn Parking) via Corbin Creek Rd
 
 - **Duration**: 0:50
-- **Google Maps** URL from Atlanta (33.91998, -84.33898): https://tinyurl.com/tray-corbin
+- **Google Maps** URL from Atlanta (33.917, -84.3378): https://tinyurl.com/tray-corbin
 - Follow directions for "Atlanta to GA-75"
 - R on GA-75 (north) from parking and go 4.6
 - After crossing Hiwasee River, R on first road. (It is paved for 10'.)
@@ -78,7 +78,7 @@ Getting to near the destination (applies to all 3 entry points):
 #### Drive Guide - Tray Gap Trailhead via Tray Mtn Rd
 
 * **Duration**: 2:15 to Tray Mtn.  Tray Mtn Rd is *slow*.
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): https://tinyurl.com/tray-via-tray
+* **Google Maps** URL from Atlanta (33.917, -84.3378): https://tinyurl.com/tray-via-tray
 * **Seasonal/Limited Access**:
     * Sometimes it is drivable in a sedan; sometimes it really needs 4WD + HGC.
     * Gates at both ends of IGG Rd.  Season is unknown. No gates on TM Rd. 

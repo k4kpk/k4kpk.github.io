@@ -19,7 +19,7 @@ New in 2016 - Road is  paved to the top.  This is now a drive-up summit, with an
 #### Drive Guide - Bell Knob from Atlanta
 
 * **Duration**: 2:05, 98 miles
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
+* **Google Maps** URL from Atlanta (33.917, -84.3378): 
     * http://goo.gl/maps/LQJzq
 * **Seasonal/Limited Access**:
 * **Directions**:

@@ -16,7 +16,7 @@ Steestachee Bald - Drive & Trail Guide. 10 points.
 #### Drive Guide - Steestachee from Atlanta
 
 * **Duration**: 2:46, 159 miles
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): https://tinyurl.com/steestache-and-back
+* **Google Maps** URL from Atlanta (33.917, -84.3378): https://tinyurl.com/steestache-and-back
 * **Seasonal/Limited Access**: Check the [BRP Closure Map](http://go.nps.gov/blri-roads). This section was among the last to re-open in spring of 2015. (Still closed on March 13, 2015.)
 * **Directions**:
     * I-285 to I-85. On I-85 go N 16.6

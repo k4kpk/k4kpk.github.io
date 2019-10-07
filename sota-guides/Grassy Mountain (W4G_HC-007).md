@@ -17,7 +17,7 @@ Grassy Mtn - Drive to Trailhead & Trail Guide - 8 points
 
 * **Special**: Take cash ($2 in 2013) to pay parking fee.
 * **Duration**: 2:30
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
+* **Google Maps** URL from Atlanta (33.917, -84.3378): 
     * Via Ellijay: http://goo.gl/maps/wcc21
     * The part of the Google directions after Bald Mountain are confusing.
 * **Seasonal/Limited Access**:

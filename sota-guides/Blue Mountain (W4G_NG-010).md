@@ -18,7 +18,7 @@ Blue Mountain: Drive to Trailhead & Trail Guide
 NOTE: **Do not follow Google map through Helen!**
 
 * **Duration**: 1:45 (actual, 2015)
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): https://tinyurl.com/rocky-near-helen
+* **Google Maps** URL from Atlanta (33.917, -84.3378): https://tinyurl.com/rocky-near-helen
 * **Seasonal/Limited Access**: All seasons; all weather.
 * **Directions**:
    * GA-400 N and go 47.

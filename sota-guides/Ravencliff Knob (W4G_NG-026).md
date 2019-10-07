@@ -48,7 +48,7 @@ Ravencliff - Drive to Trailhead & Trail Guide
 ####nDrive Guide - Ravencliff Knob (W4G/NG-026) from Standing Indian (W4C/WM-014)
 
 * **Duration**: 1:15 
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: 
 * **Directions** (from Standing Indian trailhead):
     * Head back the way you came in. (As you come *down* the trail from Standing Indian, you want to turn right on the *far* side of the hairpin.  Don't go on the downhill road.) Go 5.7.
     * L on US-64 W and go 18.4

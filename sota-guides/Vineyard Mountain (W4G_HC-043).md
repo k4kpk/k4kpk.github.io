@@ -18,7 +18,7 @@ Caution: Use bug dope. I got bug bites that took over 6 weeks to heal from my an
 #### Drive Guide
 
 * **Duration**: 0:45
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): 
+* **Google Maps** URL from Atlanta (33.917, -84.3378): 
     * To the easy, seasonal trailhead: http://goo.gl/maps/TNXri
     * To the difficult, year-round trailhead at 34.14386, -84.73565: http://goo.gl/maps/5C2k1
 * **Seasonal/Limited Access**:

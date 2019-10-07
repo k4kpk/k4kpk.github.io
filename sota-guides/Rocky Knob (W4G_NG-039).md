@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Rocky Knob - 8 points
 #### Drive Guide - Rocky Knob
 
 * **Duration**: 2:00
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/g6OqO
+* **Google Maps** URL from Atlanta (33.917, -84.3378): http://goo.gl/maps/g6OqO
    * Note: After the last turn on the Google Map (onto unnamed road), continue 1/4 mile to parking on right.  Walk 0.1 farther to trailhead on right.
 * **Seasonal/Limited Access**: Paved road all the way.
 * **Directions**:

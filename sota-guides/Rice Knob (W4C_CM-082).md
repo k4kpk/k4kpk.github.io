@@ -18,7 +18,7 @@ Drive to Trailhead & Trail Guide
 * CAUTION: Elk Trail (the road to the trailhead) is marked "Private Drive, Residents and guests only."  2015.07.11.
 
 * **Duration**: 3:30
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: https://goo.gl/maps/6xvWq
+* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: https://goo.gl/maps/6xvWq
 * **Seasonal/Limited Access**: BRP closed in winter.  May be reachable w/o BRP in winter.
 * **Directions**:
     * I-285 to I-85 and go 124

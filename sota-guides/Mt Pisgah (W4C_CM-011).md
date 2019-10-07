@@ -25,7 +25,7 @@ Drive to Trailhead & Trail Guide - Mt Pisgah
 #### Drive Guide - Mt Pisgah to Atlanta
 
 - **Duration**: 3:35
-- **Google Maps** URL ending at Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+- **Google Maps** URL ending at Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: 
 - **Seasonal/Limited Access**:
 - **Directions**:
   - Head back to the parkway from the parking (about 0.4)
@@ -40,7 +40,7 @@ Drive to Trailhead & Trail Guide - Mt Pisgah
 #### Drive Guide - Mt Pisgah from Atlanta
 
 * **Duration**: 3:25, 177 miles
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: 
 * **Seasonal/Limited Access**: Blue Ridge Parkway closed in winter.   KI4SVM says "often access from the side Hwy 215 is available... BRP's infoline... is highly recommended - 828-298-0398." Check the [BRP Closure Map](http://www.nps.gov/maps/blri/road-closures/).
 * **Directions**:
     * I-285 E

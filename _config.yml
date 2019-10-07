@@ -35,7 +35,10 @@ permalink: /:title
 paginate: 9
 highlighter: rouge
 markdown: kramdown
-plugins: ['jekyll-paginate', 'jekyll-redirect-from', 'jekyll-admin']
+plugins: 
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-admin
 exclude: ['README.md', 'LICENSE', 'vendor']
 safe: true
 whitelist: ['jekyll-redirect-from', 'jekyll-paginate']

@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Rocky Mtn (W4C/HC-008)
 #### Drive Guide - Rocky Mountain (HC-008) from Atlanta
 
 * **Duration**: 1:45
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/llnGb
+* **Google Maps** URL from Atlanta (33.917, -84.3378): http://goo.gl/maps/llnGb
 * **Seasonal/Limited Access**: All seasons, most weather (good quality dirt road).  No gates encountered.
 * **Directions**:
     * I-285 W

@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Eagle Mtn
 #### Drive Guide - Eagle Mountain
 
 * **Duration**: 2:15
-* URL from Atlanta (33.91998, -84.33898): 
+* URL from Atlanta (33.917, -84.3378): 
     * Part 1: http://goo.gl/maps/c2FWn
     * Part 2: See directions below after "GOOGLE MAPS IS USELESS"
 * **Seasonal/Limited Access**:

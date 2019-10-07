@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Nettle Creek Bald
 #### Drive Guide - Nettle Creek Bald from Atlanta
 
 * **Duration**: 3:00
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/ZALRL
+* **Google Maps** URL from Atlanta (33.917, -84.3378): http://goo.gl/maps/ZALRL
 * **Seasonal/Limited Access**:
 * **Directions**:
     * I-285 to I-85 North

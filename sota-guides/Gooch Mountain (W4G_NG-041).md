@@ -37,7 +37,7 @@ Drive to Trailhead & Trail Guide - Gooch Mtn - 8 points
 * **Duration**: 
     * Atlanta to Gooch: 1:30
     * Gooch to Sassafras: 0:15
-* **Google Maps** from Atlanta (33.91998, -84.33898): https://tinyurl.com/gooch-kpk
+* **Google Maps** from Atlanta (33.917, -84.3378): https://tinyurl.com/gooch-kpk
 * **Seasonal/Limited Access**: Most of Coopers Gap Rd is dirt; easy drive in a Corolla; no gates.
 * **Directions**:
     * WARNING: Take the route shown below

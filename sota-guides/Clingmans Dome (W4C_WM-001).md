@@ -24,7 +24,7 @@ Clingmans Dome: Drive to Trailhead & Trail Guide
 #### Drive Guide - Clingmans Dome from Atlanta
 
 * **Duration**: 3:20, 178 miles
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/88sCD
+* **Google Maps** URL from Atlanta (33.917, -84.3378): http://goo.gl/maps/88sCD
 
 #### Drive Guide - Clingmans Dome from Cowee Bald
 
@@ -36,7 +36,7 @@ Clingmans Dome: Drive to Trailhead & Trail Guide
 Note: Any references to a Tennessee summit for Clingmans Dome are obsolete.  The summit splits the state lines.  You used to be able to get credit for both states, but the SOTA management team has disallowed dual-state summits.
 
 * **Duration**: 2:10 Wine Spring to Clingmans
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: ?
+* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: ?
 * **Seasonal/Limited Access**: 
     * Road closed December 1 - March 31 (and more, if weather is bad)
     * Caution: Traffic jams from Cherokee, NC through Clingmans Dome Rd are common during tourist seasons (such as when the leaves turn colors, or during Cherokee festivals)

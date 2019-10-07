@@ -15,7 +15,7 @@ Drive to Trailhead & Trail Guide - Joe Mtn
 --------------------------------------------------------
 #### Drive Guide - Joe Mountain (W4G/NG-055) from Glassy Mountain (W4G/NG-031)
 * **Duration**: 0:45, 16 miles
-* **Google Maps**: URL from Atlanta (33.91998, -84.33898) https://goo.gl/maps/J9XHrJCJjQU2
+* **Google Maps**: URL from Atlanta (33.917, -84.3378) https://goo.gl/maps/J9XHrJCJjQU2
 * **Directions**:
     * Head downhill on Glassy Mtn Rd and go 2.1
     * L on Bridge Creek Rd and go 4.8
@@ -29,7 +29,7 @@ Drive to Trailhead & Trail Guide - Joe Mtn
 #### Drive Guide - Joe Mountain from Atlanta
 
 * **Duration**: 1:55, 99 miles
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: https://goo.gl/maps/1aK4aYkBdXU2
+* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: https://goo.gl/maps/1aK4aYkBdXU2
 * **Seasonal/Limited Access**:
 * **Directions**:
     * I-285 to I-85 N to I-985.
@@ -49,7 +49,7 @@ Drive to Trailhead & Trail Guide - Joe Mtn
 #### Drive Guide - Joe Mountain TO Atlanta
 
 * **Duration**: 1:55
-* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.91998, -84.33898: 
+* **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: 
 * **Seasonal/Limited Access**:
 * **Directions**:
     * Head back out, the way you came in and go 4.3

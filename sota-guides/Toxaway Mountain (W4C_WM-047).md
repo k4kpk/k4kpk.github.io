@@ -45,7 +45,7 @@ Drive to Trailhead & Trail Guide - Toxaway Mtn
 #### Drive Guide - Toxaway Mountain from Atlanta
 
 * **Duration**: 2:50, 148 miles
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/3Bczs
+* **Google Maps** URL from Atlanta (33.917, -84.3378): http://goo.gl/maps/3Bczs
 * **Seasonal/Limited Access**: 
     * Tower Rd is a one lane paved road with turn outs.  It is a very slow drive.
 * **Directions**:

@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Kennesaw Mtn
 #### Drive Guide - Kennesaw Mountain
 
 * **Duration**: 30 minutes
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): http://goo.gl/maps/NgQXy
+* **Google Maps** URL from Atlanta (33.917, -84.3378): http://goo.gl/maps/NgQXy
 * **SOTA Extra Info Page**: http://sotawatch.org/summits.php?summit=w4g/ce-001
 * **Seasonal/Limited Access**: 
     * All weather, all season.  All paved roads.

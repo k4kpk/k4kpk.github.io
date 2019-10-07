@@ -16,7 +16,7 @@ Drive to Trailhead & Trail Guide - Dyer Mtn
 #### Drive Guide - Dyer Mountain from Atlanta
 
 * **Duration**: 2:00
-* **Google Maps** URL from Atlanta (33.91998, -84.33898): https://goo.gl/maps/w8MSg9Uc33C2 
+* **Google Maps** URL from Atlanta (33.917, -84.3378): https://goo.gl/maps/w8MSg9Uc33C2 
 * **Seasonal/Limited Access**: All weather, all seasons
 * **Directions**:
     * I-285 West
