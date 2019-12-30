@@ -1,7 +1,7 @@
 ---
 layout: sota-guide
 points: 8
-miles: 0.5
+miles: 0.0
 bushwhack: N
 pair: Eagle
 

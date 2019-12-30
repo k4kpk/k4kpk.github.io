@@ -57,8 +57,13 @@ Drive to Trailhead & Trail Guide - Yellow Mountain
     * L on Norton Rd (SR1144) and go 2
     * L on Yellow Mountain Rd and go 2.6
     * Sharp L on Mill Creek Rd at Church and go 0.9
-    * Bear L on Cloud Catcher Ln (not the hard L) paralleling the main rd and go 0.6
-    * Park at dead end.
+    * Bear L on Cloud Catcher Ln (not the hard L) paralleling the main rd and go 0.6 and park at dead end.
+        * Sign: "Private Drive. No Thru Traffic." Technically, you're not 'Thru Traffic' and Private Drives do not forbid public use unless specifically stated.
+        * Multiple houses along this road.
+        * Trail is on FS land with designated trailhead.
+        * At Hamburg gap, there is a 180 degree curve at a gate that has a no trespassing sign. Just before the gate, is a parking area to the left.
+        * Park there and face away from the gate. Trailhead is a path leading over a small hump. There is a FS marker here.
+    * KM4BLG reports Cloud Catcher is drivable in a sedan (December 2019).
 
 #### Trail Guide From Cole Gap via Shortoff Mountain
 
@@ -76,9 +81,9 @@ Drive to Trailhead & Trail Guide - Yellow Mountain
 
 #### Trail Guide From Hamburg Gap
 
-* **Duration**: Unknown
+* **Duration**: 0.8 miles (estimated)
 * **Navigation**: Unknown
-* **Trailhead altitude**: Unknown
+* **Trailhead altitude**: 4350' (estimated)
 * **Summit altitude**: 5127'
 * **GPS tracks/waypoints**:
     * Trailhead: 35.14141,-83.19653 (estimated)
