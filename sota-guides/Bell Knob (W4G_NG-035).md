@@ -16,6 +16,9 @@ Bell Knob (W4G/NG-035): Drive to Trailhead & Trail Guide
 
 New in 2016 - Road is  paved to the top.  This is now a drive-up summit, with an observation deck at the apex.
 
+Bell: If you're thinking of activating from the upper parking area, measure to see whether it is in/out of activation zone. (The W4G activation zone is 25 m (82 ft) vertically.  (NY4G feels it is out of zone at https://summits.sota.org.uk/summit/W4G/NG-035 as of December 2019.)
+
+
 #### Drive Guide - Bell Knob from Atlanta
 
 * **Duration**: 2:05, 98 miles
@@ -23,7 +26,6 @@ New in 2016 - Road is  paved to the top.  This is now a drive-up summit, with an
     * http://goo.gl/maps/LQJzq
 * **Seasonal/Limited Access**:
 * **Directions**:
-    * Take the iPad and pre-load the maps.  You'll want it for your final approach, where Google Maps and reality diverge.
     * N on GA-400 and go 47 miles.
     * At end of 400 (@ GA-60) go straight onto GA-115. Go 4.8
     * GA-115 turns R.  (About 60 minute drive to this turn.) Go 11.4.
