@@ -10,21 +10,20 @@ Note that different sources identify different elevations and prominence.  Lists
 
 **To the best of my ability, these are the SOTA summits in Georgia at or above 4000'**.
 
-1. Brasstown Bald - 4783, trail
-2. Rabun Bald - 4696, trail
-3. Hightower Bald - 4588, tough bushwhack
-4. Blood Mountain - 4460, trail
-5. Tray Mountain - 4430, trail, drive sometimes requires 4WD
-6. Double Spring Knob - 4300, bushwhack
-7. Coosa Bald - 4300, trail
-8. Eagle Mountain - 4260, trail
-9. Cowpen Mountain - 4151, bushwhack, road gated in winter
-10. Flat Top - 4114, trail, road gated in winter, drive sometimes requires 4WD
-11. Big Bald Mountain - 4076, bushwhack
-12. Horsetrough Mountain - 4060, bushwhack
-13. Rocky Mountain - 4020, trail
-14. Bald Mountain - 4005, trail
-15. Blue Mountain - 4020, trail
+1. [Brasstown Bald](/sota-guides/Brasstown%20Bald%20(W4G_NG-001).html) - 4783, trail
+2. [Rabun Bald](/sota-guides/Rabun%20Bald%20(W4G_NG-002).html) - 4696, trail
+3. [Hightower Bald](/sota-guides/Hightower%20Bald%20(W4G_NG-003).html) - 4588, tough bushwhack
+4. [Blood Mountain](/sota-guides/Blood%20Mountain%20(W4G_NG-004).html) - 4460, trail
+5. [Tray Mountain](/sota-guides/Tray%20Mountain%20(W4G_NG-005).html) - 4430, trail, drive sometimes requires 4WD
+6. [Double Spring Knob](/sota-guides/Double%20Spring%20Knob%20(W4G_NG-007).html) - 4300, bushwhack
+7. [Coosa Bald](/sota-guides/Coosa%20Bald%20(W4G_NG-006).html) - 4300, trail
+8. [Eagle Mountain](/sota-guides/Eagle%20Mountain%20(W4G_NG-008).html) - 4260, trail
+9. [Cowpen Mountain](/sota-guides/Cowpen%20Mountain%20(W4G_HC-001).html) - 4151, bushwhack, road gated in winter
+10. [Big Bald Mountain](/sota-guides/Big%20Bald%20Mountain%20(W4G_HC-002).html) - 4076, bushwhack
+11. [Horsetrough Mountain](/sota-guides/Horsetrough%20Mountain%20(W4G_NG-009).html) - 4060, bushwhack
+12. [Rocky Mountain](/sota-guides/Rocky%20Mountain%20(W4G_NG-011).html) - 4020, trail
+14. [Blue Mountain](/sota-guides/Blue%20Mountain%20(W4G_NG-010).html) - 4020, trail
+13. [Bald Mountain](/sota-guides/Bald%20Mountain%20(W4G_HC-003).html) - 4005, trail
 
 **NOT a SOTA summit**:
 
@@ -34,6 +33,7 @@ Note that different sources identify different elevations and prominence.  Lists
 * Brier Creek Bald - 4163, a bump on Tray Mountain. Prominence 343'.
 * Rich Knob - 4152, a bump on Courthouse Bald, NC. Prominence 292'. Courthouse is a bump on Hightower Bald.
 * Sassafras Knob - 4121, a bump on Hightower Bald. Prominence 341'.
+* Flat Top (the one near Rabun Bald) - 4114, a bump on Rabun Bald. Prominence 374'.
 * Locust Log Ridge - 4108, a bump on Brasstown Bald. Prominence 168'.
 * Alex Mountain - 4080, a bump on Rabun Bald. Prominence 400'.
 * Mayapple Knob - 4054, a bump on Sassafras Knob. Prominence 194'.

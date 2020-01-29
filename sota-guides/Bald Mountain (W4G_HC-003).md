@@ -47,7 +47,7 @@ Drive to Trailhead & Trail Guide - Bald Mtn - 10 points
     * The trail is basically straight up the mountain, with no descent.  It goes up, but it is probably the easiest of the Georgia 10-pointers, given the modest slope and short distance.  The actual summit is off the trail about 75' and is covered with evergreens, but the trail passes through the activation zone.
     * In summer, the trail and the summit are overgrown with greenery.  Bluejeans are advised, due to thorns crowing the trail.
 * **Trailhead altitude**: 3621' @ Trailhead @ 34.86117, -84.63482
-* **Summit altitude**: 4588'
+* **Summit altitude**: 4005'
 * **GPS tracks/waypoints**:
     * Trailhead: 34.86117, -84.63482
     * Summit: 34.86450, -84.62830
