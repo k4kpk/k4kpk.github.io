@@ -13,6 +13,9 @@ sms:
 ---
 Drive to Trailhead & Trail Guide
 --------------------------------------------------------
+
+Drive to Trailhead & Trail Guide
+--------------------------------------------------------
 #### Drive Guide - Rocky Mountain (NG-050) from Rocky Mountain (HC-008)
 
 * **Duration**: 0:40

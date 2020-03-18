@@ -3,14 +3,10 @@ layout: sota-guide
 points: 10
 miles: 5.1
 bushwhack: Y
-pair: 
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
+pair: null
 sms: T,V
 ---
+
 ## Drive to Trailhead & Trail Guide - Hightower Bald
 
 UPDATE: Pat and Ryan say their route from the north is good.
@@ -19,7 +15,7 @@ UPDATE: Pat and Ryan say their route from the north is good.
 #### Drive Guide - Hightower Bald (Southern Approach) from Atlanta
 
 * **Duration**: 2:15
-* **Google Maps** from Atlanta (33.917, -84.3378): http://goo.gl/maps/yFSRF
+* **Google Maps** from Atlanta (33.917, -84.3378): http://tinyurl.com/atlanta-hightower-north
 * **Seasonal/Limited Access**: Unknown
 * **Directions**:
     * I made it to the 2WD trailhead in a Prius.  Using both a Prius and a Corolla, I was unable to make it past an erosion ditch shortly after this point.  I got hung-up on my trailer hitch and had to rock the car to get out.
@@ -48,19 +44,28 @@ UPDATE: Pat and Ryan say their route from the north is good.
         * Be prepared to back out, if necessary.
 * **Food**
     * Last McDonalds: GA-53 on GA-400.
-        * There is a McDonalds in Hiawasee that opens at 6 AM 7 days a week, but it is out of your way.
+    * There is a McDonalds in Hiawasee that opens at 6 AM 7 days a week, but it is out of your way.
 
 #### Drive Guide - Hightower Bald (Northern Approach) from Atlanta
 
-I don't know if there *is* a feasible approach from the North.  These are notes on how it might be done.
-
-* **Duration**: 2:20
-* **Google Maps** from Ashford Dunwoody Rd  I-285 at 33.917, -84.3378: https://goo.gl/maps/gAFvCwDTBjA2
+* **Duration**: 2:15
+* **Google Maps** from Atlanta (33.917, -84.3378): http://tinyurl.com/atlanta-hightower-north
 * **Seasonal/Limited Access**: Unknown
 * **Directions**:
-    * Ryan says you can drive to the end of Eagle Fork Rd at 35.007268, -83.622564.
-    * Blye Gap Rd is gated at 35.011715, -83.626984 
-
+    * N on GA-400 and go 47 miles.
+    * At end of 400 (@ GA-60) go straight onto GA-115. Go 4.8
+    * GA-115 turns R.  (About 60 minute drive to this turn.) Go 11.4.
+    * L on Tesnatee Gap Valley Rd. There's a left turn lane.  Go 2.8.
+    * Go straight onto McAfee Rd. (Tesnatee turns left.)  Go 0.2
+    * L on US-129 N at T. (About 1:15 total drive time to this turn.) Go 0.8.
+    * R on GA-75A. Go 8.2.
+    * L on GA-75 and go 16.6
+    * L on US-76W and go 3.2
+    * R on GA-75 / NC-175 N and go 6.9
+    * R on NC-175 at T and go 4.3
+    * R on Eagle Fork Rd (at Shooting Creek Fire Department) and go 2.6
+    * Bear R on Eagle Fork Rd and go 0.5 to end of road.
+    * Parking for several cars at the end of Eagle Fork Road (35.007059, -83.622556).
 
 #### Trail Guide - Approach from the South
 
@@ -96,24 +101,16 @@ I don't know if there *is* a feasible approach from the North.  These are notes 
 
 #### Trail Guide - Approach from the North
 
-I don't know if there *is* a feasible approach from the North.  These are notes on how it might be done.
-
 * **Duration**: 
-    * 1.8 miles of hiking along old road plus 0.8 to 1.2 miles of bushwhack.
-* **Navigation**
-    * From the gate at the fork of Eagle Fork Rd and Blye Gap Rd at 35.011715, -83.626984, follow Blye Gap Rd along the north side of Dave Barrett Creek (DBC).
-        * DBC runs mostly to the east.  There are 3 streams which branch to the southeast from DBC.
-            * Loggy Branch is the first.
-            * Sugar Cove is the middle. (Unnamed on Google.)
-            * Barrett Branch is 3rd.
-            * My Garmin GPS has a properly labeled dot where each stream branches off DBC, but the streams are mislabeled and the 3rd stream is not shown as a blue line.
-            * Ryan emailed an image to me which shows a map with all 3 at 9:28 PM on 2016.06.19.  (Search for "Satellite photos that Blye Gap Rd".)
-    * At 35.006258, -83.611714, Blye Gap Rd crosses Dave Barrett Creek and forks.
-        * The right fork heads southwest and then follows Sugar Cove and shows up on Google.  
-        * Take the left fork south, then turning east, following the south side of DBC.
-        * After crossing Barret Branch, you'll be between DBC and Barrett Branch, and the road quality degrades.  Follow this along Barret Branch about 0.1 miles, keeping Barrett Branch to your right.
-        * Follow the trail/road about another 0.1 as it drifts away from Barret Branch.
-        * A trail forks off to the right.  Follow this up the draw containing Barret Branch. (Garmin eventually shows this draw as containing a short "Intermittent Stream").  There will be some switchbacks in the last 1/2 of this trail, before it reaches Bly Gap.
+    * 2.5 miles, 3 hours, 2200' of EG, with 1700' of it in last last 1.4 miles. 
+* **Navigation** (from Pat)
+    * At the end of Eagle Fork Road (35.007059, -83.622556), hike starts along a gated Forest Service road. 
+    * Road ends shortly after crossing Loggy Branch around 1.1 miles. This is where youclimb the ridgeline up to the gap below Hightower Bald. 
+    * Follow the ridgeline south and up! Maintain the ridgeline as there is a decent trail most of the way up. 
+    * You will have a band of rhododendron to deal with near the top, but it is walkable. 
+    * Once you gain the main ridgeline turn west and make the final climb to Hightower. 
+    * Summit (and AZ) is narrow and overgrown; will be dense in summertime. 
+    * Pat highly recommends walking down the west ridge to Tom Gap and just up the other side a bit for a great view back towards Hightower. 
 * **Trailhead altitude**:
 * **GPS tracks/waypoints**:
 
