@@ -16,7 +16,7 @@ Glassy Mtn - Drive to Trailhead & Trail Guide. 8 points
 #### Drive Guide - Glassy Mtn from Atlanta
 
 * **Duration**: 1:45
-* **Google Maps** URL from Atlanta (33.917, -84.3378): **https://tinyurl.com/atl-glassy2**
+* **Google Maps** URL from Atlanta (33.917, -84.3378): https://tinyurl.com/atl-glassy2
 * **Seasonal/Limited Access**:
 * **Directions**:
     * 285 East

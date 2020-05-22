@@ -12,7 +12,8 @@ I'm at a peculiar skill level -- I can copy random, perfectly-spaced characters 
 * AA9PW.com/morsecode - characters, news headlines, simulated QSO.
 * http://seiuchy.macache.com - short lines from a QSO. Optional bad fist.  No noise. Works on Safari, Firefox; not Chrome.
 * G4FON trains random letters with noise and bad fist.  It does do some QSOs.  It does not do news headlines. Wine works.
-
+* http://morsecode.ninja Many hours of audio files from 15-50wpm+ in 2-3wpm increments. Has a SOTA Activators audio file. 
+* 
 ### Maybe useful for specialty CW:
 
 * RufzXP - just call signs, very fast.
@@ -23,4 +24,3 @@ I'm at a peculiar skill level -- I can copy random, perfectly-spaced characters 
 * Morse Mania - similar to AA9PW web site's simulated QSO. (I'd rather use the AA9PW web site. You *could* find this one useful if you need to run offline.)
 * G4ILO Morse Machine - just characters.
 * AD5RX doesn't run on current-generation Mac OS X.  (Maybe it was on PowerPC chip set?)
-
