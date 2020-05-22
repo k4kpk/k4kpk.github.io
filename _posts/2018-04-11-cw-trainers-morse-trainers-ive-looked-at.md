@@ -12,8 +12,9 @@ I'm at a peculiar skill level -- I can copy random, perfectly-spaced characters 
 * AA9PW.com/morsecode - characters, news headlines, simulated QSO.
 * http://seiuchy.macache.com - short lines from a QSO. Optional bad fist.  No noise. Works on Safari, Firefox; not Chrome.
 * G4FON trains random letters with noise and bad fist.  It does do some QSOs.  It does not do news headlines. Wine works.
-* http://morsecode.ninja Many hours of audio files from 15-50wpm+ in 2-3wpm increments. Has a SOTA Activators audio file. 
-* 
+* [http://morsecode.ninja](http://morsecode.ninja) Many hours of audio files from 15-50wpm+ in 2-3wpm increments. Has a SOTA Activators/Chasers audio file. 
+* MorseRunner - I've decided this one is great practices for SOTA.  It is written as a contest trainer, with QRM,  QRN, and pileups, but the exchange is close enough to a SOTA exchange to be good practice for on-the-air.
+
 ### Maybe useful for specialty CW:
 
 * RufzXP - just call signs, very fast.
