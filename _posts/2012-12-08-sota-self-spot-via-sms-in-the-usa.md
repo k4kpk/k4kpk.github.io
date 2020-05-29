@@ -1,10 +1,10 @@
 ---
-categories: []
-layout: post
 title: SOTA Self-spot Via SMS in the USA
+layout: post
 created: 1355007691
-redirect_from: /content/sota-self-spot-sms-usa
+redirect_from: "/content/sota-self-spot-sms-usa"
 ---
+
 <ul>
 	<li>
 		One time, up front, register with Andy, MM0FMF (mm0fmf_sotaATintermoose.com)
@@ -20,7 +20,7 @@ redirect_from: /content/sota-self-spot-sms-usa
 		</ul>
 	</li>
 	<li>
-		SMS to: 530-430-7682
+		SMS to: 424-373-7682
 		<ul>
 			<li>
 				callsign-or-! association summit frequency mode comments
@@ -46,4 +46,5 @@ redirect_from: /content/sota-self-spot-sms-usa
 	</li>
 </ul>
 See also: <a href="http://k4kpk.com/content/sota-self-spot-aprs">SOTA Self-spot Via APRS</a>
-
+<br>
+In early 2019, Andy changed from another SMS number to the number mentioned above.  I validated the number mentioned above on May 29, 2020.  This is the current number, not the obsolete number.
