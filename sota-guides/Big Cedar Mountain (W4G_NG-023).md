@@ -17,7 +17,7 @@ Drive to Trailhead & Trail Guide - Big Cedar Mtn
 #### Drive Guide - Big Cedar (W4G/NG-023)
 * **Duration**: 1:20
 * **Google Maps** URL from Ashford Dunwoody Rd: http://tinyurl.com/woody-gap
-* **Seasonal/Limited Access**: Paved road.  Parking full weekend afternoon. Plenty @8:45 Sat, Aug 24.
+* **Seasonal/Limited Access**: Paved road.  Parking full weekend P.M. Room @8:45 Sat, Aug 24.
 * **Directions**:
     * GA-400/US-19 N and go 47 miles.
     * L on GA-60/US-19 and go 5.1
@@ -25,9 +25,8 @@ Drive to Trailhead & Trail Guide - Big Cedar Mtn
     * Straight on GA-60 and go 5.4
     * Park at Woody Gap AT trailhead
 * **Food**
-    * Last McDonalds: Dahlonega
-    * Penultimate McDonalds: Hwy 53, Dawsonville - 38 miles from I-285
-    * Barbecue - After activating, take GA-60 south to US-19 south, go 7.2 on US-19, R on East Main Street (US-19 biz), follow East Main Street into town.  Smokin' Gold
+    * Last McD: Dahlonega. Side-trip, adds 10 minutes. 35 minutes from trailhead. Useful if GA-53 McD is closed.
+    * Penultimate McD: Hwy 53, Dawsonville - 38 miles from I-285.  40 minutes from home and 40 minutes from trailhead.
 
 
 #### Trail Guide - Big Cedar
@@ -43,6 +42,7 @@ Drive to Trailhead & Trail Guide - Big Cedar Mtn
 
 #### Summit Guide - Big Cedar
 
+* I think I got a little poison ivy here in June of 2020. Lots of big ants.
 * Hang antenna from tree: yes
 * Space to guy mast: yes
 * Cell coverage: AT&T=yes, Verizon=yes, APRS=yes

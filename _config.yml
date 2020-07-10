@@ -3,32 +3,11 @@
 name: K4KPK
 description: My adventures in ham radio...
 title: K4KPK
-
-# url is currently only used only for the RSS feed in feed.xml AND for auto-redirects
-#url: http://k4kpk.com
-
-# baseurl will often be '', but for a project page on gh-pages, it needs to
-# be the project name.
-# *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
-#     run it like so: jekyll serve --baseurl=''
-#baseurl: /jekyll-clean
 baseurl: ''
-
-# This can be '' to hide the Github nav button
 github: ''
-
-# Set this to your UA-# value, or '' to disable the block completely
 gaaccount: ''
-
-# The 'comments' setting enables comments. You'll need to select either
-# disqus or isso below to choose a comment system. Individual posts can
-# override 'comments' to disable on a post-by-post basis.
 comments: false
-
-# Set this to your public isso URL to enable comments via isso. Set to '' to disable isso.
 isso: ''
-
-# Set this to your disqus shortname to enable comments via disqus. Set to '' to disable disqus.
 disqus: ''
 
 permalink: /:title
@@ -55,3 +34,18 @@ include: ['sota-guides']
 tipue_search:
   include:
     pages: true
+
+# front matter defaults
+defaults:
+  - scope:
+      type: posts
+      path: ''
+    values:
+      layout: 'post'
+      tags: []
+  - scope:
+      path: ''
+      type: pages
+    values:
+      layout: 'page'
+

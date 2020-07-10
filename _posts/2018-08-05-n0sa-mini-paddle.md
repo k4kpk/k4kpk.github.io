@@ -1,5 +1,6 @@
 ---
 title: N0SA Mini-paddle
+layout: post
 ---
 
 I'm a fan of the N0SA mini-paddle, for SOTA CW use.  It is lightweight, has a good feel... and it is supported by N0SA.  He calls them "SSP Mini Paddles" and they are aluminum and steel.

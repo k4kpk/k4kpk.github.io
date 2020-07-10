@@ -1,5 +1,6 @@
 ---
 title: Tallest SOTA Summits in Georgia
+layout: post
 ---
 
 Sometimes it is fun to say something like, "I want to activate the tallest summits in Georgia."

@@ -1,5 +1,6 @@
 ---
 title: CW Trainers / Morse Trainers I've Looked At
+layout: post
 ---
 
 A quick overview of some Morse/CW training programs.  There are others.  These are just the ones I've looked into.

@@ -16,19 +16,19 @@ Tray Mtn: Drive to Trailhead & Trail Guide
 
 **Do not drive through Helen.  Traffic is often 2 MPH. **
 
-NOTE: There are three 'entry points' to the trailhead. Each is sometimes impassible and sometimes OK for a sedan.:
+NOTE: There are four 'entry points' to the trailhead. Each is sometimes impassible and sometimes OK for a sedan.:
 
 - **Southern**: Tray Mountain Road all the way from GA-75. Sometimes way too rutted.
 - **Ford**: Ford a creek near GA-75, past Indian Grave Gap, then Tray Mountain Rd. Sometimes too rutted. 
 - **Northern**: Drive past other two entry points, cross new Hiwasee River bridge, Corbin Creek Rd all the way. Bumpy and long. Sometimes impassible in a sedan.
+- **Indian Grave Gap**: Park at Indian Grave Gap and walk 1.8 miles to TRay Gap.
 
 **Conditions**:
 
 * 2018.08.26: Foot-deep erosion gully from one side of the road to the other, just past the 6 mile mark on Corbin Creek Rd.
-* 2016.05: Tray Mtn Rd from Indian Grave Gap Rd to Tray Gap deeply rutted; unsafe to drive in a sedan. Deep ruts, big rocks. Note to self - **Don't do it!**
+* 2016.05: Tray Mtn Rd from Indian Grave Gap Rd to Tray Gap deeply rutted; unsafe to drive in a sedan. Deep ruts, big rocks.
 * 2015: Corbin Creek Rd is 10.1 miles and 45 minutes to Tray Gap.  Rough but not "Wonder Mode".
-* 2012: Tray Gap Road *beyond* the gap (i.e. the right fork at the gap) reportedly deeply rutted and needs 4WD.
-* If you park at Indian Grave Gap, hike to Tray Gap is extra 1.7 miles one-way.
+* If you park at Indian Grave Gap, hike to Tray Gap is extra 1.8 miles one-way.
 
 
 
@@ -135,6 +135,11 @@ Getting to near the destination (applies to all 3 entry points):
 * L on GA-115 S and go 4.8
 * South on GA-400
 
+#### Trail Guide - Indian Grave Gap to Tray Gap
+
+* Distance (one way): 1.7 miles. 1:00 up, 0:45 down.
+* **Navigation** - Follow white AT blazes. Trailhead is across the street from the trail to Rocky Mountain.
+
 #### Trail Guide - Tray Mountain from Tray Gap
 
 * **Distance** (one way): 0.7 (0:35 up, 0:25 down)
@@ -145,6 +150,7 @@ Getting to near the destination (applies to all 3 entry points):
     * Indian Grave Gap trailhead 34.79292, -83.71414
     * Tray Gap trailhead 34.79921, -83.69089
     * Tray Mtn Summit 34.80140, -83.68380
+    * Grid Square: EM84dt
 
 #### Summit Guide
 

@@ -88,4 +88,5 @@ Trip-specific: Drive to Trailhead & Trail Guide
 * Unique features: Nice views near summit.  Hard to see if trees are in full leaf.
 
 #### Plan-B Summit(s)
-* Blood Mountain
+* Blood Mountain, W4G/NG-004, via Neels Gap
+* Blue Mountain, W4G/NG-010, via Unicoi Gap; Rocky Mountain, W4G/NG-011, via Unicoi Gap

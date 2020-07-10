@@ -28,16 +28,14 @@ Drive to Trailhead & Trail Guide - Sassafras Mtn
 * **Seasonal/Limited Access**: Dirt roads; quality OK.
 * **Directions**:
     * WARNING: Take the route shown below
-        * Google Maps for cell phone routed me via Bus. US-19, Black Mtn Rd to Grassy Gap Rd.  
+        * Cell Google Maps sent me via Bus. US-19, Black Mtn Rd to Grassy Gap Rd.  
         * Grassy Gap Rd becomes 4WD and I had to back out.
     * GA-400/US-19 N, and go 47 miles
     * L on US-19, and go 5.1
     * R on GA-9 and go 8.0
     * Keep L onto GA-60 and go 6.9
-    * L on Cooper Gap Rd and go 2.8
-        * Turn is onto paved road with street sign.
-        * L fork at 1.6 (stay on Cooper Gap Rd)
-        * Pavement ends at 2.0; road degrades at 2.5.
+    * L on (paved) Cooper Gap Rd and go 2.8
+        * L fork at 1.6 (stay on Cooper Gap Rd). Dirt at 2.0; road degrades at 2.5.
     * ---- Park on L here for Gooch Mtn trailhead. Take AT to R.
 * **Food**
     * Last McDonalds: Dahlonega

@@ -11,15 +11,41 @@ pair: Brasstown, Tray, Blue
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T,V
 ---
-Drive to Trailhead & Trail Guide - Rocky Mtn (W4G/NG-011)
---------------------------------------------------------
-
-Note: Shorter distance and less climb from the Indian Grave Gap trailhead.
-
-#### Drive Guide - Rocky Mountain via Unicoi Gap from Atlanta via GA-400
+#### Drive to Trailhead & Trail Guide - Rocky Mtn (W4G/NG-011)
 
 
-NOTE: **Do not route through Helen!**
+Note: Shorter hike and less climb from the Indian Grave Gap trailhead.
+
+NOTE: **Do not drive through Helen!**
+
+#### Drive Guide - Rocky Mountain via Indian Grave Gap from Atlanta
+
+* **Duration**: 2:15
+* **Seasonal/Limited Access**: All seasons; all weather.
+* **Directions**: 
+  * TM Road (USFS-79) could be a problem when muddy.  Not listed as seasonal on USFS maps.
+  * IGG Rd (USFS-283) ford could be a problem after heavy rain.  Seasonal close Jan 1 - Mar 9.
+  * Gates at both ends of IGG Rd.  Season is unknown. No gates on TM Rd. 
+* **Directions**:
+  * Getting to near the destination:
+    * N on GA-400 and go 47 miles.
+    * At end of 400 (@ GA-60) go straight onto GA-115. Go 4.8
+    * GA-115 turns R.  (About 60 minute drive to this turn.) Go 11.4.
+    * L on Tesnatee Gap Valley Rd. There's a left turn lane.  Go 2.8.
+    * Go straight onto McAfee Rd. (Tesnatee turns left.)  Go 0.2
+    * L on US-129 N at T. (About 1:15 total drive time to this turn.) Go 0.8.
+    * R on GA-75A. Go 8.0.  (Pass Richard B Russell Scenic Hwy at 1:25 from trip start.)
+    * From intersection of GA-75A and GA-75, on GA-75 go north
+  * Final approach (60 minutes - tell Google Maps iPhone app to take you to 34.79921, -83.69089.  Much slower than Google estimates.)
+    * Watch for mile marker 8.  This is about 0.2 before TM Rd.
+    * Watch for brown house on left, close to road, with no windows. TM Rd imminent.
+    * R on Tray Mountain Rd.  Small, thin sign "Bison View Lodge".
+    * After about 15 minutes, large gate made of black logs on right. "No trespassing".
+    * 5 more minutes to junction w/IGG Rd.  Keep left on Indian Grave Gap Rd and go about 2 minutes to the trailhead.
+
+#### 
+
+#### Drive Guide - Rocky Mountain (Unicoi Gap) from Atlanta via GA-400
 
 * **Duration**: 1:45
 * **Google Maps** URL from Atlanta (33.917, -84.3378): https://tinyurl.com/rocky-near-helen
@@ -44,31 +70,6 @@ NOTE: **Do not route through Helen!**
     * North (R out of parking) on GA-75 and go 2.0
     * At green mile post 2, sharp R onto Indian Grave Gap Rd and go 3.5
         * The turn is *too* sharp for an SUV.  You may have to go past and turn around.
-
-#### Drive Guide - Rocky Mountain via Indian Grave Gap from Atlanta
-* **Duration**: 2:15
-* **Seasonal/Limited Access**: All seasons; all weather.
-* **Directions**: 
-    * TM Road (USFS-79) could be a problem when muddy.  Not listed as seasonal on USFS maps.
-    * IGG Rd (USFS-283) ford could be a problem after heavy rain.  Seasonal close Jan 1 - Mar 9.
-    * Gates at both ends of IGG Rd.  Season is unknown. No gates on TM Rd. 
-    * If roads are bad, park at Unicoi gap and skip the dirt road altogether.
-* **Directions**:
-    * Getting to near the destination:
-        * N on GA-400 and go 47 miles.
-        * At end of 400 (@ GA-60) go straight onto GA-115. Go 4.8
-        * GA-115 turns R.  (About 60 minute drive to this turn.) Go 11.4.
-        * L on Tesnatee Gap Valley Rd. There's a left turn lane.  Go 2.8.
-        * Go straight onto McAfee Rd. (Tesnatee turns left.)  Go 0.2
-        * L on US-129 N at T. (About 1:15 total drive time to this turn.) Go 0.8.
-        * R on GA-75A. Go 8.0.  (Pass Richard B Russell Scenic Hwy at 1:25 from trip start.)
-        * From intersection of GA-75A and GA-75, on GA-75 go north
-    * Final approach (60 minutes - tell Google Maps iPhone app to take you to 34.79921, -83.69089.  This is much slower than Google estimates.):
-        * Watch for mile marker 8.  ~ 0.2 to TM Rd.
-        * Watch for brown house on left, close to road, with no windows. TM Rd imminent.
-        * R on Tray Mountain Rd.  Small, thin sign "Bison View Lodge".
-        * After about 15 minutes, large gate made of black logs on right. "No trespassing".
-        * 5 more minutes to junction w/IGG Rd.  Keep left on Indian Grave Gap Rd and go about 2 minutes to the trailhead.
 
 #### Drive Guide - Rocky Mountain via Unicoi Gap from Tray Mtn
 
@@ -104,9 +105,7 @@ NOTE: **Do not route through Helen!**
 * **Navigation**: Head west on AT.
 * **Trailhead altitude**: 3050
 * **Summit altitude**: 4014
-* **GPS tracks/waypoints**:
-    * Trailhead: 34.79314,-83.71422
-    * Summit: 34.79835, -83.72978
+* **GPS tracks/waypoints**: Trailhead: 34.79314,-83.71422.  Summit: 34.79835, -83.72978
 
 #### Trail Guide - From Unicoi Gap
 
@@ -115,8 +114,7 @@ NOTE: **Do not route through Helen!**
 * **Trailhead altitude**: 2941
 * **Summit altitude**: 4014
 * **GPS tracks/waypoints**:
-    * Trailhead: 34.80210, -83.74285
-    * Summit: 34.79835, -83.72978
+    * Trailhead: 34.80210, -83.74285.  Summit: 34.79835, -83.72978. Grid Square: EM84dt
 
 #### Summit Guide
 

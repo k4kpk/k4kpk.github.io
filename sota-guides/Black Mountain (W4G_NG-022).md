@@ -25,9 +25,8 @@ sms: Y
     * Straight on GA-60 and go 5.4
     * Park at Woody Gap parking lot.  Black Mtn trailhead is 200 yards NW on GA-60 (continuing in direction of drive).  Google Maps shows the Black Mountain dirt road incorrectly!
 * **Food**
-    * Last McDonalds: Dahlonega
-    * Penultimate McDonalds: Hwy 53, Dawsonville - 38 miles from I-285
-    * Barbecue - After activating, take GA-60 south to US-19 south, go 7.2 on US-19, R on East Main Street (US-19 biz), follow East Main Street into town.  Smokin' Gold 
+    * Last McD: Dahlonega. Side-trip, adds 10 minutes. 35 minutes from trailhead. Useful if GA-53 McD is closed.
+    * Penultimate McD: Hwy 53, Dawsonville - 38 miles from I-285.  40 minutes from home and 40 minutes from trailhead.
 
 #### Trail Guide - Black Mountain
 
@@ -45,8 +44,9 @@ sms: Y
 
 #### Summit Guide - Black Mountain
 
-* Hang antenna from tree: Yes
-* Space to guy mast: Yes
+* Poison ivy at the hairpin turn in the activation zone.
+* Hang antenna from tree: Yes. Watch out for the poison ivy.
+* Space to guy mast: Yes. Lots of packed gravel in the hairpin turn. Hard to drive a stake.
 * Cell coverage: AT&T=good; Verizon=good; APRS=yes
 
 #### Plan-B Candidates
