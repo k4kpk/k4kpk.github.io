@@ -1,4 +1,4 @@
-FROM jekyll/jekyll:3.8.6
+FROM jekyll/jekyll:4.0
 
 ENV APP_HOME /srv/jekyll
 #RUN mkdir $APP_HOME
@@ -6,7 +6,7 @@ WORKDIR $APP_HOME
 
 #RUN chmod ugo+rw $APP_HOME/Gemfile.lock
 ADD Gemfile $APP_HOME/Gemfile
-ADD Gemfile.lock $APP_HOME/Gemfile.lock
+#ADD Gemfile.lock $APP_HOME/Gemfile.lock
 
 RUN bundle install
 
