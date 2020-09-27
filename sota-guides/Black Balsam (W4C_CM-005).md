@@ -11,7 +11,7 @@ pair: Green Knob, Mt Pisgah, Richland Balsam
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: TM-2019, PW-2019
 ---
-Trail Guide: Black Balsam
+Trail Guide: Black Balsam - W4C/CM-005
 --------------------------------------------------------
 
 * Parking is an issue.  At 9 AM on Memorial Day, it was almost full; by 11 AM, *everything* was full.

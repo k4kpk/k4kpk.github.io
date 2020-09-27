@@ -33,7 +33,7 @@ The seminar is designed to help aspiring SOTA activators and chasers get started
 
 ### How to Register
 
-Email: seminar2016 [at] k4kpk.com no later than Sunday, June 5, 2016. If you do not want your email address shared with the other participants, please say so when you register.
+(Expired. The event has past.)
 
 See you on the summits!
 73 DE K4KPK / Kevin

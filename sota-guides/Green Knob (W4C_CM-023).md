@@ -11,7 +11,7 @@ pair: Black Balsam Knob, Green Knob (CM-020), Mt Pisgah, Richland Balsam
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T,V
 ---
-Drive to Trailhead & Trail Guide - Green Knob
+Drive to Trailhead & Trail Guide - Green Knob - W4C/CM-023
 --------------------------------------------------------
 #### Drive Guide - Green Knob from Mt Pisgah
 (This is CM-023 with no fire tower near Mt Pisgah -- NOT CM-020 with a fire tower near Mt Mitchell.  Mnemonic "On 023, it's just me.")

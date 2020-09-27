@@ -15,13 +15,11 @@ Drive to Trailhead & Trail Guide - Flat Top Mtn
 --------------------------------------------------------
 #### Drive Guide - Flat Top from Atlanta
 
-* **Duration**: 2:20 to Dyer Cemetery. 
-    * Allow 20 minutes more, if you drive from Dyer up to the top.
+* **Duration**: 2:20 to Dyer Cemetery. Add 20 minutes if you drive from Dyer to the top.
 * **Google Maps** URL from Atlanta (33.917, -84.3378): (Does not show USFS-64A.) https://tinyurl.com/atlanta-dyer-cem
 * **Seasonal/Limited Access**:  
     * No limits if hiking from Dyer Cemetery.
-    * Gate on final mile (USFS-64A) officially closed Jan to mid-March.
-    * 4WD may be required for USFS-64A.
+    * Final mile (USFS-64A) gated Jan to mid-March; often requires 4WD.
 * **Directions**:
     * I-285 W, I-75 N, I-575 N, GA-5 N
     * L on GA-5 in Blue Ridge at McDonalds.  Go 3.7
@@ -31,15 +29,14 @@ Drive to Trailhead & Trail Guide - Flat Top Mtn
         * Atlanta to this junction is measured at about 2:00 (not including stops).
     * Park at cemetery OR go L on 64A (single lane) just past cemetery.
         * 20 minutes to drive 1.7 miles up 64A
-        * 64A was *barely* drivable in a Corolla in March 2014.  You need at least 3 dry days before you drive it.  (It rained a little on Wednesday, and it was barely drivable on Saturday.)
-        * 64A was *not* drivable in a Corolla in January 2015.  Too slippery.  Unable to progress.
+        * 64A occasionally *barely* drivable in a Corolla.  You need at least 3 dry days before you drive it.
 * **Food**
-    * Last McDonalds:  Blue Ridge, where GA-5 turns left and leaves GA-515, about 0:30 before Dyer Cemetary. 
+    * Last McDonalds:  Blue Ridge, where GA-5 leaves GA-515, about 0:30 before Dyer Cemetary. 
     * Penultimate McDonalds: Ellijay
     * Dinner: 
         * Pink Pig Barbecue at 824 Cherry Log St., Cherry Log, GA.  Open Thursday-Sunday 11-9.  VERY busy after church. Wonderful.
         * Poole's Barbecue "Pig Hill" at 164 Craig Street, Ellijay. Closes at 7/8/8/6, Thurs/Fri/Sat/Sun.
-        * Barbecue place in Blue Ridge with billboards directing you to turn at Wendy's has dry, taste-free pulled pork.
+        * Barbecue place in Blue Ridge with billboards not recommended.
 
 #### Trail Guide
 
@@ -53,7 +50,7 @@ Drive to Trailhead & Trail Guide - Flat Top Mtn
     * Follow Benton MacKaye to the summit. About 1.5 miles and 850' elevation gain.
 * **Navigation** (the short hike, after driving USFS-64A):
     * Hike from the turn-around (circle/parking lot) near the top.
-    * There's a gated road at the far side of the turn-around from where you enter.  Don't take it.
+    * Don't take the gated road at the far side of the turn-around from where you enter.
     * To your right, there is a deeply cut trail/road blocked by two big dirt piles.  Follow this route about 10 minutes.
     * As you approach the summit, there's a low concrete foundtion.  A double-diamond blazed trail comes in from the right, and exits straight ahead.
 * **Trailhead altitude**: 3625' from the turn-around near the top; 2861' @ gate @ Dyer Gap per topo
@@ -65,13 +62,13 @@ Drive to Trailhead & Trail Guide - Flat Top Mtn
 
 #### Summit Guide
 
-* Hang antenna from tree: Yes.  Many good trees.
-* Space to guy mast: Yes.  There are some briars, but you can find a clear enough spot, or lean your mast against a tree.
-* Cell coverage: Yes. No problem sending SMS.  Did not try web browser.
+* Hang antenna from tree: Yes.
+* Space to guy mast: Yes.  You can find a clear enough spot, or lean your mast against a tree.
+* Cell coverage: Yes. No problem sending SMS.
 * Unique features:
-    * Not much view.
-    * Low concrete foundation at summit. There's a sign about the teacher who lived here, near bottom of USFS-64A.
-    * Diamond blazed trail, marked with a stripped-of-sign post enters north side of summit and leaves to the west. Is this the Benton MacKaye?
+    * Not much view. Low concrete foundation at summit. 
+    * Sign about the teacher who lived here, near bottom of USFS-64A.
+    * Diamond blazed trail, enters north side of summit and leaves to the west. Is this Benton MacKaye?
 
 #### Plan-B Candidates
 

@@ -4,15 +4,13 @@ points: 10
 miles: 1.2
 bushwhack: N
 pair: Brasstown, Tray, Blue
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: T,V
 ---
 #### Drive to Trailhead & Trail Guide - Rocky Mtn (W4G/NG-011)
 
+There are 2 routes to Indian Grave Gap:
+
+- Indian Grave Gap Road - this has a shallow creek ford. The creek bed is lined with fist-sized rocks. I've never had a problem crossing it with my Corolla, but it is always scary because I can't really see what the creek bed looks like. The road itself is always in very good condition for a forest service dirt road.
+- Tray Mountain Road - Tray Mountain Road from GA-75 to Indian Grave Gap Road. In 2020, this had scary erosion gullies and a huge mud wallow.  I had to leave the road and drive between trees to get around it. There is a metal towing company sign nailed to a tree by the mud wallow!  Note that this is Tray Mountain Road *before* reaching Indian Grave Gap road.  (The stretch of Tray Mountain Road from Indian Grave Gap Road to Tray Gap is *different* problem stretch.)
 
 Note: Shorter hike and less climb from the Indian Grave Gap trailhead.
 
@@ -120,7 +118,7 @@ NOTE: **Do not drive through Helen!**
 
 * Hang antenna from tree: YES
 * Space to guy mast: YES
-* Cell coverage: Good AT&T and Verizon; APRS text worked
+* Cell coverage: Good AT&T 2020; APRS text worked
 
 #### Miscellaneous Notes
 The ford on IGG Rd went OK in a dry week.  Don't try it after heavy rain. Maintain momentum crossing creek, to avoid trouble climbing out.

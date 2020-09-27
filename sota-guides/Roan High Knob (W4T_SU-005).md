@@ -35,8 +35,6 @@ Food if driving from Atlanta: Best Plan: About 10 miles before Asheville (whethe
 * **Duration**: 0:10, 1.6 miles
 * **Seasonal/Limited Access**: \$3 (\$5?) to park.  Road (NC-1348) gated at Carvers Gap in bad weather.
     * https://www.fs.usda.gov/recarea/nfsnc/recarea/?recid=48626 says the **rec area** is open "Memorial Day - Last Weekend in September"
-    * This USFS brochure https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5366102.pdf says the **road** is open April to November.
-    * Reality: The road was gated on May 12, 2018. It appears they don't open it until Memorial Day.
     * Call USFS office at 828-682-6146 to check road status (M-F, 8:00-4:30)
 * **Directions**:
     * Follow gated, paved road 1348 WSW (up hill) and go 1.6

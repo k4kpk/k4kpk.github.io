@@ -5,14 +5,13 @@ miles: 2.2
 bushwhack: N
 pair: Roan High Knob
 
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: TF-2018, P-2018
 ---
 Drive to Trailhead & Trail Guide - Grassy Ridge Bald
 --------------------------------------------------------
+Unpleasantly busy on a weekend.  Consider activating on a weekday. The extended parking was filling fast at 10 AM on a non-holiday Saturday with gray weather. Estimated full by 10:30-ish.  I scraped bottom getting into the extented parking.
+
+Be sure you have enough gas to make it back to I-26 before you leave I-26.  There is one 'real' gas station on US-19E, 2 miles before you leave 19E; there are a couple of maybe-still-in-business stations between 19E and the summit, but don't count on them.
+
 #### Drive Guide - Grassy Ridge Bald from Atlanta
 
 * **Duration**: 4:30  (Google says it is 4:20.  My 2018 experience is that you need 4:30 (plus any time for pit stops).
@@ -56,15 +55,22 @@ Drive to Trailhead & Trail Guide - Grassy Ridge Bald
 #### Trail Guide
 
 * **Duration**: 2.4 miles, 1:40 up and 1:20 down (actual times in 2018, first summit of the day)
+* **Water**: On a cool, overcast day, 2 pints of fluid was plenty. Need more for hot sun.
 * **Navigation**
     * Follow the AT east from parking at the state line
-    * Cross 2 peaks before you get there
-    * At about 2 miles, the trail forks and the AT bears left and downhill and the trail to Grassy Ridge Bald bears right and uphill to the summit.
+    * Cross 2 peaks before you get there.  They aren't really distinct on the way out, but on the way back, they're a challenge t o to climb.
+    * At about 2 miles, the trail forks and the AT bears left and downhill and the trail to Grassy Ridge Bald bears right and uphill to the summit.  It gets markedly steeper just past this fork.
 * **Trailhead altitude**: 5510 @ 36.1064, -82.1104
 * **Summit altitude**: 6180 @ 36.0998, -82.0804
 
 #### Summit Guide
 
+* Much of the top is grassy, with watermelon-sized lumps hidden in the grass.  Avoid setting up surrounded by the lumps.  It is exhausting to set up in, because you're constantly going up and down and trying not to fall when you walk in the lumpy grass.   Campsites with flattened grass and no 'melons':
+  * Camp1: 36.1007,-82.08056
+  * Camp2 (best): 36.10002,-82.08046
+  * Camp3 (2nd best): 36.09964,-82.08010
+  * Camp4: 36.10057,-82.08037
+* Consider activating short of the absolute top, still within the activation zone.  Coming up the trail (or going down the trail), the GPS-measured edge of the activation zone is 36.10263,-82.08098.  Consider climbing a few feet more for 'insurance', and set up your antenna.  Get off the trail, or you'll be bothered by hikers who want you to talk while you're on the air.
 * Hang antenna from tree: Few trees on top. Some off-summit in the activation zone.
 * Space to guy mast: yes
 * Cell coverage: 2018: ATT no, APRS excellent. 2015: ATT yes, VZn intermittent, ATT had data service

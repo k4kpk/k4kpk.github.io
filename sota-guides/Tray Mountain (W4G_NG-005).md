@@ -5,28 +5,24 @@ miles: 0.7
 bushwhack: N
 pair: Brasstown, Blue, Rocky
 
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: T,V
 ---
 Tray Mtn: Drive to Trailhead & Trail Guide
 --------------------------------------------------------
 
 **Do not drive through Helen.  Traffic is often 2 MPH. **
 
-NOTE: There are four 'entry points' to the trailhead. Each is sometimes impassible and sometimes OK for a sedan.:
+NOTE: There are four 'entry points' to the trailhead. 3 of 4 are sometimes impassible for a sedan.:
 
-- **Southern**: Tray Mountain Road all the way from GA-75. Sometimes way too rutted.
-- **Ford**: Ford a creek near GA-75, past Indian Grave Gap, then Tray Mountain Rd. Sometimes too rutted. 
+- **Southern**: Tray Mountain Road all the way from GA-75. In 2020, this had scary erosion gullies and a huge mud wallow.  
+- **Ford**: Ford a creek near GA-75 on Indian Grave Gap (IGG) Road, past IGG, then Tray Mountain Rd. The Tray Mountain stretch is sometimes too rutted. The creek bed is lined with fist-sized rocks. I’ve never had a problem crossing it with my Corolla, but it is scary because I can’t see the creek bed well. IGG Road is always in very good condition for a forest service dirt road.
 - **Northern**: Drive past other two entry points, cross new Hiwasee River bridge, Corbin Creek Rd all the way. Bumpy and long. Sometimes impassible in a sedan.
-- **Indian Grave Gap**: Park at Indian Grave Gap and walk 1.8 miles to TRay Gap.
+- **Indian Grave Gap**: Park at Indian Grave Gap and walk 1.8 miles to Tray Gap.
 
 **Conditions**:
 
+* 2020.09.04: Tray Mtn Rd between GA-75 and IGG Road. Very scary. Erosion gullies and huge mud wallow. I had to leave the road and drive between trees to get around mud wallow. This is Tray Mountain Road *before* reaching Indian Grave Gap road.
 * 2018.08.26: Foot-deep erosion gully from one side of the road to the other, just past the 6 mile mark on Corbin Creek Rd.
-* 2016.05: Tray Mtn Rd from Indian Grave Gap Rd to Tray Gap deeply rutted; unsafe to drive in a sedan. Deep ruts, big rocks.
+* 2016.05: Tray Mtn Rd from IGG Rd to Tray Gap deeply rutted; unsafe to drive in a sedan. Deep ruts, big rocks.
 * 2015: Corbin Creek Rd is 10.1 miles and 45 minutes to Tray Gap.  Rough but not "Wonder Mode".
 * If you park at Indian Grave Gap, hike to Tray Gap is extra 1.8 miles one-way.
 
@@ -89,9 +85,8 @@ Getting to near the destination (applies to all 3 entry points):
         * Watch for mile marker 8.  ~ 0.2 to TM Rd.
         * Watch for brown house on left, close to road, with no windows. TM Rd imminent.
         * R on Tray Mountain Rd.  Small, thin sign "Bison View Lodge".
-        * After about 15 minutes, large gate made of black logs on right. "No trespassing".
-        * 5 more minutes to junction w/IGG Rd.  Keep right on Tray Mountain RD (USFS-79).
-        * 10 more minutes to Tray Gap. Roads to L and R with AT in center.  (Both roads un-gated.)
+        * At junction w/IGG Rd, keep right on Tray Mountain RD (USFS-79).
+        * 10 more minutes to Tray Gap. Roads to L and R with AT in center.  Road to R is now perma-closed.
 
 
 
@@ -154,14 +149,14 @@ Getting to near the destination (applies to all 3 entry points):
 
 #### Summit Guide
 
-* For the view, stop at the summit.  For a better operating site, continue 1/10 mile to a campsite, which I measured to be within the activation zone.
+* For the view, stop at the summit.  For a better operating site, continue 1/10 mile to a campsite, which I measured to be within the activation zone. About 20 ft past the summit, there was a new cleared area about 15'x15' in 2020. This looks like the best operating position.
 * Hang antenna from tree: Poor on the summit. Very nice at the campsite.
 * Space to guy mast: Challenging on the summit (Bungee mast to shrubs). Better at the campsite.
-* Cell coverage: Good AT&T and Verizon; APRS text worked (on the summit; not tested at campsite)
+* Cell coverage: AT&T SMS worked from the campsite in 2020; APRS text worked (on the summit; not tested at campsite)
 * Unique features: Nice view.  Benchmark embedded in trail on summit.
 
 
 #### Miscellaneous Notes
 
-* I drove Indian Grave Gap Rd in a Corolla with no problems in dry weather.  Don't drive fast: some surprise potholes and gullies.  The ford on IGG Rd went OK in a dry week.  Don't try it after heavy rain. Maintain momentum crossing the creek, to avoid trouble climbing out.
+* I drove Indian Grave Gap Rd in a Corolla with no problems in dry weather.  The ford on IGG Rd went OK in a dry week.  Don't try it after heavy rain. Maintain momentum crossing the creek, to avoid trouble climbing out.
 * There is a very weak Internet/data connection in Tray Gap.

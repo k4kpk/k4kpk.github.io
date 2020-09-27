@@ -12,7 +12,7 @@ pair: Steestachee Bald, Waterrock Knob, Bunches Bald, Barnett Knob
 sms: unknown
 ---
 
-Trail Guid: Richland Balsam
+Trail Guide: Richland Balsam - W4C/WM-003
 -------------------------------------------------
 
 #### Drive Guide - Richland Balsam from Black Balsam
