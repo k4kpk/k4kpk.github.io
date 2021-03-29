@@ -40,7 +40,7 @@ Summit is worth 8 points + 3 bonus
     * Take the old road bed right at the tip of the sharp right in Cooper Creek Rd. After a few feet, take the L fork toward the creek. 
     * When you reach the ridge line, follow road bed off to the right, up the ridge line SOUTH.  
     * At Locust Gap, make a 90-degree left turn onto a lesser road bed.  This lesser road degrades to a trail. 
-    * After 0.15 miles, the trail bears right, to go around the summit. Begin bushwhack to left, following ridge to summit. 
+    * After 0.15 miles, trail bears R, to bypass the summit. Begin ~0.7 mile bushwhack to L, following ridge to summit. 
       * The bushwhack becomes strenuous and briar-ridden. Very slow hike at this point.
       * My GPS track *up* includes a side trip to see whether the road eventualy doubles back and goes up.  It doesn't so far as I could see. Don't take that little detour. Take the reverse of my downward trek.
     * GPS failure return route: Head NORTH down the ridge to its bottom. Then EAST to road. If you have trouble finding the road, there's a creek east of your route, and the creek crosses the road just before the sharp right where you parked.

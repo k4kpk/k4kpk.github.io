@@ -11,18 +11,17 @@ pair: Sassafras, Black, Big Cedar
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: T,V
 ---
-Drive to Trailhead & Trail Guide - Gooch Mtn - 8 points
+Gooch Mtn, W4G/NG-041, 8 points
 --------------------------------------------------------
 #### Drive Guide - Gooch Mountain from Woody Gap
 
 - **Duration**: 15 minutes
 - **Seasonal/Limited Access**: Most of Coopers Gap Rd is dirt; easy drive in a Corolla; no gates.
 - **Directions**:
-  - WARNING: Take route shown here. Google Maps sent me via Black Mtn Rd to Grassy Gap Rd (4WD).  
+  - **WARNING**: Take route shown here. Google Maps sent me via **Business** 19, Black Mtn Rd to Grassy Gap Rd (4WD).  
   - NW on GA-60 (R from lot on vault toilet side) and go 1.5
   - L on Cooper Gap Rd (across from small lake, onto paved road w/street sign) and go 3.3
-    - L fork at 1.6 (stay on Cooper Gap Rd)
-    - Pavement ends at 2.0.
+    - L fork at 1.6 (stay on Cooper Gap Rd). Pavement ends at 2.0.
     - Continue past AT crossing 
     - Stop at 34.64775, -84.03514, 3.3 miles since leaving GA-60. 
     - You'll park at a valley/gulley, just before a buried-fiber post on the left.
@@ -37,15 +36,14 @@ Drive to Trailhead & Trail Guide - Gooch Mtn - 8 points
 * **Duration**: 
     * Atlanta to Gooch: 1:30
     * Gooch to Sassafras: 0:15
-* **Google Maps** from Atlanta (33.917, -84.3378): https://tinyurl.com/gooch-kpk
+* **Google Maps** from Atlanta (33.917, -84.3378): https://tinyurl.com/atl-gooch
 * **Seasonal/Limited Access**: Most of Coopers Gap Rd is dirt; easy drive in a Corolla; no gates.
 * **Directions**:
-    * WARNING: Take the route shown below
-        * Google Maps for cell phone routed me via Bus. US-19, Black Mtn Rd to Grassy Gap Rd (4WD).  
+    * **WARNING**: Take the route shown below. Maps for cell phone sent me via **Business** US-19, Black Mtn Rd to Grassy Gap Rd (4WD).  
     * GA-400/US-19 N, and go 47 miles
     * L on US-19, and go 5.1
     * R on GA-9 and go 8.0
-    * Keep L onto GA-60 and go 5.3
+    * Keep L onto GA-60 and go 5.3 to Woody Gap
     * Continue at "Gooch Mountain from Woody Gap"
 * **Food**
     * Last McDonalds: Dahlonega
@@ -73,4 +71,4 @@ Drive to Trailhead & Trail Guide - Gooch Mtn - 8 points
 
 #### Plan-B Candidates
 
-* Black Mtn, Big Cedar Mtn, Sassafras Mtn
+* Black Mtn (NG-022), Big Cedar Mtn (NG-023), Sassafras Mtn (NG-040)

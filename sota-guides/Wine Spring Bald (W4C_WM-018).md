@@ -11,7 +11,7 @@ pair:  Clingmans, Siler Bald, Wesser Bald
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: M
 ---
-Drive to Trailhead & Trail Guide - Wine Spring Bald
+Drive & Trail Guide - Wine Spring Bald - W4C/WM-018
 --------------------------------------------------------
 #### Drive Guide - Wine Spring Bald from Atlanta
 

@@ -11,7 +11,7 @@ pair:
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: M
 ---
-Cowpen: Drive to Trailhead & Trail Guide
+Cowpen: Drive & Trail Guide, W4G/HC-001
 --------------------------------------------------------
 #### Drive Guide - Cowpen from Atlanta
 

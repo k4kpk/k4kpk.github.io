@@ -11,9 +11,9 @@ pair: Walnut
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: TN,VN,A
 ---
-### Drive to Trailhead & Trail Guide - Max Patch
+### Drive & Trail Guide - Max Patch W4C/CM-036
 
-Parking is a problem.  At 9:05 AM on a clear Saturday, took the last space in the lot. By 10:45 the lot was full and the road was crowded with cars parked on the shoulder.
+Parking is a problem.  At 9:05 AM on a clear Saturday, I took the last space in the lot. By 10:45 the lot was full and the road was crowded with cars parked on the shoulder. On a clear Friday in December, the lot was full by noon and most of the road parking was full.  About 0.6 before you reach the Max Patch lot, there is a gravel road with on your left.  You could park 1-2 cars here without blocking the gate; more with, and the gate clearly hasn't been open in a while.
 
 #### Drive Guide - Max Patch from Atlanta
 
@@ -31,6 +31,7 @@ Parking is a problem.  At 9:05 AM on a clear Saturday, took the last space in th
         * L on Bus-23 and go 16 on Bus-23/Max Patch Rd
         * L fork on Max Patch Rd (as road turns to dirt) and go 2.9
         * L and immediate R and go 4.8.
+        * **Potty break**: 0.6 before you reach the parking lot, there's a road to your left with a gate (mostly) hidden from the main road.  Once you reach the Max Patch lot, there is no privacy anywhere.
     * **Original Route** (194 miles, 5.3 dirt road miles):
         * Ramp R to US 74 E (Great Smoky Mtn Expwy) and go 25.7
         * I-40 West and go 21
@@ -38,8 +39,8 @@ Parking is a problem.  At 9:05 AM on a clear Saturday, took the last space in th
         * R on Harmon Den Rd / Cold Springs Rd (FS-148) and go 3.6
             * (At about 3.2 it is a little ambiguous; FS-148 keeps to Right)
         * Hard L on Max Patch Rd and go 0.2
-        * Keep L on Max Patch Rd and go 1.5
-
+    * Keep L on Max Patch Rd and go 1.5
+    
 * **Food**
     * Last McDonalds: Waynesville NC (0.2 R on US-276 south)
     * Penultimate McDonalds: Sylva NC (1.2 R on Business 23)
@@ -87,11 +88,11 @@ Parking is a problem.  At 9:05 AM on a clear Saturday, took the last space in th
         * At 35.79890,-82.95562, R and follow AT to summit.
     * There was once a center route. It is now blocked by a fence with signs to stay on the trail.
 * **Trailhead altitude**: 4333 @ 35.796401, -82.962596
-* **Summit altitude**: 4629 @ 35.7973, -82.9569
+* **Summit altitude**: 4629 @ 35.7973, -82.9569.  **Grid Square**: EM85mt
 
 #### Summit Guide
 
 * Hang antenna from tree: No. Space to guy mast: Yes
-* Cell coverage: **2019**: ATT=no; APRS fast ACK. **2017:** APRS int; ATT=no. **2014:** Vzn=no.
+* Cell coverage: **2020**: ATT yes. **2019**: ATT=no; APRS fast ACK. **2017:** APRS int; ATT=no. **2014:** Vzn=no.
 * Unique features: Big field with big views
 

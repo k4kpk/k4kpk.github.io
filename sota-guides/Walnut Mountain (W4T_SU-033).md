@@ -7,7 +7,7 @@ pair: Max Patch
 ---
 Note: Via Rattlesnake Gap climbs 200' less than from Lemon Gap, feels easier and is a few minutes faster (including the drive). Lemon Gap is prettier.
 
-Drive to Trailhead & Trail Guide - Walnut Mountain
+Drive & Trail Guide - Walnut Mountain, W4T/SU-033
 --------------------------------------------------------
 
 Note: Parking can be full at Lemon Gap.  At 11 AM on a clear Saturday, I too the last sensible parking space. Rattlesnake has plenty parking. Lemon Gap trail is more pleasant: wooded, green.  Rattlesnake Gap has lots of un-shaded, slash-and-clear road.
@@ -72,7 +72,7 @@ Note: Parking can be full at Lemon Gap.  At 11 AM on a clear Saturday, I too the
 
 #### Trail Guide from Lemon Gap
 
-* **Duration**: 1.4 miles 750' climb, 0:40 up (when fresh), 0:30 down
+* **Duration**: 1.4 miles 750' climb, 0:50 up (when fresh), 0:30 down
     * Note: Allow 0:45 for setup, if you're going to use the J-pole for 146.52
 * **Navigation**
     * Follow AT 1.25 North to Walnut Mtn shelter at 35.8365,-82.93649
@@ -101,6 +101,7 @@ Note: Parking can be full at Lemon Gap.  At 11 AM on a clear Saturday, I too the
 
 #### Summit Guide
 
+* Grid Locator: EM85mu
 * Hang antenna from tree: yes
 * Space to guy mast: yes
-* Cell coverage: **2019**: ATT no; APRS yes(no ACK using J-Pole, quick ACK using rubber duck held in Statue of Liberty position). **2018**: ATT no; APRS no. **2017**: ATT: no; APRS yes but no ACK.
+* Cell coverage: **2020**: ATT yes. **2019**: ATT no; APRS yes. **2018**: ATT no; APRS no.

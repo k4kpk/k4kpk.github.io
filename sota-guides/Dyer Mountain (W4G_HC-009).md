@@ -11,7 +11,7 @@ pair: Flat Top, Cowpen, Bald, Grassy
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: Y
 ---
-Drive to Trailhead & Trail Guide - Dyer Mtn
+Drive & Trail Guide - Dyer Mtn, W4G/HC-009
 --------------------------------------------------------
 #### Drive Guide - Dyer Mountain from Atlanta
 

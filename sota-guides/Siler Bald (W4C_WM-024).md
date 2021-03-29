@@ -11,12 +11,12 @@ pair: Wesser Bald, Wine Spring Bald
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: V
 ---
-Drive to Trailhead & Trail Guide - Siler Bald
+Drive & Trail Guide - Siler Bald - W4C/WM-024
 --------------------------------------------------------
 #### Drive Guide - Siler Bald FROM Atlanta
 
 * **Duration**: 2:20
-* **Google Map** from Atlanta (33.917, -84.3378): https://goo.gl/maps/iZ3b8vam9SN2
+* **Google Map** from Atlanta (33.917, -84.3378): 
 * **Seasonal/Limited Access**: All weather
 * **Directions**:
     * I-985/US-23 North and go 52.6
@@ -72,7 +72,7 @@ Drive to Trailhead & Trail Guide - Siler Bald
 
 #### Trail Guide - From Wayah Gap
 
-* **Duration**: 1.9 miles, 1095' climb, 1:15 up, 0:55 down
+* **Duration**: 1.9 miles, 1095' climb, 1:35 up, 1:00 down (2020, after hiking Wesser)
 * **Navigation**
     * Facing back the way you drove in, there is a dirt trail to your right, uphill.
     * Follow this trail through the picnic table area.
@@ -84,6 +84,7 @@ Drive to Trailhead & Trail Guide - Siler Bald
 * **Summit altitude**: 5220'
 * **GPS tracks/waypoints**:
     * Trailhead: 35.15386,-83.58138
+    * Grid Square: EM85fd
 
 #### Trail Guide - From Winding Stair Gap
 
@@ -91,11 +92,10 @@ Drive to Trailhead & Trail Guide - Siler Bald
 * **Navigation**:
 * **Trailhead altitude**: 3719'
 * **Summit altitude**: 5220'
-* **GPS tracks/waypoints**:
 
 #### Summit Guide
 
 * Summit: 35.1394, -83.5775
 * Hang antenna from tree: No
 * Space to guy mast: Yes
-* Cell coverage (2015): Verizon = Yes; ATT = Yes
+* Cell coverage (2020): ATT = Yes

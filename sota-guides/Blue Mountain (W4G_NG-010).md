@@ -11,7 +11,7 @@ pair: Rocky, Tray, Brasstown
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: M
 ---
-Blue Mountain: Drive to Trailhead & Trail Guide
+Blue Mountain: Drive & Trail Guide, W4G/NG-010
 --------------------------------------------------------
 #### Drive Guide Altanta to Blue Mountain
 
@@ -34,6 +34,16 @@ NOTE: **Do not follow Google map through Helen!**
 * **Food**
     * Last McDonalds: GA-53, Dawsonville
     * Penultimate McDonalds: 
+
+#### Drive Guide Horsetrough Chattahoochee River Rd (CRR) to Blue Mountain
+
+* This is maybe useful if you are unable to reach Horsetrough trailhead via CRR, and you need a plan-B summit.
+* **Duration**: 1:00, 16 miles
+* **Google Maps** URL: https://tinyurl.com/crr-abort-blue
+* **Seasonal/Limited Access**: All seasons; all weather, once you get off CRR.
+* **Directions**:
+  * Head back out on CRR.  L when you reach 75-A
+  * Immediate L (north) on 75 and go 8 miles to Unicoi Gap
 
 #### Trail Guide
 

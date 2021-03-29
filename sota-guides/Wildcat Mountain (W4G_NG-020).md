@@ -11,12 +11,13 @@ pair:
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: M
 ---
-#### Trip-specific: Drive to Trailhead & Trail Guide
+#### Drive & Trail Guide, Wildcat Mountain W4G/NG-020
 #### Drive Guide - Wildcat Mountain from ATLANTA
 
 * **Duration**: 1:35
 * **Google Maps** URL from Atlanta (33.917, -84.3378): https://tinyurl.com/atlanta-wildcat
 * **Seasonal/Limited Access**:  Paved roads, BUT Richard B Russell is sometimes closed for **repairs**/ice.  Check with GDOT.  Plan an alternate.
+* **Parking**: Plenty of parking on a clear January Saturday at 8:30 AM; most of muddy overflow full at noon.
 * **Directions**:
     * N on GA-400 and go 47 miles.
     * At end of 400 (@ GA-60) go straight onto GA-115. Go 4.8
@@ -62,7 +63,7 @@ sms: M
 
 #### Trail Guide
 
-* **Duration**: 0.8 miles / 0:30 up (if fresh), 0:20 down
+* **Duration**: 0.8 miles / 0:40 up (if fresh), 0:25 down
 * **Navigation**
     * Take the AT on the south side of GA-348.  Trail crosses highway SE of the lot; it is obvious.
     * Climb steeply (w/switchbacks) for 0.2 miles.
@@ -77,7 +78,7 @@ sms: M
 
 #### Summit Guide
 
-* Hang antenna from tree: Yes, but they aren't very tall.  You'll need to string it through multiple trees.
+* Hang antenna from tree: Yes, but they are short.  String it through multiple trees.
 * Space to guy mast: Yes.
 * Cell coverage: 2020: AT&T SMS OK 4 of 4 times, but it took 2-3 minutes.
 * Unique features: Nice views near summit.  Hard to see if trees are in full leaf.

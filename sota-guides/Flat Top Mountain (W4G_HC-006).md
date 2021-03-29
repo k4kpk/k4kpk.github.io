@@ -11,12 +11,12 @@ pair: Dyer, Cowpen, Bald, Grassy
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: Y
 ---
-Drive to Trailhead & Trail Guide - Flat Top Mtn
+Drive & Trail Guide - Flat Top Mtn, W4G/HC-006
 --------------------------------------------------------
 #### Drive Guide - Flat Top from Atlanta
 
 * **Duration**: 2:20 to Dyer Cemetery. Add 20 minutes if you drive from Dyer to the top.
-* **Google Maps** URL from Atlanta (33.917, -84.3378): (Does not show USFS-64A.) https://tinyurl.com/atlanta-dyer-cem
+* **Google Maps** from Atlanta (33.917, -84.3378):  https://tinyurl.com/atlanta-dyer-cem
 * **Seasonal/Limited Access**:  
     * No limits if hiking from Dyer Cemetery.
     * Final mile (USFS-64A) gated Jan to mid-March; often requires 4WD.
@@ -26,7 +26,7 @@ Drive to Trailhead & Trail Guide - Flat Top Mtn
     * L on Old GA-2 (watch for propane tanks on left near top of hill), go 9.9.
         * Pavement ends at Bravo Ln, 1.2 miles before USFS-64.
     * Bear L onto USFS-64 at "Cohutta" wilderness sign and go 3.1.
-        * Atlanta to this junction is measured at about 2:00 (not including stops).
+        * Atlanta to sign measured at 2:00 (excl. stops).
     * Park at cemetery OR go L on 64A (single lane) just past cemetery.
         * 20 minutes to drive 1.7 miles up 64A
         * 64A occasionally *barely* drivable in a Corolla.  You need at least 3 dry days before you drive it.
@@ -34,7 +34,7 @@ Drive to Trailhead & Trail Guide - Flat Top Mtn
     * Last McDonalds:  Blue Ridge, where GA-5 leaves GA-515, about 0:30 before Dyer Cemetary. 
     * Penultimate McDonalds: Ellijay
     * Dinner: 
-        * Pink Pig Barbecue at 824 Cherry Log St., Cherry Log, GA.  Open Thursday-Sunday 11-9.  VERY busy after church. Wonderful.
+        * Pink Pig Barbecue, 824 Cherry Log St., Cherry Log, GA.  Open Thurs-Sun 11-9.  VERY busy after church. Wonderful.
         * Poole's Barbecue "Pig Hill" at 164 Craig Street, Ellijay. Closes at 7/8/8/6, Thurs/Fri/Sat/Sun.
         * Barbecue place in Blue Ridge with billboards not recommended.
 
@@ -42,19 +42,20 @@ Drive to Trailhead & Trail Guide - Flat Top Mtn
 
 * **Duration**
     * 10 minutes from the turn-around near the top to the summit.
-    * 1:20 minutes to walk from Dyer Cemetery to the summit. 1.7 miles.
+    * 1:25 minutes to walk up from Dyer Cemetery to summit. 1.7 miles.  Down is 0:50 if you start down the BMT and cut over to road at 34.86488,-84.51200 for the last 0.3 miles. (Lower leg is 0.4 shorter via road than trail.)
 * **Navigation** (the long hike, from the cemetery)
     * Park at cemetery. 
     * Hike west (away from Blue Ridge, toward Conasauga T) and pass gated USFS-64A on your left.
-    * About 0.2 miles from cemetery, turn L on Benton MacKaye trail, as it crosses USFS-64.
-    * Follow Benton MacKaye to the summit. About 1.5 miles and 850' elevation gain.
+      * Consider hiking up 64A for the first 0.3 miles and then cutting over to BMT. Road is 0.4 shorter than BMT for the lower leg.
+    * 0.2 miles from cemetery, turn L on Benton MacKaye trail, as it crosses USFS-64.
+    * Follow Benton MacKaye to summit. 1.8 miles and 850' elevation gain.
 * **Navigation** (the short hike, after driving USFS-64A):
     * Hike from the turn-around (circle/parking lot) near the top.
     * Don't take the gated road at the far side of the turn-around from where you enter.
     * To your right, there is a deeply cut trail/road blocked by two big dirt piles.  Follow this route about 10 minutes.
-    * As you approach the summit, there's a low concrete foundtion.  A double-diamond blazed trail comes in from the right, and exits straight ahead.
+    * As you approach the summit, there's a concrete foundtion.  Double-diamond blazed trail entersfrom right, and exits straight ahead.
 * **Trailhead altitude**: 3625' from the turn-around near the top; 2861' @ gate @ Dyer Gap per topo
-* **Summit altitude**: 3740' (official SOTA data)
+* **Summit altitude**: 3740'
 * **GPS tracks/waypoints**
     * Dyer Cemetery: 34.868755, -84.514289
     * Turn-around near summit: 34.85597, -84.50105
@@ -74,3 +75,4 @@ Drive to Trailhead & Trail Guide - Flat Top Mtn
 
 * Dyer Mountain (W4G/HC-009) is a bushwhack from USFS-64.  Accessible even when winter-closed FS roads are gated.
 * Cowpen Mountain (W4G/HC-001); un-reachable during winter road closure.
+
