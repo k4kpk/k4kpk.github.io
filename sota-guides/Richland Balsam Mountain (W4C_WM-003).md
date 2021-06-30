@@ -12,8 +12,7 @@ pair: Steestachee Bald, Waterrock Knob, Bunches Bald, Barnett Knob
 sms: unknown
 ---
 
-Trail Guide: Richland Balsam - W4C/WM-003
--------------------------------------------------
+### SOTA Guide: Richland Balsam - W4C/WM-003
 
 #### Drive Guide - Richland Balsam from Black Balsam
 
@@ -84,7 +83,7 @@ Trail Guide: Richland Balsam - W4C/WM-003
 * **Duration**: 0.6 miles.  0:25 up, 0:20 down (Not hurrying. I can make it down in 0:15 if running.)
 * **Navigation**
     * Trail begins as paved path on the near end (back toward the overlook) of parking.
-    * At 0.2, stay right for shortest path to summit. Summit is past nature post #13.  Big sign at summit.
+    * At 0.2, bear R for shortest path to summit. Summit is past post #13.  Sign at summit.
 * **Trailhead altitude**: 6025
 * **Summit altitude**: 6410
 * **GPS tracks/waypoints**:

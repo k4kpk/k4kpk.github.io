@@ -11,10 +11,9 @@ pair: Green Knob, Mt Pisgah, Richland Balsam
 # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
 sms: TM-2019, PW-2019
 ---
-Trail Guide: Black Balsam - W4C/CM-005
---------------------------------------------------------
+## SOTA Guide: Black Balsam - W4C/CM-005
 
-* Parking is an issue.  At 9 AM on Memorial Day, it was almost full; by 11 AM, *everything* was full.
+* At 9 AM on Memorial Day, parking was almost full; by 11 AM, *everything* was full.
 
 #### Drive Guide - Black Balsam Knob from Richland Balsam
 
@@ -25,7 +24,7 @@ Trail Guide: Black Balsam - W4C/CM-005
 
 #### Drive Guide - Black Balsam Knob from Atlanta
 
-- **Duration**: 3:20, 173 miles. (Google says 3:10 but  experience says 3:20.)
+- **Duration**: 3:20, 173 miles. (Google says 3:10;  experience says 3:20.)
 - **Google Maps** URL from Atlanta: 
 - **Seasonal/Limited Access**: Blue Ridge Parkway closed in winter.   KI4SVM says "often access from the side Hwy 215 is available... BRP's infoline... is highly recommended - 828-298-0398."
 - **Directions**:
@@ -36,19 +35,19 @@ Trail Guide: Black Balsam - W4C/CM-005
   - Ramp for 64 E and go 13.1
   - L on BRP access rd and go 0.5
   - L on Blue Ridge Parkway and go 23.3
-  - L on Black Balsam Rd at BRP mile 420.2 and go 0.7.  Trailhead is on the right.
+  - L on Black Balsam Rd at BRP mile 420.2 and go 0.7.  Trailhead is on R.
 - **Food**
   - Last McDonalds: 7512 Skyland Dr  Sylva, NC (1.4 miles from exit); exit 85 (US-23 Business) on US-64.
-  - Avoid McDonalds in Franklin and Clayton. Slow service Saturday A.M.
+  - Avoid McDonalds in Franklin and Clayton. Slow service.
   - Before that: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
 
 #### Drive Guide - Black Balsam Knob from Green Knob
 
 * **Duration**: 0:15, ? miles
-* **Seasonal/Limited Access**: Parkway closed in winter.   KI4SVM says "often access from the side Hwy 215 is available... BRP's infoline... recommended - 828-298-0398." Check the [BRP Closure Map](http://go.nps.gov/blri-roads).
+* **Seasonal/Limited Access**: See note under "Black Balsam Knob from Atlanta".
 * **Directions**:
     * West on BRP (right, from the trail coming down from Green Knob) and go 5.7
-    * R on Black Balsam Rd (Road #815) at BRP mile 420.2 and go 0.7.  Paved but many potholes.
+    * R on Black Balsam Rd (Road #815) at BRP mile 420.2 and go 0.7.  Paved.
 
 #### Drive Guide - Black Balsam Knob **to** Atlanta
 
@@ -81,4 +80,3 @@ Trail Guide: Black Balsam - W4C/CM-005
 
 * Hang antenna from tree: no.  Space to guy mast: yes.
 * Cell coverage: 2018: No AT&T; APRS OK. 2016: AT&T Cell + internet.
-* Unique features: a bald bald.

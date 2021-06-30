@@ -10,7 +10,7 @@ Note: Via Rattlesnake Gap climbs 200' less than from Lemon Gap, feels easier and
 Drive & Trail Guide - Walnut Mountain, W4T/SU-033
 --------------------------------------------------------
 
-Note: Parking can be full at Lemon Gap.  At 11 AM on a clear Saturday, I too the last sensible parking space. Rattlesnake has plenty parking. Lemon Gap trail is more pleasant: wooded, green.  Rattlesnake Gap has lots of un-shaded, slash-and-clear road.
+Note: Parking can be full at Lemon Gap.  At 11 AM on a clear Saturday, I took the last sensible parking space. Rattlesnake has plenty parking. Lemon Gap trail is more pleasant: wooded, green.  Rattlesnake Gap has lots of un-shaded, slash-and-clear road.
 
 #### Drive Guide - Walnut Mountain (Lemon Gap) from Max Patch Parking
 

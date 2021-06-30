@@ -20,3 +20,4 @@ This is gibberish, and is incorrect as of March 2021, even if you get past the p
 6. Power on and check to confirm that the displayed voltage matches the measured voltage.
 
 When I did this at 5.00 volts, it powered on at a measured 5.00 volts.  When I set the output voltage to about 12V, the display read 12.0V and the measured output was 12.1V.  You need to calibrate it at or near the voltage where you intend to use it. If you calibrate it at one voltage and use it at a distant voltage, the calibration gets dodgy.
+
