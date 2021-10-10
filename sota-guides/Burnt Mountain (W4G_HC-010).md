@@ -1,14 +1,7 @@
 ---
 layout: sota-guide
-points: null
-miles: null
-bushwhack: N
-pair: null
-sms: null
 ---
-
-Burnt Mountain: Drive to Trailhead & Trail Guide
---------------------------------------------------------
+# SOTA Guide - Burnt Mountain, W4G/HC-010
 
 Can't get there yet.  It is on private property.  I scouted the location on November 9, 2013, and there were prominent "No Trespassing" signs at both ends of the old Monument Road.  In 2018, I emailed with a Peakbagger summiteer, who says the sign is down at one end, but the summit is definitely still on private property and should not be accessed without permission.
 

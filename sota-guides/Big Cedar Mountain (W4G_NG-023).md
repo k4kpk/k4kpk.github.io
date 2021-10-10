@@ -1,20 +1,9 @@
 ---
 layout: sota-guide
-points: 8
-miles: 1.4
-bushwhack: N
-pair: Black, Gooch, Sassafras
- # SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
- # Optional: Provide the latest year checked.
- # e.g: TM-2017, VF, P-2016
- # means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: Y
-
 ---
+# SOTA Guide - Big Cedar Mtn, W4G/NG-023
 
-Drive to Trailhead & Trail Guide - Big Cedar Mtn
---------------------------------------------------------
-#### Drive Guide - Big Cedar (W4G/NG-023)
+#### Drive Guide - Big Cedar
 * **Duration**: 1:20
 * **Google Maps** URL from Ashford Dunwoody Rd: http://tinyurl.com/woody-gap
 * **Seasonal/Limited Access**: Paved road.  Parking full weekend P.M. Room @8:45 Sat, Aug 24.
@@ -26,12 +15,12 @@ Drive to Trailhead & Trail Guide - Big Cedar Mtn
     * Park at Woody Gap AT trailhead
 * **Food**
     * Last McD: Dahlonega. Side-trip, adds 10 minutes. 35 minutes from trailhead. Useful if GA-53 McD is closed.
-    * Penultimate McD: Hwy 53, Dawsonville - 38 miles from I-285.  40 minutes from home and 40 minutes from trailhead.
+    * Prior McD: Hwy 53, Dawsonville - 38 miles from I-285.  40 min. from home and 40 mi. from trailhead.
 
 
 #### Trail Guide - Big Cedar
 
-* **Duration**: Big Cedar: 0:55 up, 0:35 down; 1.4 miles
+* **Duration**: Big Cedar: 0:55 up, 0:35 down; 1.4 miles, 548' climb
 * **Navigation**: Big Cedar trail leaves the parking area past latrines.  NE on AT, 1 mile, climbing 530'.
 * **Trailhead altitude**: 3173' at Woody Gap
 * **Summit altitude**: Big Cedar Mtn: 3721'
@@ -43,10 +32,9 @@ Drive to Trailhead & Trail Guide - Big Cedar Mtn
 #### Summit Guide - Big Cedar
 
 * I think I got a little poison ivy here in June of 2020. Lots of big ants.
-* Hang antenna from tree: yes
-* Space to guy mast: yes
+* Hang antenna from tree: yes; Space to guy mast: yes
 * Cell coverage: AT&T=yes, Verizon=yes, APRS=yes
-* Unique features: Nice view a few tenths before the true summit
+* Features: Nice view a few tenths before the summit
 
 #### Plan-B Candidates
 

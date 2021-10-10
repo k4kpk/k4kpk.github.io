@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 0.6
-bushwhack: Y
-pair: Rabun Bald, Blackrock Mtn, Glassy Mtn
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: Y
 ---
-Drive to Trailhead & Trail Guide
---------------------------------------------------------
+# Drive to Trailhead & Trail Guide
+
 #### Drive Guide - Wolf Knob from Atlanta
 
 * **Duration**: 2:15

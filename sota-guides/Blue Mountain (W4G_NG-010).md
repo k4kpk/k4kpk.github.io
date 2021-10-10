@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 10
-miles: 1.1
-bushwhack: N
-pair: Rocky, Tray, Brasstown
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: M
 ---
-Blue Mountain: Drive & Trail Guide, W4G/NG-010
---------------------------------------------------------
+# SOTA Guide - Blue Mountain, W4G/NG-010
+
 #### Drive Guide Altanta to Blue Mountain
 
 NOTE: **Do not follow Google map through Helen!**

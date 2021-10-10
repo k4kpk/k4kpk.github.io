@@ -1,33 +1,19 @@
 ---
 layout: sota-guide
-points: 8
-miles: 1
-bushwhack: N
-pair: Blackrock
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: T,V
 ---
-Glassy Mtn - Drive to Trailhead & Trail Guide. 8 points
---------------------------------------------------------
+# SOTA Guide - Glassy Mtn -  8 points, W4G/NG-031
+
 #### Drive Guide - Glassy Mtn from Atlanta
 
 * **Duration**: 1:45
 * **Google Maps** URL from Atlanta (33.917, -84.3378): https://tinyurl.com/atl-glassy2
-* **Seasonal/Limited Access**:
+* **Seasonal/Limited Access**: Dirt road, generally pretty good shape.
 * **Directions**:
-    * 285 East
-    * 85 North
-    * 985/365 North
-    * US-441 North
+    * 85 North to 985/365 North to US-441 North.
     * After Tallulah and before Clayton, turn L on 441/Tiger-Connector at "Goats on the Roof"
     * See remainder of directions under "from Clayton" guide below.
 * **Food**
     * Last McDonalds: Cornelia, on Level Grove Rd.
-      * It comes just BEFORE Cornelia and your exit to US-441.
 
 #### Drive Guide - Glassy Mtn from Rabun Bald
 
@@ -37,7 +23,7 @@ Glassy Mtn - Drive to Trailhead & Trail Guide. 8 points
 
 * **Duration**: 0:45
 * **Google Maps** : 
-* **Seasonal/Limited Access**:
+* **Seasonal/Limited Access**: Dirt road, generally pretty good shape.
 * **Directions**:
     * L on US-76 E and go 20.4
     * R on Davis Gap Rd and go 0.9
@@ -47,8 +33,8 @@ Glassy Mtn - Drive to Trailhead & Trail Guide. 8 points
 #### Drive Guide - Glassy Mtn from Clayton @ US-441 and US-76
 
 * **Duration**: 0:30
-* **Google Maps** : http://goo.gl/maps/mCseL
-* **Seasonal/Limited Access**:
+* **Google Maps** : 
+* **Seasonal/Limited Access**: Dirt road, generally pretty good shape.
 * **Directions**:
     * From US-76 and US-441, go south on US-441 and go 2.8
     * R on 441/Tiger-Connector (R only; @ **"Goats On the Roof"**) and go 5.8
@@ -58,11 +44,11 @@ Glassy Mtn - Drive to Trailhead & Trail Guide. 8 points
       * Good condition dirt road. Easy drive in a Corolla in spring of 2014.
     * Sharp R and gate.
         * Park just after the hairpin turn, well before the gate.  Room for 2 cars.
-        * There's a lesser, gated road, if you don't make the sharp R. This does not lead to the summit.
+        * There's a lesser, gated road, if you don't make the sharp R. It does not lead to the summit.
 
 #### Trail Guide
 
-* **Duration**: 0:30 up, 0:20 down; 0.9 miles (550' climb)
+* **Duration**: 0:40 up (2021), 0:20 down (2021, br); 0.9 miles (550' climb)
 * **Navigation**: Follow the road up the hill.
 * **Grid square**: EM84fu
 * **GPS tracks/waypoints**:
@@ -71,9 +57,8 @@ Glassy Mtn - Drive to Trailhead & Trail Guide. 8 points
 
 #### Summit Guide
 
-* Don't drive past the gate if it is open.  It has a "No parking beyond the gate" sign.  I have seen a maintenance truck leave the gate open on his way up and lock it on the way down.  He did not check with a group who had driven to the summit before he left.  You could get locked in.
-* Hang antenna from tree: No.  All trees have been cleared.
+* Don't drive past the gate if it is open.  It has a "No parking beyond the gate" sign.  I have seen a maintenance truck open the gate on the way up and lock it on the way down, without checking for lock-ins.
+* Hang antenna from tree: No.  All trees are cleared. Maybe from fire tower.
 * Space to guy mast: Yes.
 * Cell coverage: ATT=yes, Vzn=adequate, Patrick says APRS=yes (but no tracking)
-* Unique features:
-    * Helipad, fire tower, and building at summit.  Also cell towers.
+* Unique features: Helipad, fire tower, building, cell towers.

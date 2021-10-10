@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 10
-miles: 1.6
-bushwhack: N
-pair: 
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: Y
 ---
-Drive to Trailhead & Trail Guide - High Rock
---------------------------------------------------------
+# SOTA Guide - High Rock, W4T/SU-024
+
 #### Drive Guide - High Rock from Toxaway Mtn
 
 * **Duration**: 1:50, 86 miles
@@ -49,7 +39,7 @@ Drive to Trailhead & Trail Guide - High Rock
 * **Trailhead altitude**: ~3750 at 35.95240,-82.56085°
 * **Summit altitude**: 4500 at 35.96440,-82.57800°
 * **GPS tracks/waypoints**:
-    * ​
+    * 
 
 #### Summit Guide
 

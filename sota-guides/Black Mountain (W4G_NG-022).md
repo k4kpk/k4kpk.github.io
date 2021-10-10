@@ -1,23 +1,13 @@
 ---
 layout: sota-guide
-points: 8
-miles: 1
-bushwhack: N
-pair: Big Cedar, Gooch, Sassafras
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: Y
 ---
-## Drive to Trailhead & Trail Guide - Black Mountain
+# SOTA Guide - Black Mountain
 
 #### Drive Guide - Black Mountain (W4G/NG-022)
 
 * **Duration**: 1:20
 * **Google Maps** URL from Atlanta: **http://tinyurl.com/woody-gap**
-* **Seasonal/Limited Access**: Paved road all the way.  Parking may be full on weekend. 
+* **Seasonal/Limited Access**: Paved road all the way.  Parking may be full on weekend; best by 8:30 AM.
 * **Directions**:
     * GA-400/US-19 N and go 47 miles.
     * L on GA-60/US-19 and go 5.1

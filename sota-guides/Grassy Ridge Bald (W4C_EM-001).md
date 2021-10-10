@@ -1,13 +1,8 @@
 ---
 layout: sota-guide
-points: 10
-miles: 2.2
-bushwhack: N
-pair: Roan High Knob
-
 ---
-Drive to Trailhead & Trail Guide - Grassy Ridge Bald
---------------------------------------------------------
+# SOTA Guide - Grassy Ridge Bald, W4C/EM-001
+
 Unpleasantly busy on a weekend.  Consider activating on a weekday. The extended parking was filling fast at 10 AM on a non-holiday Saturday with gray weather. Estimated full by 10:30-ish.  I scraped bottom getting into the extented parking.
 
 Be sure you have enough gas to make it back to I-26 before you leave I-26.  There is one 'real' gas station on US-19E, 2 miles before you leave 19E; there are a couple of maybe-still-in-business stations between 19E and the summit, but don't count on them.

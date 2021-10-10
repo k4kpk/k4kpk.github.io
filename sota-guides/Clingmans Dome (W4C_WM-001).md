@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 10
-miles: 0.6
-bushwhack: N
-pair: Wine Spring Bald, Nettle Creek Bald, Barnett Knob
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: M
 ---
-Clingmans Dome: Drive to Trailhead & Trail Guide
---------------------------------------------------------
+# SOTA Guide - Clingmans Dome, W4C/WM-001
+
 #### Drive Guide - Clingmans Dome from Nettle Creek Bald
 
 * **Duration**: 0:25 10.3 miles

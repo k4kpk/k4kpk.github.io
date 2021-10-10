@@ -1,13 +1,7 @@
 ---
 layout: sota-guide
-points: 10
-miles: 0.7
-bushwhack: N
-pair: Brasstown, Blue, Rocky
-
 ---
-Tray Mtn: Drive to Trailhead & Trail Guide
---------------------------------------------------------
+ Tray Mtn: Drive to Trailhead & Trail Guide
 
 **Do not drive through Helen.  Traffic is often 2 MPH. **
 

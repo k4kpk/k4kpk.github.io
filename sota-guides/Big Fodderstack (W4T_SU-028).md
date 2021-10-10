@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 10
-miles: 3.8
-bushwhack: Y
-pair: 
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: unknown
 ---
-Big Fodderstack: Drive to Trailhead & Trail Guide
---------------------------------------------------------
+# SOTA Guide - Big Fodderstack, W4T/SU-028
+
 * **CAUTION**: The last 200 yards of this hike are in dense rhododendron.  I had to crawl on hands and knees, and I lost some equipment.  I will never attempt this trip again without saw, pruning shears, or other trail-clearing equipment!  Do not attempt this trip unless you can handle an extremely difficult bushwhack after a 3.8 mile hike, climbing 2400 feet.
 
 * Please: Just take another trip.  This one isn't worth the pain.  I was still recovering a week later.

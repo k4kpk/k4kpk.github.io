@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 10
-miles: 0.6
-bushwhack: N
-pair: Grassy Ridge Bald
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: TF-2018,VF,AW-2018
 ---
-Drive to Trailhead & Trail Guide - Roan High Knob
---------------------------------------------------------
+# Drive & Trail Guide - Roan High Knob, W4T/SU-005
+
 Food if driving from Atlanta: Best Plan: About 10 miles before Asheville (whether you go I-26 or I-40 route)
 
 #### Drive Guide - Roan High Knob from Atlanta

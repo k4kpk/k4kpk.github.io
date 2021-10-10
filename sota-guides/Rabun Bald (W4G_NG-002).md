@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 10
-miles: 1.7
-bushwhack: N
-pair: Blackrock
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: TM,A
 ---
-Rabun Bald (W4G/NG-002): Drive to Trailhead & Trail Guide
---------------------------------------------------------
+# Rabun Bald (W4G/NG-002): Drive & Trail Guide
+
 #### Drive Guide - Rabun Bald from Atlanta
 
 * **Duration**: 2:00
@@ -27,21 +17,21 @@ Rabun Bald (W4G/NG-002): Drive to Trailhead & Trail Guide
         * I-985 N and go 23.8
         * Straight on US-23 N for 52
     * From Clayton GA (intersection of US-441 and US-76) to Beegum Gap trailhead - 0:30 :
-        * CAUTION: Google Maps may try to direct you into Sky Valley.  Ignore it if it tells you to turn R into Sky Valley.
+        * CAUTION: Google Maps may send you into Sky Valley.  Ignore it if it says to turn R into Sky Valley.
         * US-441N and go 7.5
         * R on GA-246/NC-246/NC-106 and go 4.2
-        * R on Old Mud Creek Rd/Bald Mtn Rd (@ "Mountain Jct Store/Sinclair Gas") and go 1.7
+        * R on Old Mud Creek Rd/Bald Mtn Rd @ "Mountain Jct Store/Sinclair Gas") and go 1.7
         * Keep R to stay on Bald Mtn Rd and go 1.2
         * R onto Kelsey Mtn Rd and go 0.5. Park at end of pavement.  Limited parking.
-        * Note: Some people may try to drive the jeep trail past this point. There are some deep erosion gullies and you'll do some boulder climbing.  If I get a Forrester, I'm not going to drive it.
-    * Alternate Trailhead: From Clayton (intersection of US-441 and US-76) to Hale Ridge Rd trailhead:
+        * Note: Some people may try to drive the jeep trail past this point. There are  deep erosion gullies and some boulder climbing.  I won't try it in a Forrester.
+    * Alternate Trailhead: From Clayton (at US-441 and US-76) to Hale Ridge Rd trailhead:
         * R on Rickman Dr (across from where US-76 joins from the west) and go 0.5
         * R on Warwoman Rd and go 9.5
         * L on Hale Ridge Rd (USFS-7) and go 5.6.
-        * Trail marker is on left.  Probably near 34.99081, -83.28227; maybe near 34.99570, -83.28197
+        * Trail marker on left:  Maybe near 34.99081, -83.28227 or 34.99570, -83.28197
 * **Food**
     * Last McDonalds: Clayton, GA (busy on Saturday mornings)
-    * Before that: Cornelia, on Level Grove Rd (just BEFORE Cornelia)
+    * Before that: Cornelia, on Level Grove Rd
 
 #### Drive Guide - Rabun Bald TO Atlanta
 * Drive out on the only road for 0.5
@@ -65,13 +55,11 @@ Rabun Bald (W4G/NG-002): Drive to Trailhead & Trail Guide
     * Note: After you turn the last switchback, it is ~800 steps to the summit
 * **GPS tracks/waypoints**:
     * Trailhead: 34.976, -83.3 (Beegum Gap) at 3690' altitude
-    * Summit: 34.9656, -83.2998   Grid: EM84ix at 4696' altitude
+    * Summit: 34.9656, -83.2998  at 4696' altitude. (Climb = 1006'.)
+    * Grid Square: EM84ix
 
 #### Summit Guide
 
-* Antenna: The only sensible antenna setup is to climb to the top of the tower and bungee cord a mast to the railing.
-* Cell coverage: AT&T 2015 SMS success; AT&T 2014 = intermittent; Verizon 2014 = intermittent; APRS = good send/receive.
-    * I had best success with Verizon by putting the phone flat on the deck and giving it some space.
-* Unique features:
-    * 20' stone tower atop the summit.  Great views.
-    * I reached an Alpharetta ham on 2 meters FM National Calling Frequency.
+* Antenna: Climb the tower stairs and bungee a mast to the railing.
+* Cell coverage: 2021 AT&T cell + AT&T data + fast APRS ack.
+* 20' stone tower atop the summit.  Great views.

@@ -1,25 +1,14 @@
 ---
 layout: sota-guide
-points: 8
-miles: 0.6
-bushwhack: N
-pair: Rabun Bald
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: M
 ---
+# SOTA Guide - Blackrock Mtn, (W4G/NG-027)
 
-Blackrock Mtn (W4G/NG-027): Drive to Trailhead & Trail Guide
---------------------------------------------------------
 #### Drive Guide - Black Rock Mountain from Rabun Bald
 * **Duration**: 0:40
 * **Seasonal/Limited Access**:  Park is closed Dec 1 - March 15. Park roads are all paved.
 * **Google Maps** URL from Rabun Bald (Beegum Gap trailhead): ?
 * **Directions**:
-    * Beegum to Black Rock Mountain State Park gate (I'm planning a double-header) - 0:40:
+    * Beegum to Black Rock Mountain State Park gate - 0:40:
         * Head north/west on Kelsey Mtn (back the way you came)
         * L on Bald Mtn Rd (a.k.a. Mud Creek) and go 3.0
         * L at T onto NC-106/GA-246 and go 4.1
@@ -52,7 +41,6 @@ Blackrock Mtn (W4G/NG-027): Drive to Trailhead & Trail Guide
 * **Food**
     * Last McDonalds: Clayton, GA
     * Penultimate McDonalds: Cornelia, on Level Grove Rd.
-      * It comes just BEFORE Cornelia and your exit to US-441.
 * Black Rock State Park entrance gate is open 7AM-10PM, March 16-Nov 30.
 
 #### Drive Guide - Black Rock Mountain TO Atlanta
@@ -77,11 +65,11 @@ Blackrock Mtn (W4G/NG-027): Drive to Trailhead & Trail Guide
 #### Summit Guide
 
 * Activate from Tennessee Rock: There is a long, narrow ridge at the summit.  
-    * The activation zone clearly includes Tennessee Rock Overlook, as well as the proper summit. 
-    * I checked it twice with an altimeter and the low point between Tennessee Rock and the formal summit is about 40' below the summit. 
-    * The view is prettier from Tennessee Rock and I chose to operate from Tennessee Rock because it was convenient to bungee my mast to the wooden railing.
+    * The activation zone includes Tennessee Rock Overlook, and the proper summit. 
+    * I checked it twice with an altimeter and the low point between Tennessee Rock and the formal summit is 40' below the summit. 
+    * The view is prettier from Tennessee Rock and it is convenient to bungee my mast to the railing.
 * Hang antenna from tree: Possible.
-* Space to guy mast: Easy to bungee-cord a mast to the wooden railing.
+* Space to guy mast: Easy to bungee-cord a mast to the railing.
 * 2013 cell Tennessee Rock: Good VZN; no AT&T; good APRS.
 * 2014 cell from true summit: AT&T=OK.
 * 2015 cell from Tennessee Rock: Good AT&T.

@@ -1,11 +1,7 @@
 ---
 layout: sota-guide
-points: 10
-miles: 1.2
-bushwhack: N
-pair: Brasstown, Tray, Blue
 ---
-#### Drive to Trailhead & Trail Guide - Rocky Mtn (W4G/NG-011)
+# Rocky Mtn, W4G/NG-011
 
 There are 2 routes to Indian Grave Gap:
 
@@ -15,6 +11,24 @@ There are 2 routes to Indian Grave Gap:
 Note: Shorter hike and less climb from the Indian Grave Gap trailhead.
 
 NOTE: **Do not drive through Helen!**
+
+#### Drive Guide - Rocky Mountain (Unicoi Gap) from Atlanta via GA-400
+
+* **Duration**: 1:45
+* **Google Maps** URL from Atlanta (33.917, -84.3378): https://tinyurl.com/rocky-near-helen
+* **Seasonal/Limited Access**: All seasons; all weather.
+* **Directions**:
+    * GA-400 N and go 47.
+    * At GA-400 end, go straight on GA-115 and go 4.8
+    * R on GA-115 and go 11.5
+    * L on Tesnatee Gap Valley Rd. There's a left turn lane.  Go 2.8.
+    * Go straight onto McAfee Rd. (Tesnatee turns left.)  Go 0.2
+    * L on US-129 and go 0.8
+    * R on GA-75-Alt and go 8.1
+    * L on GA-75 and go 7.9
+    * Park in the big lot on the right at Unicoi Gap.  The gap is marked with a roadside sign.
+* **Food**
+    * McDonalds: GA-53 in Dawsonville.  Before that: 2815 Keith Bridge Rd, Cumming
 
 #### Drive Guide - Rocky Mountain via Indian Grave Gap from Atlanta
 
@@ -40,26 +54,6 @@ NOTE: **Do not drive through Helen!**
     * R on Tray Mountain Rd.  Small, thin sign "Bison View Lodge".
     * After about 15 minutes, large gate made of black logs on right. "No trespassing".
     * 5 more minutes to junction w/IGG Rd.  Keep left on Indian Grave Gap Rd and go about 2 minutes to the trailhead.
-
-#### 
-
-#### Drive Guide - Rocky Mountain (Unicoi Gap) from Atlanta via GA-400
-
-* **Duration**: 1:45
-* **Google Maps** URL from Atlanta (33.917, -84.3378): https://tinyurl.com/rocky-near-helen
-* **Seasonal/Limited Access**: All seasons; all weather.
-* **Directions**:
-   * GA-400 N and go 47.
-   * At GA-400 end, go straight on GA-115 and go 4.8
-   * R on GA-115 and go 11.5
-   * L on Tesnatee Gap Valley Rd. There's a left turn lane.  Go 2.8.
-   * Go straight onto McAfee Rd. (Tesnatee turns left.)  Go 0.2
-   * L on US-129 and go 0.8
-   * R on GA-75-Alt and go 8.1
-   * L on GA-75 and go 7.9
-   * Park in the big lot on the right at Unicoi Gap.  The gap is marked with a roadside sign.
-* **Food**
-    * McDonalds: GA-53 in Dawsonville.  Before that: 2815 Keith Bridge Rd, Cumming
 
 #### Drive Guide - Rocky Mountain via Indian Grave Gap from Blue Mtn
 * **Duration**: 0:15
@@ -107,7 +101,7 @@ NOTE: **Do not drive through Helen!**
 
 #### Trail Guide - From Unicoi Gap
 
-* **Duration**: 1.5 miles, 1:25 up, 0:50 down
+* **Duration**: 1.5 miles, 1:25 up (2021), 1:03 down (2021)
 * **Navigation**: Head east on AT.  (Stay on parking lot side of the road.) 
 * **Trailhead altitude**: 2941
 * **Summit altitude**: 4014
@@ -116,6 +110,7 @@ NOTE: **Do not drive through Helen!**
 
 #### Summit Guide
 
+* If the main campsite at the summit is full, there is a smaller site on the Unicoi Gap side of the summit at 34.79924, -83.73177°. This site was measured by GPS as just inside the activation zone.
 * Hang antenna from tree: YES
 * Space to guy mast: YES
 * Cell coverage: Good AT&T 2020; APRS text worked

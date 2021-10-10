@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 10
-miles: 1.7
-bushwhack: Y
-pair: 
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: M
 ---
-Cowpen: Drive & Trail Guide, W4G/HC-001
---------------------------------------------------------
+# SOTA Guide - Cowpen Mtn, W4G/HC-001
+
 #### Drive Guide - Cowpen from Atlanta
 
 * **Duration** 

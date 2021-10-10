@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 10
-miles: 3.2
-bushwhack: Y
-pair: 
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: T,V
 ---
-Horsetrough Mtn, W4G/NG-009 10 pts
---------------------------------------------------------
+# SOTA Guide - Horsetrough Mtn, W4G/NG-009 10 pts
+
 #### Drive Guide - Horsetrough Mountain From Atlanta
 
 * Caution: There is a dead ringer for the trailhead at 5.5 miles from GA-75A.  You haven't reached the trailhead unless you've driven 8 miles.  USFS-44C *is* marked in 2021. At the 5.5 mile impostor, you park immediately adjacent to the creek. Not so at USFS-44C.  There is also a gate on CRR just past 44C but not at the impostor.

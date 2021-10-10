@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 
-miles: 
-bushwhack: N
-pair: 
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: 
 ---
-Drive to Trailhead & Trail Guide
---------------------------------------------------------
+# Rice Knob Drive & Trail Guide, W4C/CM-082
+
 #### Drive Guide - Atlanta to Rice Knob (W4C/CM-082)
 
 * CAUTION: Elk Trail (the road to the trailhead) is marked "Private Drive, Residents and guests only."  2015.07.11.

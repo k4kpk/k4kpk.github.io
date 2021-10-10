@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 
-miles: 
-bushwhack: Y
-pair: 
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS OK in 2016.
-sms: 
 ---
-Drive to Trailhead & Trail Guide
---------------------------------------------------------
+# Rocky Mountain Drive & Trail Guide, W4G/NG-016
+
 Summit is worth 8 points + 3 bonus
 
 #### Drive Guide - Rocky Mountain (NG-016) from Atlanta

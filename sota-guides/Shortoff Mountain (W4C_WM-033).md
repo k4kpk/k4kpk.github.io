@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 1.8
-bushwhack: N
-pair: Yellow Mtn
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: V
 ---
-Drive to Trailhead & Trail Guide - Shortoff Mtn
---------------------------------------------------------
+# Drive & Trail Guide - Shortoff Mtn, W4C/WM-033
+
 #### Drive Guide - Shortoff Mountain via Cole Gap from Atlanta
 
 * **Duration**: 2:20
@@ -67,7 +57,7 @@ Drive to Trailhead & Trail Guide - Shortoff Mtn
 
 * **Duration**: 1.8 miles, 	900' climb, 1:15 up; 0:50 down
 * **Navigation**
-    * Trail departs on east side of road.
+    * Trail departs on east side of road.`
 * **Trailhead altitude**: ~4250
 * **Summit altitude**: 5020
 * **GPS tracks/waypoints**:
@@ -76,8 +66,7 @@ Drive to Trailhead & Trail Guide - Shortoff Mtn
 
 #### Summit Guide
 
-* Hang antenna from tree: Yes
-* Space to guy mast: Yes
+* Hang antenna from tree: Yes; space to guy mast: Yes
 * Cell coverage: 2014 VZN=yes; 2015 ATT=yes
 
 #### See Also

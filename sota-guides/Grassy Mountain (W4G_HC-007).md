@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 2.4
-bushwhack: N
-pair: Bald Mountain, Cowpen, Flattop, Dyer
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: Y
 ---
-Grassy Mtn - Drive to Trailhead & Trail Guide - 8 points
---------------------------------------------------------
+# SOTA Guide - Grassy Mtn, 8 points, W4G/HC-007
+
 #### Drive Guide - Grassy Mtn From Atlanta
 
 * **Special**: Take cash ($2 in 2013) to pay parking fee.

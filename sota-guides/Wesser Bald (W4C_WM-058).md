@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 1
-bushwhack: N
-pair: Siler Bald, Wine Spring Bald
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: unknown
 ---
-Drive & Trail Guide - Wesser Bald - W4C/WM-058
---------------------------------------------------------
+# Drive & Trail Guide - Wesser Bald - W4C/WM-058
+
 Parking: 
 
 * Plenty of spaces at 9:30 AM on a pretty November Saturday in 2020

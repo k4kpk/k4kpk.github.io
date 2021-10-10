@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 
-bushwhack: N
-pair: Dyer, Cowpen, Bald, Grassy
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: Y
 ---
-Drive & Trail Guide - Flat Top Mtn, W4G/HC-006
---------------------------------------------------------
+# SOTA Guide - Flat Top Mtn, W4G/HC-006
+
 #### Drive Guide - Flat Top from Atlanta
 
 * **Duration**: 2:20 to Dyer Cemetery. Add 20 minutes if you drive from Dyer to the top.

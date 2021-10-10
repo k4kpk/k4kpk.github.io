@@ -1,17 +1,7 @@
 ---
 layout: sota-guide
-points: 8
-miles: 0.5
-bushwhack: N
-pair: Walnut
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: TN,VN,A
 ---
-### Drive & Trail Guide - Max Patch W4C/CM-036
+# SOTA Guide - Max Patch W4C/CM-036
 
 Parking is a problem.  At 9:05 AM on a clear Saturday, I took the last space in the lot. By 10:45 the lot was full and the road was crowded with cars parked on the shoulder. On a clear Friday in December, the lot was full by noon and most of the road parking was full.  About 0.6 before you reach the Max Patch lot, there is a gravel road with on your left.  You could park 1-2 cars here without blocking the gate; more with, and the gate clearly hasn't been open in a while.
 

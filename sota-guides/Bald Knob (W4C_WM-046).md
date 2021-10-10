@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 2
-bushwhack: N
-pair: 
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: N
 ---
-Drive to Trailhead & Trail Guide - Bald Knob - 8 points
---------------------------------------------------------
+# SOTA Guide - Bald Knob - 8 points, W4C/WM-046
+
 #### Drive Guide - Mt. Pisgah (W4C/CM-011) to Bald Knob
 
 * **Duration**: 0:35, 19 miles

@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 0.7
-bushwhack: N
-pair: Black Balsam Knob, Green Knob (CM-020), Mt Pisgah, Richland Balsam
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: T,V
 ---
-Drive to Trailhead & Trail Guide - Green Knob - W4C/CM-023
---------------------------------------------------------
+# SOTA Guide - Green Knob - W4C/CM-023
+
 #### Drive Guide - Green Knob from Mt Pisgah
 (This is CM-023 with no fire tower near Mt Pisgah -- NOT CM-020 with a fire tower near Mt Mitchell.  Mnemonic "On 023, it's just me.")
 

@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 2.2
-bushwhack: N
-pair: Clingmans, Cowee
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: Y
 ---
-Drive to Trailhead & Trail Guide - Nettle Creek Bald
---------------------------------------------------------
+SOTA Guide - Nettle Creek Bald, W4C/WM-027
+
 #### Drive Guide - Nettle Creek Bald from Atlanta
 
 * **Duration**: 3:00

@@ -1,18 +1,7 @@
 ---
 layout: sota-guide
-points: 10
-miles: 1.4
-bushwhack: N
-pair: Walnut Mtn, Max Patch
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: TF
 ---
-Drive to Trailhead & Trail Guide - Round Mountain
---------------------------------------------------------
+# Drive & Trail Guide - Round Mountain, W4T/SU-029
 
 #### Drive Guide - Round Mountain from Walnut Mountain
 

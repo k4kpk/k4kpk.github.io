@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 
-miles: 
-bushwhack: N
-pair: 
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: 
 ---
-Drive to Trailhead & Trail Guide
---------------------------------------------------------
+# Ripshin Ridge Drive & Trail Guide, W4T/SU-019
+
 #### Drive Guide - SummitName
 
 * **Duration**: 
@@ -51,7 +41,8 @@ Drive to Trailhead & Trail Guide
 
 * Looks like the summit may be public but one of the access routes is private.
 * AC4M says (in 2014) "Partially public and private , you can access the north side which is public land (long hike) or from the south side which is private up to the public land, the guy that lives there says it is ok to cross his land."  Elsewhere, "do not drive up the dirt road just stay near the pavement to the side of the dirt road".
-    * This land is public land with private land access to the summit the way we went. You do have permission to go across the private land as long as you stay off posted poperty and respect the land. Directions to the private land access is South on 19E, turn right onto Roaring Creek Rd. Then take another right onto Miller Rd . go to the end of the pavement and you will see a dirt road beside a drive way. You will need to park in the dirt roadarea and do not block traffic and do not block the drive way. Go up the dirt road past an old house to you encounter an old logging road that goes across a creek and around the hill to the right , after you get into the next hollow go straight up the hollow to the saddle in the mountain , then turn right and follow a old 4 wheeler trail to the summit. High Rock will be to the left of the saddle for a nice view. Access is only for SOTA
+    * This land is public land with private land access to the summit the way we went. You do have permission to go across the private land as long as you stay off posted poperty and respect the land. Directions to the private land access is South on 19E, turn right onto Roaring Creek Rd. Then take another right onto Miller Rd . go to the end of the pavement and you will see a dirt road beside a drive way. You will need to park in the dirt road
+    area and do not block traffic and do not block the drive way. Go up the dirt road past an old house to you encounter an old logging road that goes across a creek and around the hill to the right , after you get into the next hollow go straight up the hollow to the saddle in the mountain , then turn right and follow a old 4 wheeler trail to the summit. High Rock will be to the left of the saddle for a nice view. Access is only for SOTA
 * K2JB says he went with someone who maintains a repeater on the summit.  He also says:
     * I'm told by someone who lives out there that there is another way from the opposite side but I don't know how that course goes.  It appears on a map to be Carter's Mtn Rd.
 * David Stonecypher suggests:  There's no home on the ridge, but there are a few where you can park at the end of Miller Road. No road up to the summit. As long as you stay on government land you will be ok.

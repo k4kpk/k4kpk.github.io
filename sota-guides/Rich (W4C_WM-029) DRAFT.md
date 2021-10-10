@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 0
-bushwhack: N
-pair:
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms:
 ---
-Drive to Trailhead & Trail Guide
---------------------------------------------------------
+Rich Mtn Drive & Trail Guide, W4C/WM-029
+
 #### Drive Guide - Rich (WM-029)
 
 * **Duration**: 
@@ -30,7 +20,7 @@ Drive to Trailhead & Trail Guide
 * **Duration**: 1.8 miles with 610' climb
 * **Navigation**
     * From Pat:
-Trailhead is accessed by seasonal FS Road 4665 off of Charlie's Creek Road ( <br />35.277, -83.008). Trailhead is located at the start of the gated FS Road 4675 (35.293, -83.016). Hike is 1.8 miles with 610' EG. Hike up the 4675 approximately 0.9 miles and turn left on 4675A. It is easy to miss this overgrown road, but there is a small retention pond at the intersection to use as a landmark. The trail from this point on is very overgrown, but passable. There is a small opening in the forest just before the summit. The clearing is within the activation zone, but if you are looking for shade, head on up the summit. There is a better defined logging road that heads to the left out of the clearing, but there is an overgrown logging road that is hidden by brush, that goes straight up the ridgeline to the summit.
+    Trailhead is accessed by seasonal FS Road 4665 off of Charlie's Creek Road ( <br />35.277, -83.008). Trailhead is located at the start of the gated FS Road 4675 (35.293, -83.016). Hike is 1.8 miles with 610' EG. Hike up the 4675 approximately 0.9 miles and turn left on 4675A. It is easy to miss this overgrown road, but there is a small retention pond at the intersection to use as a landmark. The trail from this point on is very overgrown, but passable. There is a small opening in the forest just before the summit. The clearing is within the activation zone, but if you are looking for shade, head on up the summit. There is a better defined logging road that heads to the left out of the clearing, but there is an overgrown logging road that is hidden by brush, that goes straight up the ridgeline to the summit.
 * **Trailhead altitude**: ???
 * **Summit altitude**: ???
 * **GPS tracks/waypoints**:

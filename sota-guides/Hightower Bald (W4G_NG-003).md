@@ -1,17 +1,11 @@
 ---
 layout: sota-guide
-points: 10
-miles: 5.1
-bushwhack: Y
-pair: null
-sms: T,V
 ---
 
-## Drive to Trailhead & Trail Guide - Hightower Bald
+# SOTA Guide - Hightower Bald, W4G/NG-003
 
 UPDATE: Pat and Ryan say their route from the north is good.
 
---------------------------------------------------------
 #### Drive Guide - Hightower Bald (Southern Approach) from Atlanta
 
 * **Duration**: 2:15

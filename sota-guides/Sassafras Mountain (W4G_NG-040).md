@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 0.7
-bushwhack: N
-pair: Big Cedar, Black, Gooch
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: Y
 ---
-Sassafras Mtn, W4G/NG-040, 8 Points
---------------------------------------------------------
+# Sassafras Mtn, W4G/NG-040, 8 Points
+
 #### Drive Guide - Sassafras Mountain from Gooch Mtn
 
 * **Duration**: 0:21 from Gooch Mtn trailhead

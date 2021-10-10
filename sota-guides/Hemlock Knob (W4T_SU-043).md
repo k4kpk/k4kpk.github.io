@@ -1,18 +1,7 @@
 ---
 layout: sota-guide
-points: 8
-miles: 0.6
-bushwhack: Y
-pair: Stratton Bald, Huckleberry Knob
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: N
 ---
-Drive to Trailhead & Trail Guide - Hemlock Knob
---------------------------------------------------------
+# SOTA Guide - Hemlock Knob, W4T/SU-043
 
 #### Drive Guide - Hemlock Knob from Stratton Bald
 

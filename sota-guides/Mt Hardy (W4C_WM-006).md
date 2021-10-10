@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 10
-miles: 2.2
-bushwhack: N
-pair: Richland Balsam, Black Balsam
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: TM-2019
 ---
-Trail Guide: Mt Hardy - 10 points
---------------------------------------------------------
+# SOTA Guide: Mt Hardy - 10 points, W4C/WM-006
+
 #### Drive Guide - Atlanta to Mt Hardy (Buckeye Gap Trailhead)
 
 * **Duration**: 171 miles, 3:05

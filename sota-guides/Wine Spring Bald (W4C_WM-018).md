@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 10
-miles: 0.3
-bushwhack: N
-pair:  Clingmans, Siler Bald, Wesser Bald
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: M
 ---
-Drive & Trail Guide - Wine Spring Bald - W4C/WM-018
---------------------------------------------------------
+# Drive & Trail Guide - Wine Spring Bald - W4C/WM-018
+
 #### Drive Guide - Wine Spring Bald from Atlanta
 
 * **Duration**:  2:30

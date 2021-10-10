@@ -1,17 +1,7 @@
 ---
 layout: sota-guide
-points: 10
-miles: 1.2
-bushwhack: N
-pair: Green Knob, Mt Pisgah, Richland Balsam
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: TM-2019, PW-2019
 ---
-## SOTA Guide: Black Balsam - W4C/CM-005
+# SOTA Guide: Black Balsam, W4C/CM-005
 
 * At 9 AM on Memorial Day, parking was almost full; by 11 AM, *everything* was full.
 

@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 2.6
-bushwhack: Y
-pair: 
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: T,V
 ---
-Buzzard Knob: Drive to Trailhead & Trail Guide
---------------------------------------------------------
+# SOTA Guide - Buzzard Knob, W4G/NG-021
+
 #### Drive Guide - Buzzard Knob via Blue Ridge Gap
 
 * **Duration**: 2:10 Estimated.

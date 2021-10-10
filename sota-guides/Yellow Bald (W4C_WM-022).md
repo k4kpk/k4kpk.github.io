@@ -1,18 +1,7 @@
 ---
 layout: sota-guide
-points: 8
-miles: 0.4
-bushwhack: Y
-pair: Standing Indian
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: VW
 ---
-Drive to Trailhead & Trail Guide - Yellow Bald
---------------------------------------------------------
+# Drive to Trailhead & Trail Guide - Yellow Bald
 
 * Note: If you elect to pair this with a summit to the west (e.g. Standing Indian), see my guide for Tray Mountain for related directions.
 

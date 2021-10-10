@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 0.5
-bushwhack: N
-pair: Mt Mitchell
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: unknown
 ---
-Drive to Trailhead & Trail Guide - Green Knob
---------------------------------------------------------
+# SOTA Guide - Green Knob, W4C/CM-020
+
 #### Drive Guide - Green Knob (W4C/CM-020) from Mt Mitchell
 
 * Note: This is the Green Knob with a fire tower.  There's another Green Knob which is near Mt Pisgah which has no fire tower.

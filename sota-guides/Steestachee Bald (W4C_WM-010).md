@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 10
-miles: 0.5
-bushwhack: Y
-pair: Richland Balsam, Waterrock Knob, Bunches Bald, Barnett Knob
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: TW, VW
 ---
-Steestachee Bald - Drive & Trail Guide. 10 points.
---------------------------------------------------------
+# Steestachee Bald - Drive & Trail Guide. W4C/WM-010. 10 points.
+
 #### Drive Guide - Steestachee from Atlanta
 
 * **Duration**: 2:46, 159 miles

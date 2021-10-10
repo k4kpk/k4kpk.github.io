@@ -1,18 +1,7 @@
 ---
 layout: sota-guide
-points: 8
-miles: 1.2
-bushwhack: N
-pair: 
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: TF,VF
 ---
-Whiteside Mtn - Drive to Trailhead & Trail Guide
---------------------------------------------------------
+# Whiteside Mtn - Drive to Trailhead & Trail Guide
 
 #### Drive Guide - Whiteside Mtn from Blackrock Mtn (W4G/NG-027)
 
@@ -90,10 +79,9 @@ Whiteside Mtn - Drive to Trailhead & Trail Guide
 
 #### Summit Guide
 
-* Hang antenna from tree: Yes
-* Space to guy mast: Yes
+* Hang antenna from tree: Yes; space to guy mast: Yes
 * Cell coverage 2014: VZN fail; AT&T fail; APRS sent OK but no ACK
-* Cell coverage 2015: VZN fail; AT&T OK; ARPS OK
+* Cell coverage 2015: VZN fail; AT&T OK; APRS OK
 * Unique features: Nice views.
 
 #### See Also

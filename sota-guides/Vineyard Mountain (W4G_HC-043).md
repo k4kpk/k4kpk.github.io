@@ -1,17 +1,7 @@
 ---
 layout: sota-guide
-points: 1
-miles: 1
-bushwhack: N
-pair: 
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: Y
 ---
-## Drive to Trailhead & Trail Guide - Vineyard Mountain
+# Drive to Trailhead & Trail Guide - Vineyard Mountain
 
 Caution: Use bug dope. I got bug bites that took over 6 weeks to heal from my ankle to my knee while wearing hiking boots, over-the-calf socks, and long pants. My son also got similar bites (while not as thoroughly clothed). (Summer 2013)
 

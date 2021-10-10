@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 0.6
-bushwhack: N
-pair: Richland Balsam, Waterrock Knob, Steestachee Bald, Bunches Bald
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: Y
 ---
-Drive to Trailhead & Trail Guide - Barnett Knob
---------------------------------------------------------
+# SOTA Guide - Barnett Knob, W4C/WM-055
+
 #### Drive Guide - Barnett Knob from Atlanta
 
 Note: This looks to be just outside parkway land, on Cherokee territory.

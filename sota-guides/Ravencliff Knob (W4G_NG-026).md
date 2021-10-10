@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 0.9
-bushwhack: N
-pair: Hullander, Joe
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: T,V
 ---
-Ravencliff - Drive to Trailhead & Trail Guide
---------------------------------------------------------
+# Ravencliff - Drive & Trail Guide, W4G/NG-026
+
 * **Seasonal/Limited Access**: 
     * Caution: It takes longer to drive than Google Maps says, once you reach Ivy Log Gap Rd.
     * There are gates.  They were open.  There is no published schedule.

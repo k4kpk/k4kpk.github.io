@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 0.8
-bushwhack: Y
-pair: Buckeye, Coosa
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: A, V
 ---
-Drive & Trail Guide - Spaniard Mtn - W4G/NG-018
---------------------------------------------------------
+# Drive & Trail Guide - Spaniard Mtn - W4G/NG-018
+
 I don't believe I want to do this summit.  See the trail guide.
 
 #### Drive Guide - Spaniard Mountain from ????)

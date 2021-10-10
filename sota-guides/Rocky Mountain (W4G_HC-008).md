@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 2.3
-bushwhack: N
-pair: 
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: T,V
 ---
-Drive to Trailhead & Trail Guide - Rocky Mtn (W4C/HC-008)
---------------------------------------------------------
+# Drive & Trail Guide - Rocky Mtn, W4C/HC-008
+
 #### Drive Guide - Rocky Mountain (HC-008) from Atlanta
 
 * **Duration**: 1:45

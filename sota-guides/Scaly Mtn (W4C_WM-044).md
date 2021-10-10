@@ -1,18 +1,8 @@
 ---
 layout: sota-guide
-points: 8
-miles: 0
-bushwhack: N
-pair:
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms:
 ---
-Drive to Trailhead & Trail Guide
---------------------------------------------------------
+# Scaly Mtn Drive & Trail Guide, W4C/WM-044
+
 #### Drive Guide - Scaly Mtn from Atlanta
 
 * **Duration**: 1:55, 115 miles

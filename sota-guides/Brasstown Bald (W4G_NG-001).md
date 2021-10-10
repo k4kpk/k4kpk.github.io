@@ -1,19 +1,8 @@
 ---
 layout: sota-guide
-points: 10
-miles: 0.6
-bushwhack: N
-pair: Tray, Blue, Rocky
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: Y
 ---
+# SOTA Guide - Brasstown Bald, W4G/NG-001
 
-Brasstown Bald: Drive to Trailhead & Trail Guide
---------------------------------------------------------
 * Check with GDOT to see whether GA-180 Spur is open: 706-348-4848
 * Pay \$5 per adult for parking and/or shuttle. shuttle is included, even if you don't use it.  \$3 out of season when shuttle not running.
 

@@ -1,39 +1,28 @@
 ---
 layout: sota-guide
-points: 
-miles: 
-bushwhack: N
-pair: 
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: 
 ---
-Drive to Trailhead & Trail Guide
---------------------------------------------------------
+# SOTA Guide - Beech Mtn, W4C/EM-007
+
 #### Drive Guide - SummitName
 
 * **Duration**: 
 * **Google Maps** URL from Ashford Dunwoody Rd and I-285 at 33.917, -84.3378: 
 * **Seasonal/Limited Access**:
 * **Directions**:
-    * x
+     * x
 * **Food**
-    * Last McDonalds: 
-    * Penultimate McDonalds: 
-    * Dinner
+     * Last McDonalds: 
+     * Penultimate McDonalds:
 
 #### Trail Guide
 
 * **Duration**:
 * **Navigation**
-    * x
+     * x
 * **Trailhead altitude**: ???
 * **Summit altitude**: ???
 * **GPS tracks/waypoints**:
-    * x
+     * x
 
 #### Summit Guide
 
@@ -41,7 +30,7 @@ Drive to Trailhead & Trail Guide
 * Space to guy mast:
 * Cell coverage:
 * Unique features:
-    * x
+     * x
 
 #### Plan-B Candidates
 

@@ -1,92 +1,87 @@
 ---
 layout: sota-guide
-points: 8
-miles: 0.0
-bushwhack: N
-pair: Eagle
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: Y
 ---
-Bell Knob (W4G/NG-035): Drive to Trailhead & Trail Guide
---------------------------------------------------------
+# SOTA Guide - Bell Knob (W4G/NG-035)
 
 New in 2016 - Road is  paved to the top.  This is now a drive-up summit, with an observation deck at the apex.
 
 Bell: If you're thinking of activating from the upper parking area, measure to see whether it is in/out of activation zone. (The W4G activation zone is 25 m (82 ft) vertically.  (NY4G feels it is out of zone at https://summits.sota.org.uk/summit/W4G/NG-035 as of December 2019.)
 
-
 #### Drive Guide - Bell Knob from Atlanta
 
 * **Duration**: 2:05, 98 miles
 * **Google Maps** URL from Atlanta (33.917, -84.3378): 
-    * http://goo.gl/maps/LQJzq
+     * http://goo.gl/maps/LQJzq
 * **Seasonal/Limited Access**:
 * **Directions**:
-    * N on GA-400 and go 47 miles.
-    * At end of 400 (@ GA-60) go straight onto GA-115. Go 4.8
-    * GA-115 turns R.  (About 60 minute drive to this turn.) Go 11.4.
-    * L on Tesnatee Gap Valley Rd. There's a left turn lane.  Go 2.8.
-    * Go straight onto McAfee Rd. (Tesnatee turns left.)  Go 0.2
-    * L on US-129 N at T. (About 1:15 total drive time to this turn.) Go 0.8.
-    * R on GA-75A. Go 8.2.
-    * L on GA-75.  Go 16.6
-    * L on GA-75 N/US-76 W. Go 1.4
-    * R on Shake Rag Rd at convenience store and power substation.
-    * Continue directions at "Drive Guide - Bell Knob from Shake Rag Rd"
+     * N on GA-400 and go 47 miles.
+     * At end of 400 (@ GA-60) go straight onto GA-115. Go 4.8
+     * GA-115 turns R.  (About 60 minute drive to this turn.) Go 11.4.
+     * L on Tesnatee Gap Valley Rd. There's a left turn lane.  Go 2.8.
+     * Go straight onto McAfee Rd. (Tesnatee turns left.)  Go 0.2
+     * L on US-129 N at T. (About 1:15 total drive time to this turn.) Go 0.8.
+     * R on GA-75A. Go 8.2.
+     * L on GA-75.  Go 16.6
+     * L on GA-75 N/US-76 W. Go 1.4
+     * R on Shake Rag Rd at convenience store and power substation.
+     * Continue directions at "Drive Guide - Bell Knob from Shake Rag Rd"
 
 #### Drive Guide - Bell Knob from Shake Rag Rd
+
 * **Directions**:
-  * After turning onto Shake Rag Rd...
-    * STOP: Turn on GPS devices and get a fix.  (Good cell signal on AT&T in 2014.)
-    * Set GPS destination to: 34.9556, -83.7297
-    * At 0.7 miles, follow Shake Rag as it turns left and passes "Bright Apartments".
-    * There is a gate near 34.95285, -83.73409 marked "Closed due to Inclement Weather"
-        * A local source said this gate is closed from *about* 8 PM to a little after 8 AM, even when weather is nice.  Time varies according to convenience of local police department.
-        * If the gate is closed, it is a *steep* 0.5 mile walk at 0:35 up and 0:20 down.
-    * There is a second gate near the top.  It was open even when the lower gate was closed, and *this* gate is marked "Park Closed 8 PM - 8 AM".
+  
+     * After turning onto Shake Rag Rd...
+          * STOP: Turn on GPS devices and get a fix.  (Good cell signal on AT&T in 2014.)
+          * Set GPS destination to: 34.9556, -83.7297
+          * At 0.7 miles, follow Shake Rag as it turns left and passes "Bright Apartments".
+          * There is a gate near 34.95285, -83.73409 marked "Closed due to Inclement Weather"
+               * A local source said this gate is closed from *about* 8 PM to a little after 8 AM, even when weather is nice.  Time varies according to convenience of local police department.
+               * If the gate is closed, it is a *steep* 0.5 mile walk at 0:35 up and 0:20 down.
+          * There is a second gate near the top.  It was open even when the lower gate was closed, and *this* gate is marked "Park Closed 8 PM - 8 AM".
 
 * **Food**
-    * Last McDonalds:  GA-400 at GA-53 (38 miles north of I-285)
-        * There is a McDonalds in Hiawasee that opens at 6 AM 7 days a week, but it is out of your way.
+  
+     * Last McDonalds:  GA-400 at GA-53 (38 miles north of I-285)
+          * There is a McDonalds in Hiawasee that opens at 6 AM 7 days a week, but it is out of your way.
 
 #### Drive Guide - Bell Knob from Blackrock Mtn
+
 * **Google Maps** URL: https://goo.gl/maps/SF2uNBkL2B62
 * **Duration**: 0:50
 * **Directions**: 
-    * Head downhill on Blackrock Mtn Pky and go 0.2
-    * L on Blackrock Mtn Pky and go 2.3
-    * R on US-441 and go 2.9
-    * R on US-76 and go 25.2
-    * R on Shake Rag Rd.  Continue directions at "Drive Guide - Bell Knob from Shake Rag Rd"
-    * Allow 5-10 extra minutes, and drive 0.9 past Shake Rag Rd to Dairy Queen for restroom and ice cream
+     * Head downhill on Blackrock Mtn Pky and go 0.2
+     * L on Blackrock Mtn Pky and go 2.3
+     * R on US-441 and go 2.9
+     * R on US-76 and go 25.2
+     * R on Shake Rag Rd.  Continue directions at "Drive Guide - Bell Knob from Shake Rag Rd"
+     * Allow 5-10 extra minutes, and drive 0.9 past Shake Rag Rd to Dairy Queen for restroom and ice cream
 
 #### Drive Guide - Bell Knob from Brasstown Bald
+
 * **Google Maps** URL: http://goo.gl/maps/QQcyb
 * **Duration**: 0:40 in 2014
 * **Directions**: 
-    * Head down GA-180 spur
-    * L onto GA-180 and go 5.3
-    * L on GA-17 N / GA-75 N and go 6.3
-    * L on GA-2 W / US-76 W and go 1.4
-    * R on Shake Rag Rd.  Continue directions at "Drive Guide - Bell Knob from Shake Rag Rd"
-    * Allow 5-10 extra minutes, and drive 0.9 past Shake Rag Rd to Dairy Queen for restroom and ice cream
+     * Head down GA-180 spur
+     * L onto GA-180 and go 5.3
+     * L on GA-17 N / GA-75 N and go 6.3
+     * L on GA-2 W / US-76 W and go 1.4
+     * R on Shake Rag Rd.  Continue directions at "Drive Guide - Bell Knob from Shake Rag Rd"
+     * Allow 5-10 extra minutes, and drive 0.9 past Shake Rag Rd to Dairy Queen for restroom and ice cream
 
 #### Drive Guide - Bell Knob from Eagle Mountain
+
 * **Google Maps** URL: http://goo.gl/maps/uW7m9
 * **Directions**:
-    * Take the iPad and pre-load the maps.  You'll want it for your final approach, where Google Maps and reality diverge.
-    * Head back out to Upper Bell Creek Rd (straight out to the main, paved road).
-    * L on Upper Bell Creek Rd and go 1.1
-    * L on GA-75 S and go 1.9
-    * L on US-76 E and go 1.8
-    * Allow 5-10 extra minutes, and stop 0.9 before Shake Rag Rd to Dairy Queen for restroom and ice cream
-    * L on Shake Rag Rd.  Continue with "Drive Guide - Bell Knob from Shake Rag Rd" directions.
+     * Take the iPad and pre-load the maps.  You'll want it for your final approach, where Google Maps and reality diverge.
+     * Head back out to Upper Bell Creek Rd (straight out to the main, paved road).
+     * L on Upper Bell Creek Rd and go 1.1
+     * L on GA-75 S and go 1.9
+     * L on US-76 E and go 1.8
+     * Allow 5-10 extra minutes, and stop 0.9 before Shake Rag Rd to Dairy Queen for restroom and ice cream
+     * L on Shake Rag Rd.  Continue with "Drive Guide - Bell Knob from Shake Rag Rd" directions.
 
 #### Drive Guide - Bell Knob TO Atlanta
+
 * Head downhill
 * R on Shake Rag Rd after passing Bright Apartments and go 0.7
 * L on US-76 E and go 1.4

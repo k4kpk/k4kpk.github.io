@@ -1,17 +1,7 @@
 ---
 layout: sota-guide
-points: 8
-miles: 3.6
-bushwhack: N
-pair: Hemlock, Huckleberry
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: N
 ---
-## Drive to Trailhead & Trail Guide - Stratton Bald via Wolf Laurel
+# Drive to Trailhead & Trail Guide - Stratton Bald via Wolf Laurel. W4C/WM-020
 
 The best map is a National Forest Service paper map titled "Joyce Kilmer-Slickrock Wilderness and Citico Creek Wilderness" subtitled "in the Nantahala and Cherokee National Forests".  Mine says it was "compiled" in 1987.  The National Geograpic "Trail Maps" IOS application also shows the Wolf Laurel trail and Wolf Laurel Road (AKA USFS-81F, which is 2WD drivable to Wolf Laurel Basin).
 

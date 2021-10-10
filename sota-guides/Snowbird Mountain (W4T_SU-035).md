@@ -1,12 +1,7 @@
 ---
 layout: sota-guide
-points: 8
-miles: 0
-bushwhack: N
-pair:
 ---
-Drive to Trailhead & Trail Guide - Snowbird Mtn
---------------------------------------------------------
+# Drive to Trailhead & Trail Guide - Snowbird Mtn. W4T/SU-035
 
 #### Drive Guide - Snowbird Mountain from Walnut Mountain (Lemon Gap)
 

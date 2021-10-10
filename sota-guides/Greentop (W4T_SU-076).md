@@ -1,17 +1,7 @@
 ---
 layout: sota-guide
-points: 8
-miles: 0
-bushwhack: N
-pair: Max Patch, Walnut Mtn, Clingmans, Barnett
-
-# SMS: T=AT&T, V=Verizon, P=APRS. W=Worked (default), F=Failed, M=Marginal (some failed).
-# Optional: Provide the latest year checked.
-# e.g: TM-2017, VF, P-2016
-# means: AT&T was marginal in 2017, Verizon failed (year not documented), APRS worked in 2016.
-sms: T
 ---
-## Drive to Trailhead & Trail Guide - Greentop
+# SOTA Guide - Greentop, W4T/SU-076
 
 #### I do not like Greentop.  I do not intend to activate it again.  
 
