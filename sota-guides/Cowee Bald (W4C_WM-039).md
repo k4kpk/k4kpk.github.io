@@ -5,6 +5,7 @@ layout: sota-guide
 
 #### Drive Guide - Cowee Bald From Atlanta
 
+* Caution: [USFS is replacing culverts](https://www.fs.usda.gov/detail/nfsnc/alerts-notices/?cid=fseprd967806) on Cowee Bald Rd and Conleys Creek Rd from November 2021 through January 2022. "Up to 4 hour delays." Work begins with Conleys Creek Rd. Work begins on Cowee Bald Road around December 10.
 * **Duration**: 2:50, 138 miles
 * **Google Maps** URL from Atlanta (33.917, -84.3378): 
     * https://goo.gl/maps/Dc1uJsxKMLQ2  (includes Shepherd Bald and Cowee Bald)
@@ -23,8 +24,11 @@ layout: sota-guide
     * R fork on Cowee Creek Rd and go 1.2
     * L on Leatherman Gap Rd, bearing L at 2.0 to stay on Leatherman and go another 0.9
     * S on USFS-70 (dirt) and go 2.6
+        *  Forest Service calls it "Cowee Bald Road", Google calls it "National Forest Rd" and "Government Rd") 
     * Keep L at fork on USFS-70 and go 2.7
+    * Pass through Leatherman Gap
     * R fork on USFS-70 and go 0.5
+        * Left fork is "Conleys Creek Rd" on Google and "Connelly Creek Road (NFSR 86)" to the Forest Service. Pat (KI4SVM) has used this road to reach the area from US-74. It is paved at US-74. I don't know where it turns to dirt.
     * Keep L on Government Rd (straight, really) and go 0.8. Road gets moderately rough, but not scary in my Corolla.
     * Park at wide spot in road when you see the locked gate.
 * **Food**
