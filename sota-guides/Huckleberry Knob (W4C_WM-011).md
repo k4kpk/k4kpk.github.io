@@ -18,6 +18,20 @@ layout: sota-guide
   * Penultimate McDonalds on R in Vonore, TN (combined w/Exxon station)
   * Last McDonalds in Madisonville, TN, on R, just before exit for TN-68
 
+#### Drive Guide - Huckleberry Knob from Knoxville
+
+* **Duration**: 2:00
+* **Google Maps**: https://tinyurl.com/huckknobk
+* **Directions**: 
+  * South on Alcoa Hwy, US-129  (toward Maryville)
+  * R on US-411 S and go 27.
+  * L on TN-68 S and go 12.4
+  * L on Cherohala Skyway and go 32. 
+  * Parking lot on L. Also, roadside parking 500' before on R, if full.
+* **Food**: 
+  * Penultimate McDonalds on R in Vonore, TN (combined w/Exxon station)
+  * Last McDonalds in Madisonville, TN, on R, just before exit for TN-68
+
 #### Drive Guide - Huckleberry Knob from Atlanta
 
 * **Duration**: 3:15
