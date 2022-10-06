@@ -1,6 +1,8 @@
 ---
 layout: sota-guide
 ---
+Warning: I-40 closed until summer 2022: https://www.fs.usda.gov/alerts/nfsnc/alerts-notices/?aid=70284
+
 Note: Via Rattlesnake Gap climbs 200' less than from Lemon Gap, feels easier and is a few minutes faster (including the drive). Lemon Gap is prettier.
 
 # Drive & Trail Guide - Walnut Mountain, W4T/SU-033
