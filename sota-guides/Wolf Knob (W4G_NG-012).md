@@ -76,3 +76,4 @@ layout: sota-guide
 #### Plan-B Candidates
 
 * Glassy Mtn; Blackrock Mtn
+
