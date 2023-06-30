@@ -11,10 +11,8 @@ Guide - Mt Electric - W7W/KG-141
 * **Seasonal/Limited Access**: All weather except deep snow. Last mile is dirt.
 * **Directions**:
     * North on 35th Ave NE and go 2.3
-    * (Name change to Erickson Pl)
     * R on Lake City Way and go 3.7
-    * McDonalds
-    * L on SR 522 and go 5.4
+    * McDonalds on L. Continue by turning L out of parking lot onto SR 522 and go 5.4
     * Exit: NE 195th St
     * R on NE 195th St / North Woodinville Way / NE Woodinville Duvall Rd and go 9.4
     * After crossing bridge, L on Main St and go 0.1
@@ -36,9 +34,8 @@ Guide - Mt Electric - W7W/KG-141
 * **Navigation**: 
     * If driving from Seattle, take the gated road on your LEFT. It is northwest.  Uphill.
     * The walk on the road is easy. The bushwhack went *very* slow due to dense ferns making it impossible to see where I was putting my feet. Many soft spots, requiring probing with my hiking poles. I fell on the way out when the ground gave way.
-* **GPS-failure Return Route**: Head SE or ESE back to trail and turn R.
-    * Too much south, and you'll miss the trail. Too much east, and it will be steep.
-
+* **GPS-failure Return Route**: Head E back to trail and turn R.
+    
 * **Trailhead altitude**: 602
 * **Summit altitude**: 1090
 * **GPS tracks/waypoints**:
@@ -76,13 +73,13 @@ The only way to know for certain would be to measure a loop from:
 
 * Hang antenna from tree: Yes/No
 * Space to guy mast: Yes/No
-* Cell coverage: AT&T=SMS reliably in 2022
-* APRS=failed consistently in 2022 (from the summit, but it worked and got a fast ACK at the road high point at 47.73134,-121.85936)
+* Cell coverage: AT&T=SMS reliable in 2022
+* APRS=failed in 2022 from the summit, but worked and got a fast ACK at the road high point at 47.73134,-121.85936.
   * You might be able to get out on APRS if you elevated your antenna
 
 * Cell was 1-bar LTE, but functional, at the trailhead
 
 #### Plan-B Candidates
 
-* Other summits here
+* None identified yet.
 
