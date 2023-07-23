@@ -1,10 +1,11 @@
 ---
+title: VX-8GR Guide for Smart People (not Dummies)
 categories: []
 layout: post
-title: VX-8GR Guide for Smart People (not Dummies)
 created: 1366843100
-redirect_from: /content/vx-8gr-guide-smart-people-not-dummies
+redirect_from: "/content/vx-8gr-guide-smart-people-not-dummies"
 ---
+
 (I couldn't call this page, "VX-8GR for Dummies," because someone else owns the "for Dummies" trademark.)
 
 ![VX-8GR Image](/files/vx-8gr.png)
@@ -119,3 +120,7 @@ Notes:
 * "++" means to see procedure defined elsewhere on this page.
 * "x+y" means "at same time"; "x,y" means "sequentially"
 * There's a key in the lower left, with TX/PO as its alternate function, that looks like an atom with revolving electrons to me.  I call this the 'atom' key.
+	* BEEP-BEEP: If you press the atom key and it goes beep-beep, check to be sure the radio isn't locked to frequency 1. If it is, hold "B" until it goes back to 2-frequency mode with 144.390 as the B frequency.
+
+	-----------------------------------
+	Keyword fodder: vx-8gr vx8gr vx8-gr

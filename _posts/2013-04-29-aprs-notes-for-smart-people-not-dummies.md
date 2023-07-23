@@ -1,10 +1,11 @@
 ---
+title: APRS Notes for Smart People (not Dummies)
 categories: []
 layout: post
-title: APRS Notes for Smart People (not Dummies)
 created: 1367283248
-redirect_from: /content/aprs-notes-smart-people-not-dummies
+redirect_from: "/content/aprs-notes-smart-people-not-dummies"
 ---
+
 (I couldn't call this page, "APRS Notes for Dummies," because someone else owns the "for Dummies" trademark.)
 
 **North American APRS Frequency**
@@ -71,3 +72,7 @@ These are twice the actual rate I'd like to beacon because I assume that only al
        * I wonder what would happen with Content: `k4kpk@example.com L`
 * To remove the "me" shortcut, I would send
     * Content: `me r`
+
+
+**Special Characters**
+* To send special characters, such as the @ ("at sign"), tap 1, then rotate until you get to the character you want.
