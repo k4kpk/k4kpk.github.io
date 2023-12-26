@@ -1,0 +1,36 @@
+I"�<p>“Resistance is useless.” – Daleks; Doctor Who</p>
+
+<p>Resistors in series:
+\( R_{1} + R_{2} + R_{3} \)</p>
+
+<p>Resistors in parallel:
+\( \left ( \frac{1}{R_{1}} + \frac{1}{R_{2}} + \frac{1}{R_{3}} \right )^{-1} \)</p>
+
+<p>Voltage divider (using resistors in series):
+\( v_1=\frac{R_1}{R_1+R_2}v \)</p>
+
+<p><img src="/files/Voltage-Divider.png" alt="Voltage divider" /></p>
+
+<ul>
+  <li>\( v_1 \) = The voltage across the first resistor</li>
+  <li>v = The voltage across both resistors</li>
+</ul>
+
+<p>Current divider (using resistors in parallel):
+\( i_1=\frac{R_2}{R_1+R_2}i \)</p>
+
+<p><img src="/files/Current-Divider.png" alt="Current divider" /></p>
+
+<ul>
+  <li>\( i_1 \) = The current through the first resistor.</li>
+</ul>
+
+<p>At RF, all resistors act like a resistor, an inductor, and a capacitor.  For the three major types of resistors:</p>
+
+<ul>
+  <li>Carbon composition resistors - act a lot like a capacitor, due to the capacitance between the granules.</li>
+  <li>Wirewound resistors - act a lot like an inductor, because the wire looks a lot like a coil.</li>
+  <li>Metal film resistors - act closer to an ideal resistor (but not perfectly so) than the other types.  “Thin film” surface mount are the best of the best.</li>
+</ul>
+
+:ET

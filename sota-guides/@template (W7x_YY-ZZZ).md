@@ -1,6 +1,8 @@
 ---
-layout: sota-guideGuide - XXX Mtn - W4G/NG-000
+layout: sota-guide
 ---
+Guide - XXX Mtn - W4G/NG-000
+
 #### Drive Guide - ???? Mountain from ????)
 
 * **Duration**: 0:00

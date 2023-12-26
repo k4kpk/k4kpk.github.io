@@ -1,0 +1,156 @@
+I"�<p>(I couldn’t call this page, “VX-8GR for Dummies,” because someone else owns the “for Dummies” trademark.)</p>
+
+<p><img src="/files/vx-8gr.png" alt="VX-8GR Image" /></p>
+
+<p>Here are some notes for getting started and quick reference when using my new VX-8GR.  Notation is defined at the end of this page.</p>
+
+<p>#Yaesu VX-8GR Set Up for APRS Beaconing</p>
+
+<ul>
+  <li>Note: Circle with dot in upper left, on Station List indicates that beaconing is active.</li>
+  <li>Enable GPS ++</li>
+  <li>Set call sign, SSID, icon (One time, when new.) ++</li>
+  <li>Enable APRS modem ++</li>
+  <li>Enter APRS (144.390) into the <strong>B</strong> frequency:
+    <ul>
+      <li>Tap &lt;Bv&gt; to select the B-band.</li>
+      <li>Use the digit keypad to enter 144.390</li>
+    </ul>
+  </li>
+  <li>Enable Beaconing:
+    <ul>
+      <li>Access APRS Settings Menu ++</li>
+      <li>&lt;turn&gt; to 14: BEA- CON TX.</li>
+      <li>Tap menu</li>
+      <li>&lt;turn&gt; to Auto</li>
+      <li>Tap menu</li>
+      <li>
+        <turn> to 12: BEACON INTERVAL.
+</turn>
+      </li>
+      <li>Tap menu</li>
+      <li>&lt;turn&gt; to select interval</li>
+      <li>Tap &lt;PTT&gt; to save</li>
+    </ul>
+  </li>
+</ul>
+
+<p>#Enable APRS Modem</p>
+<ul>
+  <li>Access APRS Settings Menu ++</li>
+  <li>Turn to <code class="language-plaintext highlighter-rouge">3 APRS MODEM</code>.</li>
+  <li>Tap &lt;menu&gt;.</li>
+  <li>Turn to <code class="language-plaintext highlighter-rouge">1200bps</code>.</li>
+  <li>Tap &lt;PTT&gt; to save.</li>
+</ul>
+
+<p>#Enable GPS</p>
+
+<ul>
+  <li>Tap &lt;menu&gt; until GPRS screen.</li>
+  <li>Hold &lt;menu&gt;.</li>
+  <li>Turn to select <code class="language-plaintext highlighter-rouge">18 GPS Power</code></li>
+  <li>Turn to toggle On/Off</li>
+  <li>Tap &lt;PTT&gt; to save On/Off</li>
+  <li>Note: &lt;mode&gt; toggles North-up/Heading-up.  White arrow = heading-up; black arrow = north-up.</li>
+  <li>Tap &lt;menu&gt; to return to non-GPS mode.</li>
+</ul>
+
+<p>#Set call sign, SSID, icon:</p>
+<ul>
+  <li>Access APRS Settings Menu ++</li>
+  <li>Turn to select <code class="language-plaintext highlighter-rouge">22 My Call Sign</code>.</li>
+  <li>Tap &lt;menu&gt;.</li>
+  <li>Tap &lt;mode&gt; until pointer is in 7th call sign column.</li>
+  <li>Turn to select SSID <code class="language-plaintext highlighter-rouge">-7</code> (unless you used -7 on other HT).</li>
+  <li>Tap &lt;menu&gt;.</li>
+  <li>Turn to <code class="language-plaintext highlighter-rouge">24 My Symbol</code>.</li>
+  <li>Tap &lt;menu&gt;.</li>
+  <li>Turn to select running man.</li>
+  <li>Tap &lt;menu&gt;.</li>
+  <li>Turn to <code class="language-plaintext highlighter-rouge">23 My Position</code>.</li>
+  <li>Tap &lt;menu&gt;.</li>
+  <li>Turn to <code class="language-plaintext highlighter-rouge">GPS</code>.</li>
+  <li>Tap &lt;menu&gt;.</li>
+</ul>
+
+<p>#How to Use the Keypad</p>
+<ul>
+  <li>Multi-press the digit keys as you do on a cell phone, to cycle through the characters assigned to that digit.</li>
+  <li>Special characters:
+    <ul>
+      <li></li>
+    </ul>
+  </li>
+  <li>&lt;Band&gt; is cursor-left</li>
+  <li>&lt;Mode&gt; is cursor-right</li>
+  <li>&lt;Hm/Rv&gt; appears to be select (and it stands for Home/Reverse)</li>
+  <li>To append an SSID to a destination address, complete entry of the base call sign and then rotate.</li>
+  <li>Lock/unlock = tap Power.  Lock icon in bottom center shows lock status.</li>
+  <li>V/M is the Delete key (sometimes)</li>
+  <li>To enter “@”, press 1 and rotate clockwise 15. (It is right after “?”.)
+    <ul>
+      <li>Or press 0 six times for “?” and rotate clockwise 1.</li>
+    </ul>
+  </li>
+  <li>To enter “.”, press 0 eight times or press 0 and rotate counter-clockwise 2.</li>
+  <li>Space is 00.</li>
+</ul>
+
+<p>#Access APRS Settings Menu</p>
+<ul>
+  <li>Tap &lt;menu&gt; until <code class="language-plaintext highlighter-rouge">Station List</code>.</li>
+  <li>Hold &lt;menu&gt;.</li>
+</ul>
+
+<p>#Send APRS Message</p>
+<ul>
+  <li>Tap &lt;menu&gt; until <code class="language-plaintext highlighter-rouge">APRS MESSAGE</code></li>
+  <li>&lt;Hm/Rv&gt;</li>
+  <li>Enter call-sign-with-SSID (destination)</li>
+  <li>&lt;mode&gt;</li>
+  <li>Enter msg up to 67 char</li>
+  <li>Press TX/PO (the ‘atom’ key)</li>
+  <li>The radio tries 5x, one per minute.  IF it gets an ACK, it puts an asterisk after the “TX” in the message display.  Otherwise, it displays the remaining attempt count, or a period if it timed out.</li>
+  <li>To erase the current message buffer (to send a NEW message):
+    <ul>
+      <li>&lt;Band&gt;</li>
+      <li>A/B to select CLEAR</li>
+      <li>&lt;V/M&gt;</li>
+    </ul>
+  </li>
+</ul>
+
+<p>#Delete APRS Message</p>
+<ul>
+  <li>Select the message</li>
+  <li>Press &lt;V/M&gt;</li>
+</ul>
+
+<p>#Yaesu VX-8GR Cheat Sheet</p>
+
+<ul>
+  <li>Volume - Hold_Vol + Turn_knob</li>
+  <li>Squelch - FW, Mon, Turn_knob, FW, Mon</li>
+  <li>MONI/T.Call = Suppress squelch</li>
+  <li>F/W = Alt (i.e. access the <em>other</em> function of the keypad)</li>
+  <li>Change transmit power = F/W + Atom</li>
+  <li>Check power level = L1/L2/L3/Hi in the lower-left on the display</li>
+</ul>
+
+<hr />
+<p>Notes:</p>
+
+<ul>
+  <li>“Tap” means a brief button press.</li>
+  <li>“Hold” means to hold the button about 1 second, until its secondary function activates.</li>
+  <li>“Turn” means to turn the only knob on the radio.  (Since the knob is the only thing that turns, I don’t say “Turn <em>knob</em>.”</li>
+  <li>”++” means to see procedure defined elsewhere on this page.</li>
+  <li>“x+y” means “at same time”; “x,y” means “sequentially”</li>
+  <li>There’s a key in the lower left, with TX/PO as its alternate function, that looks like an atom with revolving electrons to me.  I call this the ‘atom’ key.</li>
+  <li>BEEP-BEEP: If you press the atom key and it goes beep-beep, check to be sure the radio isn’t locked to frequency 1. If it is, hold “B” until it goes back to 2-frequency mode with 144.390 as the B frequency.</li>
+</ul>
+
+<hr />
+<p>Keyword fodder: vx-8gr vx8gr vx8-gr</p>
+:ET

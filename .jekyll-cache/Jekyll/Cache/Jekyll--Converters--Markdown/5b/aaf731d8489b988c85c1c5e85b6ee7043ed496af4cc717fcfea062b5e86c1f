@@ -1,0 +1,38 @@
+I"�<h3 id="the-project">The Project</h3>
+<p>I want to program my KX3 to send “K4KPK TEST” in a loop, using CW.  I’ve previously installed and configured the KX3 utility on my computer.  (See <a href="http://www.kleinfelter.com/content/updateflash-kx3-firmware-mac-first-time">these instructions</a> for help with that.)</p>
+
+<p>I’m using a Mac with OS X 10.8, not a Windows PC.</p>
+
+<h3 id="the-procedure">The Procedure</h3>
+<ul>
+  <li>Connect the cable.</li>
+  <li>Start the utility.</li>
+  <li>Make sure the KX3 is powered up.</li>
+  <li>In the utility:
+    <ul>
+      <li>Select the Port tab, press “Test Communications”, and dismiss the message box with the success message.</li>
+      <li>Select the Configuration tab.</li>
+      <li>Press “Edit CW Memories”.</li>
+      <li>Wait several seconds, while the utility reads your current CW memories.  When it is finished, the bottom of the window will say “Ready”.</li>
+      <li>Enter <code class="language-plaintext highlighter-rouge">K4KPK TEST</code> in M1.</li>
+      <li>Press “Save”</li>
+      <li>To back-up your configuration to your computer, press the “Save KX3 Button” on the Configuration tab.</li>
+      <li>Exit the utility</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Except it sometimes doesn’t work.  If you re-open the edit-CW-memories window, you’ll see that nothing got saved, or that only some lines got saved.  To solve this, press tab an extra time.  The Mac version of the utility has a bug and you have to tab out of a field in order for it to notice that you updated it.</p>
+
+<h3 id="activating-the-message">Activating the Message</h3>
+<p>When you are ready to send this message from the KX3:</p>
+
+<ol>
+  <li><em>Make sure you are tuned to the desired frequency.</em></li>
+  <li><em>Make sure your power is set to the desired level.</em></li>
+  <li><em>Make sure your mode is set to CW.</em></li>
+  <li><em>Make sure your antenna is connected and tuned.</em></li>
+  <li>Press the <strong>MSG</strong> button (on the left side of the KX3).</li>
+  <li>If you want to send the message once, tap the message number (1, in this case).  If you want to loop/repeat the message, hold the message number.  To stop looping, hold MSG.</li>
+</ol>
+:ET

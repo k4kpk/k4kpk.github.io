@@ -1,0 +1,38 @@
+I"�<p>Sevick’s books on inductors are widely regarded as the canonical works on inductors.  I’m looking for a more intuitive understanding and not so much math.  Here are some rules of thumb for inductors.  Not everything here is necessarily 100% accurate.  (That is the nature of a rule of thumb.)</p>
+
+<p>Terms:</p>
+
+<ul>
+  <li>Z: impedance in ohms</li>
+  <li>F: frequency in Hertz</li>
+  <li>L: Inductance in Henries</li>
+  <li>k is a constant</li>
+  <li>A = area of a turn</li>
+  <li>N = number of turns</li>
+  <li>C = capacitance</li>
+</ul>
+
+<p>Formulae:</p>
+
+<ul>
+  <li>Formal: The formula for inductance is: L = kAN^2</li>
+  <li>Formal: For a simple choke (not at resonant frequency): Z = 2πFL</li>
+  <li>Quasi-formal: For a choke at its resonant frequency Z, you treat it as parallel L and C.  Z = 1/(impedance_of_L - impedance_of_C)</li>
+</ul>
+
+<p>Informal</p>
+
+<ul>
+  <li>Increasing the diameter of turns, adds reactance.</li>
+  <li>Adding a turn, adds reactance.</li>
+  <li>An inductor has reactance (lots), resistance (little) and inter-turn capacitance (little).</li>
+  <li>Because an inductor has an L and a C, it has a resonant frequency.
+    <ul>
+      <li>Look up the resonant frequency in the ARRL Antenna Handbook or online.  It is hard to calculate.</li>
+      <li>Often, you want the operating frequency to be well below the resonant frequency.</li>
+    </ul>
+  </li>
+  <li>The windings of the inductor are usually kept well apart; often several conductor diameters.</li>
+  <li>A “W2DU balun” is just a bunch of ferrite beads (toroids) slipped over the coax feed line.  If you need to choke a wide bandwidth, you can use a mix of ferrites to cover the range.  Might need lots of beads an low frequencies.</li>
+</ul>
+:ET

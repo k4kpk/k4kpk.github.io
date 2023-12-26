@@ -1,0 +1,42 @@
+I"�<p>I do most of my operating on 20 and 40 meters.  I have an HT that I use occasionally for simplex and for APRS.  Whenever I try to use it on a repeater, I have to remember how to read a repeater listing.</p>
+
+<p>Here’s a sample repeater listing:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Location</th>
+      <th>Call</th>
+      <th>Freq</th>
+      <th>Offset</th>
+      <th>PL</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ellijay</td>
+      <td>W4HHH</td>
+      <td>145.170</td>
+      <td>-</td>
+      <td>100.0</td>
+    </tr>
+    <tr>
+      <td>Dalton</td>
+      <td>N4BZJ</td>
+      <td>147.135</td>
+      <td>+</td>
+      <td>141.3</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>Frequency: The frequency the repeater <em>transmits</em> on.</li>
+  <li>Offset: The repeater <em>listens</em> for your HT a standard offset above/below its transmit frequency.  For 2 meters, the offset is 600 kHz.</li>
+  <li>PL: Sometimes called CTCSS.  Your HT must transmit this sub-audible tone continuously, while you transmit, in order to open the repeater squelch.  It “unlocks” the repeater.</li>
+</ul>
+
+<p>As a rule, if the output frequency (transmit) of the repeater is below 147 mHz, then the input frequency (listening) is 600 kilohertz lower. This is referred to as a negative offset. If the output is 147 Mhz or above, then the input is 600 kilohertz above. This is referred to as a positive offset. Most HTs handle this automatically, using the rule below.  The only time you have to mess with this directly is when someone has an oddball repeater.  Of the 255 repeaters near me, 9 of them do not follow the convention.</p>
+
+<p>Announce your presence with: “This is K4xxx listening on 146.84” (using your call sign and the repeater frequency).  If I were looking for SOTA contacts I might say, “This is K4KPK on the 146.84 repeater.    I’m operating from the top of Mount Whatever.  Is there anyone who could meet me for a simplex contact?”</p>
+:ET

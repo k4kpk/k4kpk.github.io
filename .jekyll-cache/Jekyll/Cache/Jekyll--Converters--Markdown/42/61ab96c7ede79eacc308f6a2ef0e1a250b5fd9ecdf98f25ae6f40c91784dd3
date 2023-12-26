@@ -1,0 +1,11 @@
+I":<p>Here’s a tutorial on how to use <a href="http://sotamaps.wsstvc.org/">http://sotamaps.wsstvc.org/</a> to pick out a valid SOTA summit.  For this tutorial, let’s imagine you live in Covington, Georgia, and you want to activate a nearby summit.</p>
+
+<ul>
+  <li>Set the <em>Choose Association</em> field to <em>W4G - USA - Georgia</em></li>
+  <li>Set <em>Choose Region</em> to <em>W4G/CE - Central</em></li>
+  <li>Click on the “2” in the triangle to the east of Atlanta.  You just picked Stone Mountain.</li>
+  <li>A box will pop up with info about Stone Mountain.  The title of the box is a hyperlink to more info.  Click it.</li>
+  <li>If someone has activated the summit before, there is <em>probably</em> a link under “Resources”, with tips on finding/activating the summit from someone who has done it before.</li>
+  <li>Near the top of this page, you’ll see something like “Summit Information for xxx/yy-nnn”.  xxx/yy-nnn is the Summit ID. For Stone Mountain, the code is W4G/CE-003.  Write down the code for your summit because you’ll need it.</li>
+</ul>
+:ET

@@ -1,0 +1,127 @@
+I"�<p>Formulae, constants, laws, etc.</p>
+
+<ul>
+  <li>Coulomb = C
+    <ul>
+      <li>Electrons per coulomb: \( 6.241509745 * 10^{18} \)</li>
+      <li>Coulombs per electron: \( 1.602 x 10^{-19} \)</li>
+    </ul>
+  </li>
+  <li>Coulomb’s Law:</li>
+</ul>
+
+<table>
+  <tbody>
+    <tr>
+      <td>\[ \left</td>
+      <td>F \right</td>
+      <td>= k_{e}\frac{q_{1}q_{2}}{r^{2}} \]</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>… where
+    <ul>
+      <li>\( k_{e} \) is a constant</li>
+      <li>\( q_{1} \) is the charge of the first particle in Coulombs</li>
+      <li>\( q_{2} \) is the charge of the second particle in Coulombs</li>
+      <li>r is the distance between them in meters</li>
+      <li>F is the force in newtons</li>
+      <li>m is meters</li>
+      <li>N is Newtons</li>
+      <li>\( k_{e}=8.988 \ast  10^{9} \frac{Nm^2}{C^2} \)</li>
+    </ul>
+  </li>
+  <li>Meter: Abbreviated m.</li>
+  <li>Centimeter: Abbreviated cm.</li>
+  <li>Newton: Unit of force.  Force needed to accelerate 1 kilogram of mass at the rate of 1 meter per second squared.  Abbreviated N.</li>
+  <li>Amp: Unit of current. Abbreviated A.
+    <ul>
+      <li>Amps = Coulombs / seconds</li>
+      <li>\(  A=\frac{C}{s}\)</li>
+    </ul>
+  </li>
+  <li>Joule: Unit of work (or energy expended).  Abbreviated J.  Newtons * meters.
+    <ul>
+      <li>1 Joule = passing an electric current of one amp through a resistance of one ohm for one second</li>
+      <li>Other measures of work/energy expended:
+        <ul>
+          <li>Watts * seconds</li>
+          <li>Coulombs * volts</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Volts are joules divided by coulombs.  i.e. 1V = \( \frac{1J}{1C} \)</li>
+  <li>Watts:
+    <ul>
+      <li>Joules per second</li>
+      <li>Volts * Amps</li>
+    </ul>
+  </li>
+  <li>Current arrows
+    <h5 id="forward-positive">Forward (positive):</h5>
+    <p><img src="/files/Current-Forward.png" alt="Forward current" title="Forward (positive)" /></p>
+  </li>
+</ul>
+
+<p>From plus, through to minus is forward (consuming power).</p>
+
+<h5 id="reverse-negative">Reverse (negative):</h5>
+<p><img src="/files/Current-Reverse.png" alt="Reverse current" title="Reverse (negative)" /></p>
+
+<p>From minus, through to plus is backward (generating power).</p>
+
+<p>For voltages, + connected to + is forward.</p>
+
+<h5 id="another-way-of-diagramming-the-same-thing">Another way of diagramming the same thing</h5>
+<p><img src="/files/Current-Both.png" alt="Forward/reverse currents" title="Forward and reverse" /></p>
+
+<ul>
+  <li>Ohm’s Law:
+    <ul>
+      <li>v = iR
+        <ul>
+          <li>If current arrow is from minus, through to plus, then use v = -iR</li>
+        </ul>
+      </li>
+      <li>\( \Omega=\frac{V}{A} \)
+        <ul>
+          <li>Volts / Amps</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Metric prefixes
+    <ul>
+      <li>k = kilo = \( 10^{3} \)</li>
+      <li>M = mega = \( 10^{6} \)</li>
+      <li>c = centi = \( 10^{-2} \)</li>
+      <li>m = milli = \( 10^{-3} \)</li>
+      <li>\( \mu \) = micro = \( 10^{-6} \)</li>
+    </ul>
+  </li>
+  <li>Kirchhoff’s Current Law: The sum of all currents entering <strong>a node</strong> = the sum of all currents leaving <strong>a node</strong>.</li>
+  <li>Resistors in series: \( R_{1} + R_{2} + R_{3} \)</li>
+  <li>
+    <p>Resistors in parallel: \( \left ( \frac{1}{R_{1}} + \frac{1}{R_{2}} + \frac{1}{R_{3}} \right )^{-1} \) or use \( \frac{R_1 R_2}{R_1 + R_2} \)</p>
+  </li>
+  <li>
+    <p>Voltage divider (using resistors in series): \( v_1=\frac{R_1}{R_1+R_2}v \)</p>
+  </li>
+  <li>
+    <p>Current divider (using resistors in parallel): \( i_1=\frac{R_2}{R_1+R_2}i \)</p>
+  </li>
+  <li>Capacitance in Farads:
+\[ C = \frac{Q}{V} \]
+    <ul>
+      <li>C = Farads</li>
+      <li>Q = Coulombs</li>
+      <li>V = Volts</li>
+    </ul>
+  </li>
+  <li>1 microfarad = 1 \( \mu \)F \( = 1 \times 10^{-6} \) farad</li>
+  <li>1 picofarad =  1 pF = \( 1 \times 10^{-12} \) farad = 1 micro microfarad</li>
+</ul>
+:ET

@@ -1,0 +1,108 @@
+I"/<p>(I couldn’t call this page, “APRS Notes for Dummies,” because someone else owns the “for Dummies” trademark.)</p>
+
+<p><strong>North American APRS Frequency</strong></p>
+
+<ul>
+  <li>144.390 MHz</li>
+  <li>445.925 MHz (maybe, in some places)</li>
+</ul>
+
+<p><strong>What SSID should I use?  (SSID is the number that follows your call sign.  e.g. K4KPK-1.)</strong></p>
+
+<ul>
+  <li>Fixed home station: 0 (same as no SSID)</li>
+  <li>Cell phone pseudo APRS: 5</li>
+  <li>HT: 7</li>
+  <li>Mobile in a car: 9</li>
+</ul>
+
+<p><strong>What path should I use?</strong>
+I use my HT for SOTA. I use my cell phone in the car, generally in the city.  I don’t turn on my HT until I hit the trail.  Therefore, my HT gets used where coverage is sparse and my cell gets used where coverage is dense.</p>
+
+<ul>
+  <li>On cell phone: WIDE1-1,WIDE2-1</li>
+  <li>On HT: WIDE1-1,WIDE2-2</li>
+  <li>On fixed station: Find out the real node name of the nearest (always-on) node.  Use that.</li>
+</ul>
+
+<p><strong>Beacon Rate</strong></p>
+
+<ul>
+  <li>On cell phone (in the car - on car power): 2 minutes.</li>
+  <li>On HT (hiking - need to save battery): 7 minutes</li>
+</ul>
+
+<p>These are twice the actual rate I’d like to beacon because I assume that only alternate beacons will get received.</p>
+
+<p><strong>APRS Messages</strong></p>
+
+<ul>
+  <li>When you send a message, the recipient will send an ACK or a REJ.  Since your message and the ACK/REJ are both best-effort delivery (like a TCP/IP network UDP message), either one might be lost if you don’t get the ACK.</li>
+</ul>
+
+<p><strong>How to Test for Internet Access</strong></p>
+
+<ul>
+  <li>Message to <code class="language-plaintext highlighter-rouge">WHO-IS</code>, content = <code class="language-plaintext highlighter-rouge">W1AW</code>
+    <ul>
+      <li>Or to <code class="language-plaintext highlighter-rouge">WHO-15</code> if you pass through a stupid iGate.</li>
+      <li>If you get data about W1AW, you reached the Internet.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>How Can My XYL See My Location On a Map?</strong></p>
+
+<ul>
+  <li><a href="http://aprs.fi">http://aprs.fi</a> - search for your call sign</li>
+</ul>
+
+<p><strong>Send Email</strong></p>
+
+<ul>
+  <li>To: EMAIL</li>
+  <li>Content: First string in message text is email address followed by a space, then your message.</li>
+  <li>Total length (including address) = 64 characters.</li>
+</ul>
+
+<p><strong>Create/Manage Email Alias</strong></p>
+
+<ul>
+  <li>To: EMAIL-2</li>
+  <li>To create a shortcut:
+  *Content: <code class="language-plaintext highlighter-rouge">aliasName space emailAddress</code>
+  *e.g. Content: <code class="language-plaintext highlighter-rouge">me k4kpk@example.com</code></li>
+  <li>To send email to the ‘me’ alias:
+    <ul>
+      <li>Content: <code class="language-plaintext highlighter-rouge">me This is a test.</code></li>
+    </ul>
+  </li>
+  <li>Ask for a list of all my shortcuts by sending:
+    <ul>
+      <li>Content: <code class="language-plaintext highlighter-rouge">me L</code></li>
+      <li>This will cause an email to be sent to k4kpk.com@example.com with all of my shortcuts. The L is case-insensitive.</li>
+      <li>???? OK.  If I define an alias to someone@example.com, how can <strong>I</strong> get that alias sent to my email address?  I <em>think</em> the form is:
+        <ul>
+          <li>Content: <code class="language-plaintext highlighter-rouge">destinationAlias space command</code></li>
+          <li>So if I’ve defined xyl as an alias for wife@example.com:
+            <ul>
+              <li>Content: <code class="language-plaintext highlighter-rouge">me L</code> sends the full list of addresses to k4kpk@example.com and Content: <code class="language-plaintext highlighter-rouge">xyl L</code> sends the list of aliases to wife@example.com.</li>
+            </ul>
+          </li>
+          <li>I wonder what would happen with Content: <code class="language-plaintext highlighter-rouge">k4kpk@example.com L</code></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>To remove the “me” shortcut, I would send
+    <ul>
+      <li>Content: <code class="language-plaintext highlighter-rouge">me r</code></li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Special Characters</strong></p>
+<ul>
+  <li>To send special characters, such as the @ (“at sign”), tap 1, then rotate until you get to the character you want.</li>
+</ul>
+:ET

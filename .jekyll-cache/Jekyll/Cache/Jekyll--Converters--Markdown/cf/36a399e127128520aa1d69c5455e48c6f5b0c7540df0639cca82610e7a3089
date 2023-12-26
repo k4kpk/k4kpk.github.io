@@ -1,0 +1,153 @@
+I"�<p>Here are some notes on ham radio logging and rig control software.  These are not real reviews, in that I didn’t look at all the features for most programs.  If I found a fatal flaw which would prevent <em>me</em> from using a program <em>at this point in my ham-life</em>, I looked no further.</p>
+
+<p>I have to have:</p>
+
+<ul>
+  <li>IOTA (directly, or via custom fields).</li>
+  <li>SOTA (directly, or via custom fields).  Must distinguish between summit I activated and summit I chased.  Must accurately record S2S activation+chase.</li>
+  <li>Accepts as little as a call-sign and a date+time (i.e. does not demand other fields in order to create a record)</li>
+  <li>Captures operating location (could be combined with SOTA/IOTA)</li>
+  <li>Upload to LoTW.</li>
+  <li>Upload to SOTA.</li>
+  <li>CSV import/export</li>
+</ul>
+
+<h2 id="ham-radio-deluxe-v5">Ham Radio Deluxe v5</h2>
+<ul>
+  <li>Windows program.</li>
+  <li>This has lots of pieces, but right now I’m looking only at the logbook.</li>
+  <li>Does not support SOTA.</li>
+  <li>Does support custom fields.  You can customize the captions for the custom fields.</li>
+  <li>I like the automatic lookup of related info that it does.</li>
+  <li>Data store is a Microsoft Access database.  Can be tweaked to use any ODBC database.
+    <ul>
+      <li>See http://wiki.ham-radio-deluxe.com/index.php?title=Setting_up_Logbook_Databases</li>
+    </ul>
+  </li>
+  <li>Supports eQSL and LOTW</li>
+  <li>This one is interesting.</li>
+</ul>
+
+<h2 id="dxlab">dxLab</h2>
+<ul>
+  <li>PC program</li>
+  <li>4.8 rating on eHam.net</li>
+  <li>8 user-defined items with captions.  Config for these is split across multiple screens, but I was able to configure them as desired.</li>
+  <li>It uses a funky downloader/installer/wrapper.  I have concerns about not being able to store the setup program locally, in case they disappear.  Manual download/install instructions, which address this issue, are at http://www.dxlabsuite.com/dxkeeper/download.htm .</li>
+  <li>Data store is a Microsoft Access database.</li>
+  <li>Supports eQSL and LOTW</li>
+  <li>This one is interesting.</li>
+</ul>
+
+<h2 id="amateur-contact-logger-by-n3fjp">AMATEUR CONTACT LOGGER by N3FJP</h2>
+<ul>
+  <li>See http://www.n3fjp.com/ACLog.htm</li>
+  <li>$25</li>
+  <li>PC program</li>
+  <li>4.8 rating on eHam.net</li>
+  <li>It does have 4 “Other” fields, which could handle SOTA.   You can customize the captions for the custom fields.</li>
+  <li>Captures Band and Frequency.  If you enter Frequency, it does NOT calculate Band.</li>
+  <li>Fields have little editing.  e.g. If you enter “5” or “5W” in Power, it records those characters.</li>
+  <li>No SOTA support.</li>
+  <li>No control over exported fields.  It exports the entire records, with no column titles.  Upload to SOTA would be labor intensive.
+    <ul>
+      <li>Maybe I could export the whole DB, import/attach it in Access, and write Access code/tables to manage SOTA export.</li>
+      <li>Maybe write Perl/Python/Ruby script to convert exported records to LOTW format.</li>
+      <li>A free program called ASC2ADIF is reported to do this: http://kh2d.net/software/</li>
+      <li>Excel/ADIF converter - http://www.mydarc.de/DL1HW/</li>
+      <li>See also http://www.dxzone.com/catalog/Software/Log_Converters/</li>
+      <li>How would a non-SOTA-aware program handle tracking of whether a record was SOTA-uploaded?  I think I’d have to do that (perhaps just mentally).</li>
+    </ul>
+  </li>
+  <li>Looks like a proprietary data store.  (Maybe fixed length records with fixed length fields.)</li>
+  <li>This one is interesting.</li>
+</ul>
+
+<h2 id="logger-32">Logger 32</h2>
+<ul>
+  <li>PC program</li>
+  <li>7 User-defined fields, and you can set the caption for each one – in some screens but not others.  Not all 7 can be displayed in the ‘grid’ view.</li>
+  <li>I dislike it.</li>
+</ul>
+
+<h2 id="win-eqf">Win-EQF</h2>
+<ul>
+  <li>PC program</li>
+  <li>$60</li>
+  <li>4.8 on eham.net</li>
+  <li>Looks like a MS-DOS program</li>
+  <li>Has 2 fields whose captions can be customized.</li>
+  <li>I dislike it.</li>
+</ul>
+
+<hr />
+<p>Unusable items are below this line.</p>
+
+<hr />
+
+<h2 id="commcat">CommCat</h2>
+<ul>
+  <li>Windows program.</li>
+  <li>This has an iPad/iPhone remote control app which is really cool.</li>
+  <li>The log book does not support SOTA and it does not support custom fields.  I could live without explicit SOTA support, but I’m going to capture summit IDs for export+upload to SOTA.
+    <ul>
+      <li><strong>This is a deal-killer for me.</strong></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="rumlog">RumLog</h2>
+<ul>
+  <li>Popular Mac program.</li>
+  <li>It <em>requires</em> entry of sent and received RST signal reports.  I don’t always record these accurately.  I’d be willing to enter a bogus report like 00, but it insists on a <em>valid</em> signal report.  I don’t want to make one up.
+    <ul>
+      <li><strong>This is a deal-killer for me.</strong></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="macloggerdx">MacLoggerDX</h2>
+<ul>
+  <li>Mac program.</li>
+  <li>This has lots of pieces, but right now I’m looking only at the logbook.</li>
+  <li>$95 seems a little pricey for something I could do with an Excel spreadsheet.</li>
+  <li>It <em>really</em> wants me to enter time including seconds.  Since I enter many QSOs after the fact, this is a bother.</li>
+  <li>I’d like to see a date+time picker, rather than manual entry of the digits.</li>
+  <li>The log book does not support SOTA and it does not support custom fields.  I could live without explicit SOTA support, but I’m going to capture summit IDs for export+upload to SOTA.
+    <ul>
+      <li><strong>This is a deal-killer for me.</strong></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="aether">Aether</h2>
+<ul>
+  <li>Mac program.</li>
+  <li>Straightforward.</li>
+  <li>The log book does not support SOTA and it does not support custom fields.  I could live without explicit SOTA support, but I’m going to capture summit IDs for export+upload to SOTA.
+    <ul>
+      <li><strong>This is a deal-killer for me.</strong></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="log4om">Log4OM</h2>
+<ul>
+  <li>PC program.</li>
+  <li>The log book does not support SOTA and it does not support custom fields.  I could live without explicit SOTA support, but I’m going to capture summit IDs for export+upload to SOTA.
+    <ul>
+      <li><strong>This is a deal-killer for me.</strong></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="xmlog">XMLog</h2>
+<ul>
+  <li>PC Program</li>
+  <li>The log book does not support SOTA and it does not support custom fields.  I could live without explicit SOTA support, but I’m going to capture summit IDs for export+upload to SOTA.
+    <ul>
+      <li><strong>This is a deal-killer for me.</strong></li>
+    </ul>
+  </li>
+</ul>
+:ET

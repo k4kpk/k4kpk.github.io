@@ -1,0 +1,35 @@
+I"B<p>I’m building a KD1JV PFR-3a transceiver.</p>
+
+<p>Issues I’ve encountered:</p>
+
+<ul>
+  <li>A few missing parts:
+    <ul>
+      <li>R48 (470 ohms) was missing.</li>
+      <li>#24 magnet wire was missing.</li>
+      <li>#28 magnet wire - not enough supplied</li>
+    </ul>
+  </li>
+  <li>The board has two holes marked “+PWR” above them and “BAT EXT” below them.
+    <ul>
+      <li>I thought these two holes were for external power, with the left being positive and the right implied negative.  Oops. “BAT” is positive for the internal battery pack.  “EXT” is positive for external power.  The nearby 2 GND holes are for negative.  When I hooked + to the left of BAT EXT and - to the right, nothing lit up.</li>
+    </ul>
+  </li>
+  <li>There are errata at http://www.qrpkits.com/pfr3.html .  These errata are for the <strong>PFR-3</strong>.
+    <ul>
+      <li>The current radio is the <strong>PFR-3a</strong>.  The PFR-3a instructions dated “11/16/09 updated 3/1/10” do <strong>not</strong> have errata.  They should be followed as-is.</li>
+    </ul>
+  </li>
+  <li>The trimmer capacitor for the BFO goes on the <em>bottom</em> of the board.</li>
+  <li>SA612A = SA602A
+    <ul>
+      <li>I had a little crisis of confidence when the instructions said to install two SA612A, and all I could find were one SA612A and one SA602A.  A little googling revealed that they are the same, for all intents and purposes.  Steve Weber says they are interchangeable.</li>
+    </ul>
+  </li>
+  <li>Pretests on page 11:
+    <ul>
+      <li>Voltage on pins 1 and 13.  It clearly says “Measure the voltage (to <strong>ground</strong>) on pins 1 and 13…”  I measured the voltage between pins 1 and 13.  You’re supposed to measure the voltage between pin 1 and ground; then measure the voltage between pin 13 and ground.</li>
+    </ul>
+  </li>
+</ul>
+:ET

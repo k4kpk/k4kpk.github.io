@@ -1,0 +1,402 @@
+I"]%<p>I got tired of trying to track down what the kits at http://www.qrpme.com actually do, so here’s a list.</p>
+
+<ul>
+  <li>W1REX Open ALL Night Hamfest Table
+    <ul>
+      <li>Does nothing.  Always empty.  Looks like he intends to use it to sell off his junk box.</li>
+    </ul>
+  </li>
+  <li>Special #1 A Scratch-Builders FDIM Special
+    <ul>
+      <li>Does nothing. DIY circuit boards/panels</li>
+    </ul>
+  </li>
+  <li>Special #2 Scratch Builders FDIM DX Special
+    <ul>
+      <li>Does nothing. DIY circuit boards/panels</li>
+    </ul>
+  </li>
+  <li>Special #3 40m 7 Crystal Pack
+    <ul>
+      <li>Does nothing.  Collection of 40m crystals.</li>
+    </ul>
+  </li>
+  <li>Special #4 FDIM 2013 BeaconatorPCB &amp; Crystal
+    <ul>
+      <li>30m beacon transmitter.  Partial kit. (PCB and crystal only)</li>
+    </ul>
+  </li>
+  <li>Two Tinned Tunas (EZ Build)
+    <ul>
+      <li>40m QRP transmitter, crystal controlled</li>
+    </ul>
+  </li>
+  <li>Sudden Storm
+    <ul>
+      <li>40m receiver. Can be altered to 10 or 20 or 30 or 80m.</li>
+    </ul>
+  </li>
+  <li>Rexwood 1000W Receiver
+    <ul>
+      <li>40m receiver. Can be altered to 20 or 30 or 80m. Same as Sudden Storm, with different label.</li>
+    </ul>
+  </li>
+  <li>XXm SUPER Tuna Band Module
+    <ul>
+      <li>Add-on board; alters SUPER Tuna ][+ to run on XXm</li>
+    </ul>
+  </li>
+  <li>Two Tinned Tunas. Not available.</li>
+  <li>Tuna Tin 2.  Not available.</li>
+  <li>Reggie II
+    <ul>
+      <li>1/10th watt 80m CW transceiver</li>
+    </ul>
+  </li>
+  <li>Sudden Storm][ Band Module Upgrade
+    <ul>
+      <li>Add-on to make Sudden Storm ][ receiver work on 20 or 30 or 80m.</li>
+    </ul>
+  </li>
+  <li>Sudden Storm Crystals
+    <ul>
+      <li>Add-on crystals to provide more frequencies for Sudden Storm receiver</li>
+    </ul>
+  </li>
+  <li>Sudden Storm SOUP-UP
+    <ul>
+      <li>Add-on.  LED lighted controls for Sudden Storm receiver.</li>
+    </ul>
+  </li>
+  <li>Tuna Helper
+    <ul>
+      <li>T/R switch. (RF sensing transmiter/receiver antenna switch)</li>
+    </ul>
+  </li>
+  <li>Texas Topper
+    <ul>
+      <li>40m 5W amp.  Upgrade kit available for 20, 30, or 80m.</li>
+    </ul>
+  </li>
+  <li>Block_Toids
+    <ul>
+      <li>Does nothing.  DIY circuit board/panel.</li>
+    </ul>
+  </li>
+  <li>Tuna Topper ][+
+    <ul>
+      <li>40m 5W amp.  Upgrade kit available for 20, 30, or 80m.</li>
+    </ul>
+  </li>
+  <li>QRP Pocket PAL
+    <ul>
+      <li>Test equipment.  7/14mHz signal generator, frequency counter, audio frequency sweep generator</li>
+    </ul>
+  </li>
+  <li>Tuna Power System
+    <ul>
+      <li>Gel cell charge controller and power distribution.</li>
+    </ul>
+  </li>
+  <li>Picnic Table Outlets
+    <ul>
+      <li>5V regulator and various power connectors</li>
+    </ul>
+  </li>
+  <li>Picnic Table Outlets Upgrade
+    <ul>
+      <li>Add on.  Adds gel cell charge controller to Picnic Table Outlets.</li>
+    </ul>
+  </li>
+  <li>Manhattan Chowder Kit
+    <ul>
+      <li>Doodads for hacking/modding other kits.  No logic.  Just blank boards, glue, etc.</li>
+    </ul>
+  </li>
+  <li>Island Cutter Kit
+    <ul>
+      <li>Doodads for hacking/modding other kits.  No logic.  Just blank boards, glue, etc.</li>
+    </ul>
+  </li>
+  <li>Zomboids Prototyping Kit
+    <ul>
+      <li>Altoids tin plus blank boards, glue, etc. For DIY projects in an Altoids tin.</li>
+    </ul>
+  </li>
+  <li>Preparation T Kit
+    <ul>
+      <li>Toroids and a toroid clamp</li>
+    </ul>
+  </li>
+  <li>Kids Kit#1 - Learn the Code
+    <ul>
+      <li>Code practice oscillator</li>
+    </ul>
+  </li>
+  <li>Numerical Frequency Indicator
+    <ul>
+      <li>Decoration for a transmitter kit</li>
+    </ul>
+  </li>
+  <li>Numerical RST Indicator
+    <ul>
+      <li>Decoration for a transmitter kit</li>
+    </ul>
+  </li>
+  <li>MePADs
+    <ul>
+      <li>Panels for enhanced DIY Manhattan style construction</li>
+    </ul>
+  </li>
+  <li>MeSquares
+    <ul>
+      <li>Connectors for enhanced DIY Manhattan style construction</li>
+    </ul>
+  </li>
+  <li>RFP RF Probe
+    <ul>
+      <li>RF Probe</li>
+    </ul>
+  </li>
+  <li>Night Sender KEY
+    <ul>
+      <li>Practice “oscillator” with an LED instead of a buzzer</li>
+    </ul>
+  </li>
+  <li>Match-less Dummy Load
+    <ul>
+      <li>Dummy load for QRP</li>
+    </ul>
+  </li>
+  <li>Lobstercon Maine Bugs 2 Kit
+    <ul>
+      <li>Picaxe programmable beeper and LED flasher</li>
+    </ul>
+  </li>
+  <li>UK Bugs Kit
+    <ul>
+      <li>Picaxe programmable beeper, LED flasher, with more I/O</li>
+    </ul>
+  </li>
+  <li>Match-less OP LEDs
+    <ul>
+      <li>2 LEDs on a circuit board with a power connection</li>
+    </ul>
+  </li>
+  <li>Picaxe Hatchet Kit
+    <ul>
+      <li>Picaxe T/R switch, beacon keyed, IR remote controller, timer, temperature…</li>
+    </ul>
+  </li>
+  <li>Match-less PowerON LED
+    <ul>
+      <li>1 LEDs on a circuit board with a power connection</li>
+    </ul>
+  </li>
+  <li>Match-less IC Proto
+    <ul>
+      <li>Perf-board with connectors for two 16-pin ICs</li>
+    </ul>
+  </li>
+  <li>AXEme Picaxe Construction Kit
+    <ul>
+      <li>Picaxe and some I/O (Not available)</li>
+    </ul>
+  </li>
+  <li>Match-less Audio OSC
+    <ul>
+      <li>Low-powered audio oscillator</li>
+    </ul>
+  </li>
+  <li>Tuna Construction Zone
+    <ul>
+      <li>Decoration for tuna cans</li>
+    </ul>
+  </li>
+  <li>Tuna Project Board
+    <ul>
+      <li>Solder pads on round PC board</li>
+    </ul>
+  </li>
+  <li>Tuna Construction Zone - Tip Cleaner
+    <ul>
+      <li>Solder iron tip cleaner (brass shavings brillo pad)</li>
+    </ul>
+  </li>
+  <li>XTAL SPECIAL
+    <ul>
+      <li>Collection of 80m-20m crystals</li>
+    </ul>
+  </li>
+  <li>Tuna Tunah
+    <ul>
+      <li>QRP antenna tuner</li>
+    </ul>
+  </li>
+  <li>Lil Squall Transceiver ][
+    <ul>
+      <li>1/4 watt 40m CW transceiver (adaptable for 10 or 20 or 30 or 80)</li>
+    </ul>
+  </li>
+  <li>SUPER Tuna PicoKeyer Kit
+    <ul>
+      <li>Keyer, identical to PicoKeyer from HamGadgets</li>
+    </ul>
+  </li>
+  <li>SUPER Tuna ][+
+    <ul>
+      <li>40m 2W CW transmitter. Adaptable for 10 or 20 or 30 or 80m.</li>
+    </ul>
+  </li>
+  <li>SUPER K Keyer
+    <ul>
+      <li>Keyer add-on for Super Tuna ][+</li>
+    </ul>
+  </li>
+  <li>2011 FDIM Build-Along kit
+    <ul>
+      <li>Crystal checker</li>
+    </ul>
+  </li>
+  <li>Tuna Tin 2 35th Anniversary Issue
+    <ul>
+      <li>1/4 watt 40M CW transmitter</li>
+    </ul>
+  </li>
+  <li>Dummy Load Construction Set
+    <ul>
+      <li>Dummy load</li>
+    </ul>
+  </li>
+  <li>Lobstercon - not a product; a camp-out/cook-out</li>
+  <li>HC49-US Squat crystal 4 pack
+    <ul>
+      <li>Collection of crystals 80/40/30/20.</li>
+    </ul>
+  </li>
+  <li>Lil Squall Band Module Pack
+    <ul>
+      <li>Add-on to for Lil Squall for 80/30/20</li>
+    </ul>
+  </li>
+  <li>Toroid EZ Tools
+    <ul>
+      <li>toroid winding clamps</li>
+    </ul>
+  </li>
+  <li>Ca Bling! Pacificon Buildathon
+    <ul>
+      <li>Picaxe LED flasher/beeper</li>
+    </ul>
+  </li>
+  <li>49er Picaxe Pacificon Buildathon
+    <ul>
+      <li>Picaxe I/R w/4 relays</li>
+    </ul>
+  </li>
+  <li>Picaxe Playset
+    <ul>
+      <li>Picaxe board with I/O</li>
+    </ul>
+  </li>
+  <li>SUPER Tuna Prototype Band Module
+    <ul>
+      <li>Add-on board; alters SUPER Tuna ][+ to run on frequency of your design</li>
+    </ul>
+  </li>
+  <li>Super Tuna 10 Meter Band Module
+    <ul>
+      <li>Adapt Super Tuna for 10m</li>
+    </ul>
+  </li>
+  <li>QRPme Kit of the Month Club - limited availability. He got as far as 6 months and quit
+    <ul>
+      <li>solderless breadboard system</li>
+      <li>4 Port Directional Coupler (partial power/VSWR meter)</li>
+      <li>Audio Amplifier</li>
+      <li>‘Fireball’ Style Transmitter</li>
+      <li>IC Prototype Board</li>
+      <li>‘Universal’ Low Pass Filter</li>
+    </ul>
+  </li>
+  <li>2013 FDIM Buildathon Reservation - event, not a product</li>
+  <li>Lil Squall 10m Band Module
+    <ul>
+      <li>Adapt Lil Squall for 10m</li>
+    </ul>
+  </li>
+  <li>Sudden Storm 10m Band Module
+    <ul>
+      <li>Adapt Sudden Storm for 10m</li>
+    </ul>
+  </li>
+  <li>BCI Filter / MePad kit
+    <ul>
+      <li>Attenuate broadcast band signals by 30db</li>
+    </ul>
+  </li>
+  <li>Micro80D
+    <ul>
+      <li>1/4W 80m CW transceiver (adaptable to 20/30/40)</li>
+    </ul>
+  </li>
+  <li>SBSS/PAIR of SBSSs
+    <ul>
+      <li>T-slot with nylon screws.  Used to clamp circuit boards at 90 degrees</li>
+    </ul>
+  </li>
+  <li>HOLEY TOIDS!
+    <ul>
+      <li>Altoids sized pert board</li>
+    </ul>
+  </li>
+  <li>FDIM 2013 Buildathon kit Mailed
+    <ul>
+      <li>Low powered beacon transmitter</li>
+    </ul>
+  </li>
+  <li>40m 7 Crystal pack
+    <ul>
+      <li>7 different 40m crystals</li>
+    </ul>
+  </li>
+  <li>Beaconator][
+    <ul>
+      <li>Low-power beacon transmitter with keyer</li>
+    </ul>
+  </li>
+  <li>Tuna Topper ][ 4+ band SPECIAL!
+    <ul>
+      <li>20/30/40/80m 5W amp</li>
+    </ul>
+  </li>
+  <li>DX Tuna can &amp; POSTAGE
+    <ul>
+      <li>Shipping surcharge “product” for shipping other products overseas</li>
+    </ul>
+  </li>
+  <li>Tuna &amp; Texas Topper Band Module pack
+    <ul>
+      <li>20/30/80m kit for Tuna Topper or Texas Topper amps</li>
+    </ul>
+  </li>
+  <li>MeTubes
+    <ul>
+      <li>prototyping board for vacuum tubes</li>
+    </ul>
+  </li>
+  <li>Quality Tuna Housing
+    <ul>
+      <li>Heavy, cast aluminum “tuna can”</li>
+    </ul>
+  </li>
+  <li>Hollow State Design Book &amp; MeTubes Panel
+    <ul>
+      <li>Book and prototype board for vacuum tubes</li>
+    </ul>
+  </li>
+</ul>
+
+<p>That’s it.</p>
+
+:ET

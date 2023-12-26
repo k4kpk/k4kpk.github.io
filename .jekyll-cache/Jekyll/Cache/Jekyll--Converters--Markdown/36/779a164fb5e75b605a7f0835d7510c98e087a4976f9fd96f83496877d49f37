@@ -1,0 +1,216 @@
+I"\<p>I made <strong>one</strong> contact in the recent CQ WPX contest.</p>
+
+<p>That wasn’t a failure.  I wasn’t actually interested in the contest.  I <strong>am</strong> interested in SOTA, and I was one contact short of the minimum number to claim points for my activation.  I needed another contact, and there was a contest going on with lots of people wanting to make contacts…</p>
+
+<p>Since I held a QSO with a CQ WPX contester, I consumed some of his time during the contest.  In my ethical system, that obligates me to submit my log to the contest, in order to validate his QSO with me.  CQ WPX wants its logs in Cabrillo format, so I needed to create a single entry Cabrillo file.</p>
+
+<p><strong>Step 1</strong>: Fetch the sample file from <a href="http://www.cqwpx.com/cabrillo.htm">http://www.cqwpx.com/cabrillo.htm</a>.  Here’s what it looked like:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>START-OF-LOG: 3.0
+CALLSIGN: AA1ZZZ
+CONTEST: CQ-WPX-CW
+CATEGORY-OPERATOR: SINGLE-OP
+CATEGORY-ASSISTED: NON-ASSISTED
+CATEGORY-BAND: ALL
+CATEGORY-POWER: HIGH
+CATEGORY-MODE: CW
+CATEGORY-TRANSMITTER: ONE
+CATEGORY-OVERLAY: TB-WIRES
+CLAIMED-SCORE: 9447852
+CLUB: Yankee Clipper Contest Club
+LOCATION: WMA
+CREATED-BY: WriteLog V10.72C
+NAME: Randy Thompson
+ADDRESS: 11 Hollis Street
+ADDRESS-CITY: Uxbridge
+ADDRESS-STATE-PROVINCE: MA
+ADDRESS-POSTALCODE: 01569
+ADDRESS-COUNTRY: USA
+OPERATORS: K5ZD
+SOAPBOX: Put your comments here.
+SOAPBOX: Use multiple lines if needed.
+QSO: 7005 CW 2009-05-30 0000 AK1W 599 1 S50A 599 1
+QSO: 7006 CW 2009-05-30 0000 AK1W 599 2 EF8M 599 2
+END-OF-LOG:
+</code></pre></div></div>
+
+<p>Many of the new values I needed were documented on this same web page.</p>
+
+<p><strong>Step 2</strong>: Make the ‘obvious’ changes:</p>
+
+<ol>
+  <li>Change CALLSIGN from AA1ZZZ to my call sign.</li>
+  <li>Change CONTEST from CQ-WPX-CW to CQ-WPX-SSB.</li>
+  <li>Change CATEGORY-BAND from ALL to 20M.
+    <ul>
+      <li>I ‘competed’ only on one band.</li>
+    </ul>
+  </li>
+  <li>Change CATEGORY-POWER from HIGH to LOW.
+    <ul>
+      <li>I used 12 watts.</li>
+    </ul>
+  </li>
+  <li>Change CATEGORY-MODE from CW to SSB.</li>
+  <li>Delete CATEGORY-OVERLAY
+    <ul>
+      <li>Because I don’t care about entering in their categories.</li>
+    </ul>
+  </li>
+  <li>Delete CLUB.
+    <ul>
+      <li>I’m operating solo.</li>
+    </ul>
+  </li>
+  <li>Change WMA to GA.
+    <ul>
+      <li>I’m in Georgia.  The value for Georgia came from <a href="http://www.cqwpx.com/locations.htm">http://www.cqwpx.com/locations.htm</a>.</li>
+    </ul>
+  </li>
+  <li>Delete CREATED-BY.
+    <ul>
+      <li>I did not use a program, and this line is optional.</li>
+    </ul>
+  </li>
+  <li>Change NAME and ADDRESS/ADDRESS-xxx locations to my values.</li>
+  <li>Delete the OPERATORS entry.
+    <ul>
+      <li>Because I operated only as myself.</li>
+    </ul>
+  </li>
+  <li>Delete SOAPBOX entries.</li>
+</ol>
+
+<p><strong>Step 3</strong>: Enter my correct score and QSO entries.</p>
+
+<ol>
+  <li>Change CLAIMED-SCORE to 1.
+    <ul>
+      <li>Contest rules state “Contacts between stations in the same country are worth 1 point regardless of band.”  The go on to describe the use of the count of prefixes worked as a prefix multiplier, but since my prefixes-worked count is 1, this has no effect on my score.</li>
+    </ul>
+  </li>
+  <li>Delete existing QSO records</li>
+  <li>Create one QSO record.  This is a fixed field width record!
+    <ul>
+      <li>Column 01-04:
+        <ul>
+          <li>QSO:
+            <ul>
+              <li>Record identifier</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Column 05 = space</li>
+      <li>Column 06-10
+        <ul>
+          <li>14324
+            <ul>
+              <li>Operating frequency in kHz.  Left pad with spaces.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Column 11 = space</li>
+      <li>Column 12-13
+        <ul>
+          <li>PH
+            <ul>
+              <li>In the QSO record, SSB is entered as “PH” for phone.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Column 14 = space</li>
+      <li>Column 15-24
+        <ul>
+          <li>2013-03-30
+            <ul>
+              <li>Date of QSO in yyyy-mm-dd format</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Column 25 = space</li>
+      <li>Column 26-29
+        <ul>
+          <li>1620
+            <ul>
+              <li>Time of QSO in hhmm format (UCT).</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Column 30 = space</li>
+      <li>Column 31-43
+        <ul>
+          <li>K4KPK
+            <ul>
+              <li>My call sign, right-padded with spaces.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Column 44 = space</li>
+      <li>Column 45-47
+        <ul>
+          <li>59
+            <ul>
+              <li>RST sent, right-padded with spaces.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Column 48 = space</li>
+      <li>Column 49-54
+        <ul>
+          <li>001
+            <ul>
+              <li>Serial number SENT</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Column 55 = space</li>
+      <li>Column 56-68
+        <ul>
+          <li>WR5O
+            <ul>
+              <li>His call sign, right-padded with spaces.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Column 69 = space</li>
+      <li>Column 70-72
+        <ul>
+          <li>59
+            <ul>
+              <li>RST received, right-padded with spaces.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Column 73 = space</li>
+      <li>Column 74-79
+        <ul>
+          <li>549
+            <ul>
+              <li>Serial number RECEIVED</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>Column 80 = space</li>
+    </ul>
+  </li>
+</ol>
+
+<p><strong>Step 4</strong>: Submission of the log.</p>
+
+<ol>
+  <li>Upload log into <a href="http://www.cqwpx.com/logcheck/">http://www.cqwpx.com/logcheck/</a> and check it for validity.</li>
+  <li>Use the same page to submit the log.</li>
+</ol>
+
+:ET

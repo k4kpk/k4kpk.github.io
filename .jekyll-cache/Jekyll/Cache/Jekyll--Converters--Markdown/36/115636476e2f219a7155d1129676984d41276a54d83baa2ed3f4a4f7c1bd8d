@@ -1,0 +1,46 @@
+I"�<p><a href="http://k4kpk.com/ebook/rf-makes-me-grumpy/electricity/charge#overlay-context=">We saw</a> that an electron has \( 1.602 x 10^{-19} \) C (coulomb) of charge.  <a href="http://k4kpk.com/ebook/rf-makes-me-grumpy/electricity/electrons">We also saw</a> that the speed at which electrons move is called current.</p>
+
+<p>If you move a coulomb’s worth of electrons through a wire in one second, that current is called one ampere (or one amp, for short).  Amperes are named after Mr. Ampere.  They are abbreviated as <em>A</em>.</p>
+
+<p>Recall from physics that <em>work</em> is force times distance moved.  Push on something with a force of a pound and move it a foot, and you’ve accomplished one foot-pound of work.  Work is seldom measured in foot-pounds by physicists.  They like to use a unit known as the joule.</p>
+
+<p>One joule = the energy expended (or work done) in applying a force of one newton through a distance of one meter (1 newton meter or N·m).  This is the same amount of energy as passing an electric current of one ampere through a resistance of one ohm for one second.  (It didn’t get that way by magic or by a property of reality – that’s how they defined amperes and resistance.)  Joules are abbreviated <em>J</em>.</p>
+
+<p>Measures of energy include:</p>
+
+<ul>
+  <li>Joules</li>
+  <li>Newtons * meters</li>
+  <li>Watts * seconds (The power company uses Kilowatt Hours.)</li>
+  <li>Coulombs * volts</li>
+</ul>
+
+<p><a href="http://k4kpk.com/ebook/rf-makes-me-grumpy/electricity/electrons">We saw</a> that the pressure of electrons is called voltage.  Volts are joules divided by coulombs.  i.e.</p>
+
+<p>1V = \( \frac{1J}{1C} \)</p>
+
+<p>Power is measured in Watts and are abbreviated as <em>W</em>.  Watts can be calculated as (either):</p>
+
+<ul>
+  <li>Joules per second</li>
+  <li>Volts * Amps</li>
+</ul>
+
+<p>Note: When generating, power is negative watts (i.e. Volts * Amps * -1) and conventional current arrow is drawn from negative to positive. When consuming, power is positive watts (i.e. Volts * Amps).</p>
+
+<h1 id="the-big-lie">The Big Lie</h1>
+
+<p>Positive means more of something and negative means less, right?  So electricity must flow from plus to minus, right?  Wrong!</p>
+
+<p>Electricity is the flow of electrons.   The negative end (terminal) of a battery supplies electrons.  If you connect a wire between the negative and the positive ends of a battery, electrons will flow through the wire from the negative end to the positive end.</p>
+
+<p>OK.  Got it.  Current flows from negative to positive, right?  Well… not really.  Although it is the electrons which actually move, we pretend like positive charge flows in the opposite direction.  The protons don’t actually move, but in a relative sense there’s an excess of positive at the positive terminal and an excess of negative at the negative terminal.  By convention, current is the flow of this mythical positiveness rather than the actual flow of electrons.</p>
+
+<p>Why?  Awhile back, before anyone actually knew about electrons, somebody observed that something had to be moving when electricity moved.  He couldn’t observe what was actually moving.  He had to guess which direction the something was moving.  He guessed wrong and guessed that it was from positive to negative.  But he guessed first, he established the convention, and we’re stuck with it (sorta like the layout of the computer keyboard).</p>
+
+<p>If you see an arrow on a circuit diagram, indicating the flow of current, it indicates the flow of <em>conventional</em> current, and not the actual flow of electrons.</p>
+
+<p>The arrows in semiconductor schematics show conventional flow and not electron flow.  e.g. The arrow on a diode points from positive to negative, and it conducts when wired this way, but not the other.</p>
+
+<p>The term ‘current’ (without a qualifier) typically refers to conventional current, and not electron flow.  So the phrase, “Current flowing from A to B,” usually means, “electrons flowing from B to A.”</p>
+:ET

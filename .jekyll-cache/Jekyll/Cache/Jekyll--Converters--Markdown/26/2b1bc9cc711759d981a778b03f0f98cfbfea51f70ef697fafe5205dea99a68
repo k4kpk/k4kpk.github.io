@@ -1,0 +1,58 @@
+I"<p>I wanted a 15V battery pack for my Elecraft KX3, made with NiMh AA batteries.  To get 15V, I needed 11 NiMh cells.  There are very few sources of 12 cell AA battery holders.  For a while, I’ve used two 6-cell holders with 11 AA cells and one dummy cell.  I thought it would be interesting to make an 11 cell battery holder…</p>
+
+<table style="border-style:hidden;">
+  <tr>
+    <td><img src="/files/wand.png" /></td>
+    <td><img src="/files/uncapped.PNG" /></td>
+    <td><img src="/files/capped.PNG" /></td>
+  </tr>
+</table>
+<p><br />
+ 
+<br /></p>
+
+<p>This isn’t exactly how I did it, but it is how I would do it, if I were to do it again.</p>
+
+<p>Ingredients:</p>
+
+<ul>
+  <li>19-1/4” length section of 1/2” schedule 40 PVC pipe. 1 @ $2 (I had this sitting around the house, so I just estimated its price.)</li>
+  <li>3/4”x1/2” PVC male adapter.  This fits over the outside of 1/2” pipe, giving it 3/4” male threads.  2 @ $0.66 each</li>
+  <li>3/4” PVC screw cap.  2 @ $1.26 each</li>
+  <li>#6-32 machine screw, 1/2” long, with nut, plus 2 extra nuts.  From one package with several screws. $1.18 for the pack.</li>
+  <li>One negative terminal spring, removed from a AA battery holder.  Be sure to grab one that has a small circle inside the big end.  These things are sorta cone shaped.  If you find the right one, it will be riveted inside the large end, and and there will be a small circle of wire inside the large end, with a rivet through it.  You just have to drill out the rivet.  $2</li>
+  <li>2 ring terminals, sized to fit #6 machine screw, from supplies.  $0.10</li>
+  <li>2’ red/black zip line, 18 gauge, from supplies.  $0.30.</li>
+  <li>1 pair of PowerPole connectors, from supplies. $1.25.</li>
+  <li>1 pair of 1-1/4” rubber chair leg tips. $2.79.</li>
+</ul>
+
+<p>Instructions:</p>
+
+<ol>
+  <li>Press the PVC male adapters onto the end of the pipe.  You’re supposed to glue this stuff.  I found that tapping them on with a mallet puts them on solidly enough to hold.  (I wouldn’t do this with pressurized pipe, but the fit pretty snug.  You can glue them if you wish.)</li>
+  <li>Drill a hole in the center of the screw caps, sized so that the #6 machine screws screw into it tightly.</li>
+  <li>Screw one #6 machine screw through the cap, with the screw head <em>inside</em> and the screw end <em>outside</em> the cap.</li>
+  <li>Screw the other #6 machine screw through the small circle inside the large end of the battery spring, then through the other cap, from the inside to the outside.</li>
+  <li>At this point, you have two caps with the ends of the machine screws sticking out.  Screw one nut onto each.  Tighten the nut securely.</li>
+  <li>Solder a pair of ring terminals onto one end of the zip wire.</li>
+  <li>Crimp PowerPole connectors onto the other end of the zip wire.</li>
+  <li>Fasten the ring terminals onto the machine screws, using another nut for each machine screw.  Use a washer too, if you like.</li>
+  <li>Screw on the cap with the spring.</li>
+  <li>Insert your batteries,</li>
+  <li>Screw on the cap without the spring.</li>
+  <li>Push the leg tips over the caps, to cover the screw ends.</li>
+  <li>Bask in the glory of a job well done.</li>
+</ol>
+
+<p>Update (2017): I replaced the chair leg tips with large diameter heat-shrink tubing.  Tubing weighs less than the chair tips.</p>
+
+<hr />
+<p>It is a little on the heavy side.  For comparison:</p>
+
+<ul>
+  <li>My existing 12-cell holder: 16 ounces</li>
+  <li>My LiFePO4 battery pack: 12 ounces</li>
+  <li>Power wand (without the chair leg tips): 16 ounces</li>
+</ul>
+:ET

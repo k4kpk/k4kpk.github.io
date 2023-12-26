@@ -1,0 +1,49 @@
+I"_<p>If the weather is good near x, consider activating y…  Or, for that matter, if you’re visiting city x, consider activating y…</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Nearby City</th>
+      <th>Expedition(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.wunderground.com/forecast/us/ga/atlanta/KGAATLAN46">Atlanta, GA</a></td>
+      <td><a href="/sota-guides/Stone%20Mountain%20(W4G_CE-003).html">Stone</a>, <br /><a href="/sota-guides/Kennesaw%20Mountain%20(W4G_CE-001).html">Kennesaw</a>/<a href="/sota-guides/Pine%20Mountain%20(W4G_HC-036).html">Pine</a>/<a href="/sota-guides/Vineyard%20Mountain%20(W4G_HC-043).html">Vineyard</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.wunderground.com/forecast/us/ga/blue-ridge">Blue Ridge, GA</a></td>
+      <td><a href="/sota-guides/Grassy%20Mountain%20(W4G_HC-007).html">Grassy</a>/<a href="/sota-guides/Bald%20Mountain%20(W4G_HC-003).html">Bald</a>/<a href="/sota-guides/Cowpen%20Mountain%20(W4G_HC-001).html">Cowpen</a>/<a href="/sota-guides/Flat%20Top%20Mountain%20(W4G_HC-006).html">Flat Top</a>/<a href="/sota-guides/Dyer%20Mountain%20(W4G_HC-009).html">Dyer</a>,<br /> <a href="/sota-guides/Big%20Bald%20Mountain%20(W4G_HC-002).html">Big Bald</a>,<br /><a href="/sota-guides/Rocky%20Mountain%20(W4G_HC-008).html">Rocky</a>/<a href="/sota-guides/Stover%20Mountain%20(W4G_HC-004).html">Stover</a>/<a href="/sota-guides/Springer%20Mountain%20(W4G_HC-005).html">Springer</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.wunderground.com/forecast/us/ga/helen">Helen, GA</a></td>
+      <td><a href="/sota-guides/Sassfras%20Knob%20(W4T_SU-061).html">Sassafras</a>, <a href="/sota-guides/Frozen%20Knob%20(W4G_NG-033).html">Frozen Knob</a>, <a href="/sota-guides/Gooch%20Mountain%20(W4G_NG-041).html">Gooch</a>, <a href="/sota-guides/Black%20Mountain%20(W4G_NG-022).html">Black</a>, <a href="/sota-guides/Big%20Cedar%20Mountain%20(W4G_NG-023).html">Big Cedar</a>, <a href="https://summits.sota.org.uk/summit/W4G/NG-037">Abercrombie</a>, <a href="/sota-guides/Rocky%20Mountain%20(W4G_NG-016).html">Rocky</a>, <a href="/sota-guides/Buckeye%20Knob%20(W4G_NG-017).html">Buckeye</a>, <a href="/sota-guides/Akin%20Mountain%20(W4G_NG-029).html">Akin</a>, <a href="/sota-guides/Coosa%20Bald%20(W4G_NG-006).html">Coosa</a>, <a href="/sota-guides/Sheriff%20Knob%20(W4G_NG-034).html">Sherrif</a>, <a href="/sota-guides/Blood%20Mountain%20(W4G_NG-004).html">Blood</a>, <a href="/sota-guides/Levelland%20Mountain%20(W4G_NG-014).html">Levelland</a>, <a href="/sota-guides/Wildcat%20Mountain%20(W4G_NG-020).html">Wildcat</a>, <a href="/sota-guides/Horsetrough%20Mountain%20(W4G_NG-009).html">Horsetrough</a>, <a href="/sota-guides/Hullander%20Knobs%20West%20(W4G_NG-038).html">Hullander</a>, <a href="/sota-guides/Ravencliff%20Knob%20(W4G_NG-026).html">Ravencliff</a>, <a href="/sota-guides/Brasstown%20Bald%20(W4G_NG-001).html">Brasstown</a>, <a href="/sota-guides/Bell%20Knob%20(W4G_NG-035).html">Bell Knob</a>, <a href="/sota-guides/Eagle%20Mountain%20(W4G_NG-008).html">Eagle</a>, <a href="/sota-guides/Double%20Spring%20Knob%20(W4G_NG-007).html">Double Spring</a>/<a href="/sota-guides/Round%20Top%20(W4G_NG-013).html">Round Top</a>, <a href="/sota-guides/Tray%20Mountain%20(W4G_NG-005).html">Tray</a>/<a href="/sota-guides/Rocky%20Mountain%20(W4G_NG-011).html">Rocky</a>/<a href="/sota-guides/Blue%20Mountain%20(W4G_NG-010).html">Blue</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.wunderground.com/forecast/us/ga/clayton">Clayton, GA</a></td>
+      <td><a href="/Hightower%20Bald%20(W4G_NG-003).html">Hightower</a>, <a href="/sota-guides/Buzzard%20Knob%20(W4G_NG-021).html">Buzzard</a>, <a href="/sota-guides/Little%20Bald%20Knob%20(W4G_NG-032).html">Little Bald</a>, <a href="/sota-guides/Glassy%20Mountain%20(W4G_NG-031).html">Glassy</a>, <a href="/sota-guides/Wolf%20Knob%20(W4G_NG-012).html">Wolf</a>, <a href="/sota-guides/Blackrock%20Mountain%20(W4G_NG-027).html">Blackrock</a>, <a href="/sota-guides/Rabun%20Bald%20(W4G_NG-002).html">Rabun Bald</a>,</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.wunderground.com/forecast/us/nc/franklin">Franklin, NC</a></td>
+      <td><a href="/sota-guides/Standing%20Indian%20(W4C_WM-014).html">Standing Indian</a>/<a href="/sota-guides/Yellow%20Bald%20(W4C_WM-022).html">Yellow Bald</a>, <a href="/sota-guides/Siler%20Bald%20(W4C_WM-024).html">Siler Bald</a>/<a href="/sota-guides/Wine%20Spring%20Bald%20(W4C_WM-018).html">Wine Spring</a>/<a href="/sota-guides/Wesser%20Bald%20(W4C_WM-058).html">Wesser Bald</a>,</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.wunderground.com/forecast/us/tn/del-rio/35.87,-83.00">Del Rio, TN</a></td>
+      <td><a href="/sota-guides/Max%20Patch%20(W4C_CM-036).html">Max Patch</a>/<a href="/sota-guides/Walnut%20Mountain%20(W4T_SU-033).html">Walnut</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.wunderground.com/forecast/us/nc/cherokee">Cherokee, NC</a></td>
+      <td><a href="/sota-guides/Clingmans%20Dome%20(W4C_WM-001).html">Clingmans Dome</a>/<a href="/sota-guides/Nettle%20Creek%20Bald%20(W4C_WM-027).html">Nettle Creek Bald</a>, <a href="/sota-guides/Barnett%20Knob%20(W4C_WM-055).html">Barnett Knob</a>,</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.wunderground.com/forecast/us/nc/asheville">Asheville, NC</a></td>
+      <td>Pretty much anything in W4C/CM, <a href="/sota-guides/Waterrock%20Knob%20(W4C_WM-004).html">Waterrock</a>/<a href="/sota-guides/Richland%20Balsam%20Mountain%20(W4C_WM-003).html">Richland Balsam</a>/<a href="/sota-guides/Steestachee%20Bald%20(W4C_WM-010).html">Steestache</a>/<a href="/sota-guides/Black%20Balsam%20(W4C_CM-005).html">Black Balsam</a>/<a href="/sota-guides/Green%20Knob%20(W4C_CM-023).html">Green Knob</a>, <a href="/sota-guides/Mt%20Hardy%20(W4C_WM-006).html">Mount Hardy</a>, <a href="/sota-guides/Mt%20Pisgah%20(W4C_CM-011).html">Mt Pisgah</a>, <a href="/sota-guides/Craggy%20Dome%20(W4C_CM-007).html">Craggy Dome</a>, <a href="/sota-guides/Mt%20Mitchell%20(W4C_CM-001).html">Mt Mitchell</a>, <a href="/sota-guides/Green%20Knob%20(W4C_CM-023).html">Green Knob</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.wunderground.com/forecast/us/tn/roan-mountain/36.11,-82.10">Roan Mountain, TN</a></td>
+      <td><a href="/sota-guides/Grassy%20Ridge%20Bald%20(W4C_EM-001).html">Grassy Ridge Bald</a>/<a href="/sota-guides/Roan%20High%20Knob%20(W4T_SU-005).html">Roan High Knob</a></td>
+    </tr>
+  </tbody>
+</table>
+:ET

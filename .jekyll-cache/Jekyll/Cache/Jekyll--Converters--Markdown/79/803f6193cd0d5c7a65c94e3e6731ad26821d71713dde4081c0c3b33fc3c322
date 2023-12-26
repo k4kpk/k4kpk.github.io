@@ -1,0 +1,134 @@
+I"M <p>A power source is a requirement for any successful activation.  In this month’s column we’ll look at some popular options for powering SOTA activations.  Although the occasional activator will use a kilowatt amp, this article will focus on power for QRP portable rigs.</p>
+
+<p><strong>Step Away From the Car Sir</strong></p>
+
+<p>SOTA rules state:</p>
+
+<ul>
+  <li><em>Operations must not be in, or in the close vicinity of, a motor vehicle.</em></li>
+  <li><em>All equipment must be operated from a portable power source (batteries, solar cells, etc).</em></li>
+</ul>
+
+<p>Consequently, most activators carry some kind of battery.</p>
+
+<p>For some activators, a walk across a parking lot is an expedition.  Others sniff with disdain at anything less than 5 miles with 2000’ of elevation gain.  If you’re lugging your gear across a parking lot, you could haul your car battery across the lot in your grandchild’s wagon; if you’re trekking up Denali, grams count!</p>
+
+<p><strong>The Heavy End</strong></p>
+
+<p>Many hams have a SLAB (Sealed Lead Acid Battery) for field day.  This is the technology used in your car battery.  You can <em>use</em> your car battery, but it is big and heavy and you need to be sure not to discharge it so far that you can’t start your car.</p>
+
+<p>Gel cells are a common alternative to SLAB.  For activator use, they are similar to SLAB, except they need not be kept “sunny side up.”  They may require special chargers.  The removal of the right-side-up requirement is helpful, but they are heavy enough that you won’t often carry one on the trail.</p>
+
+<ul>
+  <li>Down-side: High weight-to-power ratio.</li>
+  <li>Up-side: Simple technology; inexpensive.</li>
+</ul>
+
+<p><strong>Low-tech, Middle-weight</strong></p>
+
+<p>Disposable alkaline batteries are a popular choice.  If you put enough of them in series and/or parallel, and you can meet meet most any power requirement.  Some portable rigs include a battery holder for AA cells.</p>
+
+<ul>
+  <li>Down-side: Expensive over time; disposal of used cells.</li>
+  <li>Up-side: You can buy them anywhere; low-tech; reliable.</li>
+</ul>
+
+<p>Disposable lithium cells are a similar alternative.  They’re a little lighter, more expensive, and have slightly different discharge characteristics.  Since they retain their charge for up to a decade, they make a good backup power source.  I often carry a set of 8 AA lithium cells as a “plan-B” power source.</p>
+
+<p>For my first two years as an activator, I used rechargeable NiMh (Nickel-metal Hydride) cells.  These have a similar form factor to disposable alkaline cells.  They are rechargeable 100s of times and do not exhibit the ‘memory effect’ of NiCad.  They must be charged in a NiMh-compatible charger.  Some varieties won’t hold a charge for more than a week or two, but there are long-life varieties that will hold a charge for a year or so.</p>
+
+<ul>
+  <li>Down-side: Slightly lower voltage than alkalines.</li>
+  <li>Up-side: Simple charging protocol; inexpensive.</li>
+</ul>
+
+<p>I use a KX3.  It is designed to operate at 5 watts with 8 internal NiMh cells, but it will operate at 12 watts if I feed it 14-15 volts.  This requires 11 NiMh cells, so I made an <a href="/content/15v-power-wand-kx3">custom external battery holder</a>.</p>
+
+<p><strong>High-tech, Lightweight</strong></p>
+
+<p>The cool kids are all using rechargeable lithium batteries.  These pack a tremendous amount of power into a small, lightweight package.  These are very popular with gram counters.    Some of these are physically about the size of an AA cell, but since they are 3 volts, please don’t put them into a device designed for AA batteries!</p>
+
+<p>There are several variants of lithium batteries, with unique characteristics.  Collectively, they are known as “lithium ion.”  The most popular varieties are Li-Po (lithium polymer) and LiFePO4 (lithium iron phosphate).  (LiFePO4 are also referred to as ‘LiFePo’ or ‘LFP.’)  They require special chargers – each variety requires a different charging protocol.  Don’t mix and match!</p>
+
+<p>Up-side (all varieties):</p>
+
+<ul>
+  <li>Low weight-to-power ratio.</li>
+  <li>Low volume-to-power ratio.</li>
+  <li>Ability to deliver high current.</li>
+</ul>
+
+<p>Down-side (Li-Po):</p>
+
+<ul>
+  <li>Power-to-cost ratio is expensive.</li>
+  <li>Easy to ruin with over-charge or over-discharge.</li>
+  <li>Short-circuit may lead to fire.</li>
+  <li>Crush/penetration hazard.</li>
+  <li>Concern over excessive fire risk.</li>
+</ul>
+
+<p>Down-side (LiFePO4):</p>
+
+<ul>
+  <li>Power-to-cost ratio is expensive.</li>
+  <li>Easy to ruin with over-charge or over-discharge.</li>
+  <li>Short-circuit can lead to fire.</li>
+</ul>
+
+<p>Li-Po and LiFePO4 are popular with RC helicopter pilots, due to their light weight and ability to deliver an ‘insanely high’ current.  If you short them, expect a fire.  With a low internal resistance, they’ll dump all that power into the short in very short order.</p>
+
+<p>The chemistry of LiFePO4 make them substantially less likely to combust than Li-Po.  If you short them, the high heat from all that power is still a risk, but these are much safer than Li-Po.</p>
+
+<p>Note that the cells in a lithim ion battery pack should be managed individually.  Each cell will have slightly different capacity.  Over-discharging <em>any</em> cell may ruin the battery.  Over-changing <em>any</em> cell may ruin the battery or create a fire hazard.  You will need a battery pack and a charger that support ‘balanced’ charging.  This will allow the charger to charge each cell individually, rather than charging the battery as a whole.</p>
+
+<p><strong>Low-tech, Extremely Lightweight</strong></p>
+
+<p>If you want to go really lightweight, consider operating at lower power.  Less power intrinsically means less weight.  Consider the Mountain Topper (a.k.a MTR, a.k.a. AT-Sprint) radios designed by Steve Weber (KD1JV).  These are sometimes <a href="http://www.lnrprecision.com/store/#!/Mountain-Topper/p/45010523/category=10468544">sold assembled by LNR</a>,  occasionally offered in kit form via a <a href="https://groups.yahoo.com/group/AT_Sprint">Yahoo mailing list</a>, and turn up on eBay from time to time.</p>
+
+<p>These will operate for many, many QSOs on a <a href="https://en.wikipedia.org/wiki/Nine-volt_battery">standard 9-volt battery</a>.  A single alkaline 9-volt battery is reportedly good for more than an hour of activating.</p>
+
+<p>Down-side:</p>
+
+<ul>
+  <li>Must learn CW.</li>
+  <li>About 3 watts maximum output.</li>
+</ul>
+
+<p>Up-side:</p>
+
+<ul>
+  <li>Lightest option.</li>
+  <li>Simple, low-tech reliability.</li>
+</ul>
+
+<p><strong>Wrap-up</strong></p>
+
+<ul>
+  <li>Start with what you have.  If you can get it to the summit, it is good enough to get started.</li>
+  <li>If you’ve got nothing suitable, AA NiMh cells are a good start.  It is robust technology. You can combine cells with a <a href="/content/15v-power-wand-kx3">power wand</a> or mix real cells with dummy cells in a commercial battery holder to provide the desired power.</li>
+  <li>To get maximum power for minimum weight, use LiFePO4.</li>
+  <li>If you want absolute minimum weight, get one of KD1JV’s radios and use a 9-volt disposable lithium battery.</li>
+</ul>
+
+<p>See you on the summits!</p>
+
+<p>73 DE K4KPK / Kevin</p>
+
+<p><strong>Where can I find out more?</strong></p>
+
+<ul>
+  <li>Wikipedia on balanced charging: https://en.wikipedia.org/wiki/Battery_balancing</li>
+  <li>WB4SON blog on LiFePO4: http://wb4son.com/wpblog/?p=481</li>
+  <li>Official site: http://sotadata.org.uk/</li>
+  <li>Mailing list: https://groups.yahoo.com/groups/summits</li>
+  <li>K4KPK’s site: http://k4kpk.com/content/sota-menu</li>
+  <li>Email me (K4KPK).  My email address is available via <a href="http://www.qrz.com/db/K4KPK">http://www.qrz.com/db/K4KPK</a>.</li>
+</ul>
+
+<p><strong>Bio</strong></p>
+
+<p>K4KPK, Kevin Kleinfelter is Georgia’s first SOTA Mountain Goat.  He has completed more than 150 activations.</p>
+
+<p><em>This story is Copyright 2015 Kevin P. Kleinfelter.  A non-exclusive right to redistribute in electronic or printed form is granted to amateur radio clubs operating in the metro Atlanta area.  All other rights reserved.</em></p>
+:ET

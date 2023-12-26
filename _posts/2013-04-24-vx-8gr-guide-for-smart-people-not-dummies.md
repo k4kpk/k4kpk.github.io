@@ -120,7 +120,7 @@ Notes:
 * "++" means to see procedure defined elsewhere on this page.
 * "x+y" means "at same time"; "x,y" means "sequentially"
 * There's a key in the lower left, with TX/PO as its alternate function, that looks like an atom with revolving electrons to me.  I call this the 'atom' key.
-	* BEEP-BEEP: If you press the atom key and it goes beep-beep, check to be sure the radio isn't locked to frequency 1. If it is, hold "B" until it goes back to 2-frequency mode with 144.390 as the B frequency.
+* BEEP-BEEP: If you press the atom key and it goes beep-beep, check to be sure the radio isn't locked to frequency 1. If it is, hold "B" until it goes back to 2-frequency mode with 144.390 as the B frequency.
 
-	-----------------------------------
-	Keyword fodder: vx-8gr vx8gr vx8-gr
+-----------------------------------
+Keyword fodder: vx-8gr vx8gr vx8-gr

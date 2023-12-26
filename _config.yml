@@ -1,5 +1,3 @@
-# Jekyll configuration
-
 name: K4KPK
 description: My adventures in ham radio...
 title: K4KPK
@@ -9,43 +7,38 @@ gaaccount: ''
 comments: false
 isso: ''
 disqus: ''
-
-permalink: /:title
+permalink: '/:title'
 paginate: 9
 highlighter: rouge
 markdown: kramdown
-plugins: 
+plugins:
   - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-admin
-exclude: ['README.md', 'LICENSE', 'vendor']
+exclude:
+  - README.md
+  - LICENSE
+  - vendor
 safe: true
-whitelist: ['jekyll-redirect-from', 'jekyll-paginate']
+whitelist:
+  - jekyll-redirect-from
+  - jekyll-paginate
 port: 4001
 encoding: utf-8
-
-# Put all subdirecties here which are source to be generated into the site.
-# If you don't, the symptom is that you'll be able to browse to the pages on GitHub, but not locally.
-include: ['sota-guides']
-
-# Not just _posts, but other folders too.  By default, tipue_search searches only *posts* and not other pages.
-# Note: The variable in code is site.tipue_search.include.pages.
-# "site" means "comes from _config.yml".  Dots get mapped to foo: bar: baz, in _config.yml.
+include:
+  - sota-guides
 tipue_search:
   include:
     pages: true
-
-# front matter defaults
 defaults:
   - scope:
       type: posts
       path: ''
     values:
-      layout: 'post'
+      layout: post
       tags: []
   - scope:
       path: ''
       type: pages
     values:
-      layout: 'page'
-
+      layout: page

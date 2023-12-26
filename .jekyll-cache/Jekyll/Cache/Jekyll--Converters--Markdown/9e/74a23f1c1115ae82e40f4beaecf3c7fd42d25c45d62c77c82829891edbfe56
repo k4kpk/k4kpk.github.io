@@ -1,0 +1,47 @@
+I"�<h1 id="my-space">My ‘Space’</h1>
+<p>I operate <em>primarily</em> on 20 meters.</p>
+
+<p>I’ll generally give 40 meters a try, since it is supposed to reach a local geography which 20 doesn’t.  (I haven’t actually found that to be the case, but it could be because I’m doing it wrong.)  If there’s a big contest, I’ll look for an open frequency on 17 meters.</p>
+
+<p>My first choice is 20, because it’s where I find daytime DX and it is so much <strong>quieter</strong> than 40.</p>
+
+<p>Most hills I operate on have trees; most also have space (and dirt) to guy out an antenna.</p>
+
+<p>I like EFHW because I don’t have to mess with radials.  On the hill, simple is better.  I also like EFHW because the low current at the feed point reduces ground loss which you’d get even <strong>with</strong> radials.</p>
+
+<h1 id="in-the-beginning">In the beginning…</h1>
+<p>At first, I carried a 31’ Jackite pole for an EFHW for 20 meters.  I’ve got pre-cut rope and 3 stakes.    If there’s a convenient tree stump, I use a bungee cord.  If there is a convenient tree branch, I might simply lean the pole against it, if wind is calm.  I use painter’s tape to stick my wire to the pole in about 4 spots.  I can erect a 20 meter EFHW on a Jackite in about 5 minutes without assistance.</p>
+
+<p>When I’m on site, I love my Jackite.  Getting to the site, I hate it.  It its collapsed form, it is taller than my pack.  I’ve created a special holder, so it can hang down below my pack, and it still gets caught on overhead branches.  I don’t mind the weight.  I don’t mind the thick diameter.  That length is just plain awful.</p>
+
+<h1 id="slings-and-arrows">Slings and Arrows…</h1>
+<p>I tried using a slingshot to launch an antenna support into the trees.</p>
+
+<p>The first time went great.  Since then, I’ve had some successes and some failures.  Some days I just can’t get off a good shot.  When it works, it is OK, but it often takes longer than I’d like.</p>
+
+<p>Using a 3/4” nut was awful.  I kept hitting the upright of the slingshot when I tried to shoot it.  I’m now using a 1 oz. “egg sinker,” and that seems to work pretty well.  Since I’m using a heavy line, I’m also going to try a 2 oz weight.</p>
+
+<p>One key to successful slingshooting is to put the spool of fishing line on the ground in <em>front</em> of where you stand, face up.  That seems to give the weight time to clear the upright before the downward tug of the line affects the flight path.  I still sometimes get a tangle of monofilament.</p>
+
+<p>I used to send up fishing line and use that to pull up a stouter cord.  Now, I just use 30 pound test monofilament.  It is strong enough to support my wire.  It is cheap enough that I don’t bother reusing it.  I just cut it out of the tree when I’m finished, tie it in a knot, and trash it when I get home.  Since my line gets shorter and shorter, someday I’ll shoot the weight and it will pull the end of the line off.  I’ll cross that bridge when I come to it.</p>
+
+<h1 id="carry-a-big-stick">Carry a Big Stick</h1>
+<p>I’ve avoided the carbon fiber fishing poles from www.allfishingbuy.com because I did some testing with carbon fiber, and it looked like maybe it attenuated my signal a little.  It is hard to tell when testing with RBN because so many variables are uncontrollable.  (i.e. The data is full of statistical noise.)</p>
+
+<p>Some people have been very happy with these poles, so I’m going to give them another try.  I bought a nominal 24’ pole that collapses into 25”.  (Warning: The nominal 24’ pole is actually about 23’!)  25” is good because I also carry a 24” foam pad (rolled up) as a sitting/operating mat, and I can roll it around the collapsed mast.</p>
+
+<p>Instead of erecting a straight vertical EFHW, I’m going to shoot for a 33’ inverted L.  The idea is to put a weight (and maybe some monofilament) on the far end of the antenna wire.  I’ll use the pole to toss the weight/line over a suitable tree branch, and then I’ll bungee or guy the mast a few horizontal yards away.</p>
+
+<p>I’d like to put the end of the antenna far enough away that the bottom of the antenna wire gets pulled about 6 feet up the mast.  I’m using an EARCHI ‘matchbox’ transformer at the end of the wire, and I’ll zip tie that to the mast at the end of the wire.  Then I’ll run about 8’ of coax to my radio.</p>
+
+<p>I put 34’ of 24 gauge teflon insulated wire on a camping clothesline spool.  I use that as my antenna.</p>
+
+<p>We’ll see if I continue to get enough contacts.  It doesn’t have to be the <em>best</em> antenna.  It just has to be an adequate antenna that is fast and dependable to setup – even on a hill with dense tree cover, dense underbrush, snow cover, and ice frozen on the underbrush.  (Been there.  Done that.)</p>
+
+<h1 id="what-about-40">What About 40?</h1>
+<p>I’ve been using the 20m EARCHI matchbox to match the high impedance at the end of my EFHW.  While this works well on 20 meters, when I use the same 33-34 foot wire on 40 meters, I get a quarter wave antenna, with no radials, and the matchbox which is designed to work about 3000 ohm impedance is getting handed about 50.  I’ve made contacts, but my signal is weak.</p>
+
+<p>I know from experience that using a 20m EFHW without a matchbox with my KX3 gets me a 4:1 SWR.  This suggests that my KX3 tuner can <strong>almost</strong> tune an EFHW.  So my plan is to use the EARCHI 6-40 matchbox, which is a 9:1 balun on both 20 and 40 meters.  The 9:1 will get me past the 4:1 with an EFHW, and it won’t be too hard for the ATU to tune it in the other direction it on 40.  So I’ll hook up the 33’ wire to the 6-40 balun without a counterpoise on 20 (it is an EFHW), and when I switch to 40 I’ll clamp a 30’ counterpoise to the shield connector of the feed line.</p>
+
+<p>I could just use a non-resonant wire length with the 6-40 matchbox on all frequencies, and use a counterpoise always, but I like having the option of running the EFHW without a counterpoise if I’m running late when I arrive at the site.  On occasions when I want to get the best possible signal, I’ll use the 20m matchbox on 20, and remove the matchbox entirely on 40 (and use a BNC to binding post adapter to connect the antenna and the counterpoise to the KX3).</p>
+:ET

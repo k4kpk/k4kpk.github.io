@@ -1,0 +1,35 @@
+I"�<p>How to spot yourself for SOTA using APRS2SOTA….</p>
+
+<p>Send an APRS message:</p>
+
+<ul>
+  <li>To: SOTA
+    <ul>
+      <li>Note: No SSID. Just “SOTA” (or, if you must, SOTA-0)</li>
+    </ul>
+  </li>
+  <li>Message body (separate fields with spaces):
+    <ul>
+      <li>Summit-ID</li>
+      <li>Frequency in MHz</li>
+      <li>Mode (e.g. AM,CW,DATA,DV,FM,PSK,RTTY,SSB,OTHER)</li>
+      <li>call-sign</li>
+      <li>optional comment</li>
+    </ul>
+  </li>
+</ul>
+
+<p>e.g. Send the following to SOTA:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>W4G/NG-001 14.344 SSB K4KPK hello from Brasstown Bald
+</code></pre></div></div>
+
+<p>Note:</p>
+
+<ul>
+  <li>You do have to pre-register.  Send an email to misc at g0lgs.co.uk  (that’s at g0Lgs).  I sent a few extra words, so it would be clear I was not a robot.  Be sure to provide your call sign.</li>
+  <li>I’ve been asked whether the content must be upper/lower case.  I don’t know.  In fact, I don’t actually know how to switch upper/lower case on my HT, so it seems unlikely that case matters.</li>
+</ul>
+
+<p>See also: <a href="/content/sota-self-spot-sms-usa">SOTA Self-spot Via SMS</a></p>
+:ET

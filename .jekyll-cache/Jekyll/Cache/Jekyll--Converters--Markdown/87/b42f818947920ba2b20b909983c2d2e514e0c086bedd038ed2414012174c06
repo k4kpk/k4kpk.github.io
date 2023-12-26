@@ -1,0 +1,19 @@
+I"�<p>Wire at AWG gauge 50 is 1 mil in diameter.  That’s very tiny at 1/1000th of an inch.  Every 6 gauges, the wire size doubles.  i.e.</p>
+
+<ul>
+  <li>50 gauge = 1 mil</li>
+  <li>44 gauge = 2 mil</li>
+  <li>38 gauge = 4 mil</li>
+  <li>32 gauge = 8 mil</li>
+</ul>
+
+<p>I don’t think that knowing the absolute sizes is terribly useful, except as a parlor trick.  However, the next time you’re looking at some 14 gauge wire and thinking, “I need something about half that thick,” you know you can get it with 20 gauge.</p>
+
+<p>At DC, electricity flows through the wire across its entire diameter.  At high frequencies, electricity travels only on the outside of the wire – as if it were a hollow tube.  At medium frequencies, some of the thickness of the wire is used.  This is called skin effect.</p>
+
+<p>For copper wire, at 60 Hz, the “skin” is about 1/3”.  Consequently, unless you have VERY thick wire in your house, the entire diameter of the wire is used to conduct your house current.  At 1 MHz, the skin is less than 0.003”.</p>
+
+<p>The end of the skin isn’t a sudden thing.  About 2/3 of the current flows in the skin.  As you move farther from the edge of the wire, less and less current flows.</p>
+
+<p>At the moment (2015.08.17), I’m carrying about 32’ of poly-stealth 26 AWG, 19 strand, copper clad steel with a PE jacket as my counterpoise.  I did read that I should seal both ends to ensure the steel doesn’t corrode.</p>
+:ET

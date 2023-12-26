@@ -1,0 +1,25 @@
+I"�<p>A “linear” system must exhibit both homogeneity and superposition.  Linear systems are interesting because they are easier to analyze than non-linear systems.</p>
+
+<p>Superposition holds true if: \( f(x_1+x_2)=f(x_1) + f(x_2) \)</p>
+
+<p>Homogeneity holds true if: \( f(K<em>x)=K</em>f(x) \)</p>
+
+<p>Ohm’s law is normally written as v = iR.  But you could also write it where voltage is a function of current.  e.g. f(i) = iR.</p>
+
+<p>\( f(i_1+i+2) = f(i_1) + f(i_2) \)</p>
+
+<p>Superposition applies to Ohm’s law.  It doesn’t matter whether you add currents and then compute voltage, or compute both voltages and add them.</p>
+
+<p>Also, doubling current doubles voltage (2 is your constant), so homogeneity applies too.</p>
+
+<p><img src="/files/Linear-Nonlinear-Examples.png" alt="Linearity Examples" /></p>
+
+<h2 id="using-superposition-to-understand-linear-circuits">Using Superposition to Understand Linear Circuits</h2>
+
+<ul>
+  <li>Zero-out all independent sources (i.e. short your voltage sources and open your current sources).</li>
+  <li>Return each source, one at a time, and solve for values of interest.</li>
+  <li>Sum the values of your results.</li>
+</ul>
+
+:ET

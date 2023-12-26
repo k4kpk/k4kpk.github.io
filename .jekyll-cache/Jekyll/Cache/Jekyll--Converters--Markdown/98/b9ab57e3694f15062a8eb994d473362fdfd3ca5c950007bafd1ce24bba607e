@@ -1,0 +1,81 @@
+I"c<h3 id="the-project">The Project</h3>
+<p>I have this shiny (almost) new Elecraft KX3 radio.  I’m figuring out how to update the firmware for the first time.  My goal isn’t actually updating the firmware – it is using the utility to configure the radio.  I don’t know how to do that either, because I’ve never hooked up the cables between the radio and the computer, and I figure that updating the firmware is a good project to get familiar with the cabling and the utility.</p>
+
+<p>I’m using a Mac with OS X 10.8, not a Windows PC.</p>
+
+<h3 id="find-the-cable">Find the Cable</h3>
+<p><strong>Do not connect the cable to the computer yet!</strong></p>
+
+<p>If you haven’t unpacked it yet, you’re looking for a ziploc bag, about 8” tall and 6” wide, cleverly marked “<strong>KXUSB</strong> Interface Cable for USB”.</p>
+
+<p>If you’ve unpacked it, and you’re trying to figure out which of the dozen cables in your pile-o-cables is this one:</p>
+
+<ul>
+  <li>It is black</li>
+  <li>It has a fat USB connector at one end</li>
+  <li>There’s a USB icon embossed in a rectangle on one side</li>
+  <li>There’s an empty rectangle embossed on the other side</li>
+  <li>It has a right-angle 1/8” stereo plug at the other end</li>
+</ul>
+
+<p>And for goodness sake, get out your label maker and put a “KXUSB - KX3 USB Cable” label on it!</p>
+
+<p><strong>Do not connect the cable to the computer yet!</strong></p>
+
+<h3 id="software-for-the-computer">Software for the Computer</h3>
+<ol>
+  <li>Open a web browser to http://www.elecraft.com/KX3/KX3_software.htm</li>
+  <li>Download “KX3 Utility (MAC OS X Version x.y.z; .zip format)”.  I saved mine as “KX3_Utility_OSX_1_12_8_11.zip”.</li>
+  <li>Open a web browser to http://www.ftdichip.com/Drivers/VCP.htm (this is where Elecraft sends you for the drivers).
+    <ol>
+      <li>Scroll Down to “Currently Supported VCP Drivers”</li>
+      <li>Download the driver for “x64 (64-bit)”.  I saved mine as “KX3_USB_Cable_Drivers_v2_2_18.dmg”.</li>
+    </ol>
+  </li>
+  <li>Open the .dmg for the driver.  It may have multiple package-installers inside.  Run “FTDIUSBSerialDriver_10_4_10_5_10_6_10_7”, and follow the prompts until the driver is installed.</li>
+  <li>Install the KX3 Utility:
+    <ol>
+      <li>Unzip the .zip</li>
+      <li>Drag the whole “KX3_Utility_OSX_x_y_z” folder to your Applications folder.</li>
+    </ol>
+  </li>
+</ol>
+
+<h3 id="connect-the-cable">Connect the Cable</h3>
+
+<ol>
+  <li>Power off the KX3.</li>
+  <li>Run “Elecraft KX3 utility” (“the utility”, for the rest of these instructions).</li>
+  <li>Plug the 1/8” plug into the KX3 jack marked ACC1.</li>
+  <li>Plug the USB end of the cable into the computer.  It is an oversized plug, so you may have to unplug other USB plug(s) from your computer.</li>
+  <li>Power on the KX3.</li>
+  <li>In the utility:
+    <ol>
+      <li>Press “Refresh Port List”.</li>
+      <li>You’ll have a drop-down list box that probably says “Bluetooth-PDA”.  Change this list box to “usbserial-xxxxx”.</li>
+      <li>Press “Test Communications”.  It should respond with a message resembling “KX3 MCU version x.y. RS-232 speed 4800 bps.”  Press the OK button to dismiss the message.</li>
+    </ol>
+  </li>
+</ol>
+
+<h3 id="upgrade-the-firmware">Upgrade the Firmware</h3>
+<p>With the cable connected, and the KX3 powered up, and the utility running:</p>
+
+<ol>
+  <li>Select the Firmware tab</li>
+  <li>Press “Check Versions Now”.  It will add a message to the activity log resembling “hh:mm:ss KX3 MCU version x.y. RS-232 speed 4800 bps.”</li>
+  <li>Press “Copy New Files From Elecraft”.</li>
+  <li>If you get a message resembling “New firmware is available for your KX3.”:
+    <ol>
+      <li>Press “Close” to dismiss the message</li>
+      <li>Press “Send All Firmware to KX3”</li>
+      <li>The KX3 clicks, the LCD goes dark, and displays “MCU LD”.  You may see some LED blinks.</li>
+      <li>About 1:15 later, the LCD lights back up, and it says “dSP LOAd”.  It is not done yet!</li>
+      <li>About 4 minutes after it started, you’ll hear the KX3 click and the computer display will return you to the Firmware tab.  The last message in the Activity Log should resemble “hh:mm:ss Ready”.</li>
+      <li>Quit the utility</li>
+      <li>Unplug the cable from the computer.</li>
+      <li>Celebrate your success!</li>
+    </ol>
+  </li>
+</ol>
+:ET

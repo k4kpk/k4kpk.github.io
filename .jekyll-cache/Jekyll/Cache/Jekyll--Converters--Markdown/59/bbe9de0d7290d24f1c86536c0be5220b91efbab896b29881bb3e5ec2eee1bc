@@ -1,0 +1,105 @@
+I"�<p>Atoms have <a href="http://k4kpk.com/ebook/rf-makes-me-grumpy/electricity/electrons">electrons</a>, protons, and neutrons.</p>
+
+<p>Electrons and protons have a property called “charge.”  To quote Wikipedia’s entry on <a href="http://en.wikipedia.org/wiki/Electric_charge">electric charge</a>:
+<em>Electric charge is the physical property of matter that causes it to experience a force when close to other electrically charged matter. There are two types of electric charges, called positive and negative. Positively charged substances are repelled from other positively charged substances, but attracted to negatively charged substances; negatively charged substances are repelled from negative and attracted to positive.</em></p>
+
+<p>Electrons have negative charge.  Protons have positive charge.  Neutrons have no charge.  This is one of the fundamental properties of matter.  A physicist studying string theory and the nature of matter might take it to deeper levels, but for our purposes, electrons have a negative charge because that’s just how they are, and protons have a positive charge because that’s just how they are.</p>
+
+<p>The amount of negative charge in an electron is equal and opposite the amount of positive charge in a proton.  The amount of charge in a single electron or proton is called “the elementary charge” and is usually written as <em>e</em>.</p>
+
+<p>The elementary charge (the amount of charge on a single electron/proton) is very, <em>very</em> small.  If you put \( 6.241509745 * 10^{18} \) electrons or protons in a pile, we call that amount of charge a coulomb.  (Coulombs are named after Mr. Coulomb.)  The other way of looking at it says that an electron/proton has \( 1.602 x 10^{-19} \) coulomb of charge.  Coulombs show up in formulae as <em>C</em>.</p>
+
+<p>Protons attract electrons (and vice versa).  If you put a pile of protons and a pile of electrons near one another, they’d try to get together, in much the same way that the south pole of a magnet pulls on the north pole of another magnet.</p>
+
+<p>Coulomb’s Law tells us just how hard they’ll try to get together (the attraction of the <em>Electromagnetic Force</em>):</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>\[ \left</td>
+      <td>F \right</td>
+      <td>= k_{e}\frac{q_{1}q_{2}}{r^{2}} \]</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>where</p>
+
+<ul>
+  <li>\( k_{e} \) is a constant</li>
+  <li>\( q_{1} \) is the charge of the first particle in Coulombs</li>
+  <li>\( q_{2} \) is the charge of the second particle in Coulombs</li>
+  <li>r is the distance between them in meters</li>
+  <li>F is the force in newtons</li>
+  <li>m is meters</li>
+  <li>N is Newtons</li>
+</ul>
+
+<p>\( k_{e}=8.988 \ast  10^{9} \frac{Nm^2}{C^2} \)</p>
+
+<p>You may recall from physics that a newton is the amount of force needed to accelerate 1 kilogram of mass at the rate of 1 meter per second squared.  In other words, if you push on something that weighs a kilogram with a force of one newton for one second, at the end of that second the mass will be moving at a speed of 1 meter per second.  Newtons are abbreviated <em>N</em>.</p>
+
+<p>Here’s an example:</p>
+
+<ul>
+  <li>What is the force on \( 10^{6} \) coulombs of electrons and \( 10^{6} \) coulombs of protons that are 20 cm apart?</li>
+</ul>
+
+<p>20 cm = 0.2 m</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>\( \left</td>
+      <td>F \right</td>
+      <td>= k_{e}\frac{q_{1}q_{2}}{r^{2}} \) becomes \( \left</td>
+      <td>F \right</td>
+      <td>= k_{e}\frac{10^{-6}*10^{-6}}{0.2^{2}} \)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>and that becomes  \( \left</td>
+      <td>F \right</td>
+      <td>= k_{e}\frac{10^{-12}}{4*10^{-2}} \) which is 0.2247 newtons</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Here’s another example:</p>
+
+<ul>
+  <li>What is the force on a particle with \( 3\mu C \) of negative charge and a particle with \( 5\mu C \) of positive charge that are 20 cm apart?</li>
+</ul>
+
+<p>20 cm = 0.2 m</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>\( \left</td>
+      <td>F \right</td>
+      <td>= k_{e}\frac{q_{1}q_{2}}{r^{2}} \) becomes \( \left</td>
+      <td>F \right</td>
+      <td>= k_{e}\frac{3 * 10^{-6} * 5 * 10^{-6}}{0.2^{2}} \)</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>\( =\left</td>
+      <td>F \right</td>
+      <td>= k_{e}\frac{15 * 10^{-12}}{4 * 10^{-2}} \)</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>\( =3.3705 N \)</p>
+
+<p>Easy enough, but mostly useful for trivia contests.</p>
+:ET

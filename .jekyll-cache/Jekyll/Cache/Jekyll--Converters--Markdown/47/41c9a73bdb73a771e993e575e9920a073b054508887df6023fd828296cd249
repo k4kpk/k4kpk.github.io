@@ -1,0 +1,38 @@
+I"?<p>Here are some sites I find helpful for learning ham radio and electronics:</p>
+
+<ul>
+  <li><a href="http://www.allaboutcircuits.com/textbook/">All About Circuits textbooks</a></li>
+  <li><a href="http://lcwo.net">LCWO - morse code</a>
+    <ul>
+      <li>Browser based: Random character groups for extended duration, sends-a-word/enter-that-word, sends-a-callsign/enter-that-sign</li>
+    </ul>
+  </li>
+  <li><a href="http://aa9pw.com/morsecode/">AA9PW - morse code</a>
+    <ul>
+      <li>Browser based: Random character groups, call signs, RSS headlines, QSO.  Many RSS feeds now fail to load.</li>
+    </ul>
+  </li>
+  <li><a href="http://aa9pw.com/hammorse/">AA9PW - Ham Morse</a>
+    <ul>
+      <li>iPhone/iPad: Similar to his web site in features and in issues.    Many RSS feeds now fail to load.</li>
+    </ul>
+  </li>
+  <li><a href="http://seiuchy.macache.com/">Seiuchy</a>
+    <ul>
+      <li>Morse code trainer</li>
+    </ul>
+  </li>
+  <li><a href="http://www.qsl.net/zl1an/">ZL1AN Teach</a>
+    <ul>
+      <li>Windows: 950 supplied texts can be played at any speed</li>
+    </ul>
+  </li>
+  <li><a href="http://www.g4fon.net/CW%20Trainer.htm">G4FON</a>
+    <ul>
+      <li>Windows: Does random words.  (You have to set the “Characters” control to 40 in order to see the “Words” button.)</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Note: For the CW trainers, I don’t list the basic capabilities used to train you in the initial character set.  I’ve passed that point, so I’m focusing on the drills that will take me from basic competency to faster send/receive of real-world content.</p>
+:ET

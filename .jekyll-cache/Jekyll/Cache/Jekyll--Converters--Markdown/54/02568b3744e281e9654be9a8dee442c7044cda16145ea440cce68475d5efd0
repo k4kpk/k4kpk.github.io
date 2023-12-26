@@ -1,0 +1,106 @@
+I"D<p>I have this idea of having a library of SOTA trip plans on the metaphorical shelf.  When I think, “Hey! I could do a summit this weekend,” I’d like to reach up to the shelf, pull one out, and take off.  I might even color code them green/yellow/red for easy/medium/hard, and store them on the shelf in last-activated order from left to right.  So if I’m in the mood for a medium adventure, I’d pull out the left-most yellow, and get a medium summit that I haven’t done recently.</p>
+
+<p>But I’m paperless to the extent possible.  So I’ll do something electronic.  And I’m analytically minded, so I’ll over-think it.</p>
+
+<p>I have three types of info: Static, Public-dynamic, and Private-dynamic.</p>
+
+<ul>
+  <li>Static information includes checklists and reference material.  Static information is tied to me at my current skill level.  It changes very slowly, but it does sometimes change.</li>
+  <li>Public-dynamic information includes things like driving directions to the trailhead.  This information is tied to the trip, and it is information that <strong>anyone</strong> making this trip from my neighborhood would need.  I call it ‘dynamic’ because the info is different for <em>this</em> trip than it was for <em>that</em> trip.</li>
+  <li>Private-dynamic information is stuff that applies to the intersection of <em>me</em> and <em>this</em> trip.  It is stuff that only I will need for this trip.  Things like the crib notes I’ll use to go on-the-air on this summit, including my alert, my CQ call text (which I like to use to get me past the getting-started jitters).</li>
+</ul>
+
+<p>I’ll store content:</p>
+
+<ul>
+  <li>Static content in Circus Ponies Notebook.
+    <ul>
+      <li>It does checklists the way I like.</li>
+      <li>If I publish it, I’ll do File/Export-as-website from Notebook.</li>
+    </ul>
+  </li>
+  <li>Public-dynamic content in .mou (Markdown) files.
+    <ul>
+      <li>After my activation, I’ll paste this into a ‘SOTA Guide: xxx/yy-000, Summit_name, State_name’ story on my blog (or update my existing story, if it is a re-activation).</li>
+      <li>(In addition to publishing/updating the Public-dynamic content, I’ll also publish a ‘SOTA Activation Report: xxx/yy-000 - Summit Name, State_name’ activation report, which is my commentary.  The activation report will include a link to the corresponding guide.</li>
+    </ul>
+  </li>
+  <li>Private-dynamic content in Pages/Numbers (OS X office suite).  This has to go into an office suite because I want a textual document which contains a dynamically calculated table.  One of the pieces of my Private-dynamic content is a timeline, and I want to be able to update the on-the-air time and have it calculate when I have to get up in the morning and when I’ll get home afterward.</li>
+</ul>
+
+<h2 id="sota-trip-packet">SOTA Trip Packet</h2>
+<p>(Numbers are collating guide.)</p>
+
+<ul>
+  <li>Dynamic Sections
+    <ul>
+      <li>Timeline [pvt-dyn] (1.1)</li>
+      <li>Drive Guide [Pub-dyn] (1.2)
+        <ul>
+          <li>Turn-by-turn Directions</li>
+          <li>Duration</li>
+          <li>Food:
+            <ul>
+              <li>McDonalds</li>
+              <li>Dinner</li>
+            </ul>
+          </li>
+          <li>On the way home (scouting)</li>
+        </ul>
+      </li>
+      <li>Trail Guide [Pub-dyn] (1.3)
+        <ul>
+          <li>Navigation instructions</li>
+          <li>GPS track or waypoints</li>
+          <li>Duration</li>
+        </ul>
+      </li>
+      <li>Summit Guide [Pub-dyn] (1.4)
+        <ul>
+          <li>Hang antenna?</li>
+          <li>Guy a mast?</li>
+          <li>Cell coverage</li>
+        </ul>
+      </li>
+      <li>OTA Notes [Pvt-dyn] (2.1)
+        <ul>
+          <li>Alert</li>
+          <li>SMS spot</li>
+          <li>The “call” script</li>
+        </ul>
+      </li>
+      <li>Prior Trips [Special: Public, not-carried] (not printed)
+        <ul>
+          <li>Date I Last Attempted</li>
+          <li>Date I Last Activated</li>
+          <li>Did I First-activate?</li>
+          <li>Commentary</li>
+        </ul>
+      </li>
+      <li>Plan-B Candidate List [Pub-dyn] (1.5)</li>
+    </ul>
+  </li>
+  <li>Static Sections
+    <ul>
+      <li>Checklist: Concept Through Depart Car (3.1)</li>
+      <li>Checklist: At Site Through Return to Car (3.2)</li>
+      <li>Checklist: Afterward At Home (3.3)</li>
+      <li>Reference: Q-codes (3.4)</li>
+      <li>Reference: Frequency List (3.5)</li>
+      <li>Packing List (4.1, not carried)</li>
+      <li>Reference: Kit contents (4.2, not-carried)</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="actions">Actions</h2>
+<ul>
+  <li>print the static</li>
+  <li>pick a date</li>
+  <li>pick a summit</li>
+  <li>plan the drive [if new summit]</li>
+  <li>plan the hike [if new summit]</li>
+  <li>populate doc with picked. (Template if new, update old doc if old.)</li>
+  <li>print dyn-pub dyn-pvt, Google Map, log page</li>
+</ul>
+:ET

@@ -1,0 +1,42 @@
+I"�<p>Here are some notes on planning my route.</p>
+
+<ul>
+  <li>As of July/August 2014, I’m rebuilding my laptop files/programs after some hardware problems, so I’m re-thinking what I store on my computer.
+    <ul>
+      <li>I am not going to install Delorme Topo 10.
+        <ul>
+          <li>It occupies 10GB. It does have some content my other maps don’t have, but much of the additional content is for trails that don’t really exist.  It requires Windows.</li>
+        </ul>
+      </li>
+      <li>For topo quadrangles -  <a href="http://caltopo.com/map.html#ll=35.08725,-83.65303&amp;z=6&amp;b=t">CalTopo</a>
+        <ul>
+          <li>I used to download topo quadrangles from the <a href="http://store.usgs.gov/b2c_usgs/usgs/maplocator/(xcm=r3standardpitrex_prd&amp;layout=6_1_61_48&amp;uiarea=2&amp;ctype=areaDetails&amp;carea=$ROOT)/.do">USGS Map Store</a>.  I’m switching to online use of CalTopo.  I might occasionally download a topo - perhaps a historical edition of a map to see roads that aren’t shown on current maps.  If CalTopo goes offline, I can go back to downloading USGS quads.  For now, I’ll avoid having the local data.  The down-side is that I can’t plan my trips when offline, but that is an infrequent need.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Handheld GPS - Garmin Etrex 30.
+    <ul>
+      <li>Garmin has bigger units. Small is better for extended hikes. This one runs all day on a pair of rechargeable AA.</li>
+      <li>Used with Garmin Basecamp software.</li>
+      <li>Used with Garmin Topo US 100K
+        <ul>
+          <li>I could go with the Southeast 24K series for more detail.  I couldn’t fit everything on the GPS unit.  It might be nice to have higher map detail, but the GPS positioning isn’t <em>that</em> accurate.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Convert Google Maps route (URL) to GPX - <a href="http://www.gpsvisualizer.com/convert_input">GPS Visualizer - Convert Input</a>
+    <ul>
+      <li>If you need step-by-step, see <a href="http://bedsforcyclists.co.uk/articles/2014/04/13/how-to-plan-a-route-in-google-maps-and-export-it-to-gpx-your-phone/">here</a></li>
+      <li><a href="http://www.advrider.com/forums/showthread.php?t=673522">More GPS Visualizer how-to</a></li>
+    </ul>
+  </li>
+  <li>GPS/GPX to Google Maps - <a href="http://www.gpsvisualizer.com/map_input">GPS Visualizer - Make a Map</a> or <a href="http://veloroutes.org/upload/">VeloRoutes</a></li>
+  <li>Convert GPS data file formats (e.g. KML to GPX) - <a href="http://www.gpsbabel.org/capabilities.html">GPS Babel</a></li>
+  <li>Reduce the detail (fewer points) in a GPX file - <a href="http://www.gpsbabel.org/capabilities.html">GPS Babel</a></li>
+  <li>I haven’t tried this, but it looks interesting for finding out who owns private land around a summit: http://www.huntinggpsmaps.com/store/hunt-mobile-apps</li>
+  <li>Collected National Park maps: <a href="http://npmaps.com/">http://npmaps.com/</a></li>
+</ul>
+
+:ET

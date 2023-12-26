@@ -1,0 +1,12 @@
+I"�<p>My KX3 volume is too low.  When I crank up the volume to the max level, it is sometimes barely loud enough to hear.  Here’s what’s been suggested (and I’m working on testing).</p>
+
+<ul>
+  <li>In the AGC menu adjust AGC THR (AGC threshold).</li>
+  <li>Tap the TUNE button.</li>
+  <li>Turn off NR.</li>
+  <li>Check RF gain.  (Did that.  It is at max = 0.  Lower levels are negative.)</li>
+  <li>Turn preamp on.</li>
+  <li>Make sure you don’t have an antenna problem.</li>
+  <li>Swap between headphones and speaker.  (I’ve been using headphones.  The speaker will show me whether it is a problem with headphone sensitivity.)</li>
+</ul>
+:ET

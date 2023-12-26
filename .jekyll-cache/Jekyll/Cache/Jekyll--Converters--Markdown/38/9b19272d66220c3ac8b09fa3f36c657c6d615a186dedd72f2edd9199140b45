@@ -1,0 +1,39 @@
+I"
+<p>I wanted to map my SOTA chasers, to see where my signal reaches.  Google provides a way to do this.  If you don’t have a Google account, you’ll have to get one in order to do this.  Note that this did not work on my Google Apps for Domains account.  I had to use a blah-blah-blah@gmail account.  This description uses the “New Look” for Fusion Tables (as of July 2013).</p>
+
+<p>Be aware that depending on exactly how you format your data and what you name your columns, Google might do some of the following for you.</p>
+
+<ul>
+  <li>Create a spreadsheet with a row for each chaser, and a column for latitude and a column for longitude.  Your lat/lon values must be decimal degrees and not degrees/minutes/seconds.  Make your first row be column labels. I named mine “His_Latitude” and “His_Longitude” (because my source table also has “My_Latitude” and “My_Longitude”).</li>
+  <li>Save your spreadsheet as a .CSV file.</li>
+  <li>Navigate to http://docs.google.com.</li>
+  <li>If you have never used “Fusion Tables” before:
+    <ul>
+      <li>Click the Create button.</li>
+      <li>Click on “Connect more apps.”</li>
+      <li>When it displays a list of apps, enter “Fusion” in the search field and press Enter.</li>
+      <li>Locate Fusion Tables (experimental) and click its “Connect” button.</li>
+      <li>When it asks, make Google Tables the default app for files of this type.</li>
+    </ul>
+  </li>
+  <li>Click the Create button.  If you don’t see Fusion Table as an option, refresh the web page and try again.</li>
+  <li>Click Fusion Table:
+    <ul>
+      <li>Choose From This Computer</li>
+      <li>Browse to, and upload your .CSV file</li>
+      <li>When it asks, tell it that your first row is column names, and press Next</li>
+      <li>When it asks, give it a good name for your table. (I cleverly called mine “Chasers”.)  Press Finish.</li>
+    </ul>
+  </li>
+  <li>Select Edit, then Change Columns:
+    <ul>
+      <li>Select the Latitude column, change the Type value from Number to Location, and select Two Column Location.</li>
+      <li>Underneath Two Column Location, set the value for the Longitude drop-down to your longitude column name.</li>
+      <li>Press Save.</li>
+    </ul>
+  </li>
+  <li>On the line with the File/Edit/Tools menu, you’ll see a red plus sign on the right side.  Click the “+”, and chose “Add Map”.</li>
+</ul>
+
+<p>Done.  <a href="https://www.google.com/fusiontables/DataSource?docid=1PLtAWg7QiN-zvECXXnOuMzKoM9snsMD7kupSit0#map:id=3">Click here to see my result.</a></p>
+:ET

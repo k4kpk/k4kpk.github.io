@@ -1,0 +1,7 @@
+I"<p>Kirchhoff came up with two laws.  They pretty much say the same thing: Everything going out is matched by everything coming in.  No exceptions.</p>
+
+<ul>
+  <li>Kirchhoff’s Voltage law (KVL): The total of voltages leaving <strong>a node</strong> must be matched by the total of voltages entering <strong>the node</strong>.</li>
+  <li>Kirchhoff’s Current law (KCL): The total of currents leaving <strong>a node</strong> must be matched by the total of currents entering <strong>the node</strong>.</li>
+</ul>
+:ET
