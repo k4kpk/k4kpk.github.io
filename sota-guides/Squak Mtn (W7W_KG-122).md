@@ -3,6 +3,17 @@ layout: sota-guide
 ---
 Guide - Squak Mtn - W7W/KG-122
 
+#### Drive Guide - Squak Mountain "Trailhead 2" from Wedgwood, Seattle
+
+* **Duration**: 0:45
+* **Google Maps** 
+    * From Wedgwood to McD to "Trailhead 2" at Sunrise Place: https://tinyurl.com/squak2
+* **Seasonal/Limited Access**: All Seasons
+* **Directions**:
+    * (Omitted. Complex turns. You'll really need to follow GPS)
+* **Food**: 
+    * McDonalds: 3239 156th Ave SE, Bellevue - opens 7 AM-10 PM on weekends
+
 #### Drive Guide - Squak Mountain "Trailhead 3" from SeaTac
 
 * **Duration**: 0:30
@@ -16,9 +27,9 @@ Guide - Squak Mtn - W7W/KG-122
 
 #### Trailheads
 
-* Southeast Crystal Creek Circle, Issaquah, WA - really no parking at all, except in someone's front yard. Avoid this. (OTOH, if you don't mind parking in someone's front yard, it is about 0.3 miles up the trail to its junction with the main trail at 47.5094,-122.0338.  Google maps shows this trail as "Sycamore Access Trail.")
-* Sunrise Place SE, Issaquah, at 47.518, -122.037 - Residential neighborhood with plenty of on-street parking. The street is plenty wide and the residents don't seem to park on it.
-* Downtown Issaquah at 47.5277, -122.0338 - near Issaquah Trail Center. Same as the "Sunrise Place SE" trailhead, except 0.9 miles longer. Do not park in rec center lot, as it has posted max parking duration limits (and they're not entirely obvious).
+1. Southeast Crystal Creek Circle, Issaquah, WA - really no parking at all, except in someone's front yard. Avoid this. (OTOH, if you don't mind parking in someone's front yard, it is about 0.3 miles up the trail to its junction with the main trail at 47.5094,-122.0338.  Google maps shows this trail as "Sycamore Access Trail.")
+2. Sunrise Place SE, Issaquah, at 47.518, -122.037 - Residential neighborhood with plenty of on-street parking. The street is plenty wide and the residents don't seem to park on it.
+3. Downtown Issaquah at 47.5277, -122.0338 - near Issaquah Trail Center. Same as the "Sunrise Place SE" trailhead, except 0.9 miles longer. Do not park in rec center lot, as it has posted max parking duration limits (and they're not entirely obvious).
 
 #### Trail Guide
 
